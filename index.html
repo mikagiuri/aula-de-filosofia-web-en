@@ -74,6 +74,7 @@
         <div class="navmenu">
           <button data-view="disertaciones">Essays</button>
           <button data-view="lecturas">Readings</button>
+          <button data-view="rescritura">Rewriting</button>
           <button data-view="dilemas">Ethical dilemmas</button>
           <button data-view="pistas">Hints</button>
           <button data-view="logica">Logic Corner</button>
@@ -347,6 +348,15 @@
     <div id="logicabox"></div>
   </section>
 
+  <section class="view" id="rescritura">
+    <!-- (09-10) Rescritura: distinguir la rescritura de verdad de la copia, la sinonimia y la malinterpretación
+         (rescritura.js + rescrituraview.js). Solo Bachillerato: la web de ESO no la lleva (build_eso.js). -->
+    <p class="eyebrow">Exercise</p>
+    <h1 class="title">Rewriting: saying it in your own words</h1>
+    <p class="lead">Explaining a text in your own words is not copying it, nor swapping every word for a synonym, nor saying something else. Learn to tell real rewriting apart from those three traps and test yourself with passages from the great philosophers.</p>
+    <div id="rescriturabox"></div>
+  </section>
+
   <section class="view" id="leibniz">
     <!-- (08-10) Taller de Leibniz: de la máquina de calcular al 0 y 1, puente con ingeniería, matemáticas e informática
          (leibniz.js + leibnizview.js). Solo Bachillerato: la web de ESO no la lleva (build_eso.js). -->
@@ -373,6 +383,7 @@
       <h2>Classic texts and translations</h2>
       <ul>
         <li>The other quotations and short readings come from public-domain translations, adapted.</li>
+        <li>Rewriting: the passages from Plato, Aristotle, Epicurus, Hobbes, Descartes, Hume, Rousseau, Kant, Mill and Marx are our own versions based on the originals, which are in the public domain; the four versions of each are our own work.</li>
       </ul>
       <h2>Official documents</h2>
       <ul>
@@ -856,6 +867,8 @@
 <script src="js/logicaview.js"></script>
 <script src="js/leibniz.js"></script>
 <script src="js/leibnizview.js"></script>
+<script src="js/rescritura.js"></script>
+<script src="js/rescrituraview.js"></script>
 <!-- mermaid se carga bajo demanda al abrir Esquemas (js/lazy_libs.js) -->
 <script src="js/esquemas.js"></script>
 <script src="js/esquemas_fil.js"></script>
