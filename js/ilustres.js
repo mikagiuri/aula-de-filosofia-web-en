@@ -180,6 +180,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-metafisica",
+   "fil-presocraticos",
    "fil-grandes-preguntas"
   ]
  },
@@ -208,6 +209,29 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "anaxagoras": {
+  "name": "Anaxagoras of Clazomenae",
+  "dates": "c. 500 – 428 BC",
+  "born": -500,
+  "died": -428,
+  "place": "Clazomenae (Ionia, present-day Turkey)",
+  "role": "Presocratic philosopher",
+  "idea": "Everything is made of infinite seeds mixed together, and an intelligence, the Nous, set in motion the vortex that separated and ordered the cosmos.",
+  "bio": "<p>Anaxagoras was born in Clazomenae, in Ionia, around 500 BC. Around the middle of the 5th century he settled in Athens, where he brought Ionian philosophy, and was a friend and adviser of Pericles. He maintained that the Sun was a red-hot stone, and for this he was accused of impiety; he had to leave Athens and died in Lampsacus around 428 BC. Some fragments of his book <em>On Nature</em> survive.</p>\n<p>He accepted Parmenides’s principle that nothing comes from nothing nor disappears into nothing. So he explained change as the mixing and separation of infinite <strong>seeds</strong> (spermata), later called <strong>homoeomeries</strong>: tiny particles of every quality. In each thing there are portions of all the others, and each thing looks like what it is because of the portion that predominates. Thus bread can turn into flesh and bone because it already contains them. What sets this process in motion is the <strong>Nous</strong>, a mind or intelligence that mixes with nothing and that gave the whole a vortex-like motion that ordered it.</p>\n<p>Anaxagoras is one of the <strong>pluralists</strong>, together with Empedocles and Democritus. With the Nous, an intelligent principle appears for the first time as the cause of the order of the cosmos. According to Plato in the <em>Phaedo</em>, Socrates was enthusiastic about this idea, although he was disappointed to see that Anaxagoras hardly used it and explained almost everything by mechanical causes.</p>",
+  "obras": [
+   "On Nature (fragments)"
+  ],
+  "anecdota": "<p>It is said that Anaxagoras neglected his family’s fortune in order to devote himself to studying nature, and let his lands become pasture for sheep. When someone reproached him for not caring about his homeland, he pointed to the sky and replied: ‘I care a great deal about my homeland’. On another occasion he was asked what was worth being born for, and he answered: ‘To contemplate the heavens and the order of the whole universe’. Aristotle records this last answer as an example of a life devoted to knowledge.</p>",
+  "fuente": "Diogenes Laertius, Lives II; Aristotle, Eudemian Ethics I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-presocraticos"
+  ]
+ },
  "empedocles": {
   "name": "Empedocles of Acragas",
   "dates": "c. 495 – c. 435 BC",
@@ -229,7 +253,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-presocraticos"
   ]
  },
  "zenon_elea": {
@@ -247,7 +272,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-presocraticos"
   ]
  },
  "protagoras": {
@@ -299,6 +325,27 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4"
+  ]
+ },
+ "leucipo": {
+  "name": "Leucippus",
+  "dates": "fl. c. 440 BC",
+  "born": -480,
+  "died": null,
+  "place": "Miletus or Abdera (not known for certain)",
+  "role": "Atomist philosopher",
+  "idea": "Everything is made of indivisible atoms moving in the void, and nothing happens by chance: everything occurs for a reason and by necessity.",
+  "bio": "<p>Leucippus is the founder of <strong>atomism</strong> and the teacher of <strong>Democritus</strong>, but he is such an obscure figure that even in antiquity Epicurus came to doubt that he had existed. We do not know for certain either where he was born or when he died; only that he was active around the middle of the 5th century BC. His works were soon confused with those of Democritus.</p>\n<p>Leucippus answered the Eleatics, who denied motion: he accepted that being neither comes to be nor is destroyed, but divided it into infinite tiny, indivisible particles, the <strong>atoms</strong>, and admitted that there is a <strong>void</strong> through which they move. Everything we see arises from how they join together and separate. Only one sentence of his survives with certainty: ‘nothing happens at random, but everything occurs for a reason and by necessity’, one of the first statements of <strong>determinism</strong>.</p>",
+  "obras": [
+   "The Great World-System (attributed)",
+   "On Intellect"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-presocraticos"
   ]
  },
  "policleto": {
@@ -375,6 +422,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-metafisica",
+   "fil-presocraticos",
    "fil-grandes-preguntas"
   ]
  },
@@ -474,6 +522,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-presocraticos",
    "fil-helenismo"
   ]
  },
@@ -528,6 +577,7 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
+   "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas"
   ]
@@ -577,6 +627,7 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-t5",
+   "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas"
   ]
