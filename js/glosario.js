@@ -937,6 +937,114 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
+  "t": "Proposition",
+  "et": "From the Latin *propositio*, from *proponere*, ‘to put before’.",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "What a sentence that affirms or denies something says, and which can therefore be true or false. ‘Llueve’ and ‘Euria ari du’ are different sentences that express the same proposition. A command or a question is not a proposition."
+ },
+ {
+  "subject": "fil",
+  "t": "Judgement",
+  "et": "From the Latin *iudicium*, ‘decision, sentence’, from *iudex*, ‘judge’.",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "In traditional logic, the act of the mind that affirms or denies something of something. The proposition is what is left thought in that act: a judgement is made by someone at a particular moment; the proposition stays the same whoever thinks it."
+ },
+ {
+  "subject": "fil",
+  "t": "Categorical proposition",
+  "et": "*Categorical*, from the Greek κατηγορικός (*kategorikós*), from κατηγορεῖν (*kategoreîn*), ‘to affirm something of something’.",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "A proposition that relates two classes, a subject (S) and a predicate (P). By quantity (universal or particular) and quality (affirmative or negative) there are four types: A ‘all S are P’, E ‘no S are P’, I ‘some S are P’ and O ‘some S are not P’."
+ },
+ {
+  "subject": "fil",
+  "t": "Square of opposition",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "A traditional diagram that places the propositions A, E, I and O at the corners of a square and shows how they are related: contradictories (A-O, E-I: always opposite values), contraries (A-E: they cannot both be true), subcontraries (I-O: they cannot both be false) and subalterns (I follows from A, and O follows from E). In modern logic only the contradictories remain."
+ },
+ {
+  "subject": "fil",
+  "t": "Existential import",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "A proposition’s taking for granted that what it speaks about exists. For Aristotle, affirmative propositions assume it; for modern logic, universal ones do not: ‘all unicorns have one horn’ is true even though there are no unicorns. That is why syllogisms such as Darapti stop being valid.",
+  "ilustre": [
+   "aristoteles"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Class",
+  "et": "From the Latin *classis*, ‘group, division’ (originally, each of the groups into which Roman citizens were divided).",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "The collection of all the things that have a property: the class of mammals, the class of even numbers. It can be given by extension, listing its members, or by comprehension, stating the property they share. The class with no members is the empty class (∅)."
+ },
+ {
+  "subject": "fil",
+  "t": "Membership and inclusion",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "Two relations that in everyday language are both expressed with ‘is’. Membership (∈) links an individual with a class: ‘Socrates ∈ humans’. Inclusion (⊆) links two classes: ‘humans ⊆ mortals’. Inclusion can be chained; membership cannot.",
+  "ilustre": [
+   "socrates"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Union, intersection and complement",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "The basic operations with classes. The union (A ∪ B) brings together what is in A or in B; the intersection (A ∩ B), what is in both; the complement (Aᶜ), everything that is not in A. They correspond to the connectives ‘or’, ‘and’ and ‘not’."
+ },
+ {
+  "subject": "fil",
+  "t": "De Morgan’s laws",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "Denying a disjunction is equivalent to denying both its parts: ¬(p ∨ q) = ¬p ∧ ¬q (‘neither one nor the other’). Denying a conjunction is equivalent to denying at least one part: ¬(p ∧ q) = ¬p ∨ ¬q. With classes: (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ and (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. They were formulated by Augustus De Morgan in the 19th century.",
+  "ilustre": [
+   "de_morgan"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Euler diagram",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "A drawing that represents each class with a circle placed according to the relation being asserted: one inside another (all), separate (none) or overlapping (some). Leonhard Euler made it popular in his letters of 1761. If we do not know how the classes are arranged, several situations have to be drawn.",
+  "ilustre": [
+   "euler"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Venn diagram",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "A drawing that represents classes with circles that always overlap, so that all the possible regions appear. The empty regions are shaded, and a region that contains at least one thing is marked with ✕. John Venn proposed it in 1880; with three circles it lets you check whether a syllogism is valid.",
+  "ilustre": [
+   "venn"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Russell’s paradox",
+  "et": "*Paradox*, from the Greek παράδοξος (*parádoxos*): παρά (*pará*) ‘against’ + δόξα (*dóxa*) ‘opinion’.",
+  "area": "Logic",
+  "tema": "Philosophy · Topic 4",
+  "def": "Is the class of all classes that are not members of themselves a member of itself? If it is, it is not; if it is not, it is. Bertrand Russell put it to Frege in 1902 and showed that not every property can define a class.",
+  "ilustre": [
+   "frege",
+   "russell"
+  ]
+ },
+ {
+  "subject": "fil",
   "t": "Ontology",
   "et": "From the Greek ὄν, ὄντος (*on, óntos*), ‘that which is’, and λόγος (*lógos*), ‘study’.",
   "area": "Metaphysics",

@@ -1438,6 +1438,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "euler": {
+  "name": "Leonhard Euler",
+  "dates": "1707 – 1783",
+  "born": 1707,
+  "died": 1783,
+  "place": "Basel (Switzerland)",
+  "role": "Swiss mathematician",
+  "idea": "Relations between classes can be seen as relations between circles: one inside another, separate or overlapping.",
+  "bio": "<p>Leonhard Euler was born in Basel and studied with the mathematician Johann Bernoulli. He spent almost his whole life in the service of two academies of sciences: the one in St Petersburg (1727-1741 and again from 1766 until his death) and the one in Berlin (1741-1766). He is one of the most productive mathematicians in history: he wrote on analysis, numbers, mechanics, optics and astronomy. He lost the sight of one eye around 1740 and, after returning to St Petersburg, became almost blind; he kept on working by dictating his calculations.</p>\n<p>For philosophy he matters above all for his <em>Letters to a German Princess</em>, written in Berlin to explain the science of his time to a young pupil and published in three volumes (1768-1772). In the letters devoted to logic (numbers 102 to 108, from 1761) he represented propositions with <strong>circles</strong>: one circle inside another for ‘all’, separate circles for ‘none’, overlapping circles for ‘some’.</p>\n<p>These drawings, <strong>Euler diagrams</strong>, became so popular that they are still used to teach the syllogism. A century later, John Venn transformed them so that they would also work when we do not know how the classes are arranged.</p>",
+  "obras": [
+   "Introduction to the Analysis of the Infinite (1748)",
+   "Letters to a German Princess (1768-1772)"
+  ],
+  "fuente": "J. J. O'Connor and E. F. Robertson, ‘Leonhard Euler’, MacTutor History of Mathematics",
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "lamettrie": {
   "name": "Julien Offray de La Mettrie",
   "dates": "1709 – 1751",
@@ -1840,6 +1862,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "de_morgan": {
+  "name": "Augustus De Morgan",
+  "dates": "1806 – 1871",
+  "born": 1806,
+  "died": 1871,
+  "place": "Madurai (India)",
+  "role": "British mathematician and logician",
+  "idea": "Denying ‘A or B’ is asserting ‘neither A nor B’, and denying ‘A and B’ is asserting ‘not A, or not B’: the laws that bear his name.",
+  "bio": "<p>Augustus De Morgan was born in Madurai, in India, where his father was serving in the British army. He studied at Trinity College, Cambridge, and graduated in 1827 with one of the best results of his year, but he could not stay on at the university: to obtain the higher degree he would have had to pass a religious test, and he refused to take it on principle. In 1828 he became the first professor of mathematics at the new University College London, which did not require such tests. He resigned twice in defence of what he considered just.</p>\n<p>He was one of the great renewers of logic in the 19th century, at the same time as his friend George Boole. In <em>Formal Logic</em> (1847) he studied kinds of reasoning that the classical syllogism could not handle and formulated the laws that now bear his name: the negation of a disjunction is equivalent to the conjunction of the negations, and vice versa.</p>\n<p><strong>De Morgan’s laws</strong> hold equally for propositions, for classes and for electronic circuits. He was also a co-founder and the first president of the London Mathematical Society (1865-1866).</p>",
+  "obras": [
+   "Formal Logic (1847)",
+   "A Budget of Paradoxes (1872, posthumous)"
+  ],
+  "fuente": "J. J. O'Connor and E. F. Robertson, ‘Augustus De Morgan’, MacTutor History of Mathematics",
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "darwin": {
   "name": "Charles Darwin",
   "dates": "1809 – 1882",
@@ -1993,6 +2037,31 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "venn": {
+  "name": "John Venn",
+  "dates": "1834 – 1923",
+  "born": 1834,
+  "died": 1923,
+  "place": "Hull (England)",
+  "role": "British logician and philosopher",
+  "idea": "To check a piece of reasoning, you have to draw all the possible regions and mark which ones are empty.",
+  "bio": "<p>John Venn was born in Hull, into a family of Anglican clergymen, and studied at Gonville and Caius College, Cambridge, where he taught for the rest of his life. He was ordained a priest around 1859, but in 1883 he gave up holy orders because his ideas no longer fitted the doctrine of the Church.</p>\n<p>In <em>The Logic of Chance</em> (1866) he argued that the probability of an event is the frequency with which it occurs in a long series of cases, an idea that is still debated today. In 1880 he published an article in the journal <em>Philosophical Magazine</em> on representing propositions with diagrams, and in 1881 his <em>Symbolic Logic</em>.</p>\n<p><strong>Venn diagrams</strong> improved on Euler’s: the circles are always drawn overlapping, so that all the possible regions appear, and the empty ones are shaded. In this way a single drawing is enough to check whether a syllogism is valid. Today they are used in mathematics, in statistics and in any subject that compares groups.</p>",
+  "obras": [
+   "The Logic of Chance (1866)",
+   "Symbolic Logic (1881)",
+   "The Principles of Empirical or Inductive Logic (1889)"
+  ],
+  "anecdota": "<p>Venn was fond of building machines. One of them bowled cricket balls, and when the Australian team visited Cambridge in 1909, the machine bowled out one of their star players four times. With his son John Archibald he also compiled a list of all known students of the University of Cambridge, whose first part contains some 76,000 names.</p>",
+  "fuente": "J. J. O'Connor and E. F. Robertson, ‘John Venn’, MacTutor History of Mathematics",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
   ]
  },
  "james": {

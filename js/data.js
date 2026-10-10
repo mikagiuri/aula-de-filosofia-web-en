@@ -6977,6 +6977,155 @@ const QUIZZES = {
    }
   ]
  },
+ "fil-venn-q": {
+  "name": "Propositions, classes and Euler and Venn diagrams (Philosophy Year 1 · T4)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Which of these sentences expresses a proposition?",
+    "o": [
+     "Shut the door!",
+     "What time is it?",
+     "If only it would rain tomorrow.",
+     "It is raining in Bilbao today."
+    ],
+    "a": 3,
+    "fb": "Only the last one asserts something that can be true or false. A command, a question or a wish is not a proposition."
+   },
+   {
+    "q": "‘Some athletes are not left-handed’ is a proposition of type…",
+    "o": [
+     "A",
+     "E",
+     "I",
+     "O"
+    ],
+    "a": 3,
+    "fb": "Particular (some) and negative (not): O. The vowels come from affIrmo (A, I) and nEgO (E, O)."
+   },
+   {
+    "q": "‘Not all that glitters is gold’ is equivalent to…",
+    "o": [
+     "Nothing that glitters is gold (E).",
+     "Something that glitters is not gold (O).",
+     "All that glitters is gold (A).",
+     "Something that glitters is gold (I)."
+    ],
+    "a": 1,
+    "fb": "Denying a universal affirmative (A) means asserting its contradictory, O: a single thing that glitters and is not gold is enough."
+   },
+   {
+    "q": "If ‘all the exams in the course are written’ is false, what do we know for certain?",
+    "o": [
+     "That no exam is written.",
+     "That some exam is not written.",
+     "That some exam is written.",
+     "Nothing at all."
+    ],
+    "a": 1,
+    "fb": "A and O are contradictories: if one is false, the other is true. About E we know nothing, because contraries can both be false."
+   },
+   {
+    "q": "Trick case: ‘Some students have passed’. Does it follow logically that some students have not passed?",
+    "o": [
+     "Yes: ‘some’ means ‘not all’.",
+     "No: I is compatible with everyone having passed.",
+     "Yes, by the law of contraries.",
+     "Only if there are students."
+    ],
+    "a": 1,
+    "fb": "In conversation ‘some’ suggests ‘not all’, but logic does not say so: I and O (subcontraries) can both be true, and I is also true if everyone passes."
+   },
+   {
+    "q": "What is the difference between ‘Socrates ∈ humans’ and ‘humans ⊆ mortals’?",
+    "o": [
+     "None: both say ‘is’.",
+     "The first is the membership of an individual in a class; the second, the inclusion of one class in another.",
+     "The first is inclusion and the second membership.",
+     "Both are membership."
+    ],
+    "a": 1,
+    "fb": "Inclusion can be chained (humans ⊆ mortals ⊆ living beings); membership cannot: Socrates is a member of the class of humans, but he is not a species."
+   },
+   {
+    "q": "The union of two classes (A ∪ B) corresponds to the connective…",
+    "o": [
+     "‘and’ (∧)",
+     "‘not’ (¬)",
+     "‘or’ (∨)",
+     "‘if…, then’ (→)"
+    ],
+    "a": 2,
+    "fb": "x ∈ A ∪ B means x ∈ A or x ∈ B. Intersection corresponds to ‘and’, and complement to ‘not’."
+   },
+   {
+    "q": "According to De Morgan’s laws, (A ∪ B)ᶜ is equal to…",
+    "o": [
+     "Aᶜ ∪ Bᶜ",
+     "Aᶜ ∩ Bᶜ",
+     "A ∩ B",
+     "(A ∩ B)ᶜ"
+    ],
+    "a": 1,
+    "fb": "Being outside the union means being outside A and, at the same time, outside B. Confusing it with Aᶜ ∪ Bᶜ is the most common mistake: check it in ‘Set laws’ in the Logic Corner."
+   },
+   {
+    "q": "In a Venn diagram of propositions, a grey region means…",
+    "o": [
+     "That there is at least one.",
+     "That we know nothing.",
+     "That it is empty.",
+     "That it is the conclusion."
+    ],
+    "a": 2,
+    "fb": "Grey = empty; ✕ = there is at least one; white = unknown. (In the drawings of operations, by contrast, the colour marks the resulting region.)"
+   },
+   {
+    "q": "Which drawback of Euler diagrams did Venn solve?",
+    "o": [
+     "Euler could not draw more than two classes.",
+     "With Euler you have to know how the classes are arranged; if you do not, you need several drawings.",
+     "Euler used squares instead of circles.",
+     "Euler’s diagrams were no use for the syllogism."
+    ],
+    "a": 1,
+    "fb": "Between two classes there are five possible situations (Gergonne), and ‘some S are P’ is compatible with four of them. Venn always draws all the regions and marks what we know about each one."
+   },
+   {
+    "q": "Trick case: ‘All unicorns have one horn’. For modern logic, if there are no unicorns at all, this proposition is…",
+    "o": [
+     "False, because there are no unicorns.",
+     "True, because there is no unicorn that makes it false.",
+     "Neither true nor false.",
+     "Contradictory."
+    ],
+    "a": 1,
+    "fb": "A is read as ‘for anything at all, if it is a unicorn, it has one horn’: it does not claim that unicorns exist. Aristotle, on the other hand, assumed that affirmative propositions speak about something that exists."
+   },
+   {
+    "q": "The syllogism Darapti (all M are P; all M are S; therefore some S are P)…",
+    "o": [
+     "Is valid in any logic.",
+     "Is not valid in any logic.",
+     "Is valid for Aristotle, but not for modern logic if there are no M.",
+     "Is valid only if there are no M."
+    ],
+    "a": 2,
+    "fb": "The two universal premises do not put any ✕ in the Venn diagram. You need to add that there is at least one M for the conclusion to appear."
+   },
+   {
+    "q": "What did Russell’s paradox (1901-1902) show?",
+    "o": [
+     "That Aristotle’s logic is incoherent.",
+     "That not every property can define a class.",
+     "That Venn diagrams do not work for three classes.",
+     "That the empty class does not exist."
+    ],
+    "a": 1,
+    "fb": "The class of all classes that do not contain themselves contains itself if and only if it does not. Russell wrote to Frege about it in 1902; the way out was to fix with axioms which collections are sets."
+   }
+  ]
+ },
  "fil-t4-repaso": {
   "name": "Logic and argumentation (Philosophy Year 1 · T4 · review)",
   "subject": "fil",
