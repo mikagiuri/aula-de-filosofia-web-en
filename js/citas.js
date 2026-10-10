@@ -168,6 +168,22 @@ const CITAS = [
   "img": "media/retratos/museo2/ockham.jpg"
  },
  {
+  "c": "And I saw as it were a mirror of the living light, in which a shining clarity flowed over every creature.",
+  "a": "Hildegard of Bingen",
+  "o": "paraphrase not located in Scivias; the ‘living light’ comes from her letter to Guibert of Gembloux (1175)",
+  "e": "medieval",
+  "id": "hildegarda",
+  "img": "media/retratos/ilustres/hildegarda.jpg"
+ },
+ {
+  "c": "Revelation must be understood according to human capacity, resorting to metaphors and symbols to express the ineffable.",
+  "a": "Maimonides",
+  "o": "paraphrase of the principle ‘the Torah speaks in the language of men’, Guide for the Perplexed I, 26",
+  "e": "medieval",
+  "id": "maimonides",
+  "img": "media/retratos/museo2/maimonides.jpg"
+ },
+ {
   "c": "What, then, is time? If no one asks me, I know; if I want to explain it to someone who asks, I do not know.",
   "a": "Saint Augustine",
   "o": "Confessions XI, 14, 17",
