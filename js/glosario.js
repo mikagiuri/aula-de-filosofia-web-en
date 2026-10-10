@@ -14,7 +14,11 @@ const GLOSARIO = [
   "et": "The Greeks called it θαυμάζειν (*thaumázein*), ‘to wonder’: for Plato and Aristotle, this is where philosophy begins. The Spanish *asombrar* (‘to astonish’) comes from *sombra* (‘shadow’): originally ‘to cast a shadow over, to frighten’.",
   "area": "Method",
   "tema": "Philosophy · Topic 1",
-  "def": "The ability to be struck by what seems obvious to everyone else. For Plato and Aristotle, it is the origin of philosophy."
+  "def": "The ability to be struck by what seems obvious to everyone else. For Plato and Aristotle, it is the origin of philosophy.",
+  "ilustre": [
+   "platon",
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -46,7 +50,10 @@ const GLOSARIO = [
   "et": "From the Greek ἀρχή (*arkhé*), ‘principle, origin’ and also ‘rule’. Hence *archaeology* and *monarchy*.",
   "area": "Metaphysics",
   "tema": "Philosophy · Topic 1",
-  "def": "The original principle or element from which everything comes. Thales of Miletus identified it with water."
+  "def": "The original principle or element from which everything comes. Thales of Miletus identified it with water.",
+  "ilustre": [
+   "tales"
+  ]
  },
  {
   "subject": "fil",
@@ -157,7 +164,10 @@ const GLOSARIO = [
   "et": "From the Latin: ‘dare to know’. It is a line from Horace that Kant turned into the motto of the Enlightenment.",
   "area": "Method",
   "tema": "Philosophy · Topic 1",
-  "def": "‘Dare to know’: Kant’s watchword; have the courage to use your own reason."
+  "def": "‘Dare to know’: Kant’s watchword; have the courage to use your own reason.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -165,7 +175,10 @@ const GLOSARIO = [
   "et": "From the Latin *evolvere*, ‘to unroll’, as a book in the form of a scroll was unrolled.",
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
-  "def": "The process by which species change over time; Darwin explained it through natural selection and common descent."
+  "def": "The process by which species change over time; Darwin explained it through natural selection and common descent.",
+  "ilustre": [
+   "darwin"
+  ]
  },
  {
   "subject": "fil",
@@ -197,7 +210,10 @@ const GLOSARIO = [
   "et": "From the Latin *cultura*, from *colere*, ‘to cultivate’: Cicero called philosophy *cultura animi*, ‘cultivation of the soul’.",
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
-  "def": "The whole of knowledge, beliefs, art, morals, law, customs and habits acquired as a member of a society (Tylor)."
+  "def": "The whole of knowledge, beliefs, art, morals, law, customs and habits acquired as a member of a society (Tylor).",
+  "ilustre": [
+   "tylor"
+  ]
  },
  {
   "subject": "fil",
@@ -269,7 +285,10 @@ const GLOSARIO = [
   "et": "From the Latin: ‘thinking thing’ and ‘extended thing’, which occupies space.",
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
-  "def": "In Descartes: the ‘thinking thing’ (the mind) and the ‘extended thing’ (the body, matter)."
+  "def": "In Descartes: the ‘thinking thing’ (the mind) and the ‘extended thing’ (the body, matter).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -293,7 +312,10 @@ const GLOSARIO = [
   "et": "It translates the Greek ζῷον πολιτικόν (*zôon politikón*), ‘animal of the *pólis*’, from Aristotle.",
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
-  "def": "A trait that Aristotle adds: we need to live in community in order to develop and be fully human."
+  "def": "A trait that Aristotle adds: we need to live in community in order to develop and be fully human.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -309,7 +331,10 @@ const GLOSARIO = [
   "et": "From the Latin *dignitas*, from *dignus*, ‘worthy’.",
   "area": "Ethics",
   "tema": "Philosophy · Topic 2",
-  "def": "The absolute value of the person, which makes them an end in themselves and never a mere means (Kant)."
+  "def": "The absolute value of the person, which makes them an end in themselves and never a mere means (Kant).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -357,7 +382,10 @@ const GLOSARIO = [
   "et": "From the Latin *circumstantia*: *circum* ‘around’ + *stare* ‘to stand’: what stands around me.",
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
-  "def": "The concrete surroundings (age, body, society) with which the self is made: ‘I am myself and my circumstance’ (Ortega)."
+  "def": "The concrete surroundings (age, body, society) with which the self is made: ‘I am myself and my circumstance’ (Ortega).",
+  "ilustre": [
+   "ortega"
+  ]
  },
  {
   "subject": "fil",
@@ -421,7 +449,11 @@ const GLOSARIO = [
   "et": "From the Greek ἐμπειρία (*empeiría*), ‘experience’, from πεῖρα (*peîra*), ‘trial, attempt’.",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
-  "def": "The current that asserts that all knowledge comes from sensory experience (Locke, Hume)."
+  "def": "The current that asserts that all knowledge comes from sensory experience (Locke, Hume).",
+  "ilustre": [
+   "locke",
+   "hume"
+  ]
  },
  {
   "subject": "fil",
@@ -429,7 +461,10 @@ const GLOSARIO = [
   "et": "From the Latin *ratio*, ‘reason’, which first meant ‘calculation, account’.",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
-  "def": "The current that trusts above all in reason as the source of knowledge (Descartes)."
+  "def": "The current that trusts above all in reason as the source of knowledge (Descartes).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -437,7 +472,10 @@ const GLOSARIO = [
   "et": "From the Greek κρίνειν (*krínein*), ‘to separate, to judge, to decide’. Criticism separates what reason can know from what it cannot.",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
-  "def": "Kant’s synthesis (apriorism): knowledge arises from experience, but orders it with a priori structures of the subject."
+  "def": "Kant’s synthesis (apriorism): knowledge arises from experience, but orders it with a priori structures of the subject.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -453,7 +491,10 @@ const GLOSARIO = [
   "et": "From the Greek φαινόμενον (*phainómenon*), ‘that which appears’, and νοούμενον (*nooúmenon*), ‘that which is thought’.",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
-  "def": "In Kant: the phenomenon is what appears to us (the knowable); the noumenon is the thing in itself (unknowable)."
+  "def": "In Kant: the phenomenon is what appears to us (the knowable); the noumenon is the thing in itself (unknowable).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -517,7 +558,10 @@ const GLOSARIO = [
   "et": "From the Latin *evidentia*, from *videre*, ‘to see’: what is seen clearly.",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
-  "def": "The state in which a truth presents itself clearly and distinctly, beyond any possible doubt (Descartes)."
+  "def": "The state in which a truth presents itself clearly and distinctly, beyond any possible doubt (Descartes).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -627,7 +671,10 @@ const GLOSARIO = [
   "et": "From the Greek εὐδαιμονία (*eudaimonía*): εὖ (*eû*) ‘well’ + δαίμων (*daímon*) ‘spirit, divinity’: ‘having a good spirit’, being happy.",
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
-  "def": "An ethics that identifies the good with happiness (Aristotle)."
+  "def": "An ethics that identifies the good with happiness (Aristotle).",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -643,7 +690,10 @@ const GLOSARIO = [
   "et": "From the Latin *virtus*, ‘courage, strength’, from *vir*, ‘man’. It translates the Greek ἀρετή (*areté*).",
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
-  "def": "In Aristotle, the habit of choosing the mean between two extremes; excellence of character."
+  "def": "In Aristotle, the habit of choosing the mean between two extremes; excellence of character.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -651,7 +701,10 @@ const GLOSARIO = [
   "et": "The Spanish *deber* (‘duty’) comes from the Latin *debere* (*de-* + *habere*, ‘to have’): to have something received from another and to be obliged to return it.",
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
-  "def": "An ethics (deontology) that judges an action by its conformity with duty, not by its consequences (Kant)."
+  "def": "An ethics (deontology) that judges an action by its conformity with duty, not by its consequences (Kant).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -659,7 +712,10 @@ const GLOSARIO = [
   "et": "*Imperative*, from the Latin *imperare*, ‘to command’. *Categorical*, from the Greek κατηγορικός (*kategorikós*), ‘that asserts without conditions’.",
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
-  "def": "Kant’s unconditional command: act only according to the maxim that you can will to become a universal law."
+  "def": "Kant’s unconditional command: act only according to the maxim that you can will to become a universal law.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -722,7 +778,10 @@ const GLOSARIO = [
   "et": "*Aesthetic*, from the Greek αἴσθησις (*aísthesis*), ‘sensation, perception’.",
   "area": "Aesthetics",
   "tema": "Philosophy · Topic 7",
-  "def": "The judgement with which we value something as beautiful or ugly; for Kant it is subjective but aspires to universal validity."
+  "def": "The judgement with which we value something as beautiful or ugly; for Kant it is subjective but aspires to universal validity.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -890,7 +949,10 @@ const GLOSARIO = [
   "et": "From the Latin *apparere*, ‘to show oneself, to appear’.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "What things seem to be, as opposed to what they really are. For Parmenides, the change and multiplicity we see are mere appearance."
+  "def": "What things seem to be, as opposed to what they really are. For Parmenides, the change and multiplicity we see are mere appearance.",
+  "ilustre": [
+   "parmenides"
+  ]
  },
  {
   "subject": "fil",
@@ -906,7 +968,10 @@ const GLOSARIO = [
   "et": "From the Latin *accidere* (*ad-* + *cadere* ‘to fall’): ‘what falls upon’ something, what happens to it without being essential.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "For Aristotle, a quality that exists only in a substance and can change, such as colour, size or place."
+  "def": "For Aristotle, a quality that exists only in a substance and can change, such as colour, size or place.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -937,7 +1002,10 @@ const GLOSARIO = [
   "t": "Turing test",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "A test proposed by Alan Turing in 1950: if, conversing in writing, we cannot tell a machine from a person, we would have no grounds for denying it intelligence."
+  "def": "A test proposed by Alan Turing in 1950: if, conversing in writing, we cannot tell a machine from a person, we would have no grounds for denying it intelligence.",
+  "ilustre": [
+   "turing"
+  ]
  },
  {
   "subject": "fil",
@@ -952,7 +1020,10 @@ const GLOSARIO = [
   "et": "*Problem*, from the Greek πρόβλημα (*próblema*), ‘that which is put before, obstacle’.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "An expression of David Chalmers (1995): explaining why subjective experience exists, what it feels like to see red."
+  "def": "An expression of David Chalmers (1995): explaining why subjective experience exists, what it feels like to see red.",
+  "ilustre": [
+   "chalmers"
+  ]
  },
  {
   "subject": "fil",
@@ -984,7 +1055,11 @@ const GLOSARIO = [
   "et": "*Compatible*, from the Latin *compati*, ‘to suffer together’: what can coexist with something else.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "The position of Hobbes and Hume: freedom and determinism can go together, because being free is not acting without causes, but acting according to one’s own desires and reasons, without coercion."
+  "def": "The position of Hobbes and Hume: freedom and determinism can go together, because being free is not acting without causes, but acting according to one’s own desires and reasons, without coercion.",
+  "ilustre": [
+   "hobbes",
+   "hume"
+  ]
  },
  {
   "subject": "fil",
@@ -992,7 +1067,10 @@ const GLOSARIO = [
   "et": "*Cosmological*, from the Greek κόσμος (*kósmos*), ‘order, world’.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "Reasoning that starts from the world: the chain of movers and causes cannot go on without end, so it requires a first mover, a first cause, a necessary being (the five ways of Thomas Aquinas)."
+  "def": "Reasoning that starts from the world: the chain of movers and causes cannot go on without end, so it requires a first mover, a first cause, a necessary being (the five ways of Thomas Aquinas).",
+  "ilustre": [
+   "tomas"
+  ]
  },
  {
   "subject": "fil",
@@ -1000,7 +1078,11 @@ const GLOSARIO = [
   "et": "*Design*, from the Italian *disegno*, ‘drawing, plan’, from the Latin *designare*, ‘to mark out, to trace’.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "Teleological reasoning: the order of nature, like that of a watch, requires a designer (Paley). It was criticised by Hume and, with natural selection, by Darwin."
+  "def": "Teleological reasoning: the order of nature, like that of a watch, requires a designer (Paley). It was criticised by Hume and, with natural selection, by Darwin.",
+  "ilustre": [
+   "hume",
+   "darwin"
+  ]
  },
  {
   "subject": "fil",
@@ -1016,7 +1098,10 @@ const GLOSARIO = [
   "et": "From the Greek θεός (*theós*) ‘god’ + δίκη (*díke*) ‘justice’: the word was coined by Leibniz, as the title of his 1710 book.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "The name Leibniz gave (1710) to the believer’s answers to the problem of evil; one of the best known holds that evil is the price of human freedom."
+  "def": "The name Leibniz gave (1710) to the believer’s answers to the problem of evil; one of the best known holds that evil is the price of human freedom.",
+  "ilustre": [
+   "leibniz"
+  ]
  },
  {
   "subject": "fil",
