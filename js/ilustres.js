@@ -702,6 +702,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
+   "fil-t6",
    "fil-t7",
    "fil-grandes-preguntas"
   ]
@@ -1046,6 +1047,29 @@ const ILUSTRES = {
    "fil-t3"
   ]
  },
+ "harvey": {
+  "name": "William Harvey",
+  "dates": "1578 – 1657",
+  "born": 1578,
+  "died": 1657,
+  "place": "Folkestone (England)",
+  "role": "physician and physiologist",
+  "idea": "Blood circulates continuously through the body, driven by the heart, which acts as a pump, and observation and experiment demonstrate this.",
+  "bio": "<p>William Harvey was born in England, studied at Cambridge and trained as a physician at the University of Padua, then one of the great centres of European medicine. Back in London, he worked at St Bartholomew’s Hospital and was physician to Kings James I and Charles I.</p>\n<p>In 1628 he published his discovery of the <strong>circulation of the blood</strong>: the heart works as a pump that drives the blood, which travels round the body in a closed circuit. He demonstrated it with dissections, experiments and calculations, against the traditional medicine inherited from Galen. He appears in the syllabus as part of the <strong>scientific revolution</strong> of Descartes’s time; Descartes knew his work and used it in his view of the body as a <strong>machine</strong>, although he disagreed with Harvey about the cause of the heart’s movement.</p>",
+  "obras": [
+   "On the Motion of the Heart and Blood in Animals (1628)"
+  ],
+  "anecdota": "<p>John Aubrey tells that, at the battle of Edgehill (1642), the first of the English Civil War, Harvey was in charge of King Charles I’s children. To protect them he withdrew with them beside a hedge and, while fighting went on all around, took a book from his pocket and began to read calmly. He moved only when a cannonball fell too close. The anecdote, perhaps exaggerated, portrays the researcher absorbed in study even in the midst of chaos.</p>",
+  "fuente": "John Aubrey, Brief Lives",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
+  ]
+ },
  "hobbes": {
   "name": "Thomas Hobbes",
   "dates": "1588 – 1679",
@@ -1284,7 +1308,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-marxismos"
   ]
  },
  "leibniz": {
@@ -1682,8 +1707,59 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-t6",
    "fil-t7",
    "fil-grandes-preguntas"
+  ]
+ },
+ "thompson": {
+  "name": "William Thompson",
+  "dates": "1775 – 1833",
+  "born": 1775,
+  "died": 1833,
+  "place": "Cork (Ireland)",
+  "role": "Irish economist and socialist thinker",
+  "idea": "Whoever works has a right to everything they produce; the wealth that owners keep without working is an injustice.",
+  "bio": "<p>William Thompson was born in Cork, in Ireland, in 1775, into a wealthy merchant family. When his father died he inherited a merchant fleet and some land in the west of County Cork, where he lived among his tenants, whose education and farming methods he tried to improve. He was a friend of Jeremy Bentham, in whose London house he lived for a time. He never married. He died in Rosscarbery, near Cork, in 1833.</p>\n<p>Thompson started out as a utilitarian, but came to the conclusion that the greatest happiness of the greatest number was impossible as long as workers did not receive the <strong>whole product of their labour</strong>. He analysed how the owners of capital appropriate part of what others produce, and proposed replacing competition with <strong>cooperative communities</strong>. With his friend Anna Wheeler he wrote a plea for <strong>women’s political rights</strong>, against James Mill, who wanted to keep the vote for men. He is one of the English socialist economists whom Marx read and quoted in <em>The Poverty of Philosophy</em> (1847) and in <em>Capital</em>.</p>",
+  "obras": [
+   "An Inquiry into the Principles of the Distribution of Wealth (1824)",
+   "Appeal of One Half the Human Race, Women, Against the Pretensions of the Other Half, Men (1825)",
+   "Labour Rewarded (1827)"
+  ],
+  "anecdota": "<p>Thompson wanted his death to serve his ideas too. In his will he left most of his fortune to the cooperative movement and asked for his body to be given to science. A nephew, however, buried him with a Christian funeral, which scandalised those who knew him as an atheist, and his remains had to be dug up so that his wishes could be carried out. His brothers and sisters contested the will, claiming that he was mad. The lawsuit lasted some twenty-five years and the legal costs swallowed up the inheritance: neither the family nor the cooperatives received anything.</p>",
+  "fuente": "Thompson’s will and the subsequent lawsuit; local press in Cork",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
+  ]
+ },
+ "feuerbach": {
+  "name": "Ludwig Feuerbach",
+  "dates": "1804 – 1872",
+  "born": 1804,
+  "died": 1872,
+  "place": "Landshut (Bavaria)",
+  "role": "German materialist philosopher",
+  "idea": "God is nothing more than the projection of idealised human qualities; by worshipping Him, the human being becomes alienated and separated from his own essence.",
+  "bio": "<p>Ludwig Feuerbach was born in Bavaria and studied theology and then philosophy in Berlin, where he was a student of Hegel. He belonged to the so-called Young Hegelians or Left Hegelians. His ideas on religion closed off a university career to him, and he lived most of his life in seclusion, devoted to writing.</p>\n<p>In <em>The Essence of Christianity</em> he holds that religion is a <strong>projection</strong>: the human being attributes to God his own qualities (goodness, wisdom, love) and, in doing so, impoverishes himself. It is a form of <strong>alienation</strong>. Against Hegel’s idealism, he defends a <strong>materialism</strong> centred on the concrete, sensuous human being. He appears in the syllabus because he decisively influenced the young Marx, who took from him the idea of alienation and criticised it in his <em>Theses on Feuerbach</em>.</p>",
+  "obras": [
+   "The Essence of Christianity (1841)",
+   "Provisional Theses for the Reform of Philosophy (1842)",
+   "Principles of the Philosophy of the Future (1843)"
+  ],
+  "anecdota": "<p>In 1850, Feuerbach wrote a review of a popular book on nutrition by the physiologist Jacob Moleschott. In it he left a phrase that would become famous thanks to a German pun: <em>Der Mensch ist, was er isst</em>, ‘man is what he eats’ (in German, ‘ist’ and ‘isst’ sound almost the same). With that serious joke he summed up his materialism: the human being is not a disembodied spirit, but a concrete, sensuous being dependent on his material conditions. His critics saw in it a vulgarisation; he saw a defence of the body against idealism.</p>",
+  "fuente": "Feuerbach, review of Moleschott’s work on nutrition (1850)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "mill": {
@@ -1790,7 +1866,9 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t5",
-   "fil-grandes-preguntas"
+   "fil-t6",
+   "fil-grandes-preguntas",
+   "fil-marxismos"
   ]
  },
  "mendel": {
@@ -1813,7 +1891,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-marxismos"
   ]
  },
  "wallace": {
@@ -1997,6 +2076,32 @@ const ILUSTRES = {
    "fil-t4"
   ]
  },
+ "unamuno": {
+  "name": "Miguel de Unamuno",
+  "dates": "1864 – 1936",
+  "born": 1864,
+  "died": 1936,
+  "place": "Bilbao",
+  "role": "philosopher, novelist and poet",
+  "idea": "The human being of flesh and blood lives in agony, in permanent struggle between reason, which denies immortality, and the heart, which longs for it.",
+  "bio": "<p>Miguel de Unamuno was born in Bilbao and studied Philosophy and Letters in Madrid. From 1891 he was professor of Greek at the University of Salamanca, of which he became rector. He is one of the great figures of the Generation of ’98. For his criticisms of the dictatorship of Primo de Rivera he was banished to Fuerteventura in 1924 and then lived in exile in France until 1930. In 1936 he publicly confronted the rebels in Salamanca; he was dismissed and died soon afterwards, under house arrest.</p>\n<p>Unamuno represents a <strong>Christian existentialism</strong>. He is interested in the ‘man of flesh and bone’, the concrete individual, not abstractions. In <em>The Tragic Sense of Life</em> he describes the human being as a being in <strong>agony</strong>, a word he uses in its Greek sense of struggle: reason tells him there is no immortality, but the heart desires it with all its strength. From this unresolved conflict is born the <strong>tragic sense of life</strong>. His faith is not a calm certainty, but a faith that doubts. Against Descartes’s ‘I think, therefore I am’, he places feeling and will at the centre of the human being.</p>\n<p>He also expressed his thought in novels such as <em>Mist</em> and <em>Saint Manuel Bueno, Martyr</em>. He is regarded as a precursor of 20th-century existentialism, with affinities with Kierkegaard, and is, together with Ortega y Gasset and María Zambrano, one of the main voices of contemporary Spanish philosophy.</p>",
+  "obras": [
+   "The Tragic Sense of Life (1913)",
+   "Mist (1914)",
+   "The Agony of Christianity (1925)",
+   "Saint Manuel Bueno, Martyr (1931)"
+  ],
+  "anecdota": "<p>Unamuno had an unexpected hobby: making paper birds. He folded them at social gatherings, in cafés and at home, and took them so seriously that he invented a discipline, <strong>cocotology</strong>, to which he devoted a mock treatise at the end of his novel <em>Love and Pedagogy</em> (1902). With false scientific solemnity he classified and analysed the paper birds as if they were animal species. It was a way of laughing at the pedantry of those who believe everything can be reduced to a system, something very characteristic of a thinker who distrusted abstractions.</p>",
+  "fuente": "Unamuno, Love and Pedagogy (1902), ‘Notes for a Treatise on Cocotology’",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "weber": {
   "name": "Max Weber",
   "dates": "1864 – 1920",
@@ -2020,7 +2125,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-marxismos"
   ]
  },
  "curie": {
@@ -2142,7 +2248,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-t6"
   ]
  },
  "duchamp": {
@@ -2245,7 +2352,33 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-marxismos"
+  ]
+ },
+ "horkheimer": {
+  "name": "Max Horkheimer",
+  "dates": "1895 – 1973",
+  "born": 1895,
+  "died": 1973,
+  "place": "Stuttgart (Germany)",
+  "role": "German philosopher and sociologist",
+  "idea": "Enlightenment reason has degraded into instrumental reason, which calculates the most effective means without asking about ends, and has thus become an instrument of domination.",
+  "bio": "<p>Max Horkheimer was born in Stuttgart in 1895, into a Jewish family of industrialists. He studied philosophy and psychology and in 1930 became director of the Institute for Social Research in Frankfurt, the core of the so-called <strong>Frankfurt School</strong>. With Hitler’s rise to power, the Institute went into exile, first to Geneva and then to New York, linked to Columbia University. In 1949 Horkheimer returned to Frankfurt, where he reopened the Institute and became rector of the university.</p>\n<p>Horkheimer defined <strong>critical theory</strong>: a philosophy that does not limit itself to describing society, but seeks to unmask domination and contribute to emancipation. Together with Adorno he wrote <em>Dialectic of Enlightenment</em> (1944), in which they argue that Enlightenment reason, born to free human beings from myths, has ended up becoming an instrument of domination. This is <strong>instrumental reason</strong>: a rationality that only calculates the most effective means and refuses to ask whether the ends are just. Technology, the economy and the <strong>culture industry</strong> thus extend control to the whole of social life.</p>\n<p>His work extended Marx’s critique beyond the economy, towards culture and the very idea of reason. It influenced Habermas, who renewed critical theory from the standpoint of communicative action, and the student movements of the 1960s, although he kept his distance from them. He died in Nuremberg in 1973.</p>",
+  "obras": [
+   "Traditional and Critical Theory (1937)",
+   "Dialectic of Enlightenment (1944, with Adorno)",
+   "Eclipse of Reason (1947)"
+  ],
+  "anecdota": "<p>The Marxist philosopher Georg Lukács aimed at Horkheimer, Adorno and their Frankfurt colleagues a jibe that became famous. In 1962 he wrote that they had taken up residence in the ‘Grand Hotel Abyss’: a luxurious hotel, with every comfort, perched on the edge of the precipice, from which they contemplated the catastrophe of the world amid good meals and works of art. Lukács reproached them for criticising society without committing themselves to political action. The joke sums up a fundamental debate about <strong>critical theory</strong>: whether thinking critically is enough or whether reality needs to be transformed.</p>",
+  "fuente": "Lukács, 1962 preface to The Theory of the Novel",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
   ]
  },
  "gadamer": {
@@ -2342,7 +2475,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-marxismos"
   ]
  },
  "zambrano": {
@@ -2368,7 +2502,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t1"
+   "fil-t1",
+   "fil-t6"
   ]
  },
  "sartre": {
@@ -2397,7 +2532,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-marxismos"
   ]
  },
  "arendt": {
@@ -2710,7 +2846,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-t6"
+   "fil-t6",
+   "fil-marxismos"
   ]
  },
  "baudrillard": {
