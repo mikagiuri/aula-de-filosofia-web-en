@@ -399,7 +399,8 @@ const ILUSTRES = {
    "fil-t7",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "democrito": {
@@ -500,7 +501,8 @@ const ILUSTRES = {
    "fil-t7",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "diogenes": {
@@ -579,7 +581,8 @@ const ILUSTRES = {
    "fil-t7",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "pirron": {
@@ -629,7 +632,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "zenon": {
@@ -776,7 +780,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-comunidades-perseguidos"
   ]
  },
  "avicena": {
@@ -895,7 +900,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "maimonides": {
@@ -917,6 +923,28 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-grandes-preguntas"
+  ]
+ },
+ "roger_bacon": {
+  "name": "Roger Bacon",
+  "dates": "c. 1220 – c. 1292",
+  "born": 1220,
+  "died": 1292,
+  "place": "Ilchester (England)",
+  "role": "Franciscan philosopher and scientist",
+  "idea": "Without experience nothing can be known with certainty: science needs to test its claims and rely on mathematics.",
+  "bio": "<p>Roger Bacon studied and taught at Oxford and in Paris, and entered the Franciscan order. Around 1267 he wrote, at the request of Pope Clement IV, his <em>Opus Maius</em>, a proposal for reforming all the knowledge of his time. His admirers called him ‘Doctor Mirabilis’. He should not be confused with Francis Bacon, who lived three and a half centuries later.</p>\n<p>Bacon criticised the scholars of his time for relying too much on authorities. He pointed to four causes of error: following an unreliable <strong>authority</strong>, <strong>custom</strong>, the <strong>opinion of the majority</strong> and concealing one’s own ignorance by pretending to know. Against them he defended <strong>experimental science</strong> and mathematics. He studied optics, the refraction of light and lenses, and imagined machines that seemed like fantasy, such as ships without oarsmen or carts without animals. A later tradition says that his order imprisoned him for his ideas, but there is no sure evidence of this.</p>",
+  "obras": [
+   "Opus Maius",
+   "Opus Minus",
+   "Opus Tertium"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "tomas": {
@@ -993,6 +1021,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t3",
    "fil-t4",
    "fil-t5",
    "fil-grandes-preguntas"
@@ -1073,6 +1102,76 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "calvino": {
+  "name": "John Calvin",
+  "dates": "1509 – 1564",
+  "born": 1509,
+  "died": 1564,
+  "place": "Noyon (Picardy, France)",
+  "role": "Protestant theologian and reformer",
+  "idea": "God, the absolute sovereign, has predestined from eternity who will be saved, and the believer must live with discipline and responsibility according to His word.",
+  "bio": "<p>John Calvin was born in Noyon, in northern France, in 1509. He studied theology and law in Paris, Orléans and Bourges, and adopted the ideas of the Reformation around 1533. Persecuted in France, he fled to Switzerland. From 1541 he directed the religious and moral life of Geneva, which he turned into a great centre of Protestantism, until his death in 1564.</p>\n<p>Calvin developed a second great branch of the Reformation. He stressed the absolute sovereignty of God and the doctrine of <strong>predestination</strong>: God has decided in advance who will be saved. Like Luther, he emphasised <strong>individual conscience</strong> and the authority of the Bible. He appears in the syllabus because the Reformation broke the intellectual unity of the Church and forms part of the context of modern philosophy.</p>",
+  "obras": [
+   "Institutes of the Christian Religion (1536)"
+  ],
+  "anecdota": "<p>In 1536, Calvin only planned to spend one night in Geneva, on his way to Strasbourg, where he wanted to devote himself quietly to study. But the preacher Guillaume Farel, who was trying to establish the Reformation there, heard of it and went to find him. When Calvin refused to stay, Farel solemnly warned him that God would curse his retirement and his studies if he abandoned that task. Calvin, by his own account, was so overwhelmed that he gave up his journey. Geneva would never again be separated from his name.</p>",
+  "fuente": "Calvin, preface to the Commentary on the Psalms",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "giordano_bruno": {
+  "name": "Giordano Bruno",
+  "dates": "1548 – 1600",
+  "born": 1548,
+  "died": 1600,
+  "place": "Nola (near Naples, Italy)",
+  "role": "philosopher and cosmologist",
+  "idea": "The universe is infinite and full of infinite worlds; every star is a sun with its own planets.",
+  "bio": "<p>Giordano Bruno was a Dominican friar, but left the order accused of heresy and travelled through Europe for years: Geneva, Toulouse, Paris, London, Wittenberg, Prague… Everywhere he taught and debated, and in many places he ended up in conflict with the authorities, Catholic or Protestant. In 1592 he was denounced in Venice and handed over to the Roman Inquisition. After a trial of almost eight years, he refused to recant and was burned alive in Rome, in the Campo de’ Fiori, in 1600.</p>\n<p>Bruno accepted the theory of <strong>Copernicus</strong>, according to which the Earth revolves around the Sun, and went much further: the universe is <strong>infinite</strong>, has no centre, and the stars are suns surrounded by other worlds, perhaps inhabited. God is not outside the world, but present in all of nature. He was condemned above all for denying Christian dogmas, not only for his cosmology, but his figure became a symbol of freedom of thought: in 1889 a statue was raised to him on the spot where he died.</p>",
+  "obras": [
+   "On the Infinite Universe and Worlds",
+   "The Ash Wednesday Supper",
+   "On Cause, Principle and Unity"
+  ],
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "francis_bacon": {
+  "name": "Francis Bacon",
+  "dates": "1561 – 1626",
+  "born": 1561,
+  "died": 1626,
+  "place": "London (England)",
+  "role": "philosopher, jurist and politician",
+  "idea": "Knowledge is power: science must start from the observation of nature and advance by induction, free from the prejudices of the mind.",
+  "bio": "<p>Francis Bacon was a lawyer and politician, and became Lord Chancellor under King James I, until in 1621 he was accused of accepting bribes and removed from his offices. He then devoted his last years to philosophy. He should not be confused with Roger Bacon, the medieval Franciscan.</p>\n<p>In his <em>Novum Organum</em> (‘new instrument’), whose title answers Aristotle’s <em>Organon</em>, he proposes a new method for science: observe many cases, compare them and gradually arrive at general laws, that is, <strong>induction</strong>. First one must free oneself from the <strong>idols</strong>, the errors that distort our knowledge: those of the tribe (belonging to human nature), of the cave (of each individual), of the marketplace (of language) and of the theatre (of inherited theories). For Bacon, the purpose of knowledge is to improve human life: ‘knowledge is power’. In <em>The New Atlantis</em> he imagined a society organised around scientific research.</p>",
+  "obras": [
+   "Novum Organum",
+   "Essays",
+   "The New Atlantis"
+  ],
+  "anecdota": "<p>According to John Aubrey, on a snowy day in 1626 Bacon wanted to test whether cold preserved meat. He stopped his carriage, bought a hen, had it killed and stuffed it with snow himself. He caught such a chill that he fell ill and died a few days later. The story fits his defence of experiment too well, and historians doubt that it happened exactly like this.</p>",
+  "fuente": "John Aubrey, Brief Lives",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "galileo": {
   "name": "Galileo Galilei",
   "dates": "1564 – 1642",
@@ -1090,6 +1189,32 @@ const ILUSTRES = {
   "anecdota": "<p>According to his pupil and biographer Vincenzo Viviani, a Galileo of barely nineteen was watching a lamp swinging from the ceiling of Pisa cathedral. Using his pulse as a clock, he found that each swing lasted the same time, whether the sway was wide or small. In this way he is said to have discovered the isochronism of the pendulum. The story may well be embellished, but it shows what would make him a pioneer: measuring everyday phenomena instead of trusting authorities.</p>",
   "fuente": "Vincenzo Viviani, Historical Account of the Life of Galileo",
   "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "kepler": {
+  "name": "Johannes Kepler",
+  "dates": "1571 – 1630",
+  "born": 1571,
+  "died": 1630,
+  "place": "Weil der Stadt (Germany)",
+  "role": "astronomer and mathematician",
+  "idea": "The planets do not move in perfect circles, but in elliptical orbits with the Sun at one of the foci, following precise mathematical laws.",
+  "bio": "<p>Johannes Kepler was born in southern Germany, studied theology and mathematics at Tübingen and was a convinced Copernican from his youth. In Prague he worked as an assistant to the Danish astronomer Tycho Brahe and, on his death, inherited his precise observations of the planets. He was imperial mathematician and lived through the religious conflicts of the Thirty Years’ War.</p>\n<p>From Brahe’s data, Kepler formulated the three <strong>laws of planetary motion</strong>. The most famous states that the planets describe <strong>elliptical orbits</strong>, and not the perfect circles that tradition believed in. He appears in the syllabus as one of the protagonists of the <strong>scientific revolution</strong>, which replaced Aristotle’s cosmology with a universe governed by mathematical laws. His laws were later explained by Newton’s gravitation.</p>",
+  "obras": [
+   "The Cosmographic Mystery (1596)",
+   "New Astronomy (1609)",
+   "The Harmony of the World (1619)"
+  ],
+  "anecdota": "<p>In July 1595, while teaching in Graz, Kepler was drawing the conjunctions of Jupiter and Saturn on the board. As he drew triangles inside a circle, he saw another inner circle appear, and it struck him that the proportion between the two recalled that of the orbits of those planets. From there he leapt to a bold idea: the distances of the planets could be explained by fitting the five regular solids inside one another. The theory was false, but that faith in a mathematical order guided him to his laws.</p>",
+  "fuente": "Kepler, The Cosmographic Mystery (Mysterium cosmographicum), preface",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "fil"
@@ -1251,6 +1376,31 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "pascal": {
+  "name": "Blaise Pascal",
+  "dates": "1623 – 1662",
+  "born": 1623,
+  "died": 1662,
+  "place": "Clermont (Auvergne, France)",
+  "role": "mathematician, physicist and philosopher",
+  "idea": "Reason is powerful but limited: the human being is a thinking reed, both fragile and great, and ‘the heart has its reasons which reason does not know’.",
+  "bio": "<p>Blaise Pascal was a child prodigy educated at home by his father, a magistrate with a keen interest in science. At 16 he wrote a treatise on conic sections, and at 19 he invented a calculating machine, the <strong>Pascaline</strong>, to help his father with his tax accounts. He carried out decisive experiments on the vacuum and air pressure (in 1648 his brother-in-law, following his instructions, measured how the mercury fell as he climbed the Puy de Dôme) and, in letters with Fermat, laid the foundations of the calculus of <strong>probability</strong>.</p>\n<p>In November 1654 he had an intense religious experience and drew close to the Jansenists of the abbey of Port-Royal, a strict Catholic movement. In their defence he wrote the <em>Provincial Letters</em>, satirical letters against the Jesuits. He died aged 39, after a long illness, leaving thousands of notes for a defence of Christianity which were published as the <em>Pensées</em>. In them he presents the human being between two infinities, a ‘thinking reed’ capable of knowing that it is mortal; he argues that there are truths known by the <strong>heart</strong>, and he sets out the famous <strong>wager</strong>: if God exists, whoever believes wins everything, and if he does not exist, they lose almost nothing. He is one of the great critics of Descartes’ rationalism.</p>",
+  "obras": [
+   "New Experiments Concerning the Vacuum (1647)",
+   "Provincial Letters (1656-1657)",
+   "Pensées (posthumous, 1670)"
+  ],
+  "anecdota": "<p>After his death, a servant noticed a lump in the lining of Pascal’s doublet. On unpicking it he found a folded piece of paper and, inside it, a parchment copy of the same text: a page dated the night of 23 November 1654, ‘from about half past ten until about half past twelve’, which begins with the word ‘Fire’. It is the account of his religious experience that night. Pascal had carried it sewn into his clothes for eight years, moving it from one garment to another, without speaking of it to anyone. Today it is known as the <em>Memorial</em>.</p>",
+  "fuente": "Pascal’s Memorial (1654), kept at the National Library of France",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "spinoza": {
   "name": "Baruch Spinoza",
   "dates": "1632 – 1677",
@@ -1282,7 +1432,8 @@ const ILUSTRES = {
    "fil-t3",
    "fil-metafisica",
    "fil-spinoza-sistema",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "locke": {
@@ -1387,7 +1538,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-t4"
   ]
  },
  "berkeley": {
@@ -1859,7 +2011,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t5",
-   "fil-t6"
+   "fil-t6",
+   "fil-comunidades-perseguidos"
   ]
  },
  "de_morgan": {
@@ -1909,6 +2062,32 @@ const ILUSTRES = {
    "fil-t2",
    "fil-metafisica",
    "fil-t4"
+  ]
+ },
+ "kierkegaard": {
+  "name": "Søren Kierkegaard",
+  "dates": "1813 – 1855",
+  "born": 1813,
+  "died": 1855,
+  "place": "Copenhagen (Denmark)",
+  "role": "Danish philosopher and theologian, forerunner of existentialism",
+  "idea": "The truth that matters is not that of systems, but the one you live: each individual has to choose themselves, and that choice is made in anxiety.",
+  "bio": "<p>Søren Kierkegaard was the youngest son of a rich and very religious merchant, from whom he inherited a tormented faith and a fortune that allowed him to devote himself to writing. He studied theology in Copenhagen. In 1840 he became engaged to Regine Olsen, but a year later he broke off the engagement, convinced that he could not make her happy; that decision stayed with him all his life and runs through many of his works. He published many books under <strong>pseudonyms</strong>, each with a different point of view, to force the reader to decide for themselves. He died aged 42, in the middle of a bitter dispute with the official Danish Church, which he accused of having turned Christianity into a comfortable habit.</p>\n<p>Kierkegaard reacts against Hegel’s great system, which claimed to explain everything: there is no room in it for the concrete <strong>individual</strong> who has to decide how to live. He describes three <strong>stages</strong> of existence: the aesthetic, which lives for pleasure and novelty; the ethical, which takes on commitments and duties; and the religious, which makes the leap of faith without guarantees, like Abraham ready to sacrifice his son. <strong>Anxiety</strong> is the dizziness of freedom in the face of possibilities, and despair is not wanting to be oneself. That is why he is regarded as the forerunner of 20th-century existentialism.</p>",
+  "obras": [
+   "Either/Or (1843)",
+   "Fear and Trembling (1843)",
+   "The Concept of Anxiety (1844)",
+   "The Sickness unto Death (1849)"
+  ],
+  "anecdota": "<p>In 1846 Kierkegaard criticised <em>The Corsair</em>, a satirical magazine in Copenhagen, and the magazine took its revenge with a campaign of caricatures. They drew him thin, hunched and, above all, with one trouser leg longer than the other. The caricatures became so popular that children shouted at him in the street and people pointed at him as he walked by. Kierkegaard, who enjoyed walking around the city and chatting with everyone, experienced it as a humiliation that left him even more alone.</p>",
+  "fuente": "The Corsair (1846); Kierkegaard’s journals",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "boole": {

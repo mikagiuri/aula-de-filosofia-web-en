@@ -1225,7 +1225,10 @@ const GLOSARIO = [
   "et": "From the Latin *fides*, ‘faith, trust’.",
   "area": "Metaphysics",
   "tema": "Philosophy · M",
-  "def": "The position that God is reached through faith and not through reason, so that arguments are not the way; Kierkegaard is usually cited."
+  "def": "The position that God is reached through faith and not through reason, so that arguments are not the way; Kierkegaard is usually cited.",
+  "ilustre": [
+   "kierkegaard"
+  ]
  }
 ];
 const GLOSARIO_TRAMPAS = {
