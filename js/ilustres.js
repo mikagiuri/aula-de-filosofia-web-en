@@ -2680,6 +2680,33 @@ const ILUSTRES = {
    "fil-marxismos"
   ]
  },
+ "marcuse": {
+  "name": "Herbert Marcuse",
+  "dates": "1898 – 1979",
+  "born": 1898,
+  "died": 1979,
+  "place": "Berlin (Germany)",
+  "role": "Frankfurt School philosopher",
+  "idea": "Advanced industrial society creates false needs and makes us feel free while integrating us into the system, so that we lose the ability to imagine another way of living.",
+  "bio": "<p>Herbert Marcuse was born into a Jewish family in Berlin. He studied with Husserl and Heidegger in Freiburg and joined the Institute for Social Research in Frankfurt. When the Nazis came to power he went into exile in the United States in 1934, where during the war he worked for the American intelligence services analysing Nazi Germany. Afterwards he taught at several universities, the last of them in California.</p>\n<p>In <em>Eros and Civilization</em> (1955) he brings together Marx and Freud: society represses desires more than is necessary to maintain work and order. In <em>One-Dimensional Man</em> (1964) he argues that consumer society creates <strong>false needs</strong> and absorbs even protest, so that people no longer imagine alternatives. His essay on <strong>repressive tolerance</strong> (1965) argued that, in unequal societies, a tolerance that treats all ideas equally favours the powerful. His ideas inspired part of the 1968 student movement, but they also drew serious criticism: many liberals saw in that thesis a justification for denying a voice to those who think differently, and other left-wing thinkers criticised him for being too pessimistic or too abstract. It is a debate about the limits of tolerance that is still open.</p>",
+  "obras": [
+   "Reason and Revolution (1941)",
+   "Eros and Civilization (1955)",
+   "One-Dimensional Man (1964)",
+   "‘Repressive Tolerance’ (1965)"
+  ],
+  "anecdota": "<p>In the student protests of 1968, in Europe and the United States, some demonstrators chanted and painted on walls the ‘three Ms’: Marx, Mao and Marcuse. The 70-year-old professor was surprised to find himself turned into a symbol, and he did not always recognise himself in what was said in his name. Among his students in California was Angela Davis, who would become a well-known activist.</p>",
+  "fuente": "Press reports from 1968; interviews with Marcuse",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
+  ]
+ },
  "gadamer": {
   "name": "Hans-Georg Gadamer",
   "dates": "1900 – 2002",
