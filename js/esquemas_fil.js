@@ -885,7 +885,7 @@ const ESQUEMAS_FIL = {
  "FIL-TA-01": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Philosophy · Argumentation workshop",
+  "tema": "Philosophy · Topic 4",
   "title": "The argument: validity and truth",
   "mermaid": "flowchart TD\n  arg[\"THE ARGUMENT\"]:::axis\n  prem[\"premises\"]:::key\n  conc[\"conclusion\"]:::key\n  tipos[\"types\"]:::key\n  ded[\"deductive: the conclusion follows with necessity\"]\n  ind[\"inductive: the conclusion is only probable\"]\n  eval[\"evaluation\"]:::key\n  val[\"validity: the form is correct\"]\n  ver[\"truth: the premises are true\"]\n  sol[\"sound: valid + true premises\"]:::key\n  arg --> prem\n  prem -->|\"support the\"| conc\n  arg --> tipos\n  tipos --> ded\n  tipos --> ind\n  arg --> eval\n  eval --> val\n  eval --> ver\n  val -->|\"together give\"| sol\n  ver -->|\"together give\"| sol\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
@@ -972,7 +972,7 @@ const ESQUEMAS_FIL = {
  "FIL-TA-02": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Philosophy · Argumentation workshop",
+  "tema": "Philosophy · Topic 4",
   "title": "Fallacies",
   "mermaid": "flowchart TD\n  fal[\"FALLACIES\"]:::axis\n  def[\"arguments that seem valid but are not\"]\n  formal[\"formal: a flaw in the logical structure\"]:::key\n  inf[\"informal: a flaw in the content or the language\"]:::key\n  ah[\"ad hominem: attacking the person\"]\n  ap[\"ad populum: appealing to the majority\"]\n  aver[\"ad verecundiam: appealing to authority\"]\n  fc[\"false cause: mistaking correlation for cause\"]\n  hp[\"straw man: distorting the opposing thesis\"]\n  fal --> def\n  fal --> formal\n  fal --> inf\n  inf --> ah\n  inf --> ap\n  inf --> aver\n  inf --> fc\n  inf --> hp\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
