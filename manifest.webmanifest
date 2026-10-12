@@ -1,8 +1,8 @@
 {
   "name": "Philosophy · Year 1 of Bachillerato",
   "short_name": "Philosophy 1st Bach.",
-  "description": "El taller de filosofía en una página: teoría, materiales, esquemas, tarjetas, mapas y juegos.",
-  "lang": "es",
+  "description": "The philosophy workshop on one page: theory, resources, outlines, cards, maps and games.",
+  "lang": "en",
   "dir": "ltr",
   "start_url": "./",
   "scope": "./",
