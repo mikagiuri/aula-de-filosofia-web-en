@@ -70,7 +70,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "17th century",
+   "epoca": "Siglo XVII",
    "texto": "‘I shall suppose, then, that not a supremely good God, the source of truth, but a certain evil demon, extremely powerful and cunning, has employed all his energies in deceiving me.’",
    "fuente": "Descartes, Meditations on First Philosophy, I (1641). The modern ‘brain in a vat’ case was formulated by Hilary Putnam in 1981.",
    "unidad": "fil-t3"
@@ -120,7 +120,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "17th century",
+   "epoca": "Siglo XVII",
    "texto": "‘The human understanding is of its own nature prone to suppose the existence of more order and regularity in the world than it finds.’",
    "fuente": "Francis Bacon, Novum Organum, aphorism 45 (1620).",
    "unidad": "fil-t3"
@@ -170,7 +170,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "Antiquity and 17th century",
+   "epoca": "Antigüedad y siglo XVII",
    "texto": "‘Plutarch tells that the Athenians preserved the ship of Theseus by replacing the rotten planks with new ones, so that the ship became an example for philosophers: some said it was still the same, others that it was not.’",
    "fuente": "Plutarch, Life of Theseus, 23. Locke reformulates the problem in the Essay Concerning Human Understanding, II, 27 (1690).",
    "unidad": "fil-t2"
@@ -221,7 +221,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "18th century (Enlightenment)",
+   "epoca": "Siglo XVIII (Ilustración)",
    "texto": "‘Man can only become man by education. He is merely what education makes of him.’",
    "fuente": "Kant, Lectures on Pedagogy (1803). The real case is that of Victor of Aveyron, educated by Dr Itard from 1800; Truffaut brought it to the screen in The Wild Child (1970).",
    "unidad": "fil-t2"
@@ -273,7 +273,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "20th century",
+   "epoca": "Siglo XX",
    "texto": "‘What else can matter to us, other than how our lives feel from the inside?’ Nozick’s answer: it matters to us to do certain things, to be a certain way and to be in contact with a deeper reality than the one we fabricate.",
    "fuente": "Robert Nozick, Anarchy, State, and Utopia (1974), against hedonism and utilitarianism.",
    "unidad": "fil-t5"
@@ -325,7 +325,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "20th century",
+   "epoca": "Siglo XX",
    "texto": "‘Act in such a way that you treat humanity, whether in your own person or in the person of any other, always as an end and never merely as a means.’",
    "fuente": "Kant, Groundwork of the Metaphysics of Morals (1785). The dilemma was formulated by Philippa Foot in 1967; the bridge variant was put forward by Judith Jarvis Thomson in 1976, and in 1985 she gave the ‘trolley problem’ its name.",
    "unidad": "fil-t5"
@@ -377,7 +377,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "4th–5th and 18th centuries",
+   "epoca": "Siglos IV-V y XVIII",
    "texto": "‘A lie is a false statement made with the will to deceive. […] Whoever thinks there is some lie that is not a sin deceives himself in the worst way.’",
    "fuente": "Augustine of Hippo, On Lying (395). Kant takes up the thesis in On a Supposed Right to Lie from Philanthropy (1797).",
    "unidad": "fil-t5"
@@ -428,7 +428,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "4th century BC",
+   "epoca": "Siglo IV a. C.",
    "texto": "‘If there were two such rings, and the just person put on one and the unjust person the other, no one would be so made of iron as to stay on the path of justice. […] No one is just willingly, but only under compulsion.’",
    "fuente": "Plato, Republic, II, 359d–360d.",
    "unidad": "fil-t5"
@@ -478,7 +478,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "20th century",
+   "epoca": "Siglo XX",
    "texto": "‘The principles of justice are chosen behind a veil of ignorance. This ensures that no one is advantaged or disadvantaged in the choice of principles by the outcome of natural chance or the contingency of social circumstances.’",
    "fuente": "John Rawls, A Theory of Justice (1971), §3. Nozick replies in Anarchy, State, and Utopia (1974).",
    "unidad": "fil-t6"
@@ -530,7 +530,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "4th century BC",
+   "epoca": "Siglo IV a. C.",
    "texto": "‘Imagine a ship whose owner is bigger and stronger than all the crew, but a little deaf, short-sighted, and with little knowledge of seamanship, and sailors quarrelling over the helm without ever having learned the art of navigation.’",
    "fuente": "Plato, Republic, VI, 488a–489a (the allegory of the ship). Aristotle replies in Politics, III, 11.",
    "unidad": "fil-t6"
@@ -580,7 +580,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "20th century",
+   "epoca": "Siglo XX",
    "texto": "‘Even the most perfect reproduction of a work of art is lacking in one element: its presence in time and space, its unique existence at the place where it happens to be.’",
    "fuente": "Walter Benjamin, The Work of Art in the Age of Mechanical Reproduction (1936). The most famous real case is that of Han van Meegeren, who sold fake ‘Vermeers’ between 1937 and 1945.",
    "unidad": "fil-t7"
@@ -630,7 +630,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "17th and 20th centuries",
+   "epoca": "Siglos XVII y XX",
    "texto": "‘As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.’",
    "fuente": "Locke, An Essay Concerning Human Understanding, II, 27, 9 (chapter added in the 2nd edition, 1694). The case of fission was made famous by Derek Parfit (‘Personal Identity’, 1971; Reasons and Persons, 1984).",
    "unidad": "fil-t2"
@@ -682,7 +682,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "18th century (Enlightenment)",
+   "epoca": "Siglo XVIII (Ilustración)",
    "texto": "‘Have the courage to use your own understanding! This is the motto of the Enlightenment.’",
    "fuente": "Kant, An Answer to the Question: What Is Enlightenment? (1784). The rule of accepting nothing without evidence is the first of Descartes’s Discourse on Method (1637).",
    "unidad": "fil-t3"
@@ -734,7 +734,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "4th century BC and 13th century",
+   "epoca": "Siglo IV a. C. y siglo XIII",
    "texto": "‘Being is said in many ways, but in relation to one thing and one nature.’",
    "fuente": "Aristotle, Metaphysics, IV, 2, 1003a33. Centuries later, Thomas Aquinas distinguished between the essence of a thing and its existence in On Being and Essence (c. 1252–1256).",
    "unidad": "fil-metafisica"
@@ -785,7 +785,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "18th and 20th centuries",
+   "epoca": "Siglo XVIII y siglo XX",
    "texto": "‘Act only according to that maxim whereby you can at the same time will that it should become a universal law.’",
    "fuente": "Kant, Groundwork of the Metaphysics of Morals (1785). Lawrence Kohlberg used a case like this, Heinz’s dilemma, from his doctoral thesis (1958) to study how we reason; Carol Gilligan replied to him in 1982 in In a Different Voice.",
    "unidad": "fil-t5"
