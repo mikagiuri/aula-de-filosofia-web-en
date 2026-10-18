@@ -2476,6 +2476,33 @@ const ILUSTRES = {
    "fil-t3"
   ]
  },
+ "luxemburgo": {
+  "name": "Rosa Luxemburg",
+  "dates": "1871 – 1919",
+  "born": 1871,
+  "died": 1919,
+  "place": "Zamość (Poland)",
+  "role": "Marxist thinker and revolutionary",
+  "idea": "Socialism and democracy are inseparable: she criticised both the reformism that gives up on transforming society and the rule of a single party, and trusted in the spontaneous initiative of the workers.",
+  "bio": "<p>Rosa Luxemburg was born in 1871 in Zamość, a town in the part of Poland that then belonged to the Russian Empire, into a Jewish family. She went to study in Switzerland and took a doctorate in political science (law and economics) at the University of Zurich in 1897, with a thesis on the industrial development of Poland. She then settled in Germany, where she joined the Social Democratic Party (SPD) and became one of its leading theorists. She firmly opposed the First World War and spent much of it in prison for her agitation against the war. Together with Karl Liebknecht she founded the Spartacus League and, in the last days of 1918, the Communist Party of Germany. In January 1919, during the Spartacist uprising in Berlin, she was arrested and murdered by Freikorps soldiers.</p>\n<p>Luxemburg was a <strong>Marxist</strong> thinker, but she never understood Marxism as a closed system. In <em>Reform or Revolution?</em> (1899) she argued with Eduard Bernstein, who proposed improving capitalism bit by bit instead of transforming it; she maintained that reforms are not enough, without giving up day-to-day action because of it. She trusted more in the <strong>mass strike</strong>, the collective and spontaneous action of the workers, than in control by a party directed from above. That is why, although she welcomed the Russian Revolution of 1917, she soon criticised Lenin and Trotsky for suppressing the elected assembly and the other parties: for her, <strong>socialism and democracy</strong> could not be separated. She appears in the History of Philosophy syllabus, in the critique of capitalism after Marx, alongside Lenin and Clara Zetkin, as evidence that within Marxism there was an open debate about the relationship between revolution, freedom and democracy.</p>",
+  "obras": [
+   "Reform or Revolution? (1899)",
+   "The Mass Strike, the Party and the Trade Unions (1906)",
+   "The Accumulation of Capital (1913)",
+   "The Russian Revolution (written in 1918)"
+  ],
+  "anecdota": "<p>In December 1917, imprisoned in Breslau jail, Rosa Luxemburg wrote to her friend Sophie Liebknecht a letter about some buffaloes brought from Romania as war booty and forced to haul heavy loads. She told how a soldier beat one of the animals with the handle of his whip until it bled, and how the buffalo's gaze, defenceless, made her weep. In that scene she saw reflected the suffering of war and of the oppressed. The letter is part of her prison correspondence and is one of the best-known pages of her private life.</p>",
+  "fuente": "Rosa Luxemburg, letter to Sophie Liebknecht from Breslau prison (mid-December 1917), collected in her Letters from Prison",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
+  ]
+ },
  "russell": {
   "name": "Bertrand Russell",
   "dates": "1872 – 1970",
@@ -2500,6 +2527,32 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-t4"
+  ]
+ },
+ "kollontai": {
+  "name": "Alexandra Kollontai",
+  "dates": "1872 – 1952",
+  "born": 1872,
+  "died": 1952,
+  "place": "Saint Petersburg (Russian Empire)",
+  "role": "Soviet revolutionary and diplomat",
+  "idea": "She brought together socialism and the emancipation of women: legal equality is not enough if domestic work, the family and love relationships do not change.",
+  "bio": "<p>Alexandra Mikhailovna Kollontai was born in 1872 in Saint Petersburg, into a Russian aristocratic family, but she broke early with that milieu to devote herself to socialist activism. She studied economics in Zurich and, after years of exile around Europe, joined the Bolsheviks. After the revolution of 1917 she was appointed People's Commissar for Social Welfare, in one of the first governments in the world to include a woman. In the following decades she was also one of the first women to represent her country as head of a diplomatic mission, in Norway, Mexico and Sweden. She died in Moscow in 1952.</p>\n<p>Kollontai brought together <strong>socialism</strong> and the <strong>emancipation of women</strong>: she held that the vote and equality before the law are not enough if domestic work, the family and love relationships do not change. She advocated socialising household tasks and the care of children, and reflected on a <strong>new morality</strong> of love, freed from economic dependence. Within the party itself she led the <strong>Workers' Opposition</strong>, which criticised the bureaucratisation of Soviet power. She appears in the syllabus among those who extended and debated Marxism, and her work remains a reference point for socialist feminisms, in a debate still open about the relationship between economic equality and personal freedom.</p>",
+  "obras": [
+   "The Social Basis of the Woman Question (1909)",
+   "The New Morality and the Working Class (1918)",
+   "The Workers' Opposition (1921)",
+   "Make Way for Winged Eros! (1923)"
+  ],
+  "anecdota": "<p>In 1923 the Soviet government sent her to Norway at the head of its diplomatic mission, and shortly afterwards she was officially accredited: she was one of the first women in the world to represent her country as head of a legation. She remained in the diplomatic service for almost twenty years, mainly in Sweden. There, her health already much weakened after a stroke that forced her to use a wheelchair, she took part in 1944 in the contacts that helped to bring an end to the war between Finland and the Soviet Union.</p>",
+  "fuente": "Cathy Porter, Alexandra Kollontai. A Biography (Virago, 1980)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
   ]
  },
  "scheler": {
@@ -2650,6 +2703,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "gramsci": {
+  "name": "Antonio Gramsci",
+  "dates": "1891 – 1937",
+  "born": 1891,
+  "died": 1937,
+  "place": "Ales (Italy)",
+  "role": "Italian Marxist thinker and politician",
+  "idea": "A class does not dominate by force alone but through hegemony: the consent it obtains through culture (school, the press, religion). That is why politics is also played out on the terrain of ideas and common sense.",
+  "bio": "<p>Antonio Gramsci was born in 1891 in Ales, a village in Sardinia (Italy), into a modest and large family. Of frail health from childhood, he won a scholarship and studied linguistics at the University of Turin, though he left his degree to devote himself to journalism and politics. In Turin, a city of large factories, he drew close to the workers' movement, wrote in the socialist press and in 1919 founded the journal <em>The New Order</em> (<em>L'Ordine Nuovo</em>). In 1921 he was one of the founders of the Communist Party of Italy and in 1924 he was elected a deputy. Mussolini's Fascist regime arrested him in 1926, despite his parliamentary immunity, and sentenced him to more than twenty years in prison. Ill and never recovered, he died in Rome in 1937, a few days after being formally released.</p>\n<p>In prison he wrote his <em>Prison Notebooks</em>, thousands of pages of notes that he could not publish in his lifetime. His best-known idea is that of <strong>hegemony</strong>: a social class does not stay in power only by coercion but also through the consent it wins when it manages to make its view of the world pass for the <strong>common sense</strong> of the whole of society, through school, the press, religion or culture. To explain that cultural work he spoke of <strong>organic intellectuals</strong>, people whom each social group produces to give shape to its ideas. Gramsci is a central figure of so-called Western Marxism, which shifted attention from the economy towards culture and consciousness. He appears in the syllabus within that block, and his concept of hegemony is used today in debates of very different political stripes, which keeps him alive and disputed.</p>",
+  "obras": [
+   "The Southern Question (1926)",
+   "Letters from Prison (written 1926-1937)",
+   "Prison Notebooks (written 1929-1935)"
+  ],
+  "anecdota": "<p>At the trial held in Rome in 1928, the prosecutor demanded a very harsh sentence with a phrase that has become famous: that brain had to be stopped from working for twenty years. The court sentenced Gramsci to twenty years, four months and five days in prison. The regime wanted to silence his ideas, but it was precisely in prison that he wrote the <em>Notebooks</em> that would make him known throughout the world.</p>",
+  "fuente": "Giuseppe Fiori, Life of Antonio Gramsci (1966); records of the 1928 trial",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
   ]
  },
  "benjamin": {
