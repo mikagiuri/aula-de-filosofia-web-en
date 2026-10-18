@@ -1590,6 +1590,30 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "voltaire": {
+  "name": "Voltaire",
+  "dates": "1694 – 1778",
+  "born": 1694,
+  "died": 1778,
+  "place": "Paris (France)",
+  "role": "writer and Enlightenment philosopher",
+  "idea": "Reason must combat fanaticism and superstition; religious tolerance and freedom of expression are conditions of a civilised society.",
+  "bio": "<p>François-Marie Arouet, known as Voltaire, was born in Paris into a bourgeois family and was educated by the Jesuits. His satirical writings twice took him to the Bastille and into exile in England, where he admired political freedom, Newton’s physics and Locke’s philosophy. He spent his last years in Ferney, near Geneva, and was the most celebrated writer of the Enlightenment.</p>\n<p>Voltaire appears in the syllabus as a defender of <strong>religious tolerance</strong> against <strong>fanaticism</strong>. He intervened in cases of injustice such as that of the Protestant merchant Jean Calas, executed in 1762, and ironically criticised the intolerance of the Church. In <em>Candide</em> he mocked Leibniz’s optimism. However, like most Enlightenment thinkers, he did not extend equality to women.</p>",
+  "obras": [
+   "Philosophical Letters (1734)",
+   "Candide (1759)",
+   "Treatise on Tolerance (1763)",
+   "Philosophical Dictionary (1764)"
+  ],
+  "anecdota": "<p>In 1729, the mathematician La Condamine discovered a flaw in a lottery organised by the French government: the prizes exceeded the cost of buying all the tickets. Voltaire joined him and other partners, they bought tickets in bulk for months and won a fortune. With that money, wisely invested afterwards, Voltaire became rich and independent. He needed neither patrons nor pensions, and that financial independence allowed him to write with a freedom that few authors of his time could afford.</p>",
+  "fuente": "Biographies of Voltaire, based on testimonies of the period",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": []
+ },
  "euler": {
   "name": "Leonhard Euler",
   "dates": "1707 – 1783",
