@@ -287,5 +287,128 @@ const CINE = [
    "Classify Joe’s desires according to Epicurus (natural and necessary, natural but not necessary, neither natural nor necessary). What would a Stoic say about the gig?"
   ],
   "trampa": "Confusing Epicureanism with ‘enjoy the moment’: Epicurus asks us to calculate pleasures and prefers serenity (ataraxia) to intensity."
+ },
+ {
+  "tema": "fil-t5",
+  "kind": "film",
+  "t": "After the Dark",
+  "year": 2013,
+  "autor": "John Huddles",
+  "q": "Ten people in a bunker and places for only some: who deserves to survive and, above all, who decides?",
+  "esc": "The teacher sets up the game: after a nuclear apocalypse there is a bunker with limited places; each student is given a profession and together they must decide whom to leave out. In a second round, the teacher himself slips into the bunker and changes the rules.",
+  "pregs": [
+   "By what criterion do they choose whom to save: the usefulness of their trade, their qualities, a lottery? Defend one criterion and say whom you leave out.",
+   "The teacher rigs the game to win. Does that invalidate the exercise, or does it teach something about who sets the rules of a dilemma? Argue your case.",
+   "Is a person worth what they contribute to the group (a utilitarian criterion) or worth something in themselves (dignity, Kant)? Apply both answers to the sharing-out of the bunker."
+  ],
+  "trampa": "Believing that the dilemma ‘proves’ which life is worth more: the game is rigged by the one who hands out the roles and changes the rules. The film teaches you to mistrust whoever poses the dilemma, not to solve it.",
+  "aviso": "Violence in the simulations."
+ },
+ {
+  "tema": "fil-t6",
+  "kind": "film",
+  "t": "Good Bye, Lenin!",
+  "year": 2003,
+  "autor": "Wolfgang Becker",
+  "q": "A son pretends the GDR is still alive so as not to kill his mother with the shock: truth, white lie and ideology.",
+  "esc": "The mother, a committed communist, wakes from a coma not knowing that the Wall has fallen (November 1989). The doctor warns that another shock would kill her, and Alex rebuilds in the flat a GDR that no longer exists: products, news and even an invented television bulletin.",
+  "pregs": [
+   "Is Alex justified in lying to his mother to protect her? How far? Set the limit and give your reasons.",
+   "The GDR that Alex recreates is kinder than the real one. Is he lying only about the facts, or also idealising a system? Is remembering with nostalgia the same as defending?",
+   "Was the GDR above all a State that cared (healthcare, jobs, equality) or above all a State that watched and repressed (Stasi, the Wall, lack of freedoms)? Gather arguments from both sides, without giving a closed verdict."
+  ],
+  "trampa": "Keeping only to ‘Ostalgie’ (the fond nostalgia for the GDR) or only to its total rejection, as if a single reading would do: the film plays with both and does not close the debate. Confusing fondness for a period of one's own life with the political assessment of a regime is a leap worth watching out for."
+ },
+ {
+  "tema": "fil-t4",
+  "kind": "film",
+  "t": "Contra",
+  "year": 2021,
+  "autor": "Sönke Wortmann",
+  "q": "A cynical teacher trains a student to win debates: is convincing the same as being right?",
+  "esc": "A young woman from the outskirts who dreams of becoming a lawyer faces, on her first day, a provocative teacher; forced to prepare her for a national debating contest, he teaches her rhetorical tricks for dismantling an opponent.",
+  "pregs": [
+   "What does the teacher teach her: to reason better or to ‘win’? Are they the same? Give an example of each from the film.",
+   "She learns to win the debate. Does that make her right? Distinguish between persuading, convincing and proving.",
+   "Spot at least one fallacy in her ‘tricks’ (attacking the person, straw man, appeal to emotion) and explain why it works even though it is dishonest."
+  ],
+  "trampa": "Confusing winning a debate with being right: rhetoric moves the audience, but a valid argument does not depend on who applauds. And the opposite error: believing that all rhetoric is a trick, when persuading with good reasons is legitimate."
+ },
+ {
+  "tema": "fil-t6",
+  "kind": "film",
+  "t": "The Wave",
+  "year": 2008,
+  "autor": "Dennis Gansel",
+  "q": "A classroom experiment on autocracy gets out of hand: how is a totalitarian regime born, even in a secondary school?",
+  "esc": "Mr Wenger sets up in class a movement with a name, a salute and discipline, ‘The Wave’, to explain autocracy; within a few days the group closes ranks, marks out those on the outside, and the thing escapes his control.",
+  "pregs": [
+   "What does ‘The Wave’ offer the students that hooks them: belonging, equality, a leader? What human need does it tap into?",
+   "Is Wenger responsible for what happens, even though he began with good intentions? Where was the point at which he should have stopped? Argue your case.",
+   "Does the film confirm that ‘anyone would fall for it’, or does it show that some resist, and why? What does it take not to follow the crowd?"
+  ],
+  "trampa": "Drawing the comfortable lesson that ‘this only happened in Nazi Germany’ or ‘it wouldn't happen to me’: the experiment is based on a real case (Ron Jones's ‘Third Wave’, Palo Alto, 1967) and points to group mechanisms that operate anywhere.",
+  "aviso": "A suicide at the end."
+ },
+ {
+  "tema": "fil-t2",
+  "kind": "film",
+  "t": "The Gods Must Be Crazy",
+  "year": 1980,
+  "autor": "Jamie Uys",
+  "q": "A bottle of fizzy drink falling from the sky throws a Kalahari community into turmoil: what is ‘natural’ and what is cultural in us?",
+  "esc": "A glass bottle falls from a light aircraft into the hands of a San group in the Kalahari; at first it is a useful gift, but as there is only one it begins to stir up envy and quarrels, and they decide to ‘give it back’ by throwing it off the end of the world.",
+  "pregs": [
+   "The object does not change; what it stirs up in the group does. What does that say about whether our desires and conflicts are ‘natural’ or learned?",
+   "The film looks on the San as ‘innocents’ and on the city as ‘mad’. Is it a critique of our culture or a patronising portrait of theirs? Take a side, with reasons.",
+   "What do we have ‘by nature’ and what ‘by culture’? Use the bottle example to separate the two, or to show that they cannot be fully separated."
+  ],
+  "trampa": "Taking the portrait of the San as ethnographic reality: it is a 1980 comedy that idealises and simplifies (the myth of the ‘noble savage’). Watching it is also an exercise in asking who tells the story, and from where."
+ },
+ {
+  "tema": "fil-t5",
+  "kind": "film",
+  "t": "The Help",
+  "year": 2011,
+  "autor": "Tate Taylor",
+  "q": "Black housemaids in 1960s Mississippi tell their side: dignity, recognition and who has a voice.",
+  "esc": "In Jackson (Mississippi), around 1963, a young white graduate secretly collects the testimonies of the black domestic maids, who suffer segregation down to the use of the toilet.",
+  "pregs": [
+   "What are the maids denied besides rights: recognition, a voice, dignity too? Distinguish the different things that are at stake.",
+   "They obey rules they consider unjust. When does a rule stop being binding? Heteronomy versus autonomy (Kant): who acts autonomously in the film?",
+   "The story is set in motion by a white woman. Does she give the maids a voice or take it away from them? Can you tell someone else's story without appropriating it? Argue your case."
+  ],
+  "trampa": "The critique of the ‘white saviour’: the film runs the risk of making the heroine the one who ‘grants’ the main characters a voice. Detecting that bias in the story itself is part of the exercise; the subject being a just one is not enough to make the way of telling it just."
+ },
+ {
+  "tema": "fil-t3",
+  "kind": "film",
+  "t": "Lucy",
+  "year": 2014,
+  "autor": "Luc Besson",
+  "q": "A woman who ‘uses 100% of her brain’ ends up knowing everything: what is knowing, and what counts as knowledge?",
+  "esc": "After a dose of a drug breaks open inside her body, Lucy begins to ‘use’ ever-higher percentages of her brain and gains powers: total memory, control of matter, access to all knowledge.",
+  "pregs": [
+   "The film starts from the idea that ‘we only use 10% of our brain’. Is that true? Check the fact: does it change how you read the whole plot?",
+   "Lucy accumulates information without limit. Is that the same as understanding, or as being wise? Distinguish data, knowledge and wisdom.",
+   "If someone knew ‘everything’, would they still have anything to learn or to decide? What happens to freedom when ignorance disappears?"
+  ],
+  "trampa": "The ‘10% of the brain myth’ is false: we use practically the whole brain, though not all of it at once. The film builds its entire plot on that widespread error; recognising it is the exercise, not believing it.",
+  "aviso": "Action violence."
+ },
+ {
+  "tema": "fil-metafisica",
+  "kind": "film",
+  "t": "Eternal Sunshine of the Spotless Mind",
+  "year": 2004,
+  "autor": "Michel Gondry",
+  "q": "A couple erase their relationship from their memory: if you lose your memories, are you still the same person? Personal identity.",
+  "esc": "After a break-up, Joel discovers that his ex has erased every memory of him from her mind and decides to do the same; during the erasure, inside his own mind, he changes his mind and tries to hide the memories to keep them.",
+  "pregs": [
+   "If you erase a person's memories, are they still the same? What makes us who we are: memory, the body, something more?",
+   "Joel wants to keep even the painful memories. Does it make sense to want to remember what hurts? What is lost by erasing it?",
+   "In the end they start again knowing it may go wrong. Is someone who repeats a pattern free, or does it only look that way? Relate it to identity over time."
+  ],
+  "trampa": "Thinking that ‘we are only our memories’: if that were so, losing your memory would mean ceasing to exist. The case serves to test that idea (Locke) against others: the body, habits, the bonds with other people."
  }
 ];

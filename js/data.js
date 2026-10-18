@@ -1038,6 +1038,67 @@ const DECKS = {
    ]
   ]
  },
+ "fil-t5-cuidado-cortina": {
+  "name": "Philosophy Year 1 · Moral judgement, the ethics of care and Cortina (T5)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🪜",
+    "Kohlberg: three levels",
+    "Moral judgement matures through three levels (pre-conventional, conventional and post-conventional); what matters is not the ‘yes’ or the ‘no’, but the reason you give."
+   ],
+   [
+    "💊",
+    "The Heinz dilemma",
+    "Should he steal the medicine that saves his wife? Kohlberg does not score the answer, but the kind of reasons used to justify it."
+   ],
+   [
+    "🗣️",
+    "Gilligan: another voice",
+    "Against Kohlberg, Gilligan describes a moral voice just as mature that reasons from relationships, responsibility and care, not only from justice."
+   ],
+   [
+    "🤲",
+    "Ethics of care",
+    "Nel Noddings and Joan Tronto: we start from vulnerable, interdependent people; morality begins in attending to the needs of those who depend on us."
+   ],
+   [
+    "🩺",
+    "Bioethics",
+    "Beauchamp and Childress: four principles for medical cases — autonomy, beneficence, non-maleficence and justice."
+   ],
+   [
+    "🐄",
+    "Animal ethics",
+    "For Bentham the question is not whether animals can reason, but whether they can suffer; ‘speciesism’ (a term coined by Richard Ryder, 1970, which Singer popularised) is to discriminate by species."
+   ],
+   [
+    "🤖",
+    "AI ethics",
+    "Algorithms can inherit the biases of their data; the trolley dilemma reappears in self-driving cars, along with the question of who is answerable."
+   ],
+   [
+    "⚖️",
+    "Minimums and maximums (Cortina)",
+    "Minimums: what can be demanded of everyone out of justice. Maximums: the projects of a happy life that are proposed, but not imposed."
+   ],
+   [
+    "🏛️",
+    "Civic ethics",
+    "The shared morality of a plural society: common values (freedom, equality, solidarity, respect, dialogue) and human rights, without forcing everyone to believe the same thing."
+   ],
+   [
+    "💬",
+    "Dialogical ethics",
+    "With Apel and Habermas: a norm is just if all those affected could accept it after a dialogue on equal terms, with no deception or coercion."
+   ],
+   [
+    "🙅",
+    "Aporophobia",
+    "A term Cortina coined in the 1990s (ABC Cultural, 1995) and made widely known in her 2017 book: rejection of, or fear towards, the poor and the destitute; often what looks like xenophobia is, at bottom, a rejection of those who ‘contribute nothing’."
+   ]
+  ]
+ },
  "fil-arte": {
   "name": "Philosophy Year 1 · Beauty and art (T7)",
   "subject": "fil",
@@ -7520,6 +7581,122 @@ const QUIZZES = {
     ],
     "a": 3,
     "fb": "Courage is the mean between cowardice (deficiency) and recklessness (excess)."
+   }
+  ]
+ },
+ "fil-t5-cuidado-cortina": {
+  "name": "Moral judgement, the ethics of care and Cortina (Philosophy Year 1 · T5 · review)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "In the Heinz dilemma, what is Kohlberg most interested in?",
+    "o": [
+     "The kind of reasons with which the person justifies their answer",
+     "Whether the person finally answers yes or no",
+     "Whether the conduct has good consequences for the majority",
+     "What feeling of approval or rejection it expresses"
+    ],
+    "a": 0,
+    "fb": "For Kohlberg the ‘yes’ or the ‘no’ does not matter, but the kind of reasons: they reveal the stage of moral development."
+   },
+   {
+    "q": "What characterises Kohlberg’s post-conventional level?",
+    "o": [
+     "Obeying out of fear of punishment",
+     "Seeking one’s own interest in every exchange",
+     "Meeting the group’s expectations and the laws in force",
+     "Reasoning with principles and rights above particular laws"
+    ],
+    "a": 3,
+    "fb": "At the post-conventional level one reasons with the social contract, rights and universal principles, which may stand above a particular law."
+   },
+   {
+    "q": "What did Carol Gilligan’s objection to Kohlberg consist of?",
+    "o": [
+     "That Kohlberg measured maturity only by the yardstick of justice and left out the voice of care",
+     "That the stages are not gone through in order",
+     "That the Heinz dilemma was too easy",
+     "That morality cannot be studied scientifically"
+    ],
+    "a": 0,
+    "fb": "Gilligan held that there is a moral voice just as mature that reasons from relationships, responsibility and care, not only from justice."
+   },
+   {
+    "q": "According to the ethics of care (Noddings, Tronto), what is the starting point for thinking about morality?",
+    "o": [
+     "Isolated individuals who sign a contract",
+     "Vulnerable, interdependent people, in relationship",
+     "The calculation of the greatest happiness for the greatest number",
+     "An imperative that reason gives to itself"
+    ],
+    "a": 1,
+    "fb": "The ethics of care starts from the fact that we are all vulnerable and interdependent: morality begins in attending to those who depend on us."
+   },
+   {
+    "q": "What are the four principles of Beauchamp and Childress’s bioethics?",
+    "o": [
+     "Liberty, equality, fraternity and solidarity",
+     "Intensity, duration, certainty and extent",
+     "Autonomy, beneficence, non-maleficence and justice",
+     "Virtue, duty, consequences and care"
+    ],
+    "a": 2,
+    "fb": "They are autonomy, beneficence, non-maleficence and justice: intermediate principles acceptable from different standpoints."
+   },
+   {
+    "q": "Peter Singer calls ‘speciesism’…",
+    "o": [
+     "Denying that animals feel pain",
+     "Discriminating against a being because of the species it belongs to",
+     "Treating animals the same as plants",
+     "Holding that only human happiness counts because animals cannot reason"
+    ],
+    "a": 1,
+    "fb": "Speciesism is to discriminate by species, as racism discriminates by race; it was coined by Richard Ryder (1970) and popularised by Singer. Bentham already said that the key is whether they can suffer."
+   },
+   {
+    "q": "A classmate says: ‘Cortina’s ethics of minimums is a weak morality, one of little effort, happy to settle for little’. What has she misunderstood?",
+    "o": [
+     "That the minimums are in fact optional",
+     "That ‘minimums’ refers to the extent (what is shared by everyone), not to a low level of demand",
+     "That the minimums are proposed by each person on their own",
+     "That the minimums and the maximums are the same thing"
+    ],
+    "a": 1,
+    "fb": "The minimums are demanding (dignity, non-discrimination, rights); ‘minimums’ names the few things on which, being so different, we have to agree in order to live together, not an easy morality."
+   },
+   {
+    "q": "What, for Cortina, is a civic ethics?",
+    "o": [
+     "The morality of a religion imposed on the whole of society",
+     "A code that obliges everyone to share the same idea of happiness",
+     "The shared morality of a plural society: common values and rights, without imposing beliefs",
+     "Giving up having any values at all so as not to bother anyone"
+    ],
+    "a": 2,
+    "fb": "Civic ethics is the shared ground of a plural society (freedom, equality, solidarity, respect, dialogue and rights), which does not oblige everyone to believe the same thing."
+   },
+   {
+    "q": "According to dialogical ethics (Apel and Habermas), when is a norm just?",
+    "o": [
+     "When the majority dictates it, even if some of those affected do not accept it",
+     "When all those affected could accept it after a dialogue on equal terms, with no deception or coercion",
+     "When it produces the greatest pleasure for the greatest number",
+     "When each person decides on their own what seems right to them"
+    ],
+    "a": 1,
+    "fb": "Discourse ethics looks for the validity of a norm in the possible agreement of all those affected, arguing under conditions of equality."
+   },
+   {
+    "q": "What does the term ‘aporophobia’, coined by Adela Cortina, name?",
+    "o": [
+     "Fear of foreigners in general",
+     "The rejection, fear or aversion towards the poor and the destitute",
+     "Rejection of all political authority",
+     "The fear of public speaking"
+    ],
+    "a": 1,
+    "fb": "Aporophobia is the rejection of the poor (Gr. áporos, poor), a term Cortina coined in the 1990s and made widely known with her 2017 book; she holds that often what looks like xenophobia is, at bottom, a rejection of those who lack resources."
    }
   ]
  },

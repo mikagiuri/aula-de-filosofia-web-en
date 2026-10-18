@@ -524,6 +524,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-utilidad",
    "fil-presocraticos",
    "fil-helenismo"
   ]
@@ -781,6 +782,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
+   "fil-t1-filosofia-mujer",
    "fil-comunidades-perseguidos"
   ]
  },
@@ -1027,6 +1029,32 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "pizan": {
+  "name": "Christine de Pizan",
+  "dates": "1364 – c. 1430",
+  "born": 1364,
+  "died": 1430,
+  "place": "Venice; lived at the French court",
+  "role": "writer and thinker",
+  "idea": "The first woman in Europe to live by her pen; in *The Book of the City of Ladies* she refuted the misogyny of her age with arguments and defended the dignity and the intellectual capacity of women.",
+  "bio": "<p>Of Venetian origin, Christine de Pizan spent her childhood at the court of Charles V of France, where her father was a physician and astrologer. Thanks to him she received an education that was not usual for women. Widowed at 25 with children to support, instead of marrying again or entering a convent she chose an almost unheard-of path: to keep herself as a <strong>professional writer</strong>.</p>\n<p>Her best-known work, <em>The Book of the City of Ladies</em> (1405), is an allegory in which three figures —Reason, Rectitude and Justice— help the author build a symbolic city peopled by illustrious women of history, safe from slander. With it she answers, point by point and with arguments, the texts that presented woman as an inferior being. Earlier she had been a leading figure in the so-called <strong>Quarrel of the Rose</strong>, a literary dispute against the misogyny of the <em>Roman de la Rose</em>.</p>\n<p>She is regarded as a forerunner of the ‘quarrel of women’ and, for many, of feminism. She appears tied to the closing stretch of the Middle Ages and to the tradition of utopias written by women.</p>",
+  "obras": [
+   "The Book of the City of Ladies",
+   "The Book of the Three Virtues",
+   "The Letter to the God of Love",
+   "Song in honour of Joan of Arc (Ditié de Jehanne d'Arc)"
+  ],
+  "anecdota": "<p>Simone de Beauvoir, in <em>The Second Sex</em>, notes that with Christine de Pizan's <em>Letter to the God of Love</em> we see ‘for the first time a woman take up her pen in defence of her sex’ (paraphrase). Centuries after her death, a group of men went so far as to found an ‘Order of the Rose’ to defend her cause in that dispute.</p>",
+  "fuente": "Christine de Pizan, *The Book of the City of Ladies*; Simone de Beauvoir, *The Second Sex* (introduction); adapted from Lola Cabrera Trigo, *El pensamiento en femenino plural* (Erein, ‘En diálogo con…’ series; CC BY-NC-SA 4.0)",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1-filosofia-mujer"
+  ]
+ },
  "erasmo": {
   "name": "Erasmus of Rotterdam",
   "dates": "c. 1466 – 1536",
@@ -1116,6 +1144,30 @@ const ILUSTRES = {
   ],
   "anecdota": "<p>In 1536, Calvin only planned to spend one night in Geneva, on his way to Strasbourg, where he wanted to devote himself quietly to study. But the preacher Guillaume Farel, who was trying to establish the Reformation there, heard of it and went to find him. When Calvin refused to stay, Farel solemnly warned him that God would curse his retirement and his studies if he abandoned that task. Calvin, by his own account, was so overwhelmed that he gave up his journey. Geneva would never again be separated from his name.</p>",
   "fuente": "Calvin, preface to the Commentary on the Psalms",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "servet": {
+  "name": "Michael Servetus",
+  "dates": "1511 – 1553",
+  "born": 1511,
+  "died": 1553,
+  "place": "Villanueva de Sijena (Aragon)",
+  "role": "Aragonese physician and theologian",
+  "idea": "He argued that there is no basis for the dogma of the Trinity and called for freedom to think in matters of religion; he also described how the blood passes through the lungs.",
+  "bio": "<p>Michael Servetus was born in 1511 in Villanueva de Sijena, in Aragon. He was a restless, universal mind: he studied law, medicine, geography and theology. As a physician, in his work <em>The Restoration of Christianity</em> he described the <strong>pulmonary</strong> or ‘lesser’ circulation of the blood: he explained that the blood passes from the heart to the lungs, mixes there with the air and returns to the heart. It was one of the first descriptions of that course in Europe, though it lay buried in a book of theology that hardly anyone ever read.</p>\n<p>What made him famous and what cost him his life were his religious ideas. Servetus denied the dogma of the <strong>Trinity</strong> (that God is Father, Son and Holy Spirit in a single essence) and called for a return to a Christianity that, he claimed, was the original one. This made him an enemy of both the Catholic Church and the Protestant reformers. Hunted by the French Inquisition, he fled and ended up in Geneva, where the reformer <strong>John Calvin</strong> was in charge. There he was tried and <strong>burned at the stake</strong> in 1553. His death sparked a debate that still matters: can a power, whether religious or political, kill someone for what they think? Shortly afterwards, Sebastian Castellio wrote that compelling belief by force and killing for an idea cannot be defended, in one of the first great calls for <strong>tolerance</strong>.</p>",
+  "obras": [
+   "On the Errors of the Trinity (De Trinitatis erroribus, 1531)",
+   "The Restoration of Christianity (Christianismi restitutio, 1553)"
+  ],
+  "anecdota": "<p>The description of the circulation of the blood through the lungs does not appear in a medical treatise, but hidden in the middle of a book of theology, the <em>Restoration of Christianity</em>. Almost all the copies were burned along with their author, and only a few survived; for a long time it was doubted whether Servetus had really written it, until those rare copies were tracked down. For this reason the scientific discovery passed almost unnoticed in its day: medicine had to rediscover that same course of the blood later, by other routes.</p>",
+  "fuente": "Michael Servetus, Christianismi restitutio (1553), where the pulmonary circulation is described; from the few copies that escaped the burning",
   "tradicion": false,
   "block": "ren",
   "subjects": [
@@ -1876,6 +1928,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -1902,6 +1955,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -2602,6 +2656,27 @@ const ILUSTRES = {
    "fil-metafisica"
   ]
  },
+ "maeztu": {
+  "name": "María de Maeztu",
+  "dates": "1881 – 1948",
+  "born": 1881,
+  "died": 1948,
+  "place": "Vitoria-Gasteiz",
+  "role": "educator",
+  "idea": "She put educational equality for women into practice: from the Residencia de Señoritas she opened to young women access to university and to the intellectual life of the Spain of her time.",
+  "bio": "<p>María de Maeztu y Whitney was born in Vitoria in 1881. She trained as a schoolteacher and then studied philosophy, as a pupil of <strong>Unamuno</strong> and <strong>Ortega y Gasset</strong>, and furthered her studies in Germany and in the United States. She was fluent in several languages and soon ranked among the most respected figures in Spanish education.</p>\n<p>In the circle of the <strong>Institución Libre de Enseñanza</strong> she ran, between 1915 and 1936, the <strong>Residencia de Señoritas</strong>, her most important project: a place where any young woman could study, lodge and prepare for university, at a time when Spanish women still needed special permits to enter it. Intellectuals such as Gabriela Mistral and María Montessori passed through it. She also promoted the Instituto-Escuela and chaired the Lyceum Women's Club.</p>\n<p>Her pedagogy argued for an active student body, far from rote learning, with education as the engine of social reform. When the Civil War broke out, and after her brother Ramiro was executed, she went into exile in Argentina, where she went on teaching until her death, in Mar del Plata, in 1948. She appears tied to Spanish thought of the first third of the 20th century, alongside Ortega and María Zambrano.</p>",
+  "obras": [],
+  "anecdota": "<p>The Residencia de Señoritas was far more than a place to stay: it became the meeting point of the intellectual women of Madrid. Its secular character earned it attacks from the most conservative quarters, which went so far as to call its members ‘women without virtue or piety’. Under Francoism, the Lyceum's own building ended up occupied by the Sección Femenina, whose ideals were the opposite of hers.</p>",
+  "fuente": "Adapted from Lola Cabrera Trigo, *El pensamiento en femenino plural* (Erein, ‘En diálogo con…’ series; CC BY-NC-SA 4.0); dates according to the Auñamendi Biographical Dictionary (Eusko Ikaskuntza) and EcuRed (she died on 7-1-1948 in Mar del Plata; the book gives 1952 in error)",
+  "tradicion": true,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "ortega": {
   "name": "José Ortega y Gasset",
   "dates": "1883 – 1955",
@@ -2625,6 +2700,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
+   "fil-t3",
    "fil-t6"
   ]
  },
@@ -2852,6 +2928,32 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "gaos": {
+  "name": "José Gaos",
+  "dates": "1900 – 1969",
+  "born": 1900,
+  "died": 1969,
+  "place": "Gijón (Asturias)",
+  "role": "philosopher and translator of the Spanish exile in Mexico",
+  "idea": "The Spanish exiles in America were not simple ‘deportees’ but ‘transplanted ones’: they had changed land, but were still on a land of their own through the shared language and culture.",
+  "bio": "<p>José Gaos was born in Gijón in 1900 and was a pupil of <strong>Ortega y Gasset</strong> in Madrid. A professor of philosophy, he rose to be Rector of the University of Madrid in the years of the Second Republic and the Civil War. When the war ended he went into exile and in 1938 settled in Mexico, where he taught at the National University (UNAM) and at El Colegio de México until his death, in 1969.</p>\n<p>In Mexico he coined the word by which he is remembered: for the Spanish intellectuals who, like him, were rebuilding their lives on the far side of the Atlantic, he preferred <strong>‘transterrados’ (transplanted)</strong> to ‘desterrados’ (deported), because they had not lost their land but moved it to a country that spoke their language. He was also a decisive translator: his version of <em>Being and Time</em>, by Heidegger (1951), was for half a century the gateway to that book in the Spanish-speaking world. He trained a whole generation of Mexican philosophers and left a body of work on the history of ideas and on what philosophy itself is.</p>",
+  "obras": [
+   "On Philosophy",
+   "Professional Confessions (1958)",
+   "History of Our Idea of the World",
+   "translation of Heidegger's «Being and Time» (1951)"
+  ],
+  "anecdota": "<p>When Gaos translated <em>Being and Time</em>, by Heidegger, he had to invent words in Spanish for ideas that German expressed with extremely difficult terms. His rendering of Heidegger's <em>Dasein</em> —the human being understood as ‘being-there’— was debated for decades. The translation, published in Mexico in 1951, was the only one available in Spanish for half a century and shaped the way several generations read Heidegger in our language.</p>",
+  "fuente": "M. Heidegger, Being and Time, trans. José Gaos, Fondo de Cultura Económica, Mexico, 1951 (translator's preface)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "popper": {
   "name": "Karl Popper",
   "dates": "1902 – 1994",
@@ -3020,6 +3122,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -3275,6 +3378,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-t5",
    "fil-t6",
    "fil-marxismos"
   ]
@@ -3328,6 +3432,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "nussbaum": {
+  "name": "Martha Nussbaum",
+  "dates": "b. 1947",
+  "born": 1947,
+  "died": null,
+  "place": "New York (USA)",
+  "role": "American philosopher",
+  "idea": "Justice is not measured by a country’s wealth but by the real capabilities each person has to lead a dignified life.",
+  "bio": "<p>Martha Nussbaum was born in New York in 1947. She took her doctorate at Harvard University with a thesis on Aristotle and has taught at Harvard, at Brown and, since the 1990s, at the University of Chicago, where she combines philosophy and law. A specialist in Greek philosophy, she has written on ethics, emotions, education and justice. In 2012 she received the Princess of Asturias Award for Social Sciences.</p>\n<p>Together with the economist Amartya Sen she developed the <strong>capabilities approach</strong>. Against the habit of measuring progress by GDP, she maintains that we must ask what each person can actually do and be. She proposes a list of <strong>central capabilities</strong>: life, health, bodily integrity, senses and imagination, emotions, practical reason, affiliation, relation to other species, play, and control over one’s environment. A society is just if it guarantees everyone a minimum of those capabilities. She pays special attention to women in poor countries, to people with disabilities and to animals. She also defends the value of the <strong>humanities</strong> for educating critical citizens.</p>\n<p>Her thought combines Aristotle’s ethics, centred on the good life, with the liberal tradition. She engages critically with John Rawls’s theory of justice, which she reproaches for leaving out those who cannot take part in the social contract. She is a reference point in debates on human development.</p>",
+  "obras": [
+   "The Fragility of Goodness (1986)",
+   "Women and Human Development (2000)",
+   "Not for Profit (2010)",
+   "Creating Capabilities (2011)"
+  ],
+  "anecdota": "<p>Before devoting herself to philosophy, the young Martha wanted to be an actress. She left her university studies to work for a time in a repertory theatre company that toured the country performing classical plays. Afterwards she returned to university and focused on Greek language and literature, at New York University. That passion for tragedy did not disappear: in <em>The Fragility of Goodness</em> she studies Sophocles and Euripides to show that literature also teaches us to think about moral life.</p>",
+  "fuente": "Profile by R. Aviv in The New Yorker (2016) and interviews",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-utilidad"
   ]
  },
  "butler": {
