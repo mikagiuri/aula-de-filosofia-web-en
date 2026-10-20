@@ -322,6 +322,12 @@ const DILEMAS = [
     "elige": "B",
     "porque": "The virtuous person does not decide with a formula but with character: there are actions that a good man does not perform, and pushing an innocent person is one of them, even if the result is better.",
     "ilustre": "aristoteles"
+   },
+   {
+    "quien": "Spinoza",
+    "elige": "—",
+    "porque": "Before choosing, three questions: what do I really know, who has built the situation, and from which affect am I acting? Reason chooses the lesser of two evils (Ethics, IV, 65), but without knowing the people or the circumstances, ‘five against one’ is a calculation of the imagination. Either way out can be taken from fear or ambition, or from strength of mind and generosity: what makes an action free is not the result, but understanding why you act.",
+    "ilustre": "spinoza"
    }
   ],
   "debate": {
