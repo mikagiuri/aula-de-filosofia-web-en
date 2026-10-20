@@ -8,9 +8,9 @@ const INFOGRAFIAS = {
   "title": "WHAT IS<br><em>PHILOSOPHY?</em>",
   "kicker": "Philosophy · 1st Bach · Topic 1",
   "subtitle": "From wonder to logos",
-  "tagline": "φιλοσοφία",
+  "tagline": "φιλοσοφία (philosophía)",
   "author": "‘love of wisdom’",
-  "ghost": "σοφία",
+  "ghost": "σοφία (sophía)",
   "portrait": null,
   "blocks": [
    {
@@ -491,7 +491,7 @@ const INFOGRAFIAS = {
   "subtitle": "The birth of philosophy",
   "tagline": "Greece, 6th century BC",
   "author": "MYTHOS → LOGOS",
-  "ghost": "λόγος",
+  "ghost": "λόγος (lógos)",
   "portrait": null,
   "blocks": [
    {

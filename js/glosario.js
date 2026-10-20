@@ -73,7 +73,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Scientific knowledge",
-  "et": "*Science*, from the Latin *scientia*, from *scire*, ‘to know’. It translates the Greek ἐπιστήμη (*epistéme*), the firm knowledge that Plato contrasts with opinion (δόξα).",
+  "et": "*Science*, from the Latin *scientia*, from *scire*, ‘to know’. It translates the Greek ἐπιστήμη (*epistéme*), the firm knowledge that Plato contrasts with opinion (δόξα, *dóxa*).",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 1",
   "def": "It investigates the proximate causes of facts through observation and experiment; it is partial (each science studies one portion of reality)."
@@ -414,7 +414,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Belief",
-  "et": "From the Latin *credere*, ‘to trust, to give credit’. In Greek, δόξα (*dóxa*), ‘opinion’, and πίστις (*pístis*), ‘trust, faith’: this is what Plato calls them, as opposed to knowledge (ἐπιστήμη).",
+  "et": "From the Latin *credere*, ‘to trust, to give credit’. In Greek, δόξα (*dóxa*), ‘opinion’, and πίστις (*pístis*), ‘trust, faith’: this is what Plato calls them, as opposed to knowledge (ἐπιστήμη, *epistéme*).",
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
   "def": "What is accepted as true without a guarantee that it corresponds to reality (opinion, doxa)."
