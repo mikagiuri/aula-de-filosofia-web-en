@@ -1150,6 +1150,230 @@ const DECKS = {
    ]
   ]
  },
+ "fil-argumentacion": {
+  "name": "Philosophy Year 1 · Arguing and spotting fallacies (T4)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🧩",
+    "Argument",
+    "A set of statements in which some (the premises) are offered as reasons for accepting another (the conclusion)."
+   ],
+   [
+    "⬇️",
+    "Deduction",
+    "Reasoning in which, if the premises are true, the conclusion must be true too: it goes from the general to the particular."
+   ],
+   [
+    "⬆️",
+    "Induction",
+    "Reasoning that generalises from observed cases: the conclusion is probable, never certain."
+   ],
+   [
+    "🔎",
+    "Abduction",
+    "Reasoning to the best explanation: from some facts we infer the hypothesis that best explains them."
+   ],
+   [
+    "🧱",
+    "Sound argument",
+    "A valid argument whose premises are also true: the only way to guarantee that the conclusion is true."
+   ],
+   [
+    "⚠️",
+    "Fallacy",
+    "Faulty reasoning that looks correct and can therefore be convincing."
+   ],
+   [
+    "🗣️",
+    "Ad hominem",
+    "A fallacy that attacks the person arguing instead of their argument."
+   ],
+   [
+    "🥊",
+    "Straw man",
+    "A fallacy that distorts the other person’s position to make it easier to refute."
+   ],
+   [
+    "🎢",
+    "Slippery slope",
+    "A fallacy that assumes, without evidence, that a first step will lead to a chain of disastrous consequences."
+   ],
+   [
+    "🔁",
+    "Begging the question",
+    "A fallacy in which the conclusion is already assumed in the premises: what had to be proved is taken as proved."
+   ]
+  ]
+ },
+ "fil-etica-teorias": {
+  "name": "Philosophy Year 1 · Debates in ethics (T5)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🧠",
+    "Moral intellectualism",
+    "Socrates: whoever knows what the good is will do it; evil comes from ignorance."
+   ],
+   [
+    "🌍",
+    "Moral relativism",
+    "The Sophists: what is good and just depends on each person or each society; there are no norms valid for everyone."
+   ],
+   [
+    "🤝",
+    "Moral universalism",
+    "There are moral principles valid for every human being, whatever their culture."
+   ],
+   [
+    "❓",
+    "Hypothetical imperative",
+    "Kant: a command that depends on an end (‘if you want to pass, study’); it does not bind someone who does not want that end."
+   ],
+   [
+    "📏",
+    "Categorical imperative",
+    "Kant: an unconditional command. ‘Act only according to that maxim through which you can at the same time will that it become a universal law’."
+   ],
+   [
+    "🫶",
+    "Ethics of care",
+    "Gilligan: morality also arises from relationships, responsibility and attention to those who are vulnerable, not only from abstract rules."
+   ],
+   [
+    "💬",
+    "Discourse ethics",
+    "Habermas and Cortina: a norm is just if everyone affected by it could accept it after a free dialogue."
+   ],
+   [
+    "🏛️",
+    "Stoicism",
+    "Epictetus and Seneca: distinguish what depends on us from what does not, and live in accordance with reason."
+   ],
+   [
+    "🧭",
+    "Prudence",
+    "Aristotle: φρόνησις (phrónesis), the practical wisdom that makes it possible to apply virtue to each concrete situation."
+   ],
+   [
+    "⚖️",
+    "Moral dilemma",
+    "A situation in which two duties or values clash and both cannot be fulfilled at the same time."
+   ]
+  ]
+ },
+ "fil-poder": {
+  "name": "Philosophy Year 1 · Power, the State and citizenship (T6)",
+  "subject": "fil",
+  "cards": [
+   [
+    "💪",
+    "Power",
+    "The capacity to influence the behaviour of others, even against their will."
+   ],
+   [
+    "🎖️",
+    "Authority",
+    "Power that is accepted as legitimate: it is obeyed because it is recognised, not only through force."
+   ],
+   [
+    "✅",
+    "Legitimacy",
+    "Weber: power is accepted because of tradition, because of a leader’s charisma or because of rational laws."
+   ],
+   [
+    "👑",
+    "Sovereignty",
+    "The supreme power of a State, with no other above it; in a democracy it lies with the people."
+   ],
+   [
+    "🪪",
+    "Citizenship",
+    "The condition of belonging to a political community, with rights and duties and the possibility of taking part in it."
+   ],
+   [
+    "🏗️",
+    "Separation of powers",
+    "Montesquieu: separate legislative, executive and judicial power so that power checks power."
+   ],
+   [
+    "🗽",
+    "Political liberalism",
+    "A current that puts individual freedom first and limits the power of the State in order to protect it."
+   ],
+   [
+    "🔨",
+    "Socialism",
+    "A current that puts equality first and argues that society should control the economy to reduce inequalities."
+   ],
+   [
+    "🏴",
+    "Anarchism",
+    "A current that considers the State illegitimate and proposes a society organised without coercive power."
+   ],
+   [
+    "✋",
+    "Civil disobedience",
+    "Thoreau: breaking an unjust law publicly and peacefully, accepting the punishment, in order to change it."
+   ]
+  ]
+ },
+ "fil-arte-sociedad": {
+  "name": "Philosophy Year 1 · Art, beauty and society (T7)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🎭",
+    "Catharsis",
+    "Aristotle: the purification of the emotions (pity and fear) that tragedy produces in the audience."
+   ],
+   [
+    "🏔️",
+    "The sublime",
+    "Burke and Kant: the emotion we feel before what is immense or terrible (a storm, the sea), which overwhelms us and attracts us at the same time."
+   ],
+   [
+    "✨",
+    "Genius",
+    "Kant: the talent that gives the rule to art; it creates original works that serve as models and cannot be learnt from a recipe."
+   ],
+   [
+    "🎨",
+    "Taste",
+    "The ability to judge what is beautiful; Hume looked for a ‘standard of taste’ that is educated through practice and comparison."
+   ],
+   [
+    "🖨️",
+    "Technical reproducibility",
+    "Benjamin: photography and cinema make it possible to copy a work endlessly, and the work loses its ‘aura’ as a unique piece."
+   ],
+   [
+    "🏭",
+    "Culture industry",
+    "Adorno and Horkheimer: culture mass-produced as a commodity, which entertains but does not invite us to think."
+   ],
+   [
+    "🚀",
+    "Avant-gardes",
+    "Movements of the early twentieth century (Cubism, Dadaism, Surrealism) that break with artistic tradition."
+   ],
+   [
+    "🚽",
+    "Ready-made",
+    "Duchamp: an everyday object that the artist chooses and exhibits as a work, like Fountain (1917)."
+   ],
+   [
+    "💡",
+    "Conceptual art",
+    "Art in which what matters is the idea, more than the object or technical skill."
+   ],
+   [
+    "🍬",
+    "Kitsch",
+    "Something that imitates the artistic in an overloaded or sentimental way, to please without demanding anything."
+   ]
+  ]
+ },
  "fil-logica": {
   "name": "Philosophy Year 1 · Logic: connectives, Boole and gates (T4)",
   "subject": "fil",

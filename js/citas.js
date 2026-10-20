@@ -1501,6 +1501,14 @@ const CITAS = [
   "uso": "To introduce María Zambrano’s poetic reason, or in an essay on the relationship between philosophy and literature."
  },
  {
+  "c": "If the injustice is of such a nature that it requires you to be the agent of injustice towards another, then I say: break the law.",
+  "a": "Thoreau",
+  "o": "Civil Disobedience (1849)",
+  "e": "contemporary",
+  "sen": "For Thoreau, conscience is above the law: if obeying the law forces you to commit an injustice against another, such as slavery or an unjust war, you must disobey it and accept the consequences.",
+  "uso": "To explain civil disobedience, or in an essay on the relationship between law and justice or on the duty to obey."
+ },
+ {
   "c": "The unfortunate need nothing else in this world but people capable of giving them their attention. […] The fullness of love of one’s neighbour consists simply in being capable of asking him: ‘What are you going through?’",
   "a": "Simone Weil",
   "o": "‘Reflections on the Right Use of School Studies with a View to the Love of God’ (1942), in Waiting for God",
