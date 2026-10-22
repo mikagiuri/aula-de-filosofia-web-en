@@ -2730,6 +2730,94 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Tautology: always true. If it were always false, it would be a contradiction."
+   },
+   {
+    "q": "How many rows does the truth table of a formula with three letters (p, q, r) have?",
+    "o": [
+     "3",
+     "6",
+     "8",
+     "9"
+    ],
+    "a": 2,
+    "fb": "Each letter can be T or F: 2 · 2 · 2 = 8 combinations. With n letters there are 2ⁿ rows; with 5 there are already 32, which is why you need the laws and rules of level 4."
+   },
+   {
+    "q": "Which formula is p → q equivalent to?",
+    "o": [
+     "q → p",
+     "¬p ∨ q",
+     "¬p → q",
+     "p ∧ ¬q"
+    ],
+    "a": 1,
+    "fb": "p → q is false only if p is T and q is F, just like ¬p ∨ q. q → p is the converse, which is not equivalent to p → q. ¬p → q is equivalent to p ∨ q: since A ∨ B is the same as ¬A → B, ¬p ∨ q is ¬¬p → q, that is, p → q. And p ∧ ¬q is its negation."
+   },
+   {
+    "q": "Trick case: ‘If it rains, the ground is wet.’ Which of these sentences says the same thing?",
+    "o": [
+     "If the ground is wet, it has rained.",
+     "If it does not rain, the ground is not wet.",
+     "If the ground is not wet, it is not raining.",
+     "It is raining and the ground is wet."
+    ],
+    "a": 2,
+    "fb": "It is the contrapositive, ¬q → ¬p, which is equivalent to p → q. «If the ground is wet, it has rained» (the converse) and «If it does not rain, the ground is not wet» (the inverse) seem to say the same thing, but they do not: the ground may be wet because someone has watered it. And the sentence does not assert that it rains."
+   },
+   {
+    "q": "De Morgan’s law says that ¬(p ∧ q) is equivalent to…",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬p ∨ ¬q",
+     "¬p ∨ q",
+     "p ∨ q"
+    ],
+    "a": 1,
+    "fb": "For the two things not to happen together is for at least one of them to fail. ¬p ∧ ¬q (which is equivalent to ¬(p ∨ q)) says that both fail, which is more; ¬p ∨ q forgets to negate the q, and p ∨ q forgets both negations."
+   },
+   {
+    "q": "What is the formula (p → q) ∧ p ∧ ¬q?",
+    "o": [
+     "A tautology.",
+     "A contradiction.",
+     "A contingency.",
+     "A valid modus ponens."
+    ],
+    "a": 1,
+    "fb": "For it to be true, p would have to be T and q F; but then p → q is F. There is no row in which it is true: it is a contradiction. Put another way: p → q, p and ¬q cannot all be true at once; that is why q follows from p → q and p (modus ponens). The formula is not an argument but a statement: it cannot be «a valid modus ponens»."
+   },
+   {
+    "q": "What is the formula p → q, on its own?",
+    "o": [
+     "A tautology.",
+     "A contradiction.",
+     "A contingency.",
+     "It is not a formula."
+    ],
+    "a": 2,
+    "fb": "It is true in three rows and false in one (p T, q F). Contingent formulas are the ones that talk about the world: their truth depends on how things are."
+   },
+   {
+    "q": "Trick case: in classical logic, what value does ‘if the Moon is made of cheese, then 2 + 2 = 5’ have?",
+    "o": [
+     "False, because both parts are false.",
+     "True, because the antecedent is false.",
+     "Neither true nor false.",
+     "False, because there is no connection between the two parts."
+    ],
+    "a": 1,
+    "fb": "The material conditional is false only with a true antecedent and a false consequent. With a false antecedent it is true, whether or not the parts are connected. That this clashes with the everyday use of ‘if’ is a well-known problem (the ‘paradoxes of material implication’)."
+   },
+   {
+    "q": "When does a truth table say that an argument is valid?",
+    "o": [
+     "When the conclusion is true in every row of the table.",
+     "When no row has true premises and a false conclusion.",
+     "When there is some row in which all the premises are true.",
+     "When there are more true rows than false ones in the conclusion column."
+    ],
+    "a": 1,
+    "fb": "A single row with true premises and a false conclusion is enough to make it invalid: that is the counterexample. That the conclusion is true in every row describes a tautological conclusion, which is a particular case of a valid argument, not the definition."
    }
   ]
  },
@@ -7408,6 +7496,762 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "The class of all classes that do not contain themselves contains itself if and only if it does not. Russell wrote to Frege about it in 1902; the way out was to fix with axioms which collections are sets."
+   }
+  ]
+ },
+ "fil-validez-q": {
+  "name": "Validity and truth, deduction and induction (Philosophy Year 1 · T4 · pathway, level 1)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "‘All fish fly; all cats are fish; therefore all cats fly.’ Is this a valid argument?",
+    "o": [
+     "Yes, even though the premises and the conclusion are false.",
+     "No, because the conclusion is false: cats do not fly.",
+     "No, because both premises are false: fish do not fly.",
+     "It would be valid only if cats really did fly."
+    ],
+    "a": 0,
+    "fb": "Validity depends on the form (all M are P; all S are M; therefore all S are P), not on what is said being true: if the premises were true, the conclusion would have to be true too. The conclusion or the premises being false is not enough to make it invalid."
+   },
+   {
+    "q": "Of these four combinations, which one is impossible in a valid argument?",
+    "o": [
+     "False premises and a false conclusion.",
+     "False premises and a true conclusion.",
+     "True premises and a false conclusion.",
+     "True premises and a true conclusion."
+    ],
+    "a": 2,
+    "fb": "That is exactly what validity forbids: true premises and a false conclusion. The other three combinations can occur in valid arguments (what they do not guarantee is a true conclusion if any premise is false)."
+   },
+   {
+    "q": "‘All fish are mammals; all dolphins are fish; therefore all dolphins are mammals.’ What does this example teach?",
+    "o": [
+     "That if the conclusion is true, both premises must be true too.",
+     "That from false premises a true conclusion can validly follow.",
+     "That it is not valid, because dolphins are not fish but mammals.",
+     "That it is an induction, because it goes from fish to dolphins."
+    ],
+    "a": 1,
+    "fb": "The form is valid and the conclusion is true, but both premises are false. So a true conclusion does not prove that the premises are true, and a false premise does not guarantee a false conclusion."
+   },
+   {
+    "q": "Trick case: ‘All Athenians are Greek; Socrates is Greek; therefore Socrates is Athenian.’ Everything is true. Is it valid?",
+    "o": [
+     "Yes: if the premises and the conclusion are true, the reasoning is valid.",
+     "No: the same form leads from «Aristotle is Greek» to «he is Athenian».",
+     "Yes, because Socrates really was Athenian, born in Athens.",
+     "No, because one of the premises is false: not all Athenians are Greeks."
+    ],
+    "a": 1,
+    "fb": "Aristotle was born in Stagira: he was Greek, but not Athenian. A single case with the same form, true premises and a false conclusion is enough to show that the form is not valid. The flaw: ‘Greek’ (the middle term) is never taken in its full extension."
+   },
+   {
+    "q": "‘I have seen three hundred swans and all of them were white; therefore all swans are white.’ What kind of reasoning is it and what is wrong with it?",
+    "o": [
+     "It is a valid deduction, because the three hundred observations are true.",
+     "It is an induction: the premises can be true and the conclusion false.",
+     "It is an invalid deduction, because there are still swans left to see in the world.",
+     "It is a fallacy, because you can never generalise from cases."
+    ],
+    "a": 1,
+    "fb": "It generalises from observed cases: it is an induction. It may be stronger or weaker, but it is not valid in the deductive sense: the premises could be true and the conclusion false (and in fact it is: in Australia there are black swans). Inducing is not a mistake; the mistake is to confuse an induction with a deduction."
+   },
+   {
+    "q": "Which of these arguments is a deduction?",
+    "o": [
+     "All the crows I have seen are black; therefore all crows are black.",
+     "If it rains, the ground gets wet; it is raining; therefore the ground gets wet.",
+     "Earth and Mars are alike in many ways; Earth has life; therefore Mars does too.",
+     "The ground is wet; most probably it has rained."
+    ],
+    "a": 1,
+    "fb": "It is a modus ponens: if the premises are true, the conclusion cannot be false. The others are an inductive generalisation, an analogy and an inference to the best explanation: they may be reasonable, but they do not guarantee the conclusion."
+   },
+   {
+    "q": "Trick case: deducing is often said to be ‘going from the general to the particular’. Is that a good definition?",
+    "o": [
+     "Yes, that is exactly what defines it, and that is why it is opposed to induction.",
+     "Not quite: what defines it is that the conclusion cannot be false if the premises are true.",
+     "No: deducing is going from the particular to the general, and induction is the other way round.",
+     "Yes, and that is why the syllogism ‘all M are P; all S are M; therefore all S are P’ is not a deduction."
+    ],
+    "a": 1,
+    "fb": "There are deductions from the general to the general (that syllogism, which is valid) and from the particular to the particular (‘if Ana comes, Juan comes; Ana comes; therefore Juan comes’). The mark of deduction is necessity, not direction."
+   },
+   {
+    "q": "In ‘All S are P’ (type A), which term is distributed, that is, which class is talked about as a whole?",
+    "o": [
+     "Only S.",
+     "Only P.",
+     "Both.",
+     "None."
+    ],
+    "a": 0,
+    "fb": "Something is said about all S, but not about all P: ‘all dogs are mammals’ does not talk about all mammals. In E both are distributed; in I, neither; in O, only the predicate."
+   },
+   {
+    "q": "In ‘Some S is not P’ (type O), which term is distributed?",
+    "o": [
+     "Only S.",
+     "Only P.",
+     "Both.",
+     "None."
+    ],
+    "a": 1,
+    "fb": "In saying that some S falls outside P, that S falls outside the whole class P: P is spoken of in its entirety. Of S, by contrast, only a part is spoken of. That is why O does not convert: in «some P is not S», S would be distributed without being so in the premise."
+   },
+   {
+    "q": "‘All M are P; some S are M; therefore all S are P.’ Why is it not valid?",
+    "o": [
+     "Because it has two universal premises, and that is not allowed.",
+     "Because it concludes of all S what it knows only of some.",
+     "Because the middle term also appears in the conclusion.",
+     "It is valid: it is a syllogism of the first figure."
+    ],
+    "a": 1,
+    "fb": "Rule of the syllogism: if a premise is particular, the conclusion has to be particular. The valid version is ‘therefore some S are P’ (Darii). Concluding about all what you only know about some is generalising without warrant."
+   },
+   {
+    "q": "‘No fish is a mammal; no mammal breathes through gills.’ What follows about fish and what breathes through gills?",
+    "o": [
+     "That no fish breathes through gills, as in Celarent.",
+     "That all fish breathe through gills, as we already knew.",
+     "Nothing: nothing follows from two negative premises.",
+     "That some fish breathes through gills, at least one."
+    ],
+    "a": 2,
+    "fb": "Two negative premises only say that S and P fall outside M; they say nothing about how S and P stand to each other. «No fish breathes through gills» is, moreover, false (fish do breathe through gills), and «all fish breathe through gills», although true, does not follow from the premises. Celarent has one affirmative premise."
+   },
+   {
+    "q": "Trick case: ‘Some students are athletes; some athletes are musicians; therefore some students are musicians.’ Is it valid?",
+    "o": [
+     "Yes: the conclusion may be true, and in many schools it is.",
+     "No: the sportspeople who are students and the musicians may be different.",
+     "Yes, by the transitivity of «being»: what holds of some holds of others.",
+     "No, because it has three terms, and a syllogism can have only two."
+    ],
+    "a": 1,
+    "fb": "Nothing follows from two particular premises, and the middle term (‘athletes’) is not distributed in either. That the conclusion may be true is not enough: the form allows true premises and a false conclusion. Having three terms is normal in a syllogism."
+   }
+  ]
+ },
+ "fil-formalizar-q": {
+  "name": "Formalising in propositional logic (Philosophy Year 1 · T4 · pathway, level 3)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "p: ‘I go to the party’; q: ‘they invite me’. ‘I will go to the party only if they invite me’ is formalised as…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 0,
+    "fb": "‘Only if’ introduces a necessary condition: what follows ‘only if’ goes in the consequent. If I go, it is because they have invited me (p → q). Their inviting me is not enough for me to go: that would be q → p."
+   },
+   {
+    "q": "With the same letters, ‘I will go to the party if they invite me’ is formalised as…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "q ∧ p"
+    ],
+    "a": 1,
+    "fb": "A plain «if» introduces the antecedent, even when it comes at the end of the sentence: if they invite me, I go (q → p). Compared with «I will go to the party only if they invite me» (p → q), the trick case shows up: «if» and «only if» reverse the conditional. q ∧ p would assert that they invite me and that I go, and the sentence asserts neither of the two."
+   },
+   {
+    "q": "‘I will go to the party if and only if they invite me’ is formalised as…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "(p → q) ∨ (q → p)"
+    ],
+    "a": 2,
+    "fb": "The biconditional joins both conditions: being invited is necessary and sufficient for me to go. It is equivalent to (p → q) ∧ (q → p). With ∨ instead of ∧ it would be a tautology, which says nothing."
+   },
+   {
+    "q": "p: ‘I go out’; q: ‘it rains’. Trick case: ‘I will go out unless it rains’ is formalised as…",
+    "o": [
+     "¬q → p",
+     "q → ¬p",
+     "p ↔ ¬q",
+     "p ∧ ¬q"
+    ],
+    "a": 0,
+    "fb": "«Unless» is equivalent to «if not»: if it does not rain, I go out (¬q → p), which is the same as p ∨ q. The sentence does not say what I will do if it rains; reading it as q → ¬p («if it rains, I do not go out») or as p ↔ ¬q («I go out if and only if it does not rain») adds something that is not in it. And p ∧ ¬q asserts that I go out and that it does not rain."
+   },
+   {
+    "q": "p: ‘she studies’; q: ‘she works’. ‘She neither studies nor works’ is formalised as…",
+    "o": [
+     "¬(p ∧ q)",
+     "¬p ∧ ¬q",
+     "¬p ∧ q",
+     "¬p → q"
+    ],
+    "a": 1,
+    "fb": "«Neither… nor» denies both things at once: ¬p ∧ ¬q, which by De Morgan is equivalent to ¬(p ∨ q). By contrast, ¬(p ∧ q) only says that he does not do both things at once: he might do one. ¬p ∧ q denies only «studies», and ¬p → q says that, if he does not study, he works."
+   },
+   {
+    "q": "With the same letters, ‘It is not true that she studies and works’ is formalised as…",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬(p ∧ q)",
+     "¬p ∨ q",
+     "¬p ∧ q"
+    ],
+    "a": 1,
+    "fb": "The whole conjunction is negated: he does not do both things at once. It is compatible with his studying and not working, or the other way round. ¬p ∧ ¬q says more: that he does neither. ¬p ∨ q and ¬p ∧ q leave «works» outside the «not», and the sentence denies everything together."
+   },
+   {
+    "q": "p: ‘you come’; q: ‘I go’. ‘Either you come or I go, but not both’ is formalised as…",
+    "o": [
+     "p ∨ q",
+     "(p ∨ q) ∧ ¬(p ∧ q)",
+     "(p ∨ q) ∧ (¬p ∧ ¬q)",
+     "¬p ∨ ¬q"
+    ],
+    "a": 1,
+    "fb": "It is the exclusive «or»: at least one and not both. It is equivalent to ¬(p ↔ q). The ∨ of logic is inclusive and is also true when both come; ¬p ∨ ¬q only says that they do not both come. And (p ∨ q) ∧ (¬p ∧ ¬q) is a contradiction: «not both» is not «neither»."
+   },
+   {
+    "q": "p: ‘it is expensive’; q: ‘I buy it’. ‘It is expensive; nevertheless, I buy it’ is formalised as…",
+    "o": [
+     "p → q",
+     "p ∧ q",
+     "¬p ∧ q",
+     "p → ¬q"
+    ],
+    "a": 1,
+    "fb": "‘Nevertheless’, ‘but’ and ‘although’ assert both things: they are a conjunction. The nuance of contrast (‘you would expect me not to buy it’) is real, but propositional logic does not capture it."
+   },
+   {
+    "q": "p: ‘you study’; q: ‘you get distracted’; r: ‘you pass’. ‘If you study and do not get distracted, you pass’ is formalised as…",
+    "o": [
+     "p ∧ (¬q → r)",
+     "(p ∧ ¬q) → r",
+     "p ∧ ¬q ∧ r",
+     "(p → r) ∧ ¬q"
+    ],
+    "a": 1,
+    "fb": "The antecedent is the whole of «you study and do not get distracted», so it goes in brackets: (p ∧ ¬q) → r. p ∧ (¬q → r) asserts that you study, and only makes «you do not get distracted» a condition."
+   },
+   {
+    "q": "With the same letters, ‘You study, and if you do not get distracted, you pass’ is formalised as…",
+    "o": [
+     "(p ∧ ¬q) → r",
+     "p ∧ (¬q → r)",
+     "p → (¬q ∧ r)",
+     "p ∧ ¬q ∧ r"
+    ],
+    "a": 1,
+    "fb": "Now it is asserted that you study, and in addition a conditional: p ∧ (¬q → r). Compare it with «If you study and do not get distracted, you pass», which is (p ∧ ¬q) → r: the same letters with different brackets say different things. For example, if you do not study, (p ∧ ¬q) → r is true and p ∧ (¬q → r) is false."
+   },
+   {
+    "q": "Trick case: someone promises ‘if you pass, I will give you the bike’ (p → q). You do not pass and they give you the bike. Have they broken the promise?",
+    "o": [
+     "Yes: I was to give it to you only in the event that you passed.",
+     "No: it would fail only if you passed and I did not give it to you.",
+     "Yes, because the promise was really a biconditional.",
+     "There is no way of knowing without asking what I meant."
+    ],
+    "a": 1,
+    "fb": "p → q is false only when p is true and q false. In conversation it is often understood as ‘only if you pass’, that is, a biconditional; but what was said is a conditional, and the promise is kept."
+   },
+   {
+    "q": "p: ‘you vote’; q: ‘you are 18’. ‘To vote, it is necessary to be 18’ is formalised as…",
+    "o": [
+     "q → p",
+     "p → q",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 1,
+    "fb": "A necessary condition goes in the consequent: if you vote, it is because you are 18. Being 18 is not enough to vote (you have to be registered, for example), so q → p would be false."
+   },
+   {
+    "q": "p: ‘it rains’; q: ‘the match is called off’. ‘It is enough for it to rain for the match to be called off’ is formalised as…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 0,
+    "fb": "«It is enough that» introduces a sufficient condition, which goes in the antecedent: if it rains, the match is called off. The match might be called off for other reasons, so it cannot be reversed (q → p) nor can we say that rain is necessary (p ↔ q). And the sentence does not assert that it rains, as p ∧ q would."
+   },
+   {
+    "q": "p: ‘it is raining’; q: ‘it is cold’. ‘It is not raining, but it is cold’ is formalised as…",
+    "o": [
+     "¬(p ∧ q)",
+     "¬p ∧ q",
+     "¬p → q",
+     "¬(p ∨ q)"
+    ],
+    "a": 1,
+    "fb": "The ‘not’ affects only ‘it is raining’, and ‘but’ is a conjunction. ¬(p ∧ q) denies that both things happen at once, which is much less."
+   },
+   {
+    "q": "p: ‘it rains’; q: ‘I go out’; r: ‘I go to the cinema’. ‘If it rains, I neither go out nor go to the cinema’ is formalised as…",
+    "o": [
+     "(p → ¬q) ∧ ¬r",
+     "p → (¬q ∧ ¬r)",
+     "p → ¬(q ∧ r)",
+     "¬p → (q ∧ r)"
+    ],
+    "a": 1,
+    "fb": "Both negations depend on the rain: they go together in the consequent. (p → ¬q) ∧ ¬r asserts that I do not go to the cinema, rain or no rain. p → ¬(q ∧ r) says less: only that I do not do both things."
+   }
+  ]
+ },
+ "fil-cuantif-q": {
+  "name": "Quantifiers, the square of opposition and conversion (Philosophy Year 1 · T4 · pathway, level 6)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "‘All S are P’ is written with quantifiers as…",
+    "o": [
+     "∀x (Sx ∧ Px)",
+     "∀x (Sx → Px)",
+     "∃x (Sx → Px)",
+     "∀x (Px → Sx)"
+    ],
+    "a": 1,
+    "fb": "For anything at all: if it is S, it is P. With ∧ it would say that everything is both S and P, something much stronger; ∀x (Px → Sx) is ‘all P are S’."
+   },
+   {
+    "q": "Trick case: ‘Some S is P’ is written…",
+    "o": [
+     "∃x (Sx → Px)",
+     "∃x (Sx ∧ Px)",
+     "∀x (Sx ∧ Px)",
+     "∃x Sx → ∃x Px"
+    ],
+    "a": 1,
+    "fb": "There is at least one thing that is S and P. ∃x (Sx → Px) is almost empty: it is true as soon as something exists that is not S, because for that thing the conditional is true. ∃ goes with ∧; ∀ goes with →."
+   },
+   {
+    "q": "‘No S is P’ is written…",
+    "o": [
+     "∀x (Sx → ¬Px)",
+     "∀x ¬(Sx → Px)",
+     "∃x (Sx ∧ ¬Px)",
+     "∀x ¬Sx"
+    ],
+    "a": 0,
+    "fb": "For anything: if it is S, it is not P. It is equivalent to ¬∃x (Sx ∧ Px). ∃x (Sx ∧ ¬Px) is the O («some S is not P»), which says much less; ∀x ¬(Sx → Px) would say that everything is S and is not P, and ∀x ¬Sx, that there is no S at all."
+   },
+   {
+    "q": "‘Some S is not P’ is written…",
+    "o": [
+     "∃x (Sx ∧ ¬Px)",
+     "∃x ¬(Sx ∧ Px)",
+     "¬∃x (Sx ∧ ¬Px)",
+     "∀x (Sx → ¬Px)"
+    ],
+    "a": 0,
+    "fb": "There is at least one thing that is S and is not P. ∃x ¬(Sx ∧ Px) would be true with anything that was not S; ¬∃x (Sx ∧ ¬Px) is the A («every S is P»), and ∀x (Sx → ¬Px), the E («no S is P»)."
+   },
+   {
+    "q": "The negation of ∀x Px (‘everything is P’) is…",
+    "o": [
+     "∀x ¬Px",
+     "∃x ¬Px",
+     "¬∃x ¬Px",
+     "∃x Px"
+    ],
+    "a": 1,
+    "fb": "For it not to be the case that everything is P, it is enough that there be something that is not. ∀x ¬Px («nothing is P») is the contrary, not the contradictory: both can be false at once. ¬∃x ¬Px is equivalent to ∀x Px: it does not negate it, it repeats it."
+   },
+   {
+    "q": "P: ‘sits the exam’; A: ‘passes’. ‘Not everyone who sits the exam passes’ is written…",
+    "o": [
+     "∀x (Px → ¬Ax)",
+     "∃x (Px ∧ ¬Ax)",
+     "¬∀x (Px ∧ Ax)",
+     "∃x (¬Px ∧ Ax)"
+    ],
+    "a": 1,
+    "fb": "Negating an A gives an O: there is someone who sits the exam and does not pass (equivalent to ¬∀x (Px → Ax)). ∀x (Px → ¬Ax) would say that nobody passes, which is much more; ¬∀x (Px ∧ Ax) would hold if there were someone who does not sit the exam."
+   },
+   {
+    "q": "Trick case. S: ‘is a member’; E: ‘can enter’. ‘Only members can enter’ is written…",
+    "o": [
+     "∀x (Sx → Ex)",
+     "∀x (Ex → Sx)",
+     "∃x (Sx ∧ Ex)",
+     "∀x (Sx ↔ Ex)"
+    ],
+    "a": 1,
+    "fb": "«Only the S are E» means «all the E are S»: if someone may enter, they are a member. It does not say that all members may enter (that would be ∀x (Sx → Ex)): a suspended member might not be allowed in."
+   },
+   {
+    "q": "Q: ‘loves’. Compare ‘∀x ∃y Qxy’ (everyone loves someone) and ‘∃y ∀x Qxy’ (there is someone whom everyone loves). What is the relationship between them?",
+    "o": [
+     "They say the same thing.",
+     "The second implies the first, but not the other way round.",
+     "The first implies the second, but not the other way round.",
+     "Neither implies the other."
+    ],
+    "a": 1,
+    "fb": "If there is someone whom everyone loves, each person loves someone (that person). But each person loving someone does not require it to be the same person. The order of the quantifiers changes what is said."
+   },
+   {
+    "q": "In the formula ∀x (Px → Qy), which variable is free?",
+    "o": [
+     "x",
+     "and",
+     "Both.",
+     "None."
+    ],
+    "a": 1,
+    "fb": "x is bound by ∀x; y is not bound by any quantifier. That is why the formula is neither true nor false until you say who y refers to: it is like ‘he is tall’ without knowing who he is."
+   },
+   {
+    "q": "P: ‘is even’; I: ‘is odd’. Which of these inferences is valid?",
+    "o": [
+     "From ∃x Px ∧ ∃x Ix it follows that ∃x (Px ∧ Ix).",
+     "From ∃x (Px ∧ Ix) it follows that ∃x Px ∧ ∃x Ix.",
+     "Both.",
+     "None."
+    ],
+    "a": 1,
+    "fb": "If something is even and odd, there is something even and there is something odd. But not the other way round: there are even numbers and there are odd numbers, and none is both. ∃ distributes over ∧ in one direction, but does not combine in the other."
+   },
+   {
+    "q": "Trick case: ‘All dragons breathe fire’ and ‘Some dragon breathes fire’. For present-day logic, if there are no dragons…",
+    "o": [
+     "Both are false, because there are no dragons.",
+     "The first is true and the second false.",
+     "Both are true, because nobody contradicts them.",
+     "Neither is true or false: they speak of something that does not exist."
+    ],
+    "a": 1,
+    "fb": "∀x (Dx → Fx) is true if there is no dragon to contradict it; ∃x (Dx ∧ Fx) needs a dragon. That is why, in present-day logic, I does not follow from A: it is the problem of the empty subject (existential import)."
+   },
+   {
+    "q": "Which relation of the square of opposition stays the same in the traditional reading and in the modern one?",
+    "o": [
+     "The contraries (A and E): they are never true together.",
+     "The subcontraries (I and O): they are never false together.",
+     "The subalterns: from the A the I follows.",
+     "The contradictories (A and O, E and I)."
+    ],
+    "a": 3,
+    "fb": "A and O, and E and I, always have opposite values, whether or not there are things being talked about. The other three relations depend on assuming that some S exists, and they fail with the empty subject."
+   },
+   {
+    "q": "Which of these conversions is valid without any further assumption?",
+    "o": [
+     "‘No S is P’ → ‘No P is S’.",
+     "‘All S are P’ → ‘All P are S’.",
+     "‘Some S is not P’ → ‘Some P is not S’.",
+     "‘All S are P’ → ‘Some P is S’."
+    ],
+    "a": 0,
+    "fb": "The E and the I convert simply. The A does not: all dogs are mammals, but not all mammals are dogs. Conversion of the A «by limitation» (from «All S are P» to «Some P is S») holds only if there is some S."
+   },
+   {
+    "q": "Trick case: ‘Some animal is not a dog’. Can it be converted into ‘Some dog is not an animal’?",
+    "o": [
+     "Yes: the O converts just like the I, swapping S and P.",
+     "No: the O does not convert, and here it leads to something false.",
+     "Yes, provided that there is at least one dog in the world.",
+     "Only in traditional logic, which assumed that there are dogs."
+    ],
+    "a": 1,
+    "fb": "The counterexample says it all: true premise, false conclusion. In O the predicate is distributed and the subject is not; swapping them round means talking about all animals without warrant."
+   },
+   {
+    "q": "Darapti: ‘All M are P; all M are S; therefore some S are P’. In present-day logic…",
+    "o": [
+     "It is valid outright, as in Aristotle's logic.",
+     "No; it is valid if we add that there is some M.",
+     "It is valid only if there is no M in the world.",
+     "It is not valid in any way, not even by adding premises."
+    ],
+    "a": 1,
+    "fb": "The two universal premises do not say that there is any M, but the conclusion does assert that something exists. If there is no M, the premises are true and the conclusion may be false. With the premise ‘there is some M’, it becomes valid again."
+   }
+  ]
+ },
+ "fil-boole-q": {
+  "name": "Classes, sets and Boolean algebra: the same law in five languages (Philosophy Year 1 · T4 · pathway, level 5)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "In Boolean algebra, the product x · y corresponds to…",
+    "o": [
+     "conjunction (∧), intersection (∩) and the AND gate",
+     "disjunction (∨), union (∪) and the OR gate",
+     "negation (¬), complement (Aᶜ) and the NOT gate",
+     "the conditional (→), inclusion (A ⊆ B) and the IMPLY gate"
+    ],
+    "a": 0,
+    "fb": "x · y equals 1 only if x and y equal 1, just as p ∧ q is true only if both are, and an element is in A ∩ B only if it is in A and in B."
+   },
+   {
+    "q": "In Boole, 1 + 1 = 1. Which connective does that sum correspond to?",
+    "o": [
+     "To ∧",
+     "To ∨",
+     "To ¬",
+     "To ↔"
+    ],
+    "a": 1,
+    "fb": "The Boolean sum equals 1 if at least one term equals 1: it is the inclusive ∨, the union and the OR gate. That is why 1 + 1 is not 2, but 1 (‘true or true’ is true)."
+   },
+   {
+    "q": "With ordinary numbers, if x and y can only be 0 or 1, which calculation gives exactly the value of x ∨ y?",
+    "o": [
+     "x + y",
+     "x · y",
+     "x + y − x · y",
+     "(x + y) · (1 − x · y)"
+    ],
+    "a": 2,
+    "fb": "With x = y = 1, x + y would give 2; subtracting x · y corrects it to 1, and in the other cases changes nothing. x · y is the ∧, and (x + y) · (1 − x · y) gives 0 with x = y = 1: it is the exclusive «or», not the inclusive one."
+   },
+   {
+    "q": "With ordinary numbers (0 and 1), the negation of x is…",
+    "o": [
+     "−x",
+     "1 − x",
+     "x − 1",
+     "1 / x"
+    ],
+    "a": 1,
+    "fb": "If x = 1, it gives 0; if x = 0, it gives 1. In sets it is the complement (Aᶜ) and in circuits the NOT gate."
+   },
+   {
+    "q": "De Morgan’s law ¬(p ∧ q) ↔ ¬p ∨ ¬q, written in Boolean algebra, is…",
+    "o": [
+     "(x · y)′ = x′ · y′",
+     "(x · y)′ = x′ + y′",
+     "(x + y)′ = x′ + y′",
+     "x′ · y′ = x + y"
+    ],
+    "a": 1,
+    "fb": "Outside «both at once» is «one fails or the other fails». In sets, (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ; in circuits, a NAND is an OR of two NOTs. (x · y)′ = x′ · y′ is the classic mistake: distributing the negation without changing the operation."
+   },
+   {
+    "q": "What do tautology and contradiction correspond to in sets?",
+    "o": [
+     "To the universe U and the empty set ∅.",
+     "To the empty set ∅ and the universe U, in that order.",
+     "To union and intersection.",
+     "To a set A and its complement Aᶜ."
+    ],
+    "a": 0,
+    "fb": "A tautology is true in every case, just as U contains every element; a contradiction is true in none, just as ∅ has no elements. In Boole they are 1 and 0, and in a circuit, the lamp that is always on or always off."
+   },
+   {
+    "q": "In Boolean algebra, x + x equals…",
+    "o": [
+     "2x",
+     "x",
+     "0",
+     "1"
+    ],
+    "a": 1,
+    "fb": "It is idempotence: p ∨ p is equivalent to p, and A ∪ A = A. With ordinary numbers, 1 + 1 = 2: that is why the bridges table writes ∨ as x + y − x · y."
+   },
+   {
+    "q": "The absorption law p ∨ (p ∧ q) ↔ p, in sets, is…",
+    "o": [
+     "A ∪ (A ∩ B) = A",
+     "A ∩ (A ∪ B) = B",
+     "A ∪ B = A",
+     "(A ∩ B)ᶜ = A"
+    ],
+    "a": 0,
+    "fb": "What is in A, or in A and in B at once, is simply what is in A: the common part was already inside A. The sister law is A ∩ (A ∪ B) = A."
+   },
+   {
+    "q": "Which of these equations holds in Boolean algebra, but not with ordinary numbers?",
+    "o": [
+     "x · (y + z) = x · y + x · z",
+     "x + y · z = (x + y) · (x + z)",
+     "x · (y + z + w) = x · y + x · z + x · w",
+     "x · 1 = x"
+    ],
+    "a": 1,
+    "fb": "It is the other distributive law, p ∨ (q ∧ r) ↔ (p ∨ q) ∧ (p ∨ r). With x = y = z = 1, the left gives 1 + 1 = 2 and the right 2 · 2 = 4 with ordinary numbers, but 1 in Boole. The others hold in both."
+   },
+   {
+    "q": "The set difference A − B (what is in A and not in B) corresponds to…",
+    "o": [
+     "p → q",
+     "p ∧ ¬q",
+     "¬(p ∧ q)",
+     "p ∨ ¬q"
+    ],
+    "a": 1,
+    "fb": "Being in A and not being in B: p ∧ ¬q, which is A ∩ Bᶜ. Curiously, it is the negation of the conditional: ¬(p → q) ↔ p ∧ ¬q."
+   },
+   {
+    "q": "A NAND gives 0 only when both its inputs equal 1. Which formula does it correspond to?",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬(p ∧ q)",
+     "¬(p ↔ q)",
+     "p ∧ q"
+    ],
+    "a": 1,
+    "fb": "NAND is «NOT AND»: the negation of the conjunction, which by De Morgan is ¬p ∨ ¬q. ¬p ∧ ¬q is the NOR, which gives 1 only if both inputs are 0; ¬(p ↔ q) is the XOR, which gives 0 with two ones, but also with two zeros."
+   },
+   {
+    "q": "Russell’s paradox takes the class R of all classes that are not members of themselves. What happens when you ask whether R is a member of R?",
+    "o": [
+     "It is, and there is no problem.",
+     "It is not, and there is no problem.",
+     "It is if and only if it is not: a contradiction.",
+     "The question makes no sense in propositional logic, but it does in Boole."
+    ],
+    "a": 2,
+    "fb": "If R ∈ R, it meets the condition of not being in itself, so R ∉ R; and if R ∉ R, it meets it, so R ∈ R. The way out was not to allow just any property to define a class: the axioms of set theory say which ones exist."
+   }
+  ]
+ },
+ "fil-relaciones-q": {
+  "name": "Properties of relations and small worlds (Philosophy Year 1 · T4 · pathway, level 8)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "What properties does ‘being taller than’ have?",
+    "o": [
+     "Reflexive, symmetric and transitive.",
+     "Transitive and asymmetric; it is not reflexive.",
+     "Symmetric and transitive, but not reflexive.",
+     "Only reflexive: everyone is taller than themselves."
+    ],
+    "a": 1,
+    "fb": "If Ana is taller than Bea and Bea than Carla, Ana is taller than Carla (transitive); if Ana is taller than Bea, Bea is not taller than Ana (asymmetric); and nobody is taller than themselves."
+   },
+   {
+    "q": "‘Being as tall as’ is…",
+    "o": [
+     "Reflexive, symmetric and transitive.",
+     "Symmetric, but not transitive: it fails in chains.",
+     "Transitive, but not symmetric, like «taller than».",
+     "Only symmetric, because height varies."
+    ],
+    "a": 0,
+    "fb": "Everyone is as tall as themselves; if a is as tall as b, b is as tall as a; and if a is as tall as b and b as c, a is as tall as c: it is an equivalence relation. An equivalence divides things into groups (here, by height)."
+   },
+   {
+    "q": "Is ‘being a friend of’ transitive?",
+    "o": [
+     "Yes, always: the friends of my friends are my friends.",
+     "No: a friend of a friend is not always your friend.",
+     "Yes, because it is symmetric, and what is symmetric is transitive.",
+     "No, because it is neither symmetric nor reflexive."
+    ],
+    "a": 1,
+    "fb": "It is symmetric (at least if friendship is mutual), but not transitive: one case in which a is a friend of b, b of c, and a is not a friend of c is enough. Symmetry and transitivity are independent."
+   },
+   {
+    "q": "Trick case: ‘being a brother or sister of’ is symmetric. Is it transitive?",
+    "o": [
+     "Yes: the brothers of my brothers are my brothers, and that is transitivity.",
+     "No: Ana is Bea's sister and Bea is Ana's, but Ana is not her own sister.",
+     "Yes, if we are talking about full siblings and not half-siblings.",
+     "There is no way of knowing without knowing the whole family."
+    ],
+    "a": 1,
+    "fb": "Transitivity also has to hold when the chain comes back to the start (a with b, b with a): it would force a to be her own sister. Almost transitive is not transitive: one counterexample is enough."
+   },
+   {
+    "q": "In the natural numbers, ‘being a divisor of’ (3 is a divisor of 12) is reflexive and transitive. Which property does it lack?",
+    "o": [
+     "Reflexive.",
+     "Transitive.",
+     "Symmetric.",
+     "None: it has them all."
+    ],
+    "a": 2,
+    "fb": "3 divides 12, but 12 does not divide 3. It is antisymmetric: if a divides b and b divides a, then a = b. Reflexive, antisymmetric and transitive: it is a (partial) order."
+   },
+   {
+    "q": "If a relation is symmetric and transitive, is it also reflexive?",
+    "o": [
+     "Yes: from a R b and b R a it follows that a R a, by transitivity, simply.",
+     "No: it is enough for there to be something that is not related to anything.",
+     "Yes, always, in any world you test.",
+     "Only if it is asymmetric."
+    ],
+    "a": 1,
+    "fb": "The argument «from a R b and b R a it follows that a R a» holds only for things that are related to something. In the world {a, b} with R = {(a, a)}, R is symmetric and transitive, but not reflexive: b is not related to itself."
+   },
+   {
+    "q": "If a relation is asymmetric (if a R b, then not b R a), what follows?",
+    "o": [
+     "That it is transitive, like «being taller than».",
+     "That it is irreflexive: nothing is related to itself.",
+     "That it is reflexive: everything is related to itself.",
+     "Nothing: asymmetry says nothing about a R a."
+    ],
+    "a": 1,
+    "fb": "If a R a, taking b = a, asymmetry would require not a R a: a contradiction. The converse does not hold: ‘being a brother or sister of’ is irreflexive and symmetric."
+   },
+   {
+    "q": "If a relation is transitive and irreflexive, is it asymmetric?",
+    "o": [
+     "Yes: if a R b and b R a, it would be a R a, which is forbidden.",
+     "No: transitivity and irreflexivity say nothing about symmetry.",
+     "Only if it is also symmetric, like friendship.",
+     "Only in finite worlds, where all the pairs can be examined."
+    ],
+    "a": 0,
+    "fb": "It is a three-step proof. That is why ‘being taller than’ is asymmetric without needing to check it: it is enough to see that it is transitive and that nobody is taller than themselves."
+   },
+   {
+    "q": "A small world: the things are a, b and c, and R = {(a, b), (b, c)}. Is R transitive?",
+    "o": [
+     "Yes: from a you get to c by way of b.",
+     "No: it has (a, b) and (b, c), but not (a, c).",
+     "Yes, because it is neither symmetric nor reflexive.",
+     "There is no way of knowing without knowing more about the world."
+    ],
+    "a": 1,
+    "fb": "To be transitive, whenever there is a two-step path there also has to be the shortcut. Here (a, c) is missing. If it is added, R becomes transitive."
+   },
+   {
+    "q": "In the same world (a, b, c; R = {(a, b), (b, c)}), is ‘∀x ∃y Rxy’, ‘everything is related to something’, true?",
+    "o": [
+     "Yes.",
+     "No: c is not related to anything.",
+     "Yes, because there are three pairs.",
+     "No, because a does not receive any arrow."
+    ],
+    "a": 1,
+    "fb": "You have to look at each x: a has its y (b), b has its own (c), but c has none. That a receives no arrows would matter for ∀y ∃x Rxy, not for this sentence."
+   },
+   {
+    "q": "In the same world, is ‘∃x ∀y ¬Ryx’, ‘there is something to which nothing is related’, true?",
+    "o": [
+     "Yes: nothing is related to a.",
+     "No: everything receives some arrow.",
+     "Yes: c is not related to anything.",
+     "It is impossible to tell."
+    ],
+    "a": 0,
+    "fb": "Ryx means «y is related to x»: we look for an x that no arrow reaches, and that is a. The answer «c is not related to anything» confuses the direction: c has no arrows leaving it, but one does arrive at it (from b)."
+   },
+   {
+    "q": "Trick case: you test many symmetric and transitive relations in a world of three things and all of them turn out reflexive. Has it been proved that every symmetric and transitive relation is reflexive?",
+    "o": [
+     "Yes, if many have been tested.",
+     "No: a small world can refute, but not prove; and besides, it is false.",
+     "Yes, if all the ones in that world are tested.",
+     "No, because three things are too few; with ten or a hundred it would already be proved."
+    ],
+    "a": 1,
+    "fb": "To prove, a statement has to hold in all worlds, and no number of cases guarantees that. Here, moreover, there is a counterexample: in the world {a, b}, R = {(a, a)} is symmetric and transitive, but not reflexive, because b is not related to itself. It is the limit of level 8."
    }
   ]
  },

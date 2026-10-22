@@ -1038,6 +1038,60 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
+  "t": "Appeal to emotion",
+  "id": "g-fil-apelacion-a-la-emocion",
+  "et": "In Latin, *ad misericordiam*, ‘to pity’, and *ad baculum*, ‘to the stick’, that is, to threat.",
+  "area": "Logic",
+  "tema": "Argumentation workshop",
+  "def": "Trying to get something accepted by stirring up an emotion (pity, fear, pride) instead of giving reasons."
+ },
+ {
+  "subject": "fil",
+  "t": "Tu quoque",
+  "id": "g-fil-tu-quoque",
+  "et": "From the Latin: ‘you too’. It is a variant of the attack on the person (ad hominem).",
+  "area": "Logic",
+  "tema": "Argumentation workshop",
+  "def": "Rejecting a criticism by pointing out that the person making it does not do what they ask either: they may be inconsistent, but that does not make the criticism false."
+ },
+ {
+  "subject": "fil",
+  "t": "False analogy",
+  "id": "g-fil-falsa-analogia",
+  "et": "*Analogy*, from the Greek ἀναλογία (*analogía*), ‘proportion, correspondence’.",
+  "area": "Logic",
+  "tema": "Argumentation workshop",
+  "def": "Concluding that two things coincide in one respect because they are alike in others, when the differences that matter outweigh the similarities."
+ },
+ {
+  "subject": "fil",
+  "t": "Equivocation",
+  "id": "g-fil-equivoco",
+  "et": "From the Latin *aequivocus*, ‘of equal voice’: one and the same word for different things. Aristotle studies it as παρὰ τὴν ὁμωνυμίαν (*parà tèn homonymían*), ‘by homonymy’ (*Sophistical Refutations* 4).",
+  "area": "Logic",
+  "tema": "Argumentation workshop",
+  "def": "Using the same word with two different meanings within a piece of reasoning, as if it were only one."
+ },
+ {
+  "subject": "fil",
+  "t": "Complex question",
+  "id": "g-fil-pregunta-compleja",
+  "et": "Also called a *captious question*, from the Latin *captiosus*, ‘that traps’. Aristotle speaks of ‘making several questions into one’ (*Sophistical Refutations* 5).",
+  "area": "Logic",
+  "tema": "Argumentation workshop",
+  "def": "Asking a question that takes for granted something that has not been accepted, so that any answer admits it (‘Have you stopped cheating in exams?’)."
+ },
+ {
+  "subject": "fil",
+  "t": "Red herring",
+  "id": "g-fil-pista-falsa",
+  "et": "From the English *red herring*: according to the usual explanation, a strong-smelling smoked fish that threw hunting dogs off the scent.",
+  "area": "Logic",
+  "tema": "Argumentation workshop",
+  "def": "Steering the discussion towards another topic so as not to answer the one being discussed."
+ },
+ {
+  "subject": "fil",
   "t": "Essay",
   "id": "g-fil-disertacion",
   "et": "From the Latin *dissertatio*, from *disserere*, ‘to set out in order, to link reasons’.",
