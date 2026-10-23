@@ -485,6 +485,16 @@ const CITAS = [
   "uso": "To explain the state of nature and natural rights in Locke, or to compare it with Hobbes and Rousseau."
  },
  {
+  "c": "Many have imagined republics and principalities that have never existed or been truly known; for there is such a distance between how one lives and how one ought to live that whoever abandons what is done for what ought to be done learns his ruin rather than his preservation.",
+  "a": "Machiavelli",
+  "o": "The Prince (1513) XV",
+  "e": "modern",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg",
+  "sen": "Machiavelli separates politics from morality: whoever governs must pay attention to how people really behave, not to ideal republics, if he wants to keep power.",
+  "uso": "To explain Machiavelli’s political realism and the move to modern politics, or in debates about ethics and politics."
+ },
+ {
   "c": "A Christian is lord of all things and subject to no one. A Christian is servant of all things and subject to everyone.",
   "a": "Martin Luther",
   "o": "The Freedom of a Christian (1520), § 1",
@@ -1359,6 +1369,17 @@ const CITAS = [
   "img": "media/retratos/museo/rousseau.jpg",
   "sen": "In Emile, Rousseau proposes for Sophie, Emile’s future wife, an education designed to please and serve men, very different from the education in freedom he designs for him.",
   "uso": "To explain the contradiction between equality and the exclusion of women in the Enlightenment, or when presenting Mary Wollstonecraft’s criticism of Rousseau."
+ },
+ {
+  "c": "One would like to be both; but, as it is hard to combine them, it is much safer to be feared than loved when one of the two has to be lacking.",
+  "a": "Machiavelli",
+  "o": "The Prince (1513) XVII",
+  "e": "modern",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg",
+  "sen": "For Machiavelli, the ruler must start from how people are, not from how they ought to be: since love is unstable, fear gives a surer hold, though without going as far as being hated.",
+  "uso": "To explain Machiavelli’s political realism and the separation of politics from morality, or in debates about power.",
+  "trampa": "‘The end justifies the means’ is attributed to Machiavelli, but that sentence does not appear in The Prince."
  },
  {
   "c": "We are all patchwork, and so shapeless and diverse in composition that each piece, each moment, plays its own game. And there is as much difference between us and ourselves as between us and others.",
