@@ -958,6 +958,16 @@ const CITAS = [
   "uso": "To introduce Unamuno’s thought and the tragic sense of life, or in an essay on reason and faith in the face of death."
  },
  {
+  "c": "Liquid is what does not keep its shape for long.",
+  "a": "Zygmunt Bauman",
+  "o": "Liquid Modernity (2000), Preface",
+  "e": "contemporary",
+  "id": "bauman",
+  "img": "media/retratos/ilustres/bauman.jpg",
+  "sen": "Bauman uses the image of liquids to describe our age: jobs, relationships and identities are no longer solid or lasting, but constantly change shape.",
+  "uso": "To explain Bauman’s liquid modernity, or in debates about precariousness, consumerism and relationships in today’s society."
+ },
+ {
   "c": "Thoughts without content are empty; intuitions without concepts are blind.",
   "a": "Immanuel Kant",
   "o": "Critique of Pure Reason (1781), Transcendental Logic, Introduction, I (A 51 / B 75)",
