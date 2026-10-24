@@ -39,7 +39,7 @@
   <div class="wrap bar-in">
     <a class="brand" href="#fil"><span class="owl" aria-hidden="true">🦉</span> Philosophy Classroom</a>
     <nav class="tabs" id="tabs" aria-label="Sections">
-      <div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Study</span><div class="navmenu"><button data-view="fil" aria-current="true">Theory</button><button data-view="pilares">Pillars</button><button data-view="tarjetas">Cards</button><button data-view="mapas">Maps and infographics</button><button data-view="glosario">Dictionary</button><button data-view="etimos">Roots</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Practise</span><div class="navmenu"><button data-view="cuestionarios">Quizzes</button><button data-view="pistas">Hints</button><button data-view="rescritura">Rewriting</button><button data-view="dilemas">Debate</button></div></div><button data-view="logica">Logic</button><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Write and read</span><div class="navmenu"><button data-view="disertaciones">Essays</button><button data-view="lecturas">Readings</button></div></div><div class="navsec navsplit"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">History</span><div class="navmenu"><button data-view="biografias">Biographies</button><button data-view="adagios">Adages</button><button data-view="galeria">Gallery</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Games</span><div class="navmenu"><button data-view="rayuela">Philosophical hopscotch</button><button data-view="leibniz">Workshops</button></div></div>
+      <div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Study</span><div class="navmenu"><button data-view="fil" aria-current="true">Theory</button><button data-view="pilares">Pillars</button><button data-view="tarjetas">Cards</button><button data-view="mapas">Maps and infographics</button><button data-view="diccionario">Dictionary</button><button data-view="etimos">Roots</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Practise</span><div class="navmenu"><button data-view="cuestionarios">Quizzes</button><button data-view="pistas">Hints</button><button data-view="rescritura">Rewriting</button><button data-view="dilemas">Debate</button></div></div><button data-view="logica">Logic</button><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Write and read</span><div class="navmenu"><button data-view="disertaciones">Essays</button><button data-view="lecturas">Readings</button></div></div><div class="navsec navsplit"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">History</span><div class="navmenu"><button data-view="biografias">Biographies</button><button data-view="adagios">Adages</button><button data-view="galeria">Gallery</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Games</span><div class="navmenu"><button data-view="rayuela">Philosophical hopscotch</button><button data-view="leibniz">Workshops</button></div></div>
     </nav>
     <button class="navtoggle" id="navtoggle" aria-label="Open sections menu" aria-expanded="false">☰</button>
     <button class="theme" id="helpbtn" title="How to use the website" aria-label="How to use the website">?</button>
@@ -187,7 +187,7 @@
   </section>
 
   <!-- RESÚMENES (antes «Esquemas de autor») -->
-  <section class="view" id="esqautor">
+  <section class="view" id="resumenes">
     <p class="eyebrow">Study</p>
     <h1 class="title">Summaries</h1>
     <p class="lead"><strong>One summary per topic</strong> of the course, in a clean text format: the topic’s question, its sections with their concepts and authors, and the key idea, on a single revision page. They complement the graphs in <strong>Outlines</strong>.</p>
@@ -205,14 +205,14 @@
     <div class="galgrid" id="galgrid"></div>
   </section>
 
-  <!-- GLOSARIO -->
-  <section class="view" id="glosario">
+  <!-- DICCIONARIO -->
+  <section class="view" id="diccionario">
     <p class="eyebrow">Reference</p>
     <h1 class="title">Dictionary</h1>
     <p class="lead">The subject’s dictionary: <strong>Terms</strong> from Year 1 Philosophy with their definitions, taken from the department’s textbook. Search by word or filter by <strong>block</strong> and <strong>area</strong>.</p>
-    <div class="filterbar" id="glofilter" role="group" aria-label="Filter dictionary"></div>
-    <div class="glocount" id="glocount"></div>
-    <div class="glolist" id="glolist"></div>
+    <div class="filterbar" id="dicfilter" role="group" aria-label="Filter dictionary"></div>
+    <div class="diccount" id="diccount"></div>
+    <div class="diclist" id="diclist"></div>
   </section>
 
   <!-- ÉTIMOS -->
@@ -247,7 +247,7 @@
   </section>
 
   <section class="view" id="epocas">
-    <!-- (12-10) Índice de las fichas de época (epocas_fichas.js), que antes solo se abrían desde Ilustres; cada tarjeta lleva el cosmos de su época. -->
+    <!-- (12-10) Índice de las fichas de época (epocas_fichas.js), que antes solo se abrían desde Biografías; cada tarjeta lleva el cosmos de su época. -->
     <p class="eyebrow">History</p>
     <h1 class="title">Periods</h1>
     <p class="lead">Seven cards, from ancient Greece to today: what changed in each era in society, politics, science, art and thought, and how the cosmos was pictured.</p>
@@ -337,11 +337,11 @@
     <div id="itin-quiz"></div>
   </section>
 
-  <section class="view" id="reto">
+  <section class="view" id="retos">
     <p class="eyebrow">Tool</p>
-    <h1 class="title">Juego · Reto</h1>
+    <h1 class="title">Challenges</h1>
     <p class="lead">Revise by playing: against the clock, with points for speed and streaks. Your best score is saved in this browser.</p>
-    <div id="retobox"></div>
+    <div id="retosbox"></div>
   </section>
 
   
@@ -1076,7 +1076,7 @@
 <script src="js/tarjetas_img.js"></script>
 <script src="js/flashcards.js"></script>
 <script src="js/quiz.js"></script>
-<script src="js/retoview.js"></script>
+<script src="js/retosview.js"></script>
 <script src="js/theory.js"></script>
 <script src="js/theoryview.js"></script>
 <script src="js/retratos_museo.js"></script>
@@ -1092,8 +1092,8 @@
 <script src="js/lecturasview.js"></script>
 <script src="js/disertaciones.js"></script>
 <script src="js/disertacionesview.js"></script>
-<script src="js/pau.js"></script>
-<script src="js/pauview.js"></script>
+<script src="js/prepara_PAU.js"></script>
+<script src="js/prepara_PAUview.js"></script>
 <script src="js/comentario.js"></script>
 <script src="js/comentarioview.js"></script>
 <script src="js/diapositivas.js"></script>
@@ -1105,9 +1105,9 @@
 <script src="js/mapsview.js"></script>
 <script src="js/infografias.js"></script>
 <script src="js/infografiasview.js"></script>
-<script src="js/glosario.js"></script>
-<script src="js/glosario_grids.js"></script>
-<script src="js/glosarioview.js"></script>
+<script src="js/diccionario.js"></script>
+<script src="js/diccionario_grids.js"></script>
+<script src="js/diccionarioview.js"></script>
 <script src="js/biografias.js"></script>
 <script src="js/videos_eu.js"></script>
 <script src="js/epocas_fichas.js"></script>
@@ -1166,7 +1166,7 @@
 <script src="js/esq_grid.js"></script>
 <script src="js/esquemasview.js"></script>
 <script src="js/resumenes_fil.js"></script>
-<script src="js/esquemas_autorview.js"></script>
+<script src="js/resumenesview.js"></script>
 <script src="js/sesiones.js"></script>
 <script src="js/sesionesview.js"></script>
 <script src="js/calendarioview.js"></script>
@@ -1189,7 +1189,7 @@
 <script src="js/compacto.js"></script>
 <script src="js/nav_toc.js"></script>
 <script src="js/lazy_libs.js"></script>
-<script>window.USO_CONFIG={"url":"https://script.google.com/macros/s/AKfycbzBE41zf12MG7pFbgwgjbOQPriNBJZz4vSigkE-gIjWgSx67pQ-K1IgI4qoRpMlIaQT/exec","grupos":{"fil":["1C","1D","1G"]},"version":"v275"};</script>
+<script>window.USO_CONFIG={"url":"https://script.google.com/macros/s/AKfycbzBE41zf12MG7pFbgwgjbOQPriNBJZz4vSigkE-gIjWgSx67pQ-K1IgI4qoRpMlIaQT/exec","grupos":{"fil":["1C","1D","1G"]},"version":"v276"};</script>
 <script src="js/uso.js"></script>
 <script>
   /* PWA: registra el service worker (offline + instalable). Falla en silencio

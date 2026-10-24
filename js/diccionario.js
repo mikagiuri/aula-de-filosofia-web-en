@@ -1,5 +1,5 @@
-// Generado por web_i18n/i18n_rebuild.js (en) a partir de web/js/glosario.js. No editar a mano: editar la memoria tm/en.json y regenerar.
-const GLOSARIO = [
+// Generado por web_i18n/i18n_rebuild.js (en) a partir de web/js/diccionario.js. No editar a mano: editar la memoria tm/en.json y regenerar.
+const DICCIONARIO = [
  {
   "subject": "fil",
   "t": "Philosophy",
@@ -17,7 +17,7 @@ const GLOSARIO = [
   "area": "Method",
   "tema": "Philosophy · Topic 1",
   "def": "The ability to be struck by what seems obvious to everyone else. For Plato and Aristotle, it is the origin of philosophy.",
-  "ilustre": [
+  "biografia": [
    "platon",
    "aristoteles"
   ]
@@ -57,7 +57,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · Topic 1",
   "def": "The original principle or element from which everything comes. Thales of Miletus identified it with water.",
-  "ilustre": [
+  "biografia": [
    "tales"
   ]
  },
@@ -185,7 +185,7 @@ const GLOSARIO = [
   "area": "Method",
   "tema": "Philosophy · Topic 1",
   "def": "‘Dare to know’: Kant’s watchword; have the courage to use your own reason.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -197,7 +197,7 @@ const GLOSARIO = [
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
   "def": "The process by which species change over time; Darwin explained it through natural selection and common descent.",
-  "ilustre": [
+  "biografia": [
    "darwin"
   ]
  },
@@ -236,7 +236,7 @@ const GLOSARIO = [
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
   "def": "The whole of knowledge, beliefs, art, morals, law, customs and habits acquired as a member of a society (Tylor).",
-  "ilustre": [
+  "biografia": [
    "tylor"
   ]
  },
@@ -320,7 +320,7 @@ const GLOSARIO = [
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
   "def": "In Descartes: the ‘thinking thing’ (the mind) and the ‘extended thing’ (the body, matter).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -350,7 +350,7 @@ const GLOSARIO = [
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
   "def": "A trait that Aristotle adds: we need to live in community in order to develop and be fully human.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -371,7 +371,7 @@ const GLOSARIO = [
   "area": "Ethics",
   "tema": "Philosophy · Topic 2",
   "def": "The absolute value of the person, which makes them an end in themselves and never a mere means (Kant).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -428,7 +428,7 @@ const GLOSARIO = [
   "area": "Anthropology",
   "tema": "Philosophy · Topic 2",
   "def": "The concrete surroundings (age, body, society) with which the self is made: ‘I am myself and my circumstance’ (Ortega).",
-  "ilustre": [
+  "biografia": [
    "ortega"
   ]
  },
@@ -503,7 +503,7 @@ const GLOSARIO = [
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
   "def": "The current that asserts that all knowledge comes from sensory experience (Locke, Hume).",
-  "ilustre": [
+  "biografia": [
    "locke",
    "hume"
   ]
@@ -516,7 +516,7 @@ const GLOSARIO = [
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
   "def": "The current that trusts above all in reason as the source of knowledge (Descartes).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -528,7 +528,7 @@ const GLOSARIO = [
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
   "def": "Kant’s synthesis (apriorism): knowledge arises from experience, but orders it with a priori structures of the subject.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -549,7 +549,7 @@ const GLOSARIO = [
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
   "def": "In Kant: the phenomenon is what appears to us (the knowable); the noumenon is the thing in itself (unknowable).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -624,7 +624,7 @@ const GLOSARIO = [
   "area": "Epistemology",
   "tema": "Philosophy · Topic 3",
   "def": "The state in which a truth presents itself clearly and distinctly, beyond any possible doubt (Descartes).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -751,7 +751,7 @@ const GLOSARIO = [
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
   "def": "An ethics that identifies the good with happiness (Aristotle).",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -772,7 +772,7 @@ const GLOSARIO = [
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
   "def": "In Aristotle, the habit of choosing the mean between two extremes; excellence of character.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -784,7 +784,7 @@ const GLOSARIO = [
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
   "def": "An ethics (deontology) that judges an action by its conformity with duty, not by its consequences (Kant).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -796,7 +796,7 @@ const GLOSARIO = [
   "area": "Ethics",
   "tema": "Philosophy · Topic 5",
   "def": "Kant’s unconditional command: act only according to the maxim that you can will to become a universal law.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -870,7 +870,7 @@ const GLOSARIO = [
   "area": "Aesthetics",
   "tema": "Philosophy · Topic 7",
   "def": "The judgement with which we value something as beautiful or ugly; for Kant it is subjective but aspires to universal validity.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -1141,7 +1141,7 @@ const GLOSARIO = [
   "area": "Logic",
   "tema": "Philosophy · Topic 4",
   "def": "A proposition’s taking for granted that what it speaks about exists. For Aristotle, affirmative propositions assume it; for modern logic, universal ones do not: ‘all unicorns have one horn’ is true even though there are no unicorns. That is why syllogisms such as Darapti stop being valid.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -1161,7 +1161,7 @@ const GLOSARIO = [
   "area": "Logic",
   "tema": "Philosophy · Topic 4",
   "def": "Two relations that in everyday language are both expressed with ‘is’. Membership (∈) links an individual with a class: ‘Socrates ∈ humans’. Inclusion (⊆) links two classes: ‘humans ⊆ mortals’. Inclusion can be chained; membership cannot.",
-  "ilustre": [
+  "biografia": [
    "socrates"
   ]
  },
@@ -1180,7 +1180,7 @@ const GLOSARIO = [
   "area": "Logic",
   "tema": "Philosophy · Topic 4",
   "def": "Denying a disjunction is equivalent to denying both its parts: ¬(p ∨ q) = ¬p ∧ ¬q (‘neither one nor the other’). Denying a conjunction is equivalent to denying at least one part: ¬(p ∧ q) = ¬p ∨ ¬q. With classes: (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ and (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. They were formulated by Augustus De Morgan in the 19th century.",
-  "ilustre": [
+  "biografia": [
    "de_morgan"
   ]
  },
@@ -1191,7 +1191,7 @@ const GLOSARIO = [
   "area": "Logic",
   "tema": "Philosophy · Topic 4",
   "def": "A drawing that represents each class with a circle placed according to the relation being asserted: one inside another (all), separate (none) or overlapping (some). Leonhard Euler made it popular in his letters of 1761. If we do not know how the classes are arranged, several situations have to be drawn.",
-  "ilustre": [
+  "biografia": [
    "euler"
   ]
  },
@@ -1202,7 +1202,7 @@ const GLOSARIO = [
   "area": "Logic",
   "tema": "Philosophy · Topic 4",
   "def": "A drawing that represents classes with circles that always overlap, so that all the possible regions appear. The empty regions are shaded, and a region that contains at least one thing is marked with ✕. John Venn proposed it in 1880; with three circles it lets you check whether a syllogism is valid.",
-  "ilustre": [
+  "biografia": [
    "venn"
   ]
  },
@@ -1214,7 +1214,7 @@ const GLOSARIO = [
   "area": "Logic",
   "tema": "Philosophy · Topic 4",
   "def": "Is the class of all classes that are not members of themselves a member of itself? If it is, it is not; if it is not, it is. Bertrand Russell put it to Frege in 1902 and showed that not every property can define a class.",
-  "ilustre": [
+  "biografia": [
    "frege",
    "russell"
   ]
@@ -1236,7 +1236,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "What things seem to be, as opposed to what they really are. For Parmenides, the change and multiplicity we see are mere appearance.",
-  "ilustre": [
+  "biografia": [
    "parmenides"
   ]
  },
@@ -1257,7 +1257,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "For Aristotle, a quality that exists only in a substance and can change, such as colour, size or place.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -1295,7 +1295,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "A test proposed by Alan Turing in 1950: if, conversing in writing, we cannot tell a machine from a person, we would have no grounds for denying it intelligence.",
-  "ilustre": [
+  "biografia": [
    "turing"
   ]
  },
@@ -1315,7 +1315,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "An expression of David Chalmers (1995): explaining why subjective experience exists, what it feels like to see red.",
-  "ilustre": [
+  "biografia": [
    "chalmers"
   ]
  },
@@ -1354,7 +1354,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "The position of Hobbes and Hume: freedom and determinism can go together, because being free is not acting without causes, but acting according to one’s own desires and reasons, without coercion.",
-  "ilustre": [
+  "biografia": [
    "hobbes",
    "hume"
   ]
@@ -1367,7 +1367,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "Reasoning that starts from the world: the chain of movers and causes cannot go on without end, so it requires a first mover, a first cause, a necessary being (the five ways of Thomas Aquinas).",
-  "ilustre": [
+  "biografia": [
    "tomas"
   ]
  },
@@ -1379,7 +1379,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "Teleological reasoning: the order of nature, like that of a watch, requires a designer (Paley). It was criticised by Hume and, with natural selection, by Darwin.",
-  "ilustre": [
+  "biografia": [
    "hume",
    "darwin"
   ]
@@ -1401,7 +1401,7 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "The name Leibniz gave (1710) to the believer’s answers to the problem of evil; one of the best known holds that evil is the price of human freedom.",
-  "ilustre": [
+  "biografia": [
    "leibniz"
   ]
  },
@@ -1422,12 +1422,12 @@ const GLOSARIO = [
   "area": "Metaphysics",
   "tema": "Philosophy · M",
   "def": "The position that God is reached through faith and not through reason, so that arguments are not the way; Kierkegaard is usually cited.",
-  "ilustre": [
+  "biografia": [
    "kierkegaard"
   ]
  }
 ];
-const GLOSARIO_TRAMPAS = {
+const DICCIONARIO_TRAMPAS = {
  "fil": [
   [
    "Myth",

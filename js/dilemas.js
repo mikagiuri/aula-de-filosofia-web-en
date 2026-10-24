@@ -49,7 +49,7 @@ const DILEMAS = [
     "quien": "Descartes (rationalism)",
     "elige": "A",
     "porque": "He too imagined an evil demon who deceived him in everything, and he found firm ground: I can doubt everything except that I am doubting; and from that ‘I think’ he rebuilt the world. Doubt is a method, not a destiny.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Pyrrho (scepticism)",
@@ -60,13 +60,13 @@ const DILEMAS = [
     "quien": "Hume (empiricism)",
     "elige": "A",
     "porque": "He recognises that reason cannot prove that the external world exists, but nature is stronger than scepticism: as soon as you leave your study, you play, you dine and you believe in the world. Belief is not proved, it is lived.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "We know phenomena, not the thing in itself; but that is not a deception, it is the condition of all knowledge. The world as we experience it is objective for all rational beings, and that is enough.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -100,7 +100,7 @@ const DILEMAS = [
     "quien": "Aristotle",
     "elige": "A",
     "porque": "The experience (empeiria) of someone who has seen many cases is the origin of practical knowledge; the prudent physician knows the particular, which general principles do not reach.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Bacon and modern science",
@@ -111,7 +111,7 @@ const DILEMAS = [
     "quien": "Hume",
     "elige": "B",
     "porque": "Custom makes us expect that what we saw will be repeated; thirty years of custom are not proof, they are thirty years of habit. A wise person proportions their belief to the evidence.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Popper (20th century)",
@@ -160,13 +160,13 @@ const DILEMAS = [
     "quien": "Plato",
     "elige": "B",
     "porque": "The true self is the soul, not the body or its functions; if the process only copies functions, it copies the body, and the soul is not manufactured.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Hume",
     "elige": "B",
     "porque": "When I look for myself, I find only loose perceptions; the ‘self’ is a bundle, a useful fiction. The question of whether ‘you will still be you’ has no answer because there is no such thing.",
-    "ilustre": "hume"
+    "biografia": "hume"
    }
   ],
   "debate": {
@@ -200,19 +200,19 @@ const DILEMAS = [
     "quien": "Aristotle",
     "elige": "A",
     "porque": "The human being is by nature an animal that speaks and lives in the polis; whoever lives outside the community ‘is either a beast or a god’. Educating him is helping him to be what he already is in potential.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "Man is born good and free and society puts him in chains; the boy in the forest is not a defect of humanity but a sample of what we are before they deform us.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "The human being is the only creature that must be educated; only through education can he become a human being. There is no humanity without discipline and culture.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Marx and cultural anthropology",
@@ -251,25 +251,25 @@ const DILEMAS = [
     "quien": "Epicurus (hedonism)",
     "elige": "A",
     "porque": "With conditions: the pleasure that counts is the absence of pain and fear (ataraxia); a painless machine fulfils his ideal, provided there is no fear that it will fail.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Bentham and Mill (utilitarianism)",
     "elige": "A",
     "porque": "Bentham would measure the quantity of pleasure and say yes; Mill distinguishes higher and lower pleasures (‘better to be a Socrates dissatisfied than a fool satisfied’) and would hesitate.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristotle (eudaimonia)",
     "elige": "B",
     "porque": "Happiness is not a sensation but an activity of the soul in accordance with virtue; whoever does not act does not live well.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "A programmed life gives up autonomy; dignity lies in giving the law to oneself, not in being a receiver of stimuli.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -303,31 +303,31 @@ const DILEMAS = [
     "quien": "Bentham (utilitarianism)",
     "elige": "A",
     "porque": "Five lives are worth more than one in any calculation; the way of saving them is a detail. The emotions that hold us back are remnants of moral superstition.",
-    "ilustre": "bentham"
+    "biografia": "bentham"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Pushing the man is treating him merely as a means, and that is forbidden by the categorical imperative. Diverting the trolley does not use him: his death is an effect, not the instrument.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Thomas Aquinas (doctrine of double effect)",
     "elige": "B",
     "porque": "An action with a bad effect can be permissible if the evil is neither the means nor the end, but a proportionate side effect. The lever meets the rule; the push does not.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Aristotle",
     "elige": "B",
     "porque": "The virtuous person does not decide with a formula but with character: there are actions that a good man does not perform, and pushing an innocent person is one of them, even if the result is better.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Spinoza",
     "elige": "—",
     "porque": "Before choosing, three questions: what do I really know, who has built the situation, and from which affect am I acting? Reason chooses the lesser of two evils (Ethics, IV, 65), but without knowing the people or the circumstances, ‘five against one’ is a calculation of the imagination. Either way out can be taken from fear or ambition, or from strength of mind and generosity: what makes an action free is not the result, but understanding why you act.",
-    "ilustre": "spinoza"
+    "biografia": "spinoza"
    }
   ],
   "debate": {
@@ -361,25 +361,25 @@ const DILEMAS = [
     "quien": "Kant",
     "elige": "B",
     "porque": "Lying is always contrary to duty because it destroys the source of all right: trust in the word. But Kant does not oblige us to tell the whole truth, only not to assert what is false: keeping silent or changing the subject is permissible.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Mill (utilitarianism)",
     "elige": "A",
     "porque": "If the truth only produces suffering and cannot change anything, lying is the right action. Yet Mill adds: the rule of truthfulness is so useful that exceptions must be very rare.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristotle (virtue ethics)",
     "elige": "B",
     "porque": "The prudent person would not lie, but neither would they throw the truth like a stone: they would find the right way, at the right moment, to be with their grandfather. Virtue lies not in the rule but in tact.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Augustine of Hippo",
     "elige": "B",
     "porque": "He wrote two treatises against lying: no lie is permissible, not even one that saves a life, because whoever lies loses something worth more than what they are protecting.",
-    "ilustre": "agustin"
+    "biografia": "agustin"
    }
   ],
   "debate": {
@@ -418,19 +418,19 @@ const DILEMAS = [
     "quien": "Plato (Socrates)",
     "elige": "B",
     "porque": "The whole Republic is the answer: justice is the harmony of the soul, and the unjust person, even with the ring, lives with a soul tyrannised by their desires. No ring saves them from that.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Hobbes",
     "elige": "A",
     "porque": "In the state of nature everyone has a right to everything; laws are binding because there is a sword behind them. ‘Covenants without the sword are but words.’",
-    "ilustre": "hobbes"
+    "biografia": "hobbes"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Morality does not depend on consequences or on being seen: an action is good if its maxim can become a universal law, and ‘I will steal when no one is looking’ cannot.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -464,7 +464,7 @@ const DILEMAS = [
     "quien": "Rawls (egalitarian liberalism)",
     "elige": "B",
     "porque": "Behind the veil of ignorance, a rational being chooses the maximin strategy: make the worst possible position as good as possible. Hence his two principles: basic liberties for all, and inequalities only if they favour the worst off.",
-    "ilustre": "rawls"
+    "biografia": "rawls"
    },
    {
     "quien": "Nozick (libertarianism)",
@@ -475,7 +475,7 @@ const DILEMAS = [
     "quien": "Aristotle",
     "elige": "B",
     "porque": "Justice is giving each person their due according to merit, but the city exists for the good life of all, and a polis of extremes, very rich and very poor, is not a city but two cities at war.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Marx",
@@ -514,25 +514,25 @@ const DILEMAS = [
     "quien": "Plato",
     "elige": "A",
     "porque": "The city is like a ship: whoever does not know how to sail should not take the helm. Democracy hands power to whoever flatters the masses best, and from there the tyrant is born. Those who know, the philosophers, should govern.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Aristotle",
     "elige": "B",
     "porque": "Many people who are individually not wise, when gathered together, can judge better than a few, like a banquet to which everyone brings a dish. Moreover, the wearer of the shoes knows better than the shoemaker where they pinch.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "Sovereignty belongs to the people and cannot be delegated: the law is just because the general will wants it, not because an expert dictates it. A people that lets others decide is no longer free.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Mill",
     "elige": "A",
     "porque": "Halfway: he defended universal suffrage, but proposed that the best educated should have more than one vote. He feared the ‘tyranny of the majority’ as much as that of a king.",
-    "ilustre": "mill"
+    "biografia": "mill"
    }
   ],
   "debate": {
@@ -566,13 +566,13 @@ const DILEMAS = [
     "quien": "Plato",
     "elige": "A",
     "porque": "With irony: for Plato every painting is already a copy of a copy, three degrees removed from the truth; the forgery merely adds one more degree of deception to what was already deception.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Kant (aesthetic judgement)",
     "elige": "B",
     "porque": "The judgement of taste is disinterested: the beautiful pleases us regardless of the existence, origin or usefulness of the object. If the painting was beautiful on Monday, it is still beautiful on Tuesday.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Hegel and Romantic aesthetics",
@@ -616,7 +616,7 @@ const DILEMAS = [
     "quien": "Locke (empiricism)",
     "elige": "A",
     "porque": "Yes, but with a problem: personal identity is the continuity of consciousness and memory, and both bodies keep your consciousness. His criterion says that both are you, and one person cannot be two: it is a case Locke never considered.",
-    "ilustre": "locke"
+    "biografia": "locke"
    },
    {
     "quien": "Parfit (20th century)",
@@ -632,7 +632,7 @@ const DILEMAS = [
     "quien": "Descartes (rationalism)",
     "elige": "B",
     "porque": "For another reason: the mind, the thinking thing, is indivisible, unlike the body; it cannot be cut in half along with the hemispheres. What the surgeon divides is the body, not the self.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    }
   ],
   "debate": {
@@ -666,25 +666,25 @@ const DILEMAS = [
     "quien": "Kant (Enlightenment)",
     "elige": "A",
     "porque": "To become enlightened is to dare to use your own understanding. An inherited fear that cannot withstand the examination of reason should not guide you: letting it decide is remaining in immaturity.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Descartes (rationalism)",
     "elige": "A",
     "porque": "His first rule of method: never accept anything as true that is not known with evidence. A prejudice does not gain authority by being deeply rooted.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Epicurus",
     "elige": "A",
     "porque": "Knowing how nature works serves to free us from unfounded fears. The fabric is atoms, like everything else; fearing it is letting an empty fear take away your serenity.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Hume (empiricism)",
     "elige": "B",
     "porque": "With nuances: reason alone does not move us to act; feelings and custom decide almost everything we do, and a reluctance without an argument is not madness, it is human. What it must not do is turn into a belief about wool.",
-    "ilustre": "hume"
+    "biografia": "hume"
    }
   ],
   "debate": {
@@ -718,25 +718,25 @@ const DILEMAS = [
     "quien": "Aristotle",
     "elige": "A",
     "porque": "What is real in the first place are concrete substances, which exist in themselves: these people. Spider-Man only exists in something else, in comics and in minds: he is, but in a derived way. Being is said in many ways.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Thomas Aquinas",
     "elige": "A",
     "porque": "You can know very well what Spider-Man is, his essence, without his existing. Knowing the essence of something does not give it existence, and the village has just what Spider-Man lacks: it exists.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Berkeley (idealism)",
     "elige": "A",
     "porque": "To be is to be perceived, but not everything perceived is equal: the ideas of the senses, vivid and orderly, which do not depend on my will, are the real things; those fabricated by the imagination, like Spider-Man, are weaker and depend on me.",
-    "ilustre": "berkeley"
+    "biografia": "berkeley"
    },
    {
     "quien": "Nietzsche",
     "elige": "B",
     "porque": "He distrusts whoever separates a ‘true world’ from the world we live in: in Twilight of the Idols he tells how that ‘true world’ ended up becoming a fable. What counts is what acts in a life, and what Spider-Man does in yours is real.",
-    "ilustre": "nietzsche"
+    "biografia": "nietzsche"
    }
   ],
   "debate": {
@@ -770,19 +770,19 @@ const DILEMAS = [
     "quien": "Thomas Aquinas",
     "elige": "A",
     "porque": "In a case of extreme necessity, all things are common: taking what belongs to another in order to save a life, one’s own or another’s, is not properly stealing. Property exists to serve life, not the other way round.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Mill (utilitarianism)",
     "elige": "A",
     "porque": "Count the consequences: a life saved weighs far more than the harm to a laboratory that will go on making money. Though he would add a warning: a general habit of stealing whenever one believes oneself justified would have bad consequences for everyone.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Kant (ethics of duty)",
     "elige": "B",
     "porque": "Test your maxim: ‘I will steal whenever I think I need to’; made a universal law, it destroys property and trust. The duty to help exists, but it does not authorise violating another’s right; Kant even said that in a case of necessity the act may go unpunished, but that does not make it just.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Gilligan (ethics of care)",
