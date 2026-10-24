@@ -4360,7 +4360,7 @@ const PISTAS = [
       "etiqueta": "Three contractualists",
       "titulo": "From the state of nature to the State",
       "definicion": [
-       "<strong>Hobbes</strong>: ‘war of all against all’ (‘man is a wolf to man’) → out of fear, everyone gives up their power to a sovereign → absolute monarchy (the Leviathan).",
+       "<strong>Hobbes</strong>: ‘war of all against all’ (‘man is a wolf to man’, a line from Plautus that he made famous) → out of fear, everyone gives up their power to a sovereign → absolute monarchy (the Leviathan).",
        "<strong>Locke</strong>: an insecure peace, with natural rights (life, liberty, property) → limited pact → liberal State, with separation of powers and the right to rebel against the tyrant.",
        "<strong>Rousseau</strong>: the ‘noble savage’ is free and equal; society corrupts him → a pact in which each person submits to the general will → democracy."
       ],

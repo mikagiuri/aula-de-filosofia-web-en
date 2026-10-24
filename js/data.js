@@ -5845,7 +5845,7 @@ const QUIZZES = {
     "fb": "It was Hannah Arendt who analysed totalitarianism as the power that annuls freedom, plurality and public life."
    },
    {
-    "q": "The phrase ‘man is a wolf to man’ sums up the state of nature according to…",
+    "q": "Plautus’s phrase ‘man is a wolf to man’, which became famous in the 17th century, sums up the state of nature according to…",
     "o": [
      "Hobbes",
      "Locke",
@@ -5853,7 +5853,7 @@ const QUIZZES = {
      "Aristotle"
     ],
     "a": 0,
-    "fb": "Hobbes describes the state of nature as a war of all against all, in which ‘man is a wolf to man’."
+    "fb": "Hobbes, who made this phrase of Plautus famous, describes the state of nature as a war of all against all, in which ‘man is a wolf to man’."
    },
    {
     "q": "The idea of a just city in which each part fulfils its function in harmony comes from…",

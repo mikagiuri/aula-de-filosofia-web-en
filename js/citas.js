@@ -798,6 +798,15 @@ const CITAS = [
   "uso": "To explain Mill’s distinction between qualities of pleasure and how he differs from Bentham, or in debates about happiness."
  },
  {
+  "c": "Act in such a way that the effects of your action are compatible with the permanence of an authentic human life on Earth.",
+  "a": "Jonas",
+  "o": "The Imperative of Responsibility (1979), ch. 1, V",
+  "e": "contemporary",
+  "img": "media/retratos/citas/jonas.jpg",
+  "sen": "Jonas formulates a new imperative for the technological age: since our power can destroy the future, we must act with the generations to come in mind.",
+  "uso": "To explain the ethics of responsibility and how it compares with Kant, or in debates about ecology and technology."
+ },
+ {
   "c": "I am myself and my circumstance, and if I do not save it, I do not save myself.",
   "a": "José Ortega y Gasset",
   "o": "Meditations on Quixote (1914), ‘Reader…’",

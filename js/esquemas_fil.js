@@ -1091,7 +1091,7 @@ const ESQUEMAS_FIL = {
       {
        "rel": "to leave the",
        "t": "War of all against all",
-       "d": "‘Man is a wolf to man’: fear and insecurity dominate."
+       "d": "‘Man is a wolf to man’ (a line from Plautus popularised by Hobbes): fear and insecurity dominate."
       }
      ]
     },
