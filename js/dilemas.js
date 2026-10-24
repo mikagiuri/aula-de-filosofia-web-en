@@ -605,153 +605,150 @@ const DILEMAS = [
   "id": "fil-fision",
   "emoji": "👥",
   "etiqueta": "Identity and survival",
-  "titulo": "The two who wake up",
-  "situacion": "After an accident, your body cannot be repaired, but your brain can. The surgeons can only save you one way: split the two hemispheres and transplant each into a different body. The operation is imaginary, though it starts from something real: there are people who live with only one hemisphere and others whose connection between the two has been cut. Suppose each half keeps your whole mental life. Both bodies wake up. Both remember your childhood, recognise your family, have your quirks and your plans, and both claim to be you with equal conviction. Before you sign the authorisation, they ask you what you expect to happen.",
-  "a": "I will survive, even if in two: what matters to me —my memories, my character, my projects— will live on in both, and that is all I ever asked of survival.",
-  "b": "I will not survive: one person cannot be two; if both have the same right to be me, neither is, and what wakes up are two new people who resemble me.",
-  "pregunta": "What makes a person remain the same over time? And if identity can split in two, is identity what really matters to us in survival?",
-  "enjuego": "The criteria of personal identity (memory, body, narrative) pushed to the limit, and the difference between being the same individual (numerical identity) and being alike (qualitative identity).",
+  "titulo": "The Tokyo scanner",
+  "situacion": "The year 2090. Nobody takes a plane to get from Bilbao to Tokyo any more: you step into a booth, a scanner records the position of every atom in your body, the booth takes the original apart and in Tokyo a machine builds you again, identical, in a few seconds. You have done it twenty times and you have always stepped out of the arrival booth with your memories, your quirks and your plans. Today something goes wrong: the scanner records you, but the Bilbao booth does not take you apart. You are still sitting here, your heart in your mouth, when a technician tells you that in Tokyo someone has already stepped out who claims to be you and has just phoned your mother. The company apologises and gives you a free ticket for your next trip. You have to decide whether to accept it.",
+  "a": "I will travel: if someone with my memory, my character and my plans appears at the destination, that is all I can ask of staying alive; today’s fault only shows that I can carry on in two places at once.",
+  "b": "I will not travel: the fault has shown that what steps out in Tokyo is a copy; if the original can be left behind watching, then on every earlier trip someone died in Bilbao and someone else was born in Tokyo.",
+  "pregunta": "What makes you still you from one day to the next: your body, your memory or something else? If there were a perfect copy of you, which of the two would be you, and should it matter to you?",
+  "enjuego": "The criteria of personal identity (the body, memory and psychological continuity) put to the test by a copy, and the difference between being the same individual (numerical identity) and being exactly alike (qualitative identity).",
   "escuelas": [
    {
     "quien": "Locke (empiricism)",
     "elige": "A",
-    "porque": "Yes, but with a problem: personal identity is the continuity of consciousness and memory, and both bodies keep your consciousness. His criterion says that both are you, and one person cannot be two: it is a case Locke never considered.",
+    "porque": "You are the same person as far as your consciousness reaches: whoever remembers your actions and feels them as their own is you, whatever atoms they are made of. The problem is that his criterion gives the same result for the one in Bilbao and the one in Tokyo, and Locke never thought of a person being duplicated.",
     "biografia": "locke"
    },
    {
     "quien": "Parfit (20th century)",
     "elige": "A",
-    "porque": "From fission he drew a surprising conclusion: what matters to us in survival is not identity but psychological continuity (memories, character, projects). Duplicating yourself is not like dying: it is very much like surviving."
+    "porque": "He imagined a machine like this in Reasons and Persons and drew an unsettling conclusion: perhaps the question ‘which of the two am I?’ has no answer, and that does not matter, because what matters is not identity but that your memory, your character and your plans carry on. Travelling by booth would be almost as good as travelling by plane."
    },
    {
     "quien": "Thomas Reid",
     "elige": "B",
-    "porque": "A person is something indivisible: you cannot be half a person or two at once. Memory shows identity but does not create it; the fact that both have your memories does not make them you."
+    "porque": "A person cannot be divided or duplicated: either you are you or you are not. Remembering your life does not make you you; it is only a sign that you are. The one in Tokyo has your memories just as a photocopy has the text of the original."
    },
    {
     "quien": "Descartes (rationalism)",
     "elige": "B",
-    "porque": "For another reason: the mind, the thinking thing, is indivisible, unlike the body; it cannot be cut in half along with the hemispheres. What the surgeon divides is the body, not the self.",
+    "porque": "You are a thinking thing, distinct from the body. The machine measures and reproduces matter: it copies a body with your appearance and your brain, but nothing guarantees that the mind you are travels with it.",
     "biografia": "descartes"
    }
   ],
   "debate": {
    "epoca": "Siglos XVII y XX",
-   "texto": "‘As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.’",
-   "fuente": "Locke, An Essay Concerning Human Understanding, II, 27, 9 (chapter added in the 2nd edition, 1694). The case of fission was made famous by Derek Parfit (‘Personal Identity’, 1971; Reasons and Persons, 1984).",
+   "texto": "‘[A person is] a thinking intelligent being, that has reason and reflection, and can consider itself as itself, the same thinking thing, in different times and places.’",
+   "fuente": "Locke, in book II (chapter 27, § 9) of his Essay Concerning Human Understanding, 2nd edition (1694). The teleporter that leaves a copy behind was put forward by Derek Parfit in Reasons and Persons (1984), chapter 10.",
    "unidad": "fil-t2"
   },
   "preguntas": [
-   "If both are you, whose is your house, your mobile phone, your place at school? And if one commits a crime, do we also punish the other?",
-   "Thomas Reid said that memory does not create identity, it only shows it: the baby you were was you even if you do not remember it. What is there, then, besides memory, that makes you you?",
-   "If you were told that only one of the two is going to wake up, would that seem better or worse news? Why is it odd that ‘one’ sounds better than ‘two’?"
+   "If both of you are you, who sleeps in your bed tonight and who goes to school tomorrow? And if the one in Tokyo signs a contract, does it bind you?",
+   "Before the fault you travelled twenty times without worrying. Has anything changed about those trips, or only what you know about them?",
+   "Over the years, many of the atoms in your body are replaced by others. How is that different from the booth, apart from the speed?"
   ],
-  "ysi": "What if one of the two bodies never woke up? Almost everyone would say you survived in the other. But then the fact that the second one wakes up cannot turn your survival into your death. If it does, your identity depends on something that does not even happen to you.",
-  "dato": "The operations that inspire the case exist: in some people with severe epilepsy the connection between the hemispheres (the corpus callosum) has been cut, and in some children an entire hemisphere has been removed or disconnected; many go on to lead normal lives. Roger Sperry received the Nobel Prize in 1981 for studying split-brain patients. What does not exist is the transplant: that part is the thought experiment."
+  "ysi": "What if the Bilbao booth worked properly, but a minute late? During that minute both would exist, and afterwards only the one in Tokyo. If that is travelling, one minute should not turn it into dying; and if it is dying, why was it not dying when the delay was a thousandth of a second?",
+  "dato": "Teleportation exists, but not of people or objects: what is sent is the quantum state of a particle. In 2017 a Chinese team did it from Tibet to the Micius satellite, over distances of up to 1,400 km. And there is a curious detail: the laws of quantum physics make it impossible to copy an unknown state (the no-cloning theorem, from 1982), so in that kind of teleportation the original state is always destroyed at the point of departure."
  },
  {
   "subject": "fil",
   "grupo": "fil-conocer",
   "id": "fil-jersey",
-  "emoji": "🧶",
+  "emoji": "🖋️",
   "etiqueta": "Belief and reason",
-  "titulo": "The murderer’s jumper",
-  "situacion": "In a second-hand shop you find a jumper of good wool, clean, in your size and at a very good price. The shop assistant, who is honest, tells you where it comes from: it belonged to a man convicted of several murders, who wore it often. It has been through an industrial laundry and no one else knows. You know that wool keeps nothing and that wickedness is not a substance that sticks to clothes. Even so, you hesitate. You have to decide whether to take it or leave it on the hanger.",
-  "a": "I take it: I know the fabric keeps nothing, and a belief I cannot defend should not decide for me.",
-  "b": "I leave it: even if I cannot explain it, that reluctance says something about me, and not everything I feel has to pass an exam of reason to have a right to exist.",
-  "pregunta": "Should we only believe what can be justified? What do we do with beliefs we know to be unfounded but cannot stop feeling?",
-  "enjuego": "The difference between knowing and believing, the step from myth to logos in miniature (inside each of us) and an uncomfortable suspicion: how many of your beliefs work like the jumper without you noticing.",
+  "titulo": "The judge’s pen",
+  "situacion": "At an antiques market you see a beautiful fountain pen: gold nib, black body; it writes wonderfully and costs less than a branded biro. You have been looking for one for months to take notes with. The seller, who knows his goods well, tells you its story: it belonged to a judge under a European dictatorship, who used it for years to sign death sentences. It has been cleaned and restored, and outside this stall nobody knows that detail. You know that metal and ink keep nothing of whoever used them. Even so, when you hold it in your hand, something holds you back. You have to decide whether to buy it.",
+  "a": "I will buy it: a pen has no memory and no guilt, and I do not want a feeling that I myself know to be groundless to decide for me.",
+  "b": "I will not buy it: even if I cannot prove anything, what I feel when I pick it up says something about how I see the world, and not all my decisions have to go before a court of arguments.",
+  "pregunta": "Should we believe and act only on what we can justify? What do we do with a feeling that we know to be groundless and that, even so, will not go away?",
+  "enjuego": "The difference between knowing and believing, the step from myth to logos within each of us, and the magical thinking that keeps working in people who consider themselves rational.",
   "escuelas": [
    {
     "quien": "Kant (Enlightenment)",
     "elige": "A",
-    "porque": "To become enlightened is to dare to use your own understanding. An inherited fear that cannot withstand the examination of reason should not guide you: letting it decide is remaining in immaturity.",
+    "porque": "Enlightenment means daring to use your own understanding without anyone, not even an inherited fear, leading you by the hand. If your reason says that the pen is just a pen, obeying the feeling is giving up thinking for yourself.",
     "biografia": "kant"
    },
    {
-    "quien": "Descartes (rationalism)",
+    "quien": "William K. Clifford (19th century)",
     "elige": "A",
-    "porque": "His first rule of method: never accept anything as true that is not known with evidence. A prejudice does not gain authority by being deeply rooted.",
-    "biografia": "descartes"
-   },
-   {
-    "quien": "Epicurus",
-    "elige": "A",
-    "porque": "Knowing how nature works serves to free us from unfounded fears. The fabric is atoms, like everything else; fearing it is letting an empty fear take away your serenity.",
-    "biografia": "epicuro"
+    "porque": "In ‘The Ethics of Belief’ he argued that believing without sufficient evidence is always wrong, because every groundless belief makes us used to being credulous. Acting as if the pen were tainted is believing, through your actions, something that cannot be upheld."
    },
    {
     "quien": "Hume (empiricism)",
     "elige": "B",
-    "porque": "With nuances: reason alone does not move us to act; feelings and custom decide almost everything we do, and a reluctance without an argument is not madness, it is human. What it must not do is turn into a belief about wool.",
+    "porque": "Reason alone does not move us to act: feelings and custom decide. Being held back by something without an argument is not madness, it is human nature; what would be absurd is to think that the metal has changed.",
     "biografia": "hume"
+   },
+   {
+    "quien": "Pascal (17th century)",
+    "elige": "B",
+    "porque": "The heart has its reasons, which reason does not know. There are things we grasp through feeling before we grasp them through proof, and they are no less ours for that."
    }
   ],
   "debate": {
-   "epoca": "Siglo XVIII (Ilustración)",
-   "texto": "‘Have the courage to use your own understanding! This is the motto of the Enlightenment.’",
-   "fuente": "Kant, An Answer to the Question: What Is Enlightenment? (1784). The rule of accepting nothing without evidence is the first of Descartes’s Discourse on Method (1637).",
+   "epoca": "Siglos XVIII y XIX",
+   "texto": "‘It is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence.’",
+   "fuente": "William K. Clifford, ‘The Ethics of Belief’ (1877). The invitation to make use of one’s own understanding comes from Kant, An Answer to the Question: What is Enlightenment? (1784).",
    "unidad": "fil-t3"
   },
   "preguntas": [
-   "Try to write down the reason why you would not wear it. Is it a reason or a feeling in the shape of a reason?",
-   "Would you wear a sweatshirt that your favourite singer wore at a concert? If so, aren’t you believing the same thing, but in reverse?",
-   "How do you tell, from the inside, a belief you could defend from one you could not? Do they feel different?"
+   "Write in one sentence why you would not use it. Then read it: is it an argument or a feeling disguised as an argument?",
+   "If the pen had belonged to a writer you admire, you would pay more for it. Is that the same belief, but the other way round?",
+   "Is there a difference between turning the pen down for fear that something will ‘rub off’ on you and turning it down out of respect for the victims? Which of the two reasons stands up better to scrutiny?"
   ],
-  "ysi": "What if no one had told you whose it was? You would wear it without a second thought. The only thing that has changed is a sentence you have heard: what is it that gets under your skin, the wool or the story?",
-  "dato": "The psychologist Paul Rozin and his colleagues have studied this ‘magical contagion’ since the 1980s: the belief that things retain something of the person who touched them. Many people refuse to put on a clean jumper worn by someone wicked or ill, even though they admit there is no risk."
+  "ysi": "What if the seller were mistaken and the pen had belonged to another judge, one who never sentenced anyone? You would be holding exactly the same pen. If your feeling changes, it did not come from the pen, but from the story you were told.",
+  "dato": "The anthropologist James Frazer, in The Golden Bough (1890-1915), called ‘contagious magic’ the belief that things which have been in contact remain connected after they are separated. The idea is still alive: in a 2011 study, George Newman, Gil Diesendruck and Paul Bloom found that people would pay less for a garment belonging to a celebrity they admire if they were told it had been washed and disinfected before being sold, as if cleaning had removed something of the person."
  },
  {
   "subject": "fil",
   "grupo": "fil-conocer",
   "id": "fil-existir",
-  "emoji": "🕸️",
+  "emoji": "🧵",
   "etiqueta": "Being and existing",
-  "titulo": "The village and the superhero",
-  "situacion": "Think of a village in Uganda: some three hundred people who farm, tend livestock, know one another and help one another; each has a name, a face and a story, and wakes up each morning just as you do. A moment ago you did not know they existed, and in a while you will have forgotten them. Now think of Spider-Man: you know who is under the mask, why his uncle died, and you could argue for a whole afternoon about whether he was right or wrong in a decision. Spider-Man does not exist; the three hundred people do. A friend asks you which of the two is more real to you.",
-  "a": "The village: existing does not depend on my knowing it or on my caring; those people are real even if no one thinks about them, and Spider-Man is not, even if half the world thinks about him.",
-  "b": "In some sense, Spider-Man: he acts in my ideas, my decisions and my conversations; what exists but does not touch me at all is, for me, almost as if it did not exist.",
-  "pregunta": "What is it to be real? Is existing the same as being present in someone’s life? In what way ‘are’ the things that exist only in the imagination?",
-  "enjuego": "The distinction between essence and existence (knowing what something is does not guarantee that it exists), the different ways of being, and the old question of metaphysics: what is really there, regardless of how it affects us.",
+  "titulo": "The seamstress and the character",
+  "situacion": "Look at the label of the T-shirt you are wearing: ‘Made in Bangladesh’. Someone cut and sewed it, perhaps a woman your age or your mother’s age, in a workshop in Dhaka, with the same hands she used to make dinner that evening. She touched something that is now touching your skin, but you do not know her name and you had never thought about her. Now think of the protagonist of the video game you have spent the most hours on: you know their past, their voice and their fears, you have made decisions for them hundreds of times and you have even dreamt about them. They do not exist; she does. A friend asks you which of the two takes up more room in your life, and whether that makes one of them more real than the other.",
+  "a": "The seamstress: existing does not depend on my knowing her or thinking about her; she is real even if nobody remembers her, and the character is not, even if millions of people play it.",
+  "b": "In a certain sense, the character: it is in my memories, in my conversations and in what I feel; what exists but leaves no trace in my life is, for me, almost as if it did not exist.",
+  "pregunta": "What does it mean for something to be real? Is existing the same as being present in someone’s life? In what way ‘are’ the things that exist only in a story?",
+  "enjuego": "The distinction between essence and existence (knowing what something is like does not guarantee that it exists), the different ways of being and the basic question of metaphysics: what there truly is, regardless of how much it affects us.",
   "escuelas": [
    {
     "quien": "Aristotle",
     "elige": "A",
-    "porque": "What is real in the first place are concrete substances, which exist in themselves: these people. Spider-Man only exists in something else, in comics and in minds: he is, but in a derived way. Being is said in many ways.",
+    "porque": "What exists in the full sense are concrete substances, like that woman, who exists in her own right. The character only exists in something else: in a program, on a screen and in the heads of those who play. It too has being, but in a secondary way.",
     "biografia": "aristoteles"
    },
    {
-    "quien": "Thomas Aquinas",
+    "quien": "Kant (Enlightenment)",
     "elige": "A",
-    "porque": "You can know very well what Spider-Man is, his essence, without his existing. Knowing the essence of something does not give it existence, and the village has just what Spider-Man lacks: it exists.",
-    "biografia": "tomas"
+    "porque": "You can describe the character in full detail and you will not have added existence to it: existing is not one more feature of a thing. A hundred thalers (coins of his day) that are merely thought of have the same properties as a hundred real thalers; what they lack is being in the world.",
+    "biografia": "kant"
    },
    {
-    "quien": "Berkeley (idealism)",
-    "elige": "A",
-    "porque": "To be is to be perceived, but not everything perceived is equal: the ideas of the senses, vivid and orderly, which do not depend on my will, are the real things; those fabricated by the imagination, like Spider-Man, are weaker and depend on me.",
-    "biografia": "berkeley"
+    "quien": "Meinong (20th century)",
+    "elige": "B",
+    "porque": "With nuances: there are objects that do not exist and that, even so, have true properties; it is true that your character is brave and has a scar. Not existing does not make it nothing: it has its own way of being."
    },
    {
     "quien": "Nietzsche",
     "elige": "B",
-    "porque": "He distrusts whoever separates a ‘true world’ from the world we live in: in Twilight of the Idols he tells how that ‘true world’ ended up becoming a fable. What counts is what acts in a life, and what Spider-Man does in yours is real.",
+    "porque": "Be wary of those who separate a ‘true world’ from the world we live in; what counts is what acts in a life and makes it more intense. What the character makes you feel and decide is part of your reality.",
     "biografia": "nietzsche"
    }
   ],
   "debate": {
-   "epoca": "Siglo IV a. C. y siglo XIII",
-   "texto": "‘Being is said in many ways, but in relation to one thing and one nature.’",
-   "fuente": "Aristotle, Metaphysics, IV, 2, 1003a33. Centuries later, Thomas Aquinas distinguished between the essence of a thing and its existence in On Being and Essence (c. 1252–1256).",
+   "epoca": "Siglo IV a. C. y siglo XVIII",
+   "texto": "‘“Being” is obviously not a real predicate, that is, a concept of something that could be added to the concept of a thing.’",
+   "fuente": "Kant, Critique of Pure Reason (1781), A 598 / B 626, where he gives the example of the hundred thalers. That being is said in many ways had been argued by Aristotle in the Metaphysics (IV, 2).",
    "unidad": "fil-metafisica"
   },
   "preguntas": [
-   "What does the existence of those three hundred people do in your life today that Spider-Man does not? If the answer is ‘nothing’, does that mean existing does not matter?",
-   "Numbers, laws and promises cannot be touched either. Do they exist like the village, like Spider-Man, or in a third way?",
-   "If one day you travelled to that village and met its inhabitants, what would change: them or your relationship with them?"
+   "What would change in your life today if the seamstress did not exist? And if the character disappeared? If the second loss hurts you more, does it show something about what exists or only about what matters to you?",
+   "It can truly be said that your character has a scar on their eyebrow. What is that sentence true of, if there is nobody with that eyebrow?",
+   "Numbers, the rules of a game or promises cannot be touched either. Do they exist like the seamstress, like the character or in a third way?"
   ],
-  "ysi": "What if you knew that in that village there is a girl who could die of an illness that can be cured for very little money, and that you could pay for it? Would Spider-Man still weigh more? If your answer changes, what mattered to you was not the real, but what can ask something of you.",
-  "dato": "‘To exist’ comes from the Latin exsistere, ‘to stand out, to emerge, to appear’: what exists is what is out there, not just in a mind. The distinction between knowing what something is and knowing that it exists was developed by Avicenna and Thomas Aquinas: you can know perfectly well what a dragon is without any dragon existing."
+  "ysi": "What if the label had her name, her photo and a sentence written by her? Nothing would have changed in her: she already existed. Only the place she takes up in your head would change. If that changes your answer, perhaps you were not talking about what exists, but about what is in front of you.",
+  "dato": "On 24 April 2013 the Rana Plaza collapsed, an eight-storey building full of garment workshops on the outskirts of Dhaka, in Bangladesh: more than 1,100 people died who were sewing clothes for brands sold in Europe. Today Bangladesh is still among the largest clothing exporters in the world."
  },
  {
   "subject": "fil",
