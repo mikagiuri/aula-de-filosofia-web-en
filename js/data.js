@@ -1595,6 +1595,834 @@ const DECKS = {
  }
 };
 const QUIZZES = {
+ "fil-t2-ampliacion": {
+  "name": "Coexistence between cultures and emotions (Philosophy Year 1 · T2 · extension)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Which model of living together asks minorities to leave their culture of origin behind in order to be equal citizens?",
+    "o": [
+     "Integration.",
+     "Assimilation.",
+     "Multiculturalism.",
+     "Intercultural pluralism."
+    ],
+    "a": 1,
+    "fb": "Assimilation asks people to adopt the majority culture; the example is the French republican model."
+   },
+   {
+    "q": "Which historical example illustrates the model of segregation?",
+    "o": [
+     "South African apartheid (1948-1994).",
+     "Canada’s official policy since 1971.",
+     "Quebec’s Bouchard-Taylor report (2008).",
+     "The EU’s Common Basic Principles on integration (2004)."
+    ],
+    "a": 0,
+    "fb": "Segregation makes each group live apart, with separate neighbourhoods, schools and rights."
+   },
+   {
+    "q": "What does Will Kymlicka distinguish in order to defend different rights for each case?",
+    "o": [
+     "Ancient cultures and modern ones.",
+     "National minorities and immigrant groups.",
+     "Religions and languages.",
+     "Cities and the countryside."
+    ],
+    "a": 1,
+    "fb": "National minorities already lived in a territory before becoming part of a larger State; immigrant groups arrived later."
+   },
+   {
+    "q": "What did Susan Moller Okin ask about multiculturalism in 1999?",
+    "o": [
+     "Whether it was too expensive for States.",
+     "Whether it was bad for women, because recognising a group can protect customs that oppress those who live within it.",
+     "Whether it should apply only to immigrants.",
+     "Whether minority languages should disappear."
+    ],
+    "a": 1,
+    "fb": "Okin pointed out that recognising a group can reinforce customs that oppress its own women."
+   },
+   {
+    "q": "Which model proposes a dialogue in which all cultures, the majority one included, change by living together?",
+    "o": [
+     "Assimilation.",
+     "Segregation.",
+     "Intercultural pluralism.",
+     "Integration."
+    ],
+    "a": 2,
+    "fb": "It is interculturalism, with the example of Quebec (Bouchard-Taylor report, 2008)."
+   },
+   {
+    "q": "What makes an emotion different from a mood?",
+    "o": [
+     "An emotion is brief, intense and has an object; a mood lasts longer, is diffuse and we do not always know what causes it.",
+     "There is no difference: they are synonyms.",
+     "An emotion lasts for years and a mood for seconds.",
+     "A mood always has a clear object."
+    ],
+    "a": 0,
+    "fb": "I get angry with someone (emotion); there are days when I am irritable for no clear reason (mood)."
+   },
+   {
+    "q": "What did William James claim about fear in 1884?",
+    "o": [
+     "That we tremble because we are afraid.",
+     "That we are afraid because we notice that we are trembling.",
+     "That fear is a mistaken judgement.",
+     "That fear has nothing to do with the body."
+    ],
+    "a": 1,
+    "fb": "For James, the emotion is the perception of changes in the body."
+   },
+   {
+    "q": "What objection did Walter Cannon raise against James in 1927?",
+    "o": [
+     "That all emotions are learnt.",
+     "That very similar bodily changes accompany different emotions, such as fear and anger.",
+     "That only animals have emotions.",
+     "That emotions cannot be educated."
+    ],
+    "a": 1,
+    "fb": "If the body changes in almost the same way with fear and with anger, the body alone is not enough to tell them apart."
+   },
+   {
+    "q": "What did Paul Ekman argue after showing photographs of faces to people from many cultures?",
+    "o": [
+     "That each culture has completely different emotions.",
+     "That there are some universal basic emotions: joy, sadness, fear, anger, disgust and surprise.",
+     "That the brain constructs emotions with the concepts of each language.",
+     "That faces do not express emotions."
+    ],
+    "a": 1,
+    "fb": "Almost everyone recognised the same expressions, the Fore of Papua New Guinea included. Lisa Feldman Barrett defends the opposite."
+   },
+   {
+    "q": "If emotions contain evaluations, as Martha Nussbaum argues, what follows?",
+    "o": [
+     "That they are never wrong.",
+     "That they can be right or wrong, and they can be corrected and educated.",
+     "That they do not depend on what we think.",
+     "That only adults have them."
+    ],
+    "a": 1,
+    "fb": "That is why Aristotle spoke of feeling fear or anger when one should and in the right measure."
+   }
+  ]
+ },
+ "fil-t3-ampliacion": {
+  "name": "Perception, memory, post-truth and women in science (Philosophy Year 1 · T3 · extension)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "What did Simons and Chabris’s gorilla experiment (1999) show?",
+    "o": [
+     "That attention is selective: roughly half did not see the gorilla.",
+     "That we all see the same thing when we look.",
+     "That gorillas are hard to recognise on video.",
+     "That memory is a perfect file."
+    ],
+    "a": 0,
+    "fb": "It is inattentional blindness: looking is not seeing."
+   },
+   {
+    "q": "In Loftus and Palmer’s experiment (1974), what changed when the question used ‘smashed’ instead of ‘hit’?",
+    "o": [
+     "Nothing: everyone remembered the same thing.",
+     "They estimated a higher speed, and more than twice as many ‘remembered’ broken glass that was not in the video.",
+     "They completely forgot the video.",
+     "They refused to answer."
+    ],
+    "a": 1,
+    "fb": "One word in the question changed the memory: memory reconstructs."
+   },
+   {
+    "q": "What did Frederic Bartlett study with the story ‘The War of the Ghosts’?",
+    "o": [
+     "That we remember through schemas: each version came out shorter and closer to what was familiar.",
+     "That Native American stories are impossible to remember.",
+     "That memory improves with time.",
+     "That English students do not read."
+    ],
+    "a": 0,
+    "fb": "What we already know fills in what we did not retain (Remembering, 1932)."
+   },
+   {
+    "q": "What does critical realism hold in the face of the failures of perception and memory?",
+    "o": [
+     "That we cannot know anything.",
+     "That our access to reality is partial and correctable, and external verification is needed.",
+     "That it is enough for the witness to be very sure.",
+     "That only memory is reliable, not perception."
+    ],
+    "a": 1,
+    "fb": "Other witnesses, documents and instruments: how certain a memory feels does not guarantee that it is accurate."
+   },
+   {
+    "q": "Why is the expression ‘alternative facts’ an oxymoron?",
+    "o": [
+     "Because there can be alternative interpretations of a fact, but not alternative facts.",
+     "Because facts do not exist.",
+     "Because a journalist invented it.",
+     "Because all facts are false."
+    ],
+    "a": 0,
+    "fb": "If each group has ‘its own’ facts, the common ground on which to disagree is missing."
+   },
+   {
+    "q": "What did Herbert Simon warn about information in 1971?",
+    "o": [
+     "That an abundance of information creates a scarcity of attention.",
+     "That there is never enough information.",
+     "That information is always true.",
+     "That the internet would put an end to the press."
+    ],
+    "a": 0,
+    "fb": "With hundreds of headlines a day there is no time to check anything: this is information overload, or infoxication."
+   },
+   {
+    "q": "According to Harry Frankfurt, what distinguishes the bullshitter from the liar?",
+    "o": [
+     "That the bullshitter always says false things.",
+     "That the bullshitter is indifferent to the truth; the liar still takes it into account in order to hide it.",
+     "That the liar is more dangerous.",
+     "That the bullshitter does not speak in public."
+    ],
+    "a": 1,
+    "fb": "For Frankfurt, bullshit is a greater enemy of the truth than lies are (On Bullshit, 1986)."
+   },
+   {
+    "q": "What is the difference between a filter bubble and an echo chamber?",
+    "o": [
+     "We build the bubble ourselves; the echo chamber is built by an algorithm.",
+     "The bubble is put around us by an algorithm and we do not know what it leaves out; we and our group put up the echo chamber.",
+     "They are the same.",
+     "The echo chamber only exists on the radio."
+    ],
+    "a": 1,
+    "fb": "Eli Pariser gave the name filter bubble to the effect of the algorithms that personalise what we see (2011)."
+   },
+   {
+    "q": "What did a large meta-analysis (Ditto and others, 2019) find about motivated reasoning?",
+    "o": [
+     "That it only happens on the left.",
+     "That it only happens on the right.",
+     "That it happens to a similar degree on the left and on the right.",
+     "That it does not exist."
+    ],
+    "a": 2,
+    "fb": "It is not a matter of one ideology: on every side, we reason like lawyers."
+   },
+   {
+    "q": "What did the Royal Order of 8 March 1910 change in Spain?",
+    "o": [
+     "That women could enrol at university without asking permission.",
+     "That women were banned from studying medicine.",
+     "That the first women’s university was created.",
+     "That the first woman was admitted to the Royal Academy of Sciences."
+    ],
+    "a": 0,
+    "fb": "Until then, every enrolment by a woman had to be referred to the higher authorities."
+   },
+   {
+    "q": "Who was the first woman in Spain to obtain a doctorate in physics (1926)?",
+    "o": [
+     "Margarita Salas.",
+     "Concepción Arenal.",
+     "Felisa Martín Bravo, from Donostia.",
+     "María Elena Maseras."
+    ],
+    "a": 2,
+    "fb": "Felisa Martín Bravo was also the first woman in the state meteorological service (1929)."
+   },
+   {
+    "q": "What does the Matilda effect, named by Margaret W. Rossiter in 1993, describe?",
+    "o": [
+     "That women’s contributions are overlooked or attributed to male colleagues.",
+     "That women receive more prizes than men.",
+     "That young scientists publish more.",
+     "That women prefer not to do research."
+    ],
+    "a": 0,
+    "fb": "It is named after the suffragist Matilda Joslyn Gage, who denounced it as early as 1870 in the case of inventions."
+   },
+   {
+    "q": "What did Moss-Racusin’s experiment (2012) with the CV of ‘John’ and ‘Jennifer’ show?",
+    "o": [
+     "That both were rated the same.",
+     "That ‘John’ was seen as more competent and offered a higher salary, although the CV was identical.",
+     "That only male staff discriminated.",
+     "That ‘Jennifer’ received more offers."
+    ],
+    "a": 1,
+    "fb": "Since everything else was identical, here we can indeed speak of a cause. Both men and women staff did it."
+   },
+   {
+    "q": "‘In R&D in Basque companies there are fewer women than at university.’ What is that sentence?",
+    "o": [
+     "An explanation of discrimination.",
+     "A piece of data, compatible with several explanations.",
+     "Proof that women are not interested in industry.",
+     "A law."
+    ],
+    "a": 1,
+    "fb": "A piece of data says what is happening; an explanation says why. A correlation does not prove a cause."
+   }
+  ]
+ },
+ "fil-metafisica-ampliacion": {
+  "name": "Artificial intelligence (Philosophy Year 1 · topic M · extension)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Where and when is artificial intelligence considered to have been born as a discipline?",
+    "o": [
+     "At Dartmouth College, at a meeting held in 1956.",
+     "In Cambridge, with Turing, in 1936.",
+     "In Silicon Valley, in 1997.",
+     "In classical Greece."
+    ],
+    "a": 0,
+    "fb": "John McCarthy proposed the name in 1955 when he called the meeting with Minsky, Rochester and Shannon."
+   },
+   {
+    "q": "How does machine learning differ from symbolic AI?",
+    "o": [
+     "Machine learning writes the rules by hand.",
+     "Symbolic AI writes the rules by hand; machine learning adjusts its parameters from examples.",
+     "They are the same thing with two names.",
+     "Symbolic AI only plays chess."
+    ],
+    "a": 1,
+    "fb": "The symbolic path is transparent but rigid; the learning path, flexible but opaque."
+   },
+   {
+    "q": "What is weak or narrow AI?",
+    "o": [
+     "An AI that works badly.",
+     "A system that solves one specific task, sometimes better than any person.",
+     "An AI capable of any human intellectual task.",
+     "A small robot."
+    ],
+    "a": 1,
+    "fb": "According to most specialists, all the AI that exists is narrow."
+   },
+   {
+    "q": "What did Vernor Vinge call the ‘technological singularity’ (1993)?",
+    "o": [
+     "The point at which, after an intelligence explosion, our forecasts would no longer be of any use.",
+     "The first personal computer.",
+     "A unique programming error.",
+     "The banning of AI."
+    ],
+    "a": 0,
+    "fb": "He started from I. J. Good’s reasoning (1965); Kurzweil gave it a date: around 2045."
+   },
+   {
+    "q": "What is Nick Bostrom’s example of the AI that makes paper clips meant to illustrate?",
+    "o": [
+     "That machines hate humans.",
+     "That the danger would be a very capable AI whose goals did not coincide with ours.",
+     "That paper clips are dangerous.",
+     "That AI will never be able to make anything."
+    ],
+    "a": 1,
+    "fb": "It is the control problem or alignment problem (Superintelligence, 2014)."
+   }
+  ]
+ },
+ "fil-t4-ampliacion": {
+  "name": "Cognitive biases (Philosophy Year 1 · T4 · extension)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "What is a cognitive bias?",
+    "o": [
+     "An occasional slip.",
+     "A systematic deviation of judgement that almost all of us make in the same direction and under the same conditions.",
+     "A badly constructed argument.",
+     "A mental illness."
+    ],
+    "a": 1,
+    "fb": "It is not a random error: it always repeats itself in the same direction."
+   },
+   {
+    "q": "A bat and a ball cost 1.10 euros, and the bat costs one euro more than the ball. How much does the ball cost?",
+    "o": [
+     "10 cents.",
+     "5 cents.",
+     "1 euro.",
+     "55 cents."
+    ],
+    "a": 1,
+    "fb": "If the ball cost 10 cents, the bat would cost 1.10 and the total would be 1.20. The quick answer (System 1) fails."
+   },
+   {
+    "q": "Which heuristic is at work when, after seeing news of plane crashes, flying seems more dangerous to us than driving?",
+    "o": [
+     "Anchoring.",
+     "Representativeness.",
+     "Availability.",
+     "The blind spot."
+    ],
+    "a": 2,
+    "fb": "We judge how frequent something is by how easily examples come to mind."
+   },
+   {
+    "q": "What is the difference between a bias and a fallacy?",
+    "o": [
+     "A fallacy is a defect of an argument; a bias, a tendency of the mind that acts before there is any argument.",
+     "They are the same.",
+     "The bias is in the text and the fallacy in whoever reads it.",
+     "A fallacy is always unconscious and a bias, intentional."
+    ],
+    "a": 0,
+    "fb": "In short: the fallacy is in the text; the bias, in whoever writes or reads it."
+   },
+   {
+    "q": "What did Peter Wason (1960) show with the sequence 2-4-6?",
+    "o": [
+     "That almost everyone tried sequences that confirmed their hypothesis and almost no one tried one that could refute it.",
+     "That nobody can count in twos.",
+     "That the rule was ‘even numbers’.",
+     "That mathematics has no biases."
+    ],
+    "a": 0,
+    "fb": "It is confirmation bias. The rule was ‘any increasing sequence’."
+   },
+   {
+    "q": "What does Gerd Gigerenzer argue about heuristics?",
+    "o": [
+     "That they are always irrational.",
+     "That many are rational in their environment: fast and frugal rules that are right as often as a complicated calculation, or more.",
+     "That they must be eliminated completely.",
+     "That only children use them."
+    ],
+    "a": 1,
+    "fb": "The problem appears when the shortcut is used outside the ground where it works."
+   }
+  ]
+ },
+ "fil-t5-ampliacion": {
+  "name": "Virtue, Stoicism, duty and applied ethics (Philosophy Year 1 · T5 · extension)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "How does Rosalind Hursthouse reply to the objection that virtue ethics does not say what to do?",
+    "o": [
+     "That each virtue and each vice already gives a guideline, and that the other theories also need judgement to be applied.",
+     "That virtue ethics does not have to say what to do.",
+     "That it is enough to follow Kant’s imperative.",
+     "That we must obey the majority."
+    ],
+    "a": 0,
+    "fb": "Be honest, do not be cruel, do not be a coward: each virtue gives direction."
+   },
+   {
+    "q": "What does the situationist objection to virtue ethics claim?",
+    "o": [
+     "That virtues change from culture to culture.",
+     "That stable character may not exist and that it is the situation that moves us.",
+     "That virtue gives no guidelines.",
+     "That virtues clash with one another."
+    ],
+    "a": 1,
+    "fb": "It relies on experiments such as Isen and Levin’s coin experiment (1972) or Milgram’s."
+   },
+   {
+    "q": "How does Martha Nussbaum answer the objection of the cultural relativity of the virtues?",
+    "o": [
+     "That all cultures have the same customs.",
+     "That, although the names change, every culture faces the same experiences, and virtue is the right way of facing each of them.",
+     "That only the Greek virtues count.",
+     "That virtue does not exist."
+    ],
+    "a": 1,
+    "fb": "The fear of death, the sharing of goods, dealing with pleasures."
+   },
+   {
+    "q": "What did Alice Isen and Paula Levin find in a 1972 experiment?",
+    "o": [
+     "That people who had just found a coin in a telephone box were much more likely to help pick up some dropped papers.",
+     "That virtuous people always help, whatever happens.",
+     "That nobody helps a stranger.",
+     "That money makes people more selfish."
+    ],
+    "a": 0,
+    "fb": "It is one of the experiments on which situationism relies: a detail of the situation changes behaviour."
+   },
+   {
+    "q": "For the Stoics, what is the only truly good thing?",
+    "o": [
+     "Health.",
+     "Money.",
+     "Having an excellent character: virtue.",
+     "Pleasure."
+    ],
+    "a": 2,
+    "fb": "Everything else (health, money, success) is indifferent: it does not make us better or worse people."
+   },
+   {
+    "q": "What are the four faces of Stoic virtue?",
+    "o": [
+     "Practical wisdom, courage, justice and temperance.",
+     "Faith, hope, charity and prudence.",
+     "Wealth, health, fame and power.",
+     "Pleasure, friendship, science and art."
+    ],
+    "a": 0,
+    "fb": "Phrónēsis, andreía, dikaiosýnē and sōphrosýnē."
+   },
+   {
+    "q": "What is a passion for Chrysippus?",
+    "o": [
+     "A judgement, and a mistaken one at that.",
+     "A trembling of the body with no content.",
+     "A gift from the gods.",
+     "A virtue."
+    ],
+    "a": 0,
+    "fb": "Anger, for example, is believing that someone has done me an unjust harm and deserves to pay for it."
+   },
+   {
+    "q": "What does William Irvine propose in response to the Stoic division between what I control and what I do not?",
+    "o": [
+     "A third box: what we partly control.",
+     "Getting rid of the division.",
+     "Controlling everything.",
+     "Not worrying about anything."
+    ],
+    "a": 0,
+    "fb": "An exam mark does not depend only on me, but it is not unrelated to how much I study either."
+   },
+   {
+    "q": "A shopkeeper charges a child the fair price only because it suits him to have a reputation for honesty. According to Kant, how is he acting?",
+    "o": [
+     "From duty, and his action has moral worth.",
+     "In accordance with duty, but his action has no moral worth.",
+     "Against duty.",
+     "From inclination, and that is why it has more moral worth."
+    ],
+    "a": 1,
+    "fb": "Only acting from duty, because it is what ought to be done, has moral worth."
+   },
+   {
+    "q": "What does McCloskey’s judge case (1957) show?",
+    "o": [
+     "That the innocent man must be convicted in order to save lives.",
+     "That the norms of duty are limits on what we may do, not goals to be maximised.",
+     "That judges must obey the crowd.",
+     "That justice does not exist."
+    ],
+    "a": 1,
+    "fb": "Counting lives seems to favour the conviction, but almost all of us feel that the judge cannot do it."
+   },
+   {
+    "q": "Which of these features belongs to the structure of ethics of duty?",
+    "o": [
+     "We must always maximise everyone’s good.",
+     "The difference between doing harm and not preventing it matters.",
+     "Only the consequences count.",
+     "There are no permissions to look after one’s own life."
+    ],
+    "a": 1,
+    "fb": "In addition, there are permissions for one’s own life, and some accept that, in the face of a catastrophe, the limit may give way."
+   },
+   {
+    "q": "For Kant, where does what makes an action good lie?",
+    "o": [
+     "In its consequences, which can be seen from outside.",
+     "In the maxim on which it is done: it cannot be seen from outside.",
+     "In the opinion of others.",
+     "In its turning out well."
+    ],
+    "a": 1,
+    "fb": "That is why the shopkeeper who is honest out of self-interest acts in accordance with duty, but not from duty."
+   },
+   {
+    "q": "What is needed for a problem to be a matter of applied ethics?",
+    "o": [
+     "That it appears in the newspaper.",
+     "A reasonable disagreement between informed people acting in good faith, which cannot be settled just by looking at the law.",
+     "That it is illegal.",
+     "That it only affects scientists."
+    ],
+    "a": 1,
+    "fb": "Something may be legal and morally debatable, or illegal and defensible."
+   },
+   {
+    "q": "Which environmental position extends moral consideration to the whole community of soils, waters, plants and animals?",
+    "o": [
+     "Anthropocentrism.",
+     "Paul Taylor’s biocentrism.",
+     "Aldo Leopold’s ecocentrism.",
+     "Utilitarianism."
+    ],
+    "a": 2,
+    "fb": "For Leopold, an action is good if it protects the balance of that community (A Sand County Almanac, 1949)."
+   },
+   {
+    "q": "What new imperative did Hans Jonas propose (The Imperative of Responsibility, 1979)?",
+    "o": [
+     "Act so that human life can go on existing on Earth.",
+     "Always act according to one’s own interest.",
+     "Obey the law without exception.",
+     "Maximise economic growth."
+    ],
+    "a": 0,
+    "fb": "Modern technology can harm those who have not yet been born."
+   },
+   {
+    "q": "According to Milton Friedman (1970), what is the only social responsibility of a business?",
+    "o": [
+     "To attend to all stakeholders.",
+     "To make money within the law.",
+     "To donate its profits.",
+     "To build trust."
+    ],
+    "a": 1,
+    "fb": "Against him, R. Edward Freeman (1984) argued that a company is answerable to all the stakeholders it affects."
+   },
+   {
+    "q": "What does Peter Singer (1972) conclude from the case of the child drowning in a pond?",
+    "o": [
+     "That we only have duties towards those who are close to us.",
+     "That we should also give part of our money to save distant children, because distance makes no moral difference.",
+     "That clothes matter more than a life.",
+     "That poverty is not a moral problem."
+    ],
+    "a": 1,
+    "fb": "His critics reply from different sides; Thomas Pogge points to the rules of international trade."
+   }
+  ]
+ },
+ "fil-t6-ampliacion": {
+  "name": "State and nation, democracy, human rights and social movements (Philosophy Year 1 · T6 · extension)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Which of these terms names a legal reality: a sovereign power over a territory and a population, with its institutions?",
+    "o": [
+     "The nation.",
+     "The homeland.",
+     "The State.",
+     "The country."
+    ],
+    "a": 2,
+    "fb": "The nation is cultural; the homeland, emotional; the country, above all territorial."
+   },
+   {
+    "q": "What does the homeland name?",
+    "o": [
+     "An institution of the State.",
+     "The emotional bond with a community, the sense of belonging to a place.",
+     "A territory on the map.",
+     "A fundamental law."
+    ],
+    "a": 1,
+    "fb": "It is the emotional plane, distinct from the legal, the territorial and the cultural."
+   },
+   {
+    "q": "What did the modern nation-state assume?",
+    "o": [
+     "That each nation should have its own State.",
+     "That States should have no borders.",
+     "That nations do not exist.",
+     "That each city is a State."
+    ],
+    "a": 0,
+    "fb": "Reality almost never fits: there are plurinational States and nations divided among several States or with no State of their own."
+   },
+   {
+    "q": "What does the case of Basque culture on both sides of the Franco-Spanish border show?",
+    "o": [
+     "That cultural boundaries and political ones need not go together.",
+     "That every nation already has its own State.",
+     "That borders always follow languages.",
+     "That Basque culture does not exist in France."
+    ],
+    "a": 0,
+    "fb": "Separating the planes helps us discuss more calmly an open political debate, legitimate on all sides."
+   },
+   {
+    "q": "Which feature of liberal democracy is the opposite of impunity?",
+    "o": [
+     "Pluralism.",
+     "Accountability.",
+     "Representation.",
+     "Regular elections."
+    ],
+    "a": 1,
+    "fb": "Whoever rules answers for what they do."
+   },
+   {
+    "q": "What does ‘majority rule with minority rights’ mean?",
+    "o": [
+     "That the minority governs.",
+     "That the winner governs, but without crushing the loser.",
+     "That the majority can decide anything.",
+     "That there is no voting."
+    ],
+    "a": 1,
+    "fb": "It is one of the features that distinguish a liberal democracy."
+   },
+   {
+    "q": "Which feature of liberal democracy is the opposite of the single party?",
+    "o": [
+     "Pluralism.",
+     "The rule of law.",
+     "Civil society.",
+     "Accountability."
+    ],
+    "a": 0,
+    "fb": "Pluralism: many parties and opinions compete."
+   },
+   {
+    "q": "Which feature of liberal democracy is the opposite of office held for life or inherited?",
+    "o": [
+     "Free and regular elections.",
+     "The rule of law.",
+     "Pluralism.",
+     "An active civil society."
+    ],
+    "a": 0,
+    "fb": "And with representation, citizens choose those who decide and can replace them."
+   },
+   {
+    "q": "What does Article 1 of the Universal Declaration of Human Rights proclaim?",
+    "o": [
+     "That we are all born free and equal in dignity and rights.",
+     "The right to work.",
+     "The prohibition of war.",
+     "The sovereignty of each State."
+    ],
+    "a": 0,
+    "fb": "Article 2 forbids discrimination."
+   },
+   {
+    "q": "What do Articles 22 to 27 of the Declaration set out?",
+    "o": [
+     "Civil and political rights.",
+     "Economic, social and cultural rights.",
+     "The duties of States.",
+     "The preamble."
+    ],
+    "a": 1,
+    "fb": "Work, education, health, cultural life. Articles 3 to 21 set out the civil and political ones."
+   },
+   {
+    "q": "Why does the 1948 Declaration not legally bind States on its own?",
+    "o": [
+     "Because it is a resolution of the General Assembly, not a treaty.",
+     "Because nobody voted for it.",
+     "Because it expired in 1966.",
+     "Because it is only valid in Europe."
+    ],
+    "a": 0,
+    "fb": "The Declaration inspires and the covenants bind."
+   },
+   {
+    "q": "What was adopted in 1966 so that rights would bind the States that ratify them?",
+    "o": [
+     "A new Universal Declaration.",
+     "Two covenants: one on civil and political rights and another on economic, social and cultural rights.",
+     "A world constitution.",
+     "A European court."
+    ],
+    "a": 1,
+    "fb": "The covenants are indeed treaties."
+   },
+   {
+    "q": "What did the Cairo Declaration (1990) propose?",
+    "o": [
+     "Reading human rights in the light of Islamic law.",
+     "Abolishing human rights.",
+     "Reaffirming their universality without qualification.",
+     "Stressing Asian values."
+    ],
+    "a": 0,
+    "fb": "The Bangkok Declaration (1993) stressed so-called Asian values and the sovereignty of each State."
+   },
+   {
+    "q": "What did the Vienna Conference reaffirm in 1993?",
+    "o": [
+     "That rights are universal, even if they must be applied with attention to each context.",
+     "That each State chooses its own rights.",
+     "That the 1948 Declaration was annulled.",
+     "That only civil rights count."
+    ],
+    "a": 0,
+    "fb": "It was the response to the Cairo and Bangkok declarations."
+   },
+   {
+    "q": "What philosophical question lies beneath the debate on the universality of rights?",
+    "o": [
+     "On what rights are founded, and whether anything can bind everyone without a shared foundation.",
+     "How many articles a declaration should have.",
+     "Which language is the official one at the UN.",
+     "Who won the Second World War."
+    ],
+    "a": 0,
+    "fb": "On human nature, on an agreement, on dignity? It connects with the moral relativism of Topic 5."
+   },
+   {
+    "q": "What did the Bangkok Declaration (1993) stress?",
+    "o": [
+     "So-called Asian values and the sovereignty of each State against a common list.",
+     "Reading rights according to Islamic law.",
+     "The universality of rights without qualification.",
+     "The abolition of the death penalty."
+    ],
+    "a": 0,
+    "fb": "Reading rights according to Islamic law was Cairo’s position (1990); Vienna (1993) reaffirmed universality."
+   },
+   {
+    "q": "What are social movements?",
+    "o": [
+     "Political parties with seats in parliament.",
+     "People organising outside the institutions in order to change laws and customs.",
+     "Government departments.",
+     "Non-profit companies."
+    ],
+    "a": 1,
+    "fb": "Suffragism, civil rights, environmentalism, feminism, the labour movement."
+   },
+   {
+    "q": "What features does civil disobedience have?",
+    "o": [
+     "It is secret, violent and seeks personal gain.",
+     "It is public, non-violent and deliberate, and whoever practises it accepts the penalty.",
+     "Only governments practise it.",
+     "It consists of not voting."
+    ],
+    "a": 1,
+    "fb": "It seeks to appeal to the conscience of the majority in order to change a law regarded as unjust."
+   },
+   {
+    "q": "Why did Thoreau refuse to pay a tax?",
+    "o": [
+     "Because it sustained slavery and war.",
+     "Because he had no money.",
+     "Because he wanted to keep it.",
+     "Because he did not like the mayor."
+    ],
+    "a": 0,
+    "fb": "Gandhi and Martin Luther King later turned civil disobedience into a mass strategy."
+   },
+   {
+    "q": "What distinguishes civil disobedience from ordinary crime?",
+    "o": [
+     "That it seeks neither personal gain nor concealment, but to change a rule by appealing to shared principles.",
+     "That it has no consequences.",
+     "That it always succeeds.",
+     "That only young people do it."
+    ],
+    "a": 0,
+    "fb": "Whether the law must always be obeyed, or when it is legitimate to disobey it, is an open debate."
+   }
+  ]
+ },
  "fil-t7": {
   "name": "What is art? · Aesthetics (Philosophy Year 1 · T7)",
   "subject": "fil",

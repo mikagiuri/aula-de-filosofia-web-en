@@ -947,6 +947,224 @@ const PISTAS = [
   }
  },
  {
+  "id": "fil-emociones",
+  "subject": "fil",
+  "tema": "Topic 2 · What Is the Human Being?",
+  "unidad": "fil-t2",
+  "materia": "Philosophy Year 1 · Anthropology",
+  "titulo": "What is an emotion?",
+  "lede": "A noise in the kitchen at night, and what happens in that second in your body and in your head. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "What pieces make up an emotion?",
+    "intro": [
+     "You are walking down a dark street and someone starts running behind you. Before you think anything, your pulse races. Then you see that they were only running to catch the bus. What exactly has happened to you?"
+    ],
+    "pistas": [
+     "To get your bearings: in that fright there is something that happens in the <em>body</em> (your pulse, your breathing, your muscles tensing) and something that you <em>feel</em> from within.",
+     "But it is not just a tremor: the fright <em>says something</em> about the situation. It is as if your body had concluded ‘this is dangerous’ before you thought it.",
+     "And it pushes you to do something: run away, keep still, turn round. Emotions come with a tendency to act.",
+     "An <strong>emotion</strong> brings together four pieces: a bodily change, an experience, an <strong>evaluation</strong> of the situation and a tendency to act. That is why it is the best example of our being a unity of body and mind (psychosomatic)."
+    ],
+    "comprobacion": {
+     "pregunta": "Which of these pieces is NOT part of an emotion, according to the section?",
+     "opciones": [
+      [
+       "A decision taken after thinking it over calmly.",
+       true
+      ],
+      [
+       "A change in the body.",
+       false,
+       "Your pulse or your breathing changes: it is a central piece."
+      ],
+      [
+       "An evaluation of the situation.",
+       false,
+       "The emotion ‘judges’ the situation: danger, offence, loss."
+      ],
+      [
+       "A tendency to act.",
+       false,
+       "Fear pushes you to run away or to keep still: that is also part of the emotion."
+      ]
+     ],
+     "ok": "Good: the emotion arrives before calm deliberation.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "Emotion, mood and feeling",
+      "definicion": [
+       "You get angry because someone jumps the queue. → <strong>Emotion</strong>: brief, intense and with a clear object.",
+       "You have been in a bad mood all day and you do not know why. → <strong>Mood</strong>: longer, diffuse, with no clear object.",
+       "You have always been fond of your grandmother. → <strong>Feeling</strong>: the emotion made conscious, lasting and named."
+      ],
+      "parrafos": [
+       "Antonio Damasio puts it in order like this: the emotion happens first in the body, and the feeling is the perception that the mind forms of that state."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "Today you feel low and you could not say why. What is it?",
+       "opciones": [
+        [
+         "A mood.",
+         true
+        ],
+        [
+         "An emotion.",
+         false,
+         "An emotion has a clear object; here you do not know what causes it."
+        ],
+        [
+         "A feeling.",
+         false,
+         "A feeling is thought about and named, and it is usually directed at someone or something."
+        ],
+        [
+         "A moral judgement.",
+         false,
+         "You are not judging whether something is right or wrong."
+        ]
+       ],
+       "ok": "Correct: diffuse and with no clear object.",
+       "mal": "Look at the examples again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "What an emotion is",
+      "definicion": [
+       "An <strong>emotion</strong> is a brief response that unites a bodily change, an experience, an evaluation of the situation and a tendency to act.",
+       "Darwin (1872) saw in many emotions inherited responses that helped us to survive and that, in addition, <strong>tell</strong> others what is happening to us.",
+       "It is distinct from a <strong>mood</strong> (diffuse and lasting) and from a <strong>feeling</strong> (the conscious, prolonged emotion)."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "According to Darwin, what are many emotions for?",
+       "opciones": [
+        [
+         "For surviving and for telling others what is happening to us.",
+         true
+        ],
+        [
+         "For nothing: they are leftovers with no function.",
+         false,
+         "Darwin saw a clear function in them for survival."
+        ],
+        [
+         "Only for making art.",
+         false,
+         "Art expresses them, but their origin is much older."
+        ],
+        [
+         "Only for deceiving other animals.",
+         false,
+         "Rather the opposite: a face of disgust honestly warns the group."
+        ]
+       ],
+       "ok": "Correct: survival and communication.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "Are emotions reactions of the body or judgements? And can they be educated?",
+    "intro": [
+     "You know that flying is safer than driving and yet your stomach knots up at take-off. Who is in charge there: your body or your head?"
+    ],
+    "pistas": [
+     "To get your bearings: William James (1884) turned the usual order round: we do not tremble because we are afraid; we are afraid because we notice that we are trembling. The emotion would be the perception of changes in the body.",
+     "Walter Cannon objected that almost identical bodily changes accompany different emotions, such as fear and anger: the body alone is not enough to know what we are feeling.",
+     "The other tradition, which comes from the Stoics and is defended today by Martha Nussbaum, sees the emotion as a <em>judgement</em>: grieving for someone is judging that they were important to your life. If so, an emotion can be right or wrong.",
+     "And what can be wrong can be <strong>corrected</strong>. Aristotle already thought that we learn to feel fear or anger when we should and in the right measure. The fear of flying shows the limit: some evaluations are faster than the judgement we make calmly."
+    ],
+    "comprobacion": {
+     "pregunta": "If an emotion contains a judgement, what follows?",
+     "opciones": [
+      [
+       "That it can be right or wrong, and can therefore be corrected and educated.",
+       true
+      ],
+      [
+       "That it is never wrong, because each of us feels what we feel.",
+       false,
+       "If it contains a judgement, it can fail as any judgement can fail."
+      ],
+      [
+       "That the body plays no part at all.",
+       false,
+       "Judgement theories do not deny the body; they say that the key is the evaluation."
+      ],
+      [
+       "That only people who think a lot have it.",
+       false,
+       "We all evaluate what happens to us, even if only for an instant."
+      ]
+     ],
+     "ok": "Exactly: if it judges, it can learn to judge better.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Two families of theories",
+      "titulo": "Body, judgement and education",
+      "definicion": [
+       "<strong>Physiological theories</strong> (James): the emotion is the perception of changes in the body. Cannon’s objection: similar bodies, different emotions.",
+       "<strong>Judgement theories</strong> (the Stoics, Nussbaum): the emotion is an evaluation of what matters. Objection: some emotions resist what we know.",
+       "Innate or constructed? Paul Ekman found faces that were recognisable in many cultures (joy, sadness, fear, anger, disgust, surprise); Lisa Feldman Barrett argues that the brain constructs each emotion with learnt concepts."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What objection did Walter Cannon raise against William James?",
+       "opciones": [
+        [
+         "That different emotions, such as fear and anger, come with very similar bodily changes.",
+         true
+        ],
+        [
+         "That emotions have nothing to do with the body.",
+         false,
+         "Cannon did not deny the body; he said it is not enough to tell emotions apart."
+        ],
+        [
+         "That only animals have emotions.",
+         false,
+         "The discussion was about human emotions."
+        ],
+        [
+         "That all emotions are learnt.",
+         false,
+         "That is rather Barrett’s position, a century later."
+        ]
+       ],
+       "ok": "Correct: the body alone is not enough.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you know what an emotion is",
+   "parrafos": [
+    "An emotion unites body, experience, evaluation and a tendency to act. James places it in the body; the Stoics and Nussbaum, in a judgement. If it contains a judgement, it can be educated, as Aristotle thought.",
+    "You have it developed in the section <a href=\"#teoria/fil-t2/4\">‘The body and the mind’</a> of Topic 2, in ‘Emotions: the body that evaluates’. To keep going: ‘Are we nature or culture?’."
+   ],
+   "siguiente": "fil-naturaleza-cultura"
+  }
+ },
+ {
   "id": "fil-naturaleza-cultura",
   "subject": "fil",
   "tema": "Topic 2 · What Is the Human Being?",
@@ -1153,13 +1371,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "How can a State organise coexistence between cultures?",
+    "intro": [
+     "At your school there are students from many backgrounds. What has to be the same for everyone and what can vary from family to family: the holiday calendar, the canteen menu, clothing, the language of lessons?"
+    ],
+    "pistas": [
+     "To get your bearings: attitudes towards what is different are personal, but when communities with different languages, religions and customs live together in a country, the <em>State</em> also has to decide: which language is used in teaching, which holidays are working days, who decides the menu.",
+     "The answers can be grouped into five models according to what they ask of minorities: <em>segregation</em> (living apart, as under apartheid), <em>assimilation</em> (leaving the culture of origin behind) and <em>integration</em> (common public rules and, in private life, one’s own culture).",
+     "The other two: <em>multiculturalism</em> (the State recognises groups and grants them some rights of their own, as Canada did from 1971) and <em>intercultural pluralism</em> (a dialogue in which all cultures, the majority one included, change by living together).",
+     "The most debated is <strong>multiculturalism</strong>. Will Kymlicka defends it by distinguishing national minorities from immigrant groups; Brian Barry replies that the law should be the same for everyone; Susan Moller Okin asked whether protecting a group can protect customs that oppress the women within it. The debate remains open."
+    ],
+    "comprobacion": {
+     "pregunta": "What does the integration model ask of minorities?",
+     "opciones": [
+      [
+       "To accept some common public rules, while keeping their own culture in private life.",
+       true
+      ],
+      [
+       "To leave their culture of origin behind completely.",
+       false,
+       "That is assimilation."
+      ],
+      [
+       "To live apart, with separate schools and rights.",
+       false,
+       "That is segregation."
+      ],
+      [
+       "Nothing: the State grants them rights of their own as a group.",
+       false,
+       "That is close to multiculturalism."
+      ]
+     ],
+     "ok": "Good: what is shared in public life, what is one’s own in private.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Five models",
+      "titulo": "Models of living together",
+      "definicion": [
+       "<strong>Segregation</strong>: living apart. <strong>Assimilation</strong>: adopting the majority culture. <strong>Integration</strong>: common public rules and one’s own culture in private life.",
+       "<strong>Multiculturalism</strong>: recognition and group rights. <strong>Intercultural pluralism</strong>: a dialogue in which all cultures change.",
+       "In favour of multiculturalism: Kymlicka and Charles Taylor (denying recognition also does harm). Against: Barry (the same law for everyone) and Okin’s question about the women within each group."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What does Will Kymlicka distinguish in order to defend different rights?",
+       "opciones": [
+        [
+         "National minorities, who already lived in a territory, and immigrant groups.",
+         true
+        ],
+        [
+         "The rich and the poor.",
+         false,
+         "His distinction is not economic, but between types of minority."
+        ],
+        [
+         "Good cultures and bad ones.",
+         false,
+         "Kymlicka does not rank cultures by their worth."
+        ],
+        [
+         "The young and the old.",
+         false,
+         "He does not talk about ages."
+        ]
+       ],
+       "ok": "Correct: two types of minority, different rights.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know what is nature and what is culture",
    "parrafos": [
     "Nature gives us capacities and culture develops them: without dealings with others, as happened to Victor of Aveyron, those capacities are never realised.",
-    "And since instinct does not fix a single way of living for us, we make ourselves as we go: Pico called it dignity and Ortega, history. To carry on: ‘Are we free or is everything determined?’."
+    "And since instinct does not fix a single way of living for us, we make ourselves as we go: Pico called it dignity and Ortega, history. To carry on: ‘Are we free or is everything determined?’.",
+    "You have the five models of living together in the section <a href=\"#teoria/fil-t2/3\">‘Culture, identity and diversity’</a> of Topic 2."
    ],
    "siguiente": "fil-libertad"
   }
@@ -1586,15 +1884,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "Can we trust what we perceive and remember?",
+    "intro": [
+     "You have a very vivid memory from when you were four. Do you remember it yourself, or do you remember what you have been told and the photos you have seen?"
+    ],
+    "pistas": [
+     "To get your bearings: perception is not a camera that records, but a filter. In a 1999 experiment, half of those counting passes in a video did not see someone dressed as a gorilla walking across the court: looking is not seeing.",
+     "What is more, the brain fills in what it receives: in the Müller-Lyer illusion, two equal lines look different even after they have been measured. And some qualities, such as colour, are partly supplied by our visual system.",
+     "Memory is not a file either: it <em>reconstructs</em>. Elizabeth Loftus showed that one word in the question (‘smashed’ versus ‘hit’) changes what people remember of a crash, and that people can even come to ‘remember’ a false episode from their childhood.",
+     "It does not follow that we know nothing: the senses and memory work well from day to day. What follows is what <strong>critical realism</strong> defends: our access to reality is partial and correctable, and <strong>external verification</strong> is needed (other witnesses, documents, instruments). A very confident memory is not, for that reason, an accurate memory."
+    ],
+    "comprobacion": {
+     "pregunta": "What do Elizabeth Loftus’s experiments show about memory?",
+     "opciones": [
+      [
+       "That memory reconstructs: a memory can change with what we hear afterwards and can even be implanted.",
+       true
+      ],
+      [
+       "That memory keeps the facts exactly as they happened.",
+       false,
+       "That is precisely what her experiments call into question."
+      ],
+      [
+       "That only children have false memories.",
+       false,
+       "Her participants were adults."
+      ],
+      [
+       "That we can never know anything about the past.",
+       false,
+       "What they call for is checking memories, not giving them up."
+      ]
+     ],
+     "ok": "Exactly: remembering is remaking.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Fallible sources",
+      "titulo": "Perception and memory",
+      "definicion": [
+       "<strong>Perception</strong>: selective attention (the invisible gorilla), the brain fills in (Müller-Lyer), qualities supplied by the subject (colour).",
+       "<strong>Reconstructive memory</strong>: Bartlett (1932) and Loftus; memories are remade with schemas and with what we hear afterwards.",
+       "<strong>Critical realism</strong>: we do know, but in a partial and correctable way; a witness’s confidence does not guarantee that what they remember is accurate."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What does critical realism propose in the face of these failures?",
+       "opciones": [
+        [
+         "That we know in a partial and correctable way, and that external verification is needed.",
+         true
+        ],
+        [
+         "That we cannot know anything at all.",
+         false,
+         "That would be radical scepticism; critical realism does not go that far."
+        ],
+        [
+         "That it is enough to be very sure of what you remember.",
+         false,
+         "Confidence does not guarantee accuracy."
+        ],
+        [
+         "That only what the majority says counts.",
+         false,
+         "It calls for checking with witnesses, documents and instruments, not for voting."
+        ]
+       ],
+       "ok": "Correct: correctable and checkable.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know what knowing is",
    "parrafos": [
     "According to the classical definition, which goes back to Plato, knowing is having a justified true belief: believing something, its being true and having good reasons.",
-    "Gettier showed that you can meet all of that and be right by luck, as with the stopped clock. To carry on: ‘What makes a theory scientific?’."
+    "Gettier showed that you can meet all of that and be right by luck, as with the stopped clock. To carry on: ‘What makes a theory scientific?’.",
+    "You have perception and memory as fallible sources in the section <a href=\"#teoria/fil-t3/1\">‘What can we know? Human knowledge’</a> of Topic 3."
    ],
    "siguiente": "fil-ciencia"
+  }
+ },
+ {
+  "id": "fil-posverdad",
+  "subject": "fil",
+  "tema": "Topic 3 · What Can We Know?",
+  "unidad": "fil-t3",
+  "materia": "Philosophy Year 1 · Theory of knowledge",
+  "titulo": "Why do we believe false things in the information age?",
+  "lede": "Alternative facts, everyone’s own team, those who deceive for money and the difference between an echo chamber and a filter bubble. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "What is odd about talking of ‘alternative facts’?",
+    "intro": [
+     "Two people are arguing about how many people went to a concert. One says ‘ten thousand’; the other, ‘three thousand’. In the end the first one settles it: ‘Well, I have my facts and you have yours.’ Can the discussion go on?"
+    ],
+    "pistas": [
+     "To get your bearings: a <em>fact</em> is what happened; an <em>interpretation</em>, what we think about what happened. There can be different interpretations of the same fact.",
+     "If three thousand people went, you can argue about whether it was a success or a failure. What cannot be is that three thousand and ten thousand went at the same time.",
+     "That is why ‘alternative facts’, the expression a White House adviser used in 2017 to defend a false figure, is almost an oxymoron, a contradiction in terms.",
+     "If each group has ‘its own’ facts, the <strong>common ground</strong> on which to disagree is lost: people no longer argue about what what happened means, but about what happened. That is what is called <strong>post-truth</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "Why do ‘alternative facts’ make discussion impossible?",
+     "opciones": [
+      [
+       "Because the common ground of facts on which people can disagree disappears.",
+       true
+      ],
+      [
+       "Because nobody has the right to interpret the facts.",
+       false,
+       "Interpreting is legitimate: what cannot be are incompatible facts."
+      ],
+      [
+       "Because facts are always boring.",
+       false,
+       "The problem is not interest, but that without shared facts there is no discussion."
+      ],
+      [
+       "Because all figures are false.",
+       false,
+       "Some figures can be checked: that is precisely what is lost."
+      ]
+     ],
+     "ok": "Good: without common facts there is no reasonable disagreement.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "Why we prefer one version",
+      "definicion": [
+       "<strong>Information overload</strong>: so many headlines a day that there is no time to check anything; Herbert Simon (1971) warned that an abundance of information creates a scarcity of attention.",
+       "<strong>Group identity</strong>: in 1954, supporters of two universities watched the same rough match and each group ‘saw’ far more fouls by the opponents.",
+       "<strong>Motivated reasoning</strong>: we reason like a lawyer who already knows what conclusion he wants, not like an impartial judge."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "What does the 1954 match experiment show?",
+       "opciones": [
+        [
+         "That belonging to a group influences what we believe we have seen.",
+         true
+        ],
+        [
+         "That American football is very violent.",
+         false,
+         "The match was rough, but what is interesting is how each set of supporters saw it."
+        ],
+        [
+         "That referees always get it wrong.",
+         false,
+         "The study did not assess the referee, but the spectators."
+        ],
+        [
+         "That people from one university lie more than those from the other.",
+         false,
+         "It happened to both groups equally."
+        ]
+       ],
+       "ok": "Correct: your own team colours what you see.",
+       "mal": "Look at the examples again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "Post-truth",
+      "definicion": [
+       "<strong>Post-truth</strong>: a situation in which facts carry less weight than emotions and prior beliefs in shaping opinion. Use of the word shot up in 2016.",
+       "A <strong>fact</strong> is what happened; an <strong>interpretation</strong>, what we think about it. There can be alternative interpretations, not alternative facts.",
+       "Besides the fatigue caused by information overload, <strong>group identity</strong> plays a part: changing a belief can feel like betraying our own people."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "According to a large 2019 meta-analysis, where does motivated reasoning occur?",
+       "opciones": [
+        [
+         "To a similar degree on the left and on the right.",
+         true
+        ],
+        [
+         "Only on the left.",
+         false,
+         "The study found it to a similar degree on both."
+        ],
+        [
+         "Only on the right.",
+         false,
+         "The study found it to a similar degree on both."
+        ],
+        [
+         "Only in people with little education.",
+         false,
+         "It is not a matter of education: it is a general tendency of the mind."
+        ]
+       ],
+       "ok": "Correct: it is not a matter of one ideology.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "Who deceives, for what purpose, and how do we shut ourselves up inside what we already think?",
+    "intro": [
+     "In 2016, some young people from a small town in the Balkans spent their time inventing news about the elections in the United States. They did not care who won. Why were they doing it?"
+    ],
+    "pistas": [
+     "To get your bearings: people deceive for <em>power</em> (votes, sinking a rival, covering up a mistake) and for <em>money</em>: every click earned those young people advertising revenue.",
+     "Harry Frankfurt distinguished the liar from the bullshitter: the liar still takes the truth into account, even if only to hide it; the bullshitter does not care about the truth, he says whatever suits him. That is why Frankfurt thought him a worse enemy of the truth than the lie.",
+     "Then there is how we shut ourselves in. We put up an <em>echo chamber</em> ourselves: we choose whom to follow and whom to mute, until we only hear voices like our own.",
+     "A <strong>filter bubble</strong>, on the other hand, is put around us: it is the effect of the algorithms that personalise what we see according to what we clicked on before. We do not choose it and we do not see what it leaves out. You get out of the first by listening to people who think differently; out of the second, by varying your sources."
+    ],
+    "comprobacion": {
+     "pregunta": "What is the difference between an echo chamber and a filter bubble?",
+     "opciones": [
+      [
+       "We build the echo chamber ourselves; the bubble is created by an algorithm without our seeing it.",
+       true
+      ],
+      [
+       "They are the same thing with two names.",
+       false,
+       "They are alike in their effect, but not in who puts them up."
+      ],
+      [
+       "We build the bubble ourselves; the echo chamber is created by an algorithm.",
+       false,
+       "It is the other way round."
+      ],
+      [
+       "The echo chamber only exists outside the internet.",
+       false,
+       "It can happen in a messaging group or on a social network."
+      ]
+     ],
+     "ok": "Exactly: one is chosen, the other is put around us.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Deception and confinement",
+      "titulo": "The bullshitter, the chamber and the bubble",
+      "definicion": [
+       "Harry Frankfurt (<em>On Bullshit</em>, 1986): the <strong>bullshitter</strong> is indifferent to the truth, and that is why he is more dangerous than the liar.",
+       "Hannah Arendt (‘Truth and Politics’, 1967): systematic lying does not so much make people believe what is false as make them stop believing in anything.",
+       "<strong>Echo chamber</strong> (C. Thi Nguyen): we exclude and discredit the other voices. <strong>Filter bubble</strong> (Eli Pariser, 2011): the algorithm keeps them from reaching us. Some qualify the diagnosis (Hugo Mercier): we are less gullible than is feared."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "According to Frankfurt, why is the bullshitter worse than the liar?",
+       "opciones": [
+        [
+         "Because the bullshitter is indifferent to the truth; the liar at least takes it into account in order to conceal it.",
+         true
+        ],
+        [
+         "Because the bullshitter always says false things.",
+         false,
+         "He may say true things: he does not care whether they are true or not."
+        ],
+        [
+         "Because the bullshitter speaks more loudly.",
+         false,
+         "It is not a question of volume, but of his relationship with the truth."
+        ],
+        [
+         "Because the liar never does any harm.",
+         false,
+         "Lying does harm; Frankfurt says that indifference does more."
+        ]
+       ],
+       "ok": "Correct: indifference to the truth.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you know how post-truth works",
+   "parrafos": [
+    "There can be alternative interpretations, not alternative facts. We believe what is false out of fatigue, because of the team we belong to and because we reason like lawyers; those who seek power or money deceive, and the bullshitter does not even look at the truth.",
+    "You have it in the section <a href=\"#teoria/fil-t3/5\">‘Post-truth and fake news’</a> of Topic 3. To keep going: ‘Can we trust what we perceive and remember?’, in the Hints activity ‘What is it to know something, and not just believe it?’."
+   ]
   }
  },
  {
@@ -1808,6 +2400,221 @@ const PISTAS = [
    "parrafos": [
     "Induction cannot fully prove a general law, but a single case against is enough to refute it. Popper made that asymmetry his criterion: a theory is scientific if it is falsifiable, if it runs the risk of failing.",
     "Science advances through hypotheses that are put to the test, as Semmelweis did. To carry on: the exploration ‘The hypothetico-deductive method: the Semmelweis case’."
+   ]
+  }
+ },
+ {
+  "id": "fil-mujer-ciencia",
+  "subject": "fil",
+  "tema": "Topic 3 · What Can We Know?",
+  "unidad": "fil-t3",
+  "materia": "Philosophy Year 1 · Theory of knowledge",
+  "titulo": "Why are there so few women in the history of science?",
+  "lede": "Barriers with a date, credit that went to others and the difference between a piece of data and an explanation. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "Does the fact that there are few women in history of science books prove anything?",
+    "intro": [
+     "Leaf through a history of science book and count the women’s names. There will not be many. Someone concludes: ‘They must have been worse at it.’ Is that a good conclusion?"
+    ],
+    "pistas": [
+     "To get your bearings: before looking for the cause in ability, you have to ask who <em>was able</em> to study, do research and publish in each period.",
+     "There were <em>formal barriers</em>, written into a law or a set of statutes, which can be dated: in Spain, until the Royal Order of 8 March 1910, every enrolment by a woman at university had to be referred to the higher authorities.",
+     "And there were <em>informal barriers</em>, which do not appear on any piece of paper: lack of funding, of posts, of a team willing to take you on, prejudices about what is ‘proper’ for a woman. Those have to be measured with data.",
+     "So from ‘few women in the books’ it does not follow that there was ‘less ability’: what follows is that there were <strong>barriers</strong>. Some remain today: since December 2022, women in Afghanistan have been banned from studying at university."
+    ],
+    "comprobacion": {
+     "pregunta": "What is a formal barrier?",
+     "opciones": [
+      [
+       "A ban or a limit written into a rule, which can be dated.",
+       true
+      ],
+      [
+       "A prejudice that nobody says out loud.",
+       false,
+       "That would be an informal barrier: it is not written down."
+      ],
+      [
+       "Women’s lack of interest in science.",
+       false,
+       "That is not a barrier, and besides, it is precisely what would have to be proved."
+      ],
+      [
+       "A dress code in the laboratory.",
+       false,
+       "A formal barrier prevents or limits access: to studying, to doing research, to joining an academy."
+      ]
+     ],
+     "ok": "Good: written down and with a date.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "Barriers with a date",
+      "definicion": [
+       "1872: María Elena Maseras enrols in medicine in Barcelona with express authorisation, the first woman at a Spanish university.",
+       "1911: the Académie des sciences in Paris rejects Marie Curie, who already had a Nobel Prize.",
+       "1945: the Royal Society admits its first two women fellows; 1988: Margarita Salas, the first woman in the Royal Academy of Exact, Physical and Natural Sciences.",
+       "1926: Felisa Martín Bravo, from Donostia, the first woman in Spain to obtain a doctorate in physics."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "What happened to Marie Curie in 1911 with the Académie des sciences?",
+       "opciones": [
+        [
+         "They rejected her, although she already had a Nobel Prize.",
+         true
+        ],
+        [
+         "They made her president.",
+         false,
+         "It was the opposite: they rejected her."
+        ],
+        [
+         "They gave her her first Nobel Prize.",
+         false,
+         "She already had the Nobel; the Académie rejected her."
+        ],
+        [
+         "She was the first woman to be admitted.",
+         false,
+         "The first woman to be elected came much later, in 1962."
+        ]
+       ],
+       "ok": "Correct: not even with a Nobel Prize.",
+       "mal": "Look at the dates again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "The Matilda effect",
+      "definicion": [
+       "Robert K. Merton gave the name <strong>Matthew effect</strong> (1968) to giving the credit to whoever is already famous, even when the work is shared.",
+       "Margaret W. Rossiter showed (1993) that this unfair distribution above all disadvantages women, and she called it the <strong>Matilda effect</strong>, after the suffragist Matilda Joslyn Gage.",
+       "Much-cited cases: Nettie Stevens and the sex chromosomes; Lise Meitner and nuclear fission; Rosalind Franklin and ‘Photo 51’ of DNA; Jocelyn Bell and the first pulsar."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "What does the Matilda effect describe?",
+       "opciones": [
+        [
+         "That women’s contributions are overlooked or attributed to male colleagues.",
+         true
+        ],
+        [
+         "That women receive more prizes than they deserve.",
+         false,
+         "It is exactly the opposite."
+        ],
+        [
+         "That famous scientists work less.",
+         false,
+         "The effect is about how credit is distributed, not about how much people work."
+        ],
+        [
+         "That women prefer not to publish.",
+         false,
+         "It is about how published work is recognised, not about preferences."
+        ]
+       ],
+       "ok": "Correct: the credit that goes to someone else.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "How do you get from a piece of data to an explanation without cheating?",
+    "intro": [
+     "In the Basque Country (Euskadi), in 2024, women made up 58.7% of R&D staff in public administration and 31.2% in companies. Why?"
+    ],
+    "pistas": [
+     "To get your bearings: a <em>piece of data</em> says what is happening; an <em>explanation</em>, why. The same piece of data can fit several explanations.",
+     "Here there are at least three: that these companies work mainly in engineering, where few women graduate; that stereotypes discourage girls from childhood; or that women are less likely to be hired. Each one needs different data to be checked.",
+     "Watch out for the easy leap: the fact that two things go together (a <em>correlation</em>) does not show that one causes the other. To speak of a cause, more is needed: ideally, an experiment in which only one thing changes.",
+     "That is what Corinne Moss-Racusin and her team did (2012): they sent out the <strong>same</strong> CV, signed sometimes ‘John’ and sometimes ‘Jennifer’. ‘John’ was seen as more competent and offered a higher salary. Since everything else was identical, here we can indeed speak of a cause: a <strong>bias</strong> that discriminates without anyone intending it."
+    ],
+    "comprobacion": {
+     "pregunta": "Why does the ‘John’ and ‘Jennifer’ experiment allow us to speak of a cause?",
+     "opciones": [
+      [
+       "Because the CVs were identical and only the name changed.",
+       true
+      ],
+      [
+       "Because many universities took part.",
+       false,
+       "Numbers help, but the key is that only one thing changed."
+      ],
+      [
+       "Because a famous journal published it.",
+       false,
+       "The journal does not establish the cause: the design of the experiment does."
+      ],
+      [
+       "Because only men were doing the assessing.",
+       false,
+       "Both men and women staff did the assessing, and the two groups did the same thing."
+      ]
+     ],
+     "ok": "Exactly: a single difference, the name.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Data and causes",
+      "titulo": "Data, explanation, bias and discrimination",
+      "definicion": [
+       "A <strong>piece of data</strong> describes; an <strong>explanation</strong> says why. A <strong>correlation</strong> (two things that go together) does not prove a cause.",
+       "A <strong>bias</strong> is a tendency, often unconscious, that tilts a judgement; <strong>discrimination</strong> is unequal and unjust treatment. A bias can discriminate without intention, and this can be tested.",
+       "And the Matilda effect describes a tendency: each case is discussed with documents. Jocelyn Bell herself has said that she thought it reasonable for the Nobel to go to her supervisor."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "‘In the Technology track at my school there are fewer girls.’ What is that sentence?",
+       "opciones": [
+        [
+         "A piece of data, compatible with several explanations that would have to be checked.",
+         true
+        ],
+        [
+         "An explanation of why there are fewer girls.",
+         false,
+         "It says what is happening, not why."
+        ],
+        [
+         "Proof of discrimination.",
+         false,
+         "There may or may not be discrimination: with that piece of data alone, we cannot know."
+        ],
+        [
+         "Proof that girls are not interested in technology.",
+         false,
+         "That is one of the possible explanations, not something that has been shown."
+        ]
+       ],
+       "ok": "Correct: a piece of data calls for explanations.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you know how to read the history of science with data",
+   "parrafos": [
+    "The fact that there are few women in the history of science is explained by barriers, formal and informal, and by the Matilda effect, not by a lack of ability.",
+    "A piece of data is not an explanation: to speak of causes, more data or an experiment are needed. You have it in the section <a href=\"#teoria/fil-t3/7\">‘Science, technology, art and society’</a> of Topic 3."
    ]
   }
  },
@@ -2449,13 +3256,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "What is artificial intelligence today, and what risks are being debated?",
+    "intro": [
+     "You ask a chatbot to summarise a book for you and it does it very well. Has it understood the book? And what does that have to do with Turing’s machine of seventy years ago?"
+    ],
+    "pistas": [
+     "To get your bearings: AI is not just a thought experiment: it is a real discipline, born at a meeting at Dartmouth College in 1956. It has followed two paths: <em>symbolic</em> AI, which writes rules by hand, and <em>machine learning</em>, which adjusts its parameters from millions of examples.",
+     "From this second path come large language models: they calculate which word is most likely to come next, like the predictive text on your phone, on a gigantic scale. They write correctly without anyone having taught them grammar; Searle’s question returns: do they know what they are saying?",
+     "It is worth distinguishing <em>weak or narrow</em> AI, which solves one specific task (translating, predicting proteins), from <em>general</em> AI, which could tackle any human intellectual task. According to most specialists, all the AI that exists is narrow. (Careful: Searle used ‘weak’ and ‘strong’ in another sense.)",
+     "On the future, the debate is open: some speak of a <strong>singularity</strong> in which one machine would improve on others endlessly, and of the problem of its goals not coinciding with ours (Bostrom); others, such as Melanie Mitchell or Emily Bender, point out that these systems lack common sense and that some harms already exist: biases, disinformation, energy use and concentrated power. And an urgent question remains: <strong>who answers</strong> when a machine decides?"
+    ],
+    "comprobacion": {
+     "pregunta": "What distinguishes narrow AI from general AI?",
+     "opciones": [
+      [
+       "Narrow AI solves one specific task; general AI could tackle any human intellectual task.",
+       true
+      ],
+      [
+       "Narrow AI is worse than a person at everything.",
+       false,
+       "At its specific task it can be better than any person."
+      ],
+      [
+       "General AI already exists and we use it every day.",
+       false,
+       "According to most specialists, all the AI that exists is narrow."
+      ],
+      [
+       "Narrow AI uses rules and general AI uses examples.",
+       false,
+       "That is a different distinction: that of the two paths, symbolic and learning."
+      ]
+     ],
+     "ok": "Exactly: one task versus any task.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "IA",
+      "titulo": "AI as an object of study",
+      "definicion": [
+       "<strong>Two paths</strong>: symbolic AI (rules written by hand: transparent but rigid) and machine learning (it learns from examples: flexible but opaque).",
+       "<strong>Two goals</strong>: narrow AI (one task) and general AI (any task). The singularity would be the point at which a general AI improved itself endlessly.",
+       "<strong>Risks</strong>, under debate: the control or alignment problem (Bostrom) versus those who ask us to attend to present harms (Mitchell, Bender). Three questions: does it understand? does it have a mind? who answers for it?"
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What is the control or alignment problem?",
+       "opciones": [
+        [
+         "How to make sure that a system more capable than us pursues what we really want.",
+         true
+        ],
+        [
+         "How to stop a machine from becoming evil.",
+         false,
+         "Bostrom insists that the danger would not be evil, but misaligned goals."
+        ],
+        [
+         "How to make computers use less electricity.",
+         false,
+         "Energy use is another, different concern."
+        ],
+        [
+         "How to align the text in a document.",
+         false,
+         "Here ‘align’ means that the AI’s goals coincide with ours."
+        ]
+       ],
+       "ok": "Correct: that it wants what we want.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you can discuss whether a machine thinks",
    "parrafos": [
     "Turing proposed judging by behaviour: if we cannot tell the machine from a person, there is no reason to deny it intelligence. Searle objected with the Chinese room that handling symbols is not understanding them. The best-known reply says that what would understand Chinese is the whole system (the person, the manual and the room), and even so there would remain what Chalmers called in 1995 the hard problem of consciousness.",
-    "Something to think about: would a current chatbot pass the Turing test? And if it did, would it convince you that it understands what it says?"
+    "Something to think about: would a current chatbot pass the Turing test? And if it did, would it convince you that it understands what it says?",
+    "You have AI as an object of study in the section <a href=\"#teoria/fil-metafisica/5\">‘Mind and body today: can an artificial intelligence think?’</a> of the metaphysics topic."
    ]
   }
  },
@@ -3098,13 +3985,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "Why do we reason badly, and how does a bias differ from a fallacy?",
+    "intro": [
+     "A bat and a ball cost 1.10 euros together. The bat costs one euro more than the ball. How much does the ball cost? Answer quickly."
+    ],
+    "pistas": [
+     "To get your bearings: almost everyone says ‘10 cents’, and it is wrong: the bat would then cost 1.10 and the total would be 1.20. The ball costs 5 cents. The quick answer came out by itself and nobody checked it.",
+     "Daniel Kahneman explains it with two ways of thinking: a <em>System 1</em>, fast and automatic, which supplies impressions, and a <em>System 2</em>, slow and costly, which checks. Errors appear when the second, out of haste or laziness, accepts the answer of the first as good.",
+     "These shortcuts are called <em>heuristics</em>: simple rules that are almost always right and that, in certain cases, always fail in the same way. Amos Tversky and Kahneman described three in 1974: representativeness, availability and anchoring. A <em>cognitive bias</em> is that systematic error.",
+     "The difference from a fallacy: a <strong>fallacy</strong> is a defect of an argument, in plain view in what someone says; a <strong>bias</strong> is a tendency of the mind that acts before there is any argument, and it is not corrected just by knowing logic. In short: the fallacy is in the text; the bias, in whoever writes or reads it."
+    ],
+    "comprobacion": {
+     "pregunta": "What is the difference between a bias and a fallacy?",
+     "opciones": [
+      [
+       "A fallacy is a defect of an argument; a bias, a tendency of the mind that acts before we argue.",
+       true
+      ],
+      [
+       "They are the same thing with two names.",
+       false,
+       "They are related, but one is in the argument and the other in the mind."
+      ],
+      [
+       "A bias is always intentional and a fallacy never is.",
+       false,
+       "Biases are usually unconscious."
+      ],
+      [
+       "Fallacies only appear in mathematics.",
+       false,
+       "They appear in any discussion."
+      ]
+     ],
+     "ok": "Exactly: text versus mind.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Biases",
+      "titulo": "Heuristics and biases",
+      "definicion": [
+       "<strong>Representativeness</strong>: judging how likely something is by its resemblance to a typical case. <strong>Availability</strong>: judging how frequent something is by how easily an example comes to mind. <strong>Anchoring</strong>: any figure at all drags our estimate along.",
+       "<strong>Confirmation bias</strong>: seeking and remembering what proves us right. Bacon already saw it in 1620, among the ‘idols of the tribe’.",
+       "It helps to consider the opposite, to look for the piece of data that could refute us and to think with others: each person’s biases are easier to see from outside."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "After seeing several news reports of plane crashes, flying seems more dangerous to you than driving. Which heuristic is at work?",
+       "opciones": [
+        [
+         "Availability: you judge how frequent something is by the examples that come to mind.",
+         true
+        ],
+        [
+         "Anchoring.",
+         false,
+         "There is no figure dragging your estimate along."
+        ],
+        [
+         "Representativeness.",
+         false,
+         "You are not comparing with a typical case; you are being carried along by recent examples."
+        ],
+        [
+         "None: flying is more dangerous.",
+         false,
+         "Per kilometre travelled, far more people die on the roads."
+        ]
+       ],
+       "ok": "Correct: what you remember seems more frequent.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know how to recognise a fallacy",
    "parrafos": [
     "A fallacy is an argument that looks good but whose reasons do not support the conclusion. Informal fallacies divert attention (ad hominem, straw man, false dilemma); formal ones fail because of their structure, like affirming the consequent.",
-    "The question that gives them away is always the same: do these reasons really support this conclusion? To carry on: ‘What makes an argument valid?’."
+    "The question that gives them away is always the same: do these reasons really support this conclusion? To carry on: ‘What makes an argument valid?’.",
+    "You have cognitive biases in the section <a href=\"#teoria/fil-t4/12\">‘Fallacies’</a> of Topic 4, in ‘Why we reason badly’."
    ]
   }
  },
@@ -3528,14 +4495,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "Are human rights universal?",
+    "intro": [
+     "Someone says: ‘Human rights are a Western invention; each culture has its own values.’ Someone else replies: ‘Then nobody anywhere could complain about torture.’ Who is right?"
+    ],
+    "pistas": [
+     "To get your bearings: it is the relativism debate applied to rights. The 1948 Declaration presents itself as <em>universal</em>, valid for every human being.",
+     "Some States disputed it. The <em>Cairo Declaration</em> (1990) proposed reading rights in the light of Islamic law, and the <em>Bangkok Declaration</em> (1993) stressed so-called Asian values and the sovereignty of each State against a common list.",
+     "That same year, 1993, the <em>Vienna Conference</em> reaffirmed that rights are universal, even if they must be applied with attention to each context.",
+     "Beneath this lies a philosophical question: on what are rights <strong>founded</strong> —on human nature, on an agreement, on dignity— and can anything bind everyone without a shared foundation? It is an open debate, and the <strong>minimal universalism</strong> you saw earlier is one of the answers."
+    ],
+    "comprobacion": {
+     "pregunta": "What did the 1993 Vienna Conference reaffirm?",
+     "opciones": [
+      [
+       "That human rights are universal, even if they are applied with attention to each context.",
+       true
+      ],
+      [
+       "That each State decides which rights it recognises.",
+       false,
+       "That is closer to the Bangkok Declaration, to which Vienna responded."
+      ],
+      [
+       "That rights must be read in the light of a religion.",
+       false,
+       "That was Cairo’s proposal (1990)."
+      ],
+      [
+       "That the 1948 Declaration was annulled.",
+       false,
+       "On the contrary: it reaffirmed their universality."
+      ]
+     ],
+     "ok": "Exactly: universal, with attention to context.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Universality",
+      "titulo": "Universal or relative",
+      "definicion": [
+       "<strong>Cairo (1990)</strong>: rights, read in the light of Islamic law. <strong>Bangkok (1993)</strong>: Asian values and the sovereignty of each State.",
+       "<strong>Vienna (1993)</strong>: rights are universal, applied with attention to context.",
+       "The underlying question is the <strong>foundation</strong>: human nature, agreement or dignity. It connects with this topic’s debate between relativism and universalism."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What did the 1993 Bangkok Declaration stress?",
+       "opciones": [
+        [
+         "So-called Asian values and the sovereignty of each State against a common list.",
+         true
+        ],
+        [
+         "Reading rights according to Islamic law.",
+         false,
+         "That was the Cairo Declaration."
+        ],
+        [
+         "The universality of rights without qualification.",
+         false,
+         "It was Vienna that reaffirmed it."
+        ],
+        [
+         "The abolition of social rights.",
+         false,
+         "It was not about that."
+        ]
+       ],
+       "ok": "Correct: Asian values and sovereignty.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know the debate on relativism",
    "parrafos": [
     "The diversity of customs is a fact, but it does not prove that every morality is worth the same. And relativism has problems: the reformer would always be wrong and there would be no moral progress.",
-    "Minimal universalism looks for a few common values that allow us to criticise while still respecting diversity. To carry on: the activity ‘Minimal or maximal ethics?’."
+    "Minimal universalism looks for a few common values that allow us to criticise while still respecting diversity. To carry on: the activity ‘Minimal or maximal ethics?’.",
+    "You have the debate on the universality of rights in the section <a href=\"#teoria/fil-t6/6\">‘Human rights and the rule of law’</a> of Topic 6."
    ]
+  }
+ },
+ {
+  "id": "fil-etica-aplicada",
+  "subject": "fil",
+  "tema": "Topic 5 · The Questions of Ethics",
+  "unidad": "fil-t5",
+  "materia": "Philosophy Year 1 · Ethics",
+  "titulo": "What do we owe to nature, to those who will come after us and to those who are far away?",
+  "lede": "What makes a problem a matter of applied ethics, and three fields where it is debated: the environment, business and distant poverty. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "When is a problem a matter of applied ethics, and to whom do we owe consideration?",
+    "intro": [
+     "At a town council meeting there is a debate on whether to cut down a forest to build an industrial estate that will give work to two hundred people. It is legal. Does the discussion end there?"
+    ],
+    "pistas": [
+     "To get your bearings: not every problem in the newspaper is a matter of applied ethics. For it to be one, there has to be <em>reasonable disagreement</em> between informed people acting in good faith, and looking at the law must not be enough: something may be legal and morally debatable.",
+     "The first question of environmental ethics is <em>to whom</em> we owe consideration. For <em>anthropocentrism</em>, only to human beings: the forest matters because we need it.",
+     "Paul Taylor’s <em>biocentrism</em> extends it to every living being; Aldo Leopold’s <em>ecocentrism</em>, to the whole community of soils, waters, plants and animals: what is good is whatever protects the balance of that community.",
+     "The second question looks at time: Hans Jonas warned that technology can harm those who have not yet been born, and proposed acting so that human life can go on on Earth. <strong>Sustainable development</strong> (Brundtland Report, 1987) turned this into policy: meeting the needs of today without taking away from <strong>future generations</strong> the possibility of meeting theirs."
+    ],
+    "comprobacion": {
+     "pregunta": "For Leopold’s ecocentrism, when is an action good?",
+     "opciones": [
+      [
+       "When it protects the balance of the whole community of soils, waters, plants and animals.",
+       true
+      ],
+      [
+       "When it benefits human beings, even if it harms the rest.",
+       false,
+       "That is close to anthropocentrism."
+      ],
+      [
+       "When it respects each living being one by one.",
+       false,
+       "That is rather Taylor’s biocentrism; Leopold looks at the whole community."
+      ],
+      [
+       "When it is legal.",
+       false,
+       "Applied ethics begins precisely where the law is not enough."
+      ]
+     ],
+     "ok": "Good: the whole, not just each living being.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "Three answers about the forest",
+      "definicion": [
+       "‘It must be preserved because it gives us water, air and walks.’ → <strong>Anthropocentrism</strong>.",
+       "‘Every tree and every animal in the forest counts in its own right.’ → <strong>Biocentrism</strong> (Taylor).",
+       "‘What matters is that the ecosystem keeps working as a whole.’ → <strong>Ecocentrism</strong> (Leopold)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "‘The river must be protected because we need it for drinking.’ Which position is this?",
+       "opciones": [
+        [
+         "Anthropocentrism.",
+         true
+        ],
+        [
+         "Biocentrism.",
+         false,
+         "The argument only looks at what we humans need."
+        ],
+        [
+         "Ecocentrism.",
+         false,
+         "It does not talk about the balance of the ecosystem, but about our need."
+        ],
+        [
+         "None: it is not a moral argument.",
+         false,
+         "Yes, it is: it gives a reason for protecting something."
+        ]
+       ],
+       "ok": "Correct: the river matters because of us.",
+       "mal": "Look at the examples again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "Applied and environmental ethics",
+      "definicion": [
+       "A problem is a matter of <strong>applied ethics</strong> if there is reasonable disagreement and the law does not settle it.",
+       "<strong>Anthropocentrism</strong>, <strong>biocentrism</strong> and <strong>ecocentrism</strong> give different answers about to whom we owe consideration.",
+       "Hans Jonas (<em>The Imperative of Responsibility</em>, 1979) added duties towards future generations; the Brundtland Report turned them into <strong>sustainable development</strong>."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "What is sustainable development according to the Brundtland Report?",
+       "opciones": [
+        [
+         "Meeting the needs of today without taking away from future generations the possibility of meeting theirs.",
+         true
+        ],
+        [
+         "Stopping production so as not to harm nature.",
+         false,
+         "It does not ask for development to stop, but for it to happen without mortgaging the future."
+        ],
+        [
+         "Growing as much as possible now.",
+         false,
+         "That forgets precisely about future generations."
+        ],
+        [
+         "Protecting only natural areas.",
+         false,
+         "It is about human needs, today’s and tomorrow’s."
+        ]
+       ],
+       "ok": "Correct: today without taking from tomorrow.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "What responsibility do businesses have, and what do we owe to those who go hungry far away?",
+    "intro": [
+     "You see a child drowning in a shallow pond. If you go in, your new trainers will be ruined. Do you have to go in? Now think of a child dying of hunger thousands of kilometres away. Does distance change anything?"
+    ],
+    "pistas": [
+     "To get your bearings: almost everyone would say that the child must be pulled out of the pond. Peter Singer (1972) drew an uncomfortable conclusion from this: if so, you should also give part of your money to save distant children, because distance makes no moral difference.",
+     "His critics reply from different sides: some, that helping is generous but not obligatory and that nobody has to sacrifice their own projects; others, such as Thomas Pogge, that the problem is not each person’s charity, but rules of international trade that harm poor countries.",
+     "In business, two ideas clash: for Milton Friedman (1970), its only social responsibility is to make money within the law; for R. Edward Freeman (1984), a company is answerable to all the <em>stakeholders</em> it affects: workers, customers, suppliers, neighbours.",
+     "The collapse of Rana Plaza in Bangladesh (2013), with more than eleven hundred workers dead in workshops sewing for European brands, put the question on the front page: how far does the responsibility of those who buy from a distant supplier extend? This is how applied ethics puts theories to the test: Singer reasons as a <strong>utilitarian</strong>; his critics, with ideas of <strong>duty</strong>, permission and justice."
+    ],
+    "comprobacion": {
+     "pregunta": "What does Peter Singer conclude from the pond case?",
+     "opciones": [
+      [
+       "That, if you must save the nearby child, you must also help distant ones: distance makes no moral difference.",
+       true
+      ],
+      [
+       "That we only have duties towards those who are close to us.",
+       false,
+       "That is exactly what Singer denies."
+      ],
+      [
+       "That trainers are worth more than a life.",
+       false,
+       "On the contrary: nobody would think that, and that is where his argument starts."
+      ],
+      [
+       "That poverty is the fault of the poor.",
+       false,
+       "Singer is not talking about blame, but about what we ought to do."
+      ]
+     ],
+     "ok": "Exactly: distance is not a moral reason.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Business and poverty",
+      "titulo": "Two fields of applied ethics",
+      "definicion": [
+       "<strong>Business ethics</strong>: Friedman (only making money within the law) versus Freeman (being answerable to all stakeholders). Adela Cortina adds that a company also builds or destroys trust.",
+       "<strong>Distant poverty</strong>: Singer (a duty to help, as with the child in the pond) versus those who see help as generosity rather than duty, and versus Pogge (changing the unjust rules of trade).",
+       "In each case you can see how ethical theories (consequences, duties, justice) give different answers to a specific problem."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What does Freeman argue against Friedman?",
+       "opciones": [
+        [
+         "That a company is answerable to all the groups it affects, not only to its shareholders.",
+         true
+        ],
+        [
+         "That companies should not make money.",
+         false,
+         "Freeman does not deny profit; he widens the circle of those to whom a company is answerable."
+        ],
+        [
+         "That only complying with the law counts.",
+         false,
+         "That is rather Friedman’s position."
+        ],
+        [
+         "That companies should give all their profit to social causes.",
+         false,
+         "He does not ask for that: he asks for everyone affected to be taken into account."
+        ]
+       ],
+       "ok": "Correct: the stakeholders.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you know some of the fields of applied ethics",
+   "parrafos": [
+    "A problem is a matter of applied ethics when there is reasonable disagreement and the law is not enough. In the environment, the debate is about to whom we owe consideration and what we owe to those who will come after us; in business, about to whom a company is answerable; and in distant poverty, about whether helping is a duty.",
+    "You have it in the section <a href=\"#teoria/fil-t5/11\">‘Ethics of care and applied ethics today’</a> of Topic 5. To keep going: ‘Do consequences count, or intentions?’."
+   ],
+   "siguiente": "fil-consecuencias"
   }
  },
  {
@@ -3742,13 +5004,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "Why do ethics of duty set limits rather than goals?",
+    "intro": [
+     "A crowd threatens riots that will cause several deaths unless a judge convicts someone of a crime. The judge knows that the accused is innocent. Should he convict him to save more lives?"
+    ],
+    "pistas": [
+     "To get your bearings: if only the consequences counted, counting lives would seem to favour the conviction. But almost all of us feel that the judge cannot do it. The case was put forward by H. J. McCloskey in 1957.",
+     "The reason lies in the structure of ethics of duty: their norms are not <em>goals</em> to be achieved as many times as possible, but <em>limits</em> on what each person may do. ‘Do not punish an innocent person’ is not fulfilled any better by punishing one to prevent other punishments.",
+     "Three features follow from this. The difference between <em>doing</em> harm and <em>not preventing</em> it matters. There are <em>permissions</em> to look after one’s own life without having to maximise everyone’s good.",
+     "And some accept a <strong>threshold</strong>: in the face of a catastrophe, the limit might give way. So the ethics of duty is not blind to consequences: it says that they are not everything. In Year 2 you will see this developed in contrast with utilitarianism."
+    ],
+    "comprobacion": {
+     "pregunta": "For an ethics of duty, what is the norm ‘do not punish an innocent person’?",
+     "opciones": [
+      [
+       "A limit on what I may do, not a goal to be maximised.",
+       true
+      ],
+      [
+       "A goal: we must ensure that as few innocent people as possible are punished, by whatever means.",
+       false,
+       "That is how a consequentialist would understand it; the ethics of duty sees it as a limit."
+      ],
+      [
+       "A recommendation that can be skipped when it suits.",
+       false,
+       "It is a limit, although some accept a threshold in the face of catastrophes."
+      ],
+      [
+       "A norm only for judges.",
+       false,
+       "The structure holds for any duty: do not lie, do not kill…"
+      ]
+     ],
+     "ok": "Exactly: a limit, not a goal.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "The structure of duty",
+      "titulo": "Limits, permissions and thresholds",
+      "definicion": [
+       "<strong>Limits, not goals</strong>: duties restrict what I may do; they are not objectives to be maximised.",
+       "<strong>Doing and not preventing</strong>: causing harm is not the same as failing to prevent it. <strong>Permissions</strong>: I may devote myself to my own projects without having to maximise everyone’s good.",
+       "<strong>Threshold</strong>: some accept that the limit gives way in the face of a catastrophe. In addition, Kant distinguishes acting <em>from</em> duty from acting <em>in accordance with</em> duty (the shopkeeper who is honest out of self-interest)."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What does McCloskey’s judge case show?",
+       "opciones": [
+        [
+         "That there are things that must not be done even if the consequences seem better.",
+         true
+        ],
+        [
+         "That we must always save the greatest number of lives.",
+         false,
+         "That would be the utilitarian answer that the case calls into question."
+        ],
+        [
+         "That judges should not listen to the crowd.",
+         false,
+         "That is true, but the case teaches something more general: the limits of duty."
+        ],
+        [
+         "That justice does not exist.",
+         false,
+         "It shows the opposite: that justice sets limits."
+        ]
+       ],
+       "ok": "Correct: there are limits that are not crossed.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know the debate between consequences and intentions",
    "parrafos": [
     "Utilitarianism judges actions by their consequences: the greatest happiness of the greatest number. The ethics of duty, with Kant, holds that there are things you do not do even if they turn out well, and that moral worth lies in the good will.",
-    "The trolley problem shows that we use both perspectives. To carry on: ‘What is virtue for Aristotle?’, a third answer, centred on character."
+    "The trolley problem shows that we use both perspectives. To carry on: ‘What is virtue for Aristotle?’, a third answer, centred on character.",
+    "You have the structure of the ethics of duty in the section <a href=\"#teoria/fil-t5/5\">‘Kant’s formal ethics’</a> of Topic 5."
+   ],
+   "siguiente": "fil-virtud"
+  }
+ },
+ {
+  "id": "fil-estoicismo",
+  "subject": "fil",
+  "tema": "Topic 5 · The Questions of Ethics",
+  "unidad": "fil-t5",
+  "materia": "Philosophy Year 1 · Ethics",
+  "titulo": "What did the Stoics teach about virtue and the emotions?",
+  "lede": "A painted porch in Athens, four virtues, anger as a mistaken judgement and daily training. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "What is the only good thing for a Stoic?",
+    "intro": [
+     "One person has everything: health, money, success… and is mean to everyone. Another is ill and penniless, and is just and brave. Which of the two lives better?"
+    ],
+    "pistas": [
+     "To get your bearings: the school was founded by Zeno of Citium around 300 BC in a painted porch in Athens, the <em>Stoà poikílē</em>; hence its name.",
+     "For the Stoics, the only true good is having an excellent character: <em>virtue</em>. Health, money or success are <em>indifferent</em>: not because it makes no difference whether we have them, but because they do not make us better or worse people.",
+     "It is preferable to be healthy, of course; but a sick person can live well and a healthy one badly. That is why the second person in the example lives better, even though they have less.",
+     "That virtue has four faces: <strong>practical wisdom</strong> (<em>phrónēsis</em>), which guides the others; <strong>courage</strong> (<em>andreía</em>); <strong>justice</strong> (<em>dikaiosýnē</em>), which sees others as part of a single human community; and <strong>temperance</strong> (<em>sōphrosýnē</em>), which is content with enough."
+    ],
+    "comprobacion": {
+     "pregunta": "For a Stoic, what does it mean that health is ‘indifferent’?",
+     "opciones": [
+      [
+       "That it is preferable to have it, but it does not make us better or worse people.",
+       true
+      ],
+      [
+       "That it makes absolutely no difference whether you are healthy or ill.",
+       false,
+       "It is preferable to be healthy; what health does not do is decide whether we live well."
+      ],
+      [
+       "That it is bad and must be avoided.",
+       false,
+       "It is not bad: it is simply not the true good."
+      ],
+      [
+       "That it only matters to doctors.",
+       false,
+       "It matters to everyone, but it is not what makes us good."
+      ]
+     ],
+     "ok": "Good: preferable, but not good in the strict sense.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "The four virtues in daily life",
+      "definicion": [
+       "Knowing what is right to do when a friend asks to copy from you in an exam. → <strong>Practical wisdom</strong>.",
+       "Holding out against fear to stand up for someone who is being bullied. → <strong>Courage</strong>.",
+       "Treating the classmate you dislike the same as the one you like. → <strong>Justice</strong>.",
+       "Not asking for more than you need even when you could. → <strong>Temperance</strong>."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "Which virtue guides all the others for the Stoics?",
+       "opciones": [
+        [
+         "Practical wisdom (<em>phrónēsis</em>).",
+         true
+        ],
+        [
+         "Courage.",
+         false,
+         "It is one of the four, but not the one that guides the others."
+        ],
+        [
+         "Wealth.",
+         false,
+         "Wealth is an indifferent, not a virtue."
+        ],
+        [
+         "Fame.",
+         false,
+         "Fame is not a virtue either: it is another indifferent."
+        ]
+       ],
+       "ok": "Correct: it knows what is right in each case.",
+       "mal": "Look at the examples again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "Stoic ethics",
+      "definicion": [
+       "<strong>Stoicism</strong> is a virtue ethics: the only good is an excellent character.",
+       "Everything else (health, wealth, success) is <strong>indifferent</strong>, although there are preferred indifferents.",
+       "Virtue has four faces: practical wisdom, courage, justice and temperance."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "Where does the name ‘Stoicism’ come from?",
+       "opciones": [
+        [
+         "From the painted porch in Athens (<em>Stoà poikílē</em>) where Zeno taught.",
+         true
+        ],
+        [
+         "From a Greek word meaning ‘to endure pain’.",
+         false,
+         "It is a common confusion: the name comes from a place, the porch."
+        ],
+        [
+         "From the name of its founder.",
+         false,
+         "The founder was Zeno of Citium."
+        ],
+        [
+         "From the city of Stagira.",
+         false,
+         "Stagira is Aristotle’s birthplace."
+        ]
+       ],
+       "ok": "Correct: from the porch, the <em>stoá</em>.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "What are the passions for the Stoics, and what criticisms can be made of them?",
+    "intro": [
+     "A classmate shoves you in the corridor and you flare up. Then you find out that he had tripped. Your anger vanishes at once. What has changed: what happened or what you thought had happened?"
+    ],
+    "pistas": [
+     "To get your bearings: Chrysippus held that a passion is a <em>judgement</em>, and a mistaken one at that. Anger, for example, is believing that someone has done you an unjust harm and deserves to pay for it. Change the judgement and the emotion changes, as happened to you in the corridor.",
+     "Seneca, in <em>On Anger</em>, adds a nuance: there are reactions we do not choose, such as jumping at a clap of thunder, and they are not yet passions. The passion begins when we give our <em>assent</em> to that first impression.",
+     "That is why the goal, <em>apátheia</em>, is not to be cold, but not to let oneself be carried away; and philosophy is practised like training: Marcus Aurelius reviewed his day every night, and in the twentieth century cognitive therapies acknowledged this heritage.",
+     "The criticisms: its basis is a cosmos ordered by a divine reason (<em>lógos</em>) that not everyone shares; separating what I control from what I do not is too clear-cut (William Irvine adds a third box: what I <strong>partly</strong> control); and should I calmly accept an injustice? Its defenders point out that <strong>justice</strong> is one of the four virtues."
+    ],
+    "comprobacion": {
+     "pregunta": "What is Stoic <em>apátheia</em>?",
+     "opciones": [
+      [
+       "Not letting oneself be carried away by the passions, not the absence of all emotion.",
+       true
+      ],
+      [
+       "Never feeling anything, like a stone.",
+       false,
+       "The Stoic sage also knows good emotions, such as serene joy."
+      ],
+      [
+       "Losing interest in other people.",
+       false,
+       "Justice, one of the four virtues, rules that out."
+      ],
+      [
+       "Putting up with any injustice without protesting.",
+       false,
+       "That is precisely the version its defenders criticise."
+      ]
+     ],
+     "ok": "Exactly: not being carried away.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Passions and criticisms",
+      "titulo": "The passions as judgements",
+      "definicion": [
+       "<strong>Chrysippus</strong>: a passion is a mistaken judgement. <strong>Seneca</strong>: the passion begins when we give our assent to a first impression that we do not choose.",
+       "<strong>Apátheia</strong> is not letting oneself be carried away; the sage has good emotions, such as serene joy.",
+       "Criticisms: the cosmos of the <em>lógos</em>; the dichotomy of what is controllable, which is too clear-cut (Irvine); and the political risk of accepting injustice, which is answered by the virtue of justice and Stoic cosmopolitanism."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What does William Irvine propose in response to the division between what I control and what I do not?",
+       "opciones": [
+        [
+         "A third box: what I partly control, such as an exam mark.",
+         true
+        ],
+        [
+         "Getting rid of the division and not worrying about anything.",
+         false,
+         "Irvine does not get rid of it: he qualifies it."
+        ],
+        [
+         "Leaving everything in the hands of fate.",
+         false,
+         "That would mean washing your hands of what does depend on us."
+        ],
+        [
+         "Controlling everything with a great deal of discipline.",
+         false,
+         "It starts precisely from the fact that not everything can be controlled."
+        ]
+       ],
+       "ok": "Correct: what partly depends on me.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you know Stoic ethics",
+   "parrafos": [
+    "For the Stoics, the only good is virtue, with its four faces; everything else is indifferent. The passions are mistaken judgements, and the goal is not to let oneself be carried away, by training every day.",
+    "You have it in the section <a href=\"#teoria/fil-t5/4\">‘The great material ethics’</a> of Topic 5. To keep going: ‘What Is Virtue for Aristotle?’."
    ],
    "siguiente": "fil-virtud"
   }
@@ -3960,14 +5518,310 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "What objections are raised against virtue ethics, and how does it reply?",
+    "intro": [
+     "A friend shows you the song he has written and you think it is bad. Being honest asks you to tell him; being kind, not to hurt him. What would a ‘virtuous person’ do here?"
+    ],
+    "pistas": [
+     "To get your bearings: the most frequent objection is that virtue ethics <em>does not say what to do</em>: ‘act as a virtuous person would’ seems empty if I do not know what that person would do. Rosalind Hursthouse replies that each virtue already gives a guideline (be honest, do not be cruel) and that the other theories also need judgement to be applied.",
+     "The second is the <em>clash between virtues</em>, as with your friend’s song. The Aristotelian answer is <em>practical wisdom</em>: it does not apply a rule, but looks, in each case, for the way to be honest without being cruel.",
+     "The third is <em>cultural relativity</em>: each period admires different virtues. Martha Nussbaum replies that every culture faces the same experiences (the fear of death, the sharing of goods, pleasures) and that virtue is the right way of facing each of them.",
+     "The fourth, <strong>situationism</strong>, comes from psychology: experiments such as Milgram’s show that the situation weighs heavily on what we do, and some philosophers doubt that stable character exists. Defenders of virtue reply that this confirms what Aristotle already knew: full virtue is <strong>rare and difficult</strong>, not impossible."
+    ],
+    "comprobacion": {
+     "pregunta": "What does the situationist objection claim?",
+     "opciones": [
+      [
+       "That the situation weighs so heavily on what we do that stable character may not exist.",
+       true
+      ],
+      [
+       "That virtue ethics does not say what to do.",
+       false,
+       "That is another objection, the first one."
+      ],
+      [
+       "That each culture has its own virtues.",
+       false,
+       "That is the objection of cultural relativity."
+      ],
+      [
+       "That virtues clash with one another.",
+       false,
+       "That is the objection of the clash between virtues."
+      ]
+     ],
+     "ok": "Exactly: the situation versus character.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Objections and replies",
+      "titulo": "Four objections",
+      "definicion": [
+       "<strong>It gives no guidelines</strong> → Hursthouse: each virtue and each vice gives a guideline.",
+       "<strong>Clash between virtues</strong> → practical wisdom looks, in each case, for the way to fulfil both.",
+       "<strong>Cultural relativity</strong> → Nussbaum: shared human experiences. <strong>Situationism</strong> (Harman, Doris) → full virtue is rare, not impossible."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What does an Aristotelian reply to the clash between honesty and kindness?",
+       "opciones": [
+        [
+         "That practical wisdom looks, in each case, for the way to be honest without being cruel.",
+         true
+        ],
+        [
+         "That honesty always wins.",
+         false,
+         "There is no fixed rule: practical wisdom decides in each case."
+        ],
+        [
+         "That kindness always wins.",
+         false,
+         "Not that either: the point is to find a way to fulfil both."
+        ],
+        [
+         "That virtues do not exist.",
+         false,
+         "On the contrary: the clash is resolved by another virtue, practical wisdom."
+        ]
+       ],
+       "ok": "Correct: practical wisdom.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know Aristotle’s ethics",
    "parrafos": [
     "Virtue is a habit of choosing the mean between two vices, guided by practical reason. Living like that is happiness: a life achieved as a whole.",
-    "To go further: compare it with Epicurus (pleasure as the absence of pain) and with Kant (duty)."
+    "To go further: compare it with Epicurus (pleasure as the absence of pain) and with Kant (duty).",
+    "You have the objections to virtue ethics in the section <a href=\"#teoria/fil-t5/4\">‘The great material ethics’</a> of Topic 5."
    ]
+  }
+ },
+ {
+  "id": "fil-estado-nacion",
+  "subject": "fil",
+  "tema": "Topic 6 · Life in Society",
+  "unidad": "fil-t6",
+  "materia": "Philosophy Year 1 · Politics",
+  "titulo": "Is a State the same thing as a nation?",
+  "lede": "Four words that everyday speech blends together —State, country, nation and homeland— and why separating them helps us discuss calmly. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "What does each of these words name: State, country, nation and homeland?",
+    "intro": [
+     "Someone says in the same sentence: ‘This country has an effective State, it is an ancient nation and it is my homeland.’ Are they saying the same thing four times?"
+    ],
+    "pistas": [
+     "To get your bearings: the <em>State</em> is a <em>legal</em> reality: a sovereign power over a territory and a population, with its institutions (government, parliament, courts).",
+     "The <em>country</em> is above all a territory, with its geography and its administration: it is what you see on a map.",
+     "The <em>nation</em> is a community that feels bound together by a shared history, language or culture. And the <em>homeland</em> names the emotional bond with it: the sense of belonging to a place.",
+     "They are four distinct planes —the <strong>legal</strong>, the <strong>territorial</strong>, the <strong>cultural</strong> and the <strong>emotional</strong>— which may or may not coincide. The sentence in the example says four things, not one."
+    ],
+    "comprobacion": {
+     "pregunta": "Which of these words names a legal reality?",
+     "opciones": [
+      [
+       "State.",
+       true
+      ],
+      [
+       "Nation.",
+       false,
+       "The nation is a cultural community: it can exist without institutions of its own."
+      ],
+      [
+       "Homeland.",
+       false,
+       "The homeland is an emotional bond, not an institution."
+      ],
+      [
+       "Country.",
+       false,
+       "The country is above all a territory."
+      ]
+     ],
+     "ok": "Good: the State is power with institutions.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "Each word on its own plane",
+      "definicion": [
+       "‘The State has passed an education law.’ → <strong>Legal</strong> plane.",
+       "‘This country has a lot of mountains.’ → <strong>Territorial</strong> plane.",
+       "‘We are a nation with a language of our own.’ → <strong>Cultural</strong> plane.",
+       "‘I miss my homeland when I am away.’ → <strong>Emotional</strong> plane (homeland)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "‘I get a lump in my throat when I hear the music of my home town.’ Which plane does it belong to?",
+       "opciones": [
+        [
+         "The emotional one: the homeland as an emotional bond.",
+         true
+        ],
+        [
+         "The legal one: the State.",
+         false,
+         "It does not talk about laws or institutions."
+        ],
+        [
+         "The territorial one: the country.",
+         false,
+         "It does not describe a territory, but a feeling."
+        ],
+        [
+         "None: it is just music.",
+         false,
+         "It expresses a bond with a place and a community."
+        ]
+       ],
+       "ok": "Correct: the emotional plane.",
+       "mal": "Look at the examples again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "Four planes",
+      "definicion": [
+       "<strong>State</strong>: a sovereign power over a territory and a population, with institutions (legal plane).",
+       "<strong>Country</strong>: a territory, with its geography and its administration (territorial plane).",
+       "<strong>Nation</strong>: a community bound together by history, language or culture (cultural plane). <strong>Homeland</strong>: the emotional bond with it (emotional plane)."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "Can a nation exist without a State of its own?",
+       "opciones": [
+        [
+         "Yes: the nation is a cultural community, and it need not coincide with a State.",
+         true
+        ],
+        [
+         "No: a nation is, by definition, a State.",
+         false,
+         "That is exactly the confusion the section wants to avoid."
+        ],
+        [
+         "Only if it is very small.",
+         false,
+         "Size decides nothing: it depends on whether the planes coincide or not."
+        ],
+        [
+         "Only in antiquity.",
+         false,
+         "Today too there are nations without a State and nations divided among several."
+        ]
+       ],
+       "ok": "Correct: distinct planes.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "Does each nation have to have its own State?",
+    "intro": [
+     "Look at a map of Europe with its borders and another with its languages. Do the lines coincide?"
+    ],
+    "pistas": [
+     "To get your bearings: the modern <em>nation-state</em> was built on an idea: to each nation, a State, and to each State, a nation.",
+     "But reality almost never fits: there are <em>plurinational States</em>, which bring together several nations, and there are nations divided among several States or with no State of their own.",
+     "An example close to home: Basque culture lives on both sides of the border between Spain and France. Cultural boundaries and political ones need not go together.",
+     "Separating the four planes does not settle the debate on identity, belonging and self-government, which is <strong>political and legitimate on all sides</strong>; but it helps us discuss it more calmly, because everyone knows which plane they are talking about."
+    ],
+    "comprobacion": {
+     "pregunta": "What did the ideal of the nation-state assume?",
+     "opciones": [
+      [
+       "That each nation should have its own State, and each State, its own nation.",
+       true
+      ],
+      [
+       "That States should have no borders.",
+       false,
+       "On the contrary: it assumed borders that would coincide with nations."
+      ],
+      [
+       "That nations do not exist.",
+       false,
+       "It started from the idea that nations exist and should have their own State."
+      ],
+      [
+       "That each city should be a State.",
+       false,
+       "That is closer to the Greek city-state."
+      ]
+     ],
+     "ok": "Exactly: one nation, one State.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Nation-state",
+      "titulo": "When the planes do not coincide",
+      "definicion": [
+       "<strong>Nation-state</strong>: the ideal that nation and State should coincide.",
+       "<strong>Plurinational State</strong>: a State that brings together several nations. There are also nations divided among several States or with no State of their own.",
+       "How these realities should be organised is an open political debate, with reasons on several sides; distinguishing the planes helps us discuss it better, not close it."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "What is the point of distinguishing State, country, nation and homeland in the debate on self-government?",
+       "opciones": [
+        [
+         "To discuss more clearly, knowing which plane each person is talking about, without treating the debate as settled.",
+         true
+        ],
+        [
+         "To prove who is right.",
+         false,
+         "The distinction clarifies the discussion; it does not prove anyone right."
+        ],
+        [
+         "To stop talking about politics.",
+         false,
+         "On the contrary: it allows us to talk about it better."
+        ],
+        [
+         "To get rid of feelings of belonging.",
+         false,
+         "The homeland is a legitimate plane: the point is not to confuse it with the others."
+        ]
+       ],
+       "ok": "Correct: clarity, not a verdict.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you can tell State, country, nation and homeland apart",
+   "parrafos": [
+    "The State is legal, the country territorial, the nation cultural and the homeland emotional. The ideal of the nation-state wanted to make them coincide, but there are plurinational States and nations that are divided or have no State.",
+    "You have it in the section <a href=\"#teoria/fil-t6/3\">‘Power and its legitimacy’</a> of Topic 6. To keep going: ‘What makes power legitimate?’."
+   ],
+   "siguiente": "fil-legitimidad"
   }
  },
  {
@@ -4175,13 +6029,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Extension",
+    "etiqueta": "New question",
+    "pregunta": "How do social movements change politics?",
+    "intro": [
+     "A century ago, women could not vote in most countries. Did that change because a parliament decided it one day, or did something happen first?"
+    ],
+    "pistas": [
+     "To get your bearings: not all politics goes through parties and the ballot box. <em>Social movements</em> organise people outside the institutions in order to change laws and customs.",
+     "Examples: suffragism, the civil rights movement, the labour movement, feminism, environmentalism. Many rights that seem obvious today were won through sustained social pressure before they reached parliaments.",
+     "One of their tools is <em>civil disobedience</em>. Henry David Thoreau defended it in the 19th century by refusing to pay a tax that sustained slavery and war; Gandhi and Martin Luther King turned it into a mass strategy.",
+     "What separates it from <strong>ordinary crime</strong>: it seeks neither personal gain nor concealment, but to change a rule by appealing to <strong>shared principles</strong>. Whether the law must always be obeyed, or when it is legitimate to disobey it, is still an open debate."
+    ],
+    "comprobacion": {
+     "pregunta": "What distinguishes civil disobedience from an ordinary crime?",
+     "opciones": [
+      [
+       "That it seeks neither personal gain nor concealment, but to change a rule by appealing to shared principles.",
+       true
+      ],
+      [
+       "That it never has legal consequences.",
+       false,
+       "Whoever practises it accepts the penalty."
+      ],
+      [
+       "That only political parties can practise it.",
+       false,
+       "It almost always arises outside the parties, in social movements."
+      ],
+      [
+       "That it is always violent.",
+       false,
+       "By definition it is non-violent."
+      ]
+     ],
+     "ok": "Exactly: public and based on principle.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Social movements",
+      "titulo": "Politics from outside the institutions",
+      "definicion": [
+       "<strong>Social movements</strong>: suffragism, civil rights, the labour movement, feminism, environmentalism; sustained pressure to change laws and customs.",
+       "<strong>Civil disobedience</strong>: breaking, in a public, non-violent and deliberate way, a law regarded as unjust, while accepting the penalty. Thoreau, Gandhi, Martin Luther King.",
+       "The debate remains open: some argue that the law should always be obeyed, and others that it may be disobeyed in serious cases of injustice."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "Why did Thoreau refuse to pay a tax?",
+       "opciones": [
+        [
+         "Because it sustained slavery and war.",
+         true
+        ],
+        [
+         "Because he had no money.",
+         false,
+         "It was a decision of principle, not a lack of money."
+        ],
+        [
+         "Because he wanted to keep the money.",
+         false,
+         "He was not seeking personal gain: that is what distinguishes it from an ordinary crime."
+        ],
+        [
+         "Because the tax was new.",
+         false,
+         "The reason was moral: what the tax paid for."
+        ]
+       ],
+       "ok": "Correct: because of what it paid for.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Now you know what makes power legitimate",
    "parrafos": [
     "Power is the capacity to give orders; legitimacy, the recognised right to do so. Weber distinguished three sources: tradition, charisma and the law.",
-    "But what is legal is not always just, as Antigone showed. Civil disobedience is one response to unjust laws, debated because of its risks. To carry on: ‘What is the social contract?’."
+    "But what is legal is not always just, as Antigone showed. Civil disobedience is one response to unjust laws, debated because of its risks. To carry on: ‘What is the social contract?’.",
+    "You have social movements in the section <a href=\"#teoria/fil-t6/7\">‘Ideologies and today’s challenges’</a> of Topic 6."
    ],
    "siguiente": "fil-contrato"
   }
@@ -4697,6 +6631,223 @@ const PISTAS = [
     "The veil of ignorance is Rawls’s thought experiment: choosing the rules without knowing what place you will occupy. From it come the maximin rule and two principles: equal liberties for all, and inequalities only if they benefit the least advantaged. Nozick answers that what is just depends on how each thing was acquired.",
     "To think about: compare what you would choose behind the veil with the society you live in. If they do not resemble each other, why do you defend in real life things you would not dare to write down without knowing what place you will get?"
    ]
+  }
+ },
+ {
+  "id": "fil-democracia-derechos",
+  "subject": "fil",
+  "tema": "Topic 6 · Life in Society",
+  "unidad": "fil-t6",
+  "materia": "Philosophy Year 1 · Politics",
+  "titulo": "What does it take for a democracy to be a real one?",
+  "lede": "Voting is not enough: the features of a liberal democracy, and what the Universal Declaration of Human Rights says and how binding it is. Ask only for the hints you need.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Recall",
+    "etiqueta": "Opening question",
+    "pregunta": "Is it enough for there to be elections for a country to be a liberal democracy?",
+    "intro": [
+     "In an imaginary country there is a vote every four years. But you can only vote for one party, the newspapers are controlled by the government and the judges are appointed by the president. Is it a democracy?"
+    ],
+    "pistas": [
+     "To get your bearings: there are elections, yes, but <em>pluralism</em> is missing: many parties and opinions competing. With only one party, voting chooses nothing.",
+     "Also missing is the <em>rule of law</em>: that whoever governs is subject to it like anyone else; and <em>accountability</em>: that they answer for what they do before independent judges and before the citizens.",
+     "And an active <em>civil society</em> is missing: a press, associations and trade unions that do not depend on the State.",
+     "A <strong>liberal democracy</strong> brings together several features at once: pluralism, the rule of law, accountability, free and regular elections, an active civil society, majority rule with <strong>minority rights</strong>, and representation. Elections are one of them, not all of them."
+    ],
+    "comprobacion": {
+     "pregunta": "What does ‘majority rule with minority rights’ mean?",
+     "opciones": [
+      [
+       "That whoever wins the elections governs, but without crushing the rights of whoever loses.",
+       true
+      ],
+      [
+       "That the majority can decide anything at all about the minority.",
+       false,
+       "That would be a tyranny of the majority, exactly what this feature prevents."
+      ],
+      [
+       "That the minority always governs.",
+       false,
+       "The majority governs, within limits."
+      ],
+      [
+       "That there is never any voting, so as not to upset anyone.",
+       false,
+       "There is voting; what there are are rights that a vote cannot take away."
+      ]
+     ],
+     "ok": "Good: winning does not give you the right to everything.",
+     "mal": "Not yet."
+    },
+    "rescate": [
+     {
+      "boton": "I need to see examples",
+      "etiqueta": "Examples",
+      "titulo": "Each feature, with its opposite",
+      "definicion": [
+       "Pluralism ↔ the single party.",
+       "Rule of law ↔ arbitrary power.",
+       "Accountability ↔ impunity.",
+       "Free and regular elections ↔ office held for life or inherited.",
+       "Active civil society ↔ state control of public life."
+      ],
+      "comprobacion": {
+       "etiqueta": "Check on the examples",
+       "pregunta": "A minister who cannot be put on trial whatever he does. Which feature is missing?",
+       "opciones": [
+        [
+         "Accountability (and the rule of law).",
+         true
+        ],
+        [
+         "Pluralism.",
+         false,
+         "The problem is not how many parties compete, but that nobody holds him to account."
+        ],
+        [
+         "Representation.",
+         false,
+         "He may have been elected; what fails is that he does not answer for his actions."
+        ],
+        [
+         "Civil society.",
+         false,
+         "There may be one; the failure is that power escapes the law."
+        ]
+       ],
+       "ok": "Correct: impunity versus accountability.",
+       "mal": "Look at the opposites again.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definition and explanation",
+      "titulo": "Liberal democracy",
+      "definicion": [
+       "A <strong>liberal democracy</strong> combines majority rule with limits that protect everyone’s rights.",
+       "Its features: pluralism, the rule of law, accountability, free and regular elections, an active civil society, majority rule with minority rights, and representation.",
+       "Each feature is easier to understand through its opposite: the single party, arbitrary power, impunity, inherited office, state control, the tyranny of the majority."
+      ],
+      "comprobacion": {
+       "boton": "Check understanding",
+       "etiqueta": "Final check",
+       "pregunta": "What does the ‘rule of law’ mean?",
+       "opciones": [
+        [
+         "That whoever governs is also subject to the law.",
+         true
+        ],
+        [
+         "That there are many laws.",
+         false,
+         "It is not a question of quantity, but of nobody being above it."
+        ],
+        [
+         "That the government can change the law whenever it likes, without limits.",
+         false,
+         "That would be arbitrary power."
+        ],
+        [
+         "That the law is made by an emperor.",
+         false,
+         "‘Rule’ here means the dominance of the law, not of a person."
+        ]
+       ],
+       "ok": "Correct: nobody above the law.",
+       "mal": "Not yet."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Going deeper",
+    "etiqueta": "New question",
+    "pregunta": "What does the Universal Declaration of Human Rights say, and does it bind States?",
+    "intro": [
+     "A country voted in favour of the 1948 Universal Declaration and, even so, imprisons journalists. Is it breaking an international law?"
+    ],
+    "pistas": [
+     "To get your bearings: the UN General Assembly adopted the Declaration in 1948, after the Second World War. Its preamble starts from the <em>dignity</em> of every human being.",
+     "Article 1 proclaims that we are all born free and equal in dignity and rights; Article 2 forbids discrimination. Articles 3 to 21 set out <em>civil and political</em> rights (life, liberty, a fair trial, expression, participation), and Articles 22 to 27, <em>economic, social and cultural</em> rights (work, education, health).",
+     "But be careful about how binding it is: the Declaration is a <em>resolution</em> of the Assembly, not a treaty. It sets a common ideal, but on its own it is not legally binding.",
+     "That is why in 1966 two <strong>covenants</strong> were adopted —one on civil and political rights, the other on economic, social and cultural rights— which are indeed treaties and bind the States that ratify them. In short: <strong>the Declaration inspires and the covenants bind</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "Why does the 1948 Declaration not bind States on its own?",
+     "opciones": [
+      [
+       "Because it is a resolution of the General Assembly, not a treaty.",
+       true
+      ],
+      [
+       "Because no country signed it.",
+       false,
+       "It was adopted by the UN General Assembly."
+      ],
+      [
+       "Because it only deals with economic rights.",
+       false,
+       "It sets out civil and political rights and also economic, social and cultural ones."
+      ],
+      [
+       "Because it expired in 1966.",
+       false,
+       "It did not expire: in 1966 the covenants were added, and they are binding."
+      ]
+     ],
+     "ok": "Exactly: a resolution, not a treaty.",
+     "mal": "Not exactly."
+    },
+    "rescate": [
+     {
+      "boton": "Show the explanation",
+      "etiqueta": "Inside the Declaration",
+      "titulo": "Content and force",
+      "definicion": [
+       "<strong>Preamble</strong>: the dignity of every human being. <strong>Art. 1</strong>: free and equal in dignity and rights. <strong>Art. 2</strong>: non-discrimination.",
+       "<strong>Arts. 3-21</strong>: civil and political rights. <strong>Arts. 22-27</strong>: economic, social and cultural rights.",
+       "<strong>Force</strong>: the Declaration (1948) is a resolution; the two 1966 <strong>covenants</strong> are treaties and bind those who ratify them."
+      ],
+      "comprobacion": {
+       "boton": "Finish by checking",
+       "pregunta": "In which articles of the Declaration are economic, social and cultural rights found?",
+       "opciones": [
+        [
+         "From 22 to 27.",
+         true
+        ],
+        [
+         "From 3 to 21.",
+         false,
+         "Those are the civil and political ones."
+        ],
+        [
+         "Only in the preamble.",
+         false,
+         "The preamble grounds dignity; the rights are listed afterwards."
+        ],
+        [
+         "They do not appear in the Declaration.",
+         false,
+         "Yes, they do: work, education, health, cultural life."
+        ]
+       ],
+       "ok": "Correct: from 22 to 27.",
+       "mal": "Reread the explanation."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Now you know what a liberal democracy is and how binding human rights are",
+   "parrafos": [
+    "A liberal democracy is not just a matter of voting: it calls for pluralism, the rule of law, accountability, civil society and minority rights. The 1948 Declaration inspires; the 1966 covenants bind.",
+    "You have it in the sections <a href=\"#teoria/fil-t6/5\">‘Forms of government and democracy’</a> and <a href=\"#teoria/fil-t6/6\">‘Human rights and the rule of law’</a> of Topic 6. To keep going: ‘Is everything relative in morality?’, with the debate on whether rights are universal."
+   ],
+   "siguiente": "fil-relativismo"
   }
  },
  {
