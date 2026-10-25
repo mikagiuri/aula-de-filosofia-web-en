@@ -4705,7 +4705,7 @@ const QUIZZES = {
     "o": [
      "That of Thales: asking for reasons and not accepting authority.",
      "That of the Scribe: knowledge is order in imitation of the heavens.",
-     "That of the Scribe: the equality of men is a falsehood.",
+     "That of the Scribe: the equality of human beings is a falsehood.",
      "That of the Egyptians: myth dictated by a supreme power."
     ],
     "a": 0,
@@ -4720,7 +4720,7 @@ const QUIZZES = {
      "In that their gods are more powerful than the God of Light of Egypt."
     ],
     "a": 1,
-    "fb": "Thales says they only believe themselves superior because they do not believe in superior civilisations: the Logos is one in all men."
+    "fb": "Thales says they only believe themselves superior because they do not believe in superior civilisations: the Logos is one in all human beings."
    }
   ]
  },
@@ -4751,7 +4751,7 @@ const QUIZZES = {
     "fb": "Cultural anthropology describes peoples and customs through observation; the philosophical one seeks, with concepts and arguments, what defines us as human."
    },
    {
-    "q": "Who asserted that ‘man is the measure of all things’?",
+    "q": "Who asserted that ‘the human being is the measure of all things’?",
     "o": [
      "Aristotle",
      "Kant",
@@ -4762,7 +4762,7 @@ const QUIZZES = {
     "fb": "The phrase is by the sophist Protagoras, who placed the human being at the centre of reflection as early as Antiquity."
    },
    {
-    "q": "What does the phrase ‘man is the measure of all things’ mean?",
+    "q": "What does the phrase ‘the human being is the measure of all things’ mean?",
     "o": [
      "That the human being is the largest and most perfect living being in all of nature",
      "That there is no absolute criterion of truth: things are as they seem to each person, or to each community",
@@ -5072,7 +5072,7 @@ const QUIZZES = {
    {
     "q": "A company tests a drug on its employees without telling them, just to save costs. Which idea from the topic best explains why this is unacceptable?",
     "o": [
-     "That man is the measure of all things, as Protagoras said",
+     "That the human being is the measure of all things, as Protagoras said",
      "That culture is a second womb in which the human being is formed",
      "That the person is an end in itself, never a mere means",
      "That in the human being existence always precedes essence"
@@ -5351,7 +5351,7 @@ const QUIZZES = {
     "fb": "Whoever asserts that nothing can be known is asserting something very certain about knowledge, precisely what they say is impossible."
    },
    {
-    "q": "The phrase ‘Man is the measure of all things’ is by…",
+    "q": "The phrase ‘The human being is the measure of all things’ is by…",
     "o": [
      "Plato, and expresses dogmatism",
      "Pyrrho of Elis, and expresses scepticism",

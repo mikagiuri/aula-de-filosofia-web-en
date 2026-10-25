@@ -205,7 +205,7 @@ const DILEMAS = [
    {
     "quien": "Rousseau",
     "elige": "B",
-    "porque": "Man is born good and free and society puts him in chains; the boy in the forest is not a defect of humanity but a sample of what we are before they deform us.",
+    "porque": "The human being is born good and free and society puts him in chains; the boy in the forest is not a defect of humanity but a sample of what we are before they deform us.",
     "biografia": "rousseau"
    },
    {
@@ -320,7 +320,7 @@ const DILEMAS = [
    {
     "quien": "Aristotle",
     "elige": "B",
-    "porque": "The virtuous person does not decide with a formula but with character: there are actions that a good man does not perform, and pushing an innocent person is one of them, even if the result is better.",
+    "porque": "The virtuous person does not decide with a formula but with character: there are actions that a good human being does not perform, and pushing an innocent person is one of them, even if the result is better.",
     "biografia": "aristoteles"
    },
    {

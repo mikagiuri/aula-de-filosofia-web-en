@@ -829,7 +829,7 @@ const PISTAS = [
       ],
       "comprobacion": {
        "boton": "Finish by checking",
-       "pregunta": "A man with total amnesia remembers nothing of his life. What problem does this create for the memory criterion?",
+       "pregunta": "A human being with total amnesia remembers nothing of his life. What problem does this create for the memory criterion?",
        "opciones": [
         [
          "It would seem that he is no longer the person who lived that life, and that sounds absurd.",
@@ -1516,7 +1516,7 @@ const PISTAS = [
       "etiqueta": "Examples",
       "titulo": "Three answers to the problem",
       "definicion": [
-       "<strong>Hard determinism</strong>: everything is determined, and so freedom is an illusion. Spinoza said that men believe themselves free because they are conscious of their actions but ignorant of their causes (<em>Ethics</em> I, appendix).",
+       "<strong>Hard determinism</strong>: everything is determined, and so freedom is an illusion. Spinoza said that human beings believe themselves free because they are conscious of their actions but ignorant of their causes (<em>Ethics</em> I, appendix).",
        "<strong>Libertarianism</strong>: human decisions are not entirely determined; there is something in them that cannot be reduced to earlier causes.",
        "<strong>Compatibilism</strong>: everything has causes, and even so we are free, because being free is not acting without a cause, but acting without coercion."
       ],
@@ -2757,7 +2757,7 @@ const PISTAS = [
     "pistas": [
      "To get your bearings: some sentences are about <em>our tastes or sensations</em> (‘it’s very salty’). In those, it is reasonable that each person has their own truth: they are really about each person.",
      "Others are about <em>what the world is like</em> (‘water boils at 100 °C at sea level’). Those do not change depending on who says them: either water boils at that temperature or it does not.",
-     "The sophist Protagoras said that ‘man is the measure of all things’. In the <em>Theaetetus</em>, Plato sets him a trap: if everything each person believes is true for them, then the belief of someone who thinks Protagoras is wrong is true as well.",
+     "The sophist Protagoras said that ‘the human being is the measure of all things’. In the <em>Theaetetus</em>, Plato sets him a trap: if everything each person believes is true for them, then the belief of someone who thinks Protagoras is wrong is true as well.",
      "That is the problem with radical <strong>relativism</strong>: the sentence ‘all truth is relative’ wants to be true for everyone, and so it <strong>contradicts itself</strong>. That does not make all our opinions certain, but it shows that not everything is a matter of perspective."
     ],
     "comprobacion": {

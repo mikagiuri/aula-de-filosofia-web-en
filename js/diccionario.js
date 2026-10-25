@@ -950,7 +950,7 @@ const DICCIONARIO = [
   "subject": "fil",
   "t": "Ad hominem",
   "id": "g-fil-ad-hominem",
-  "et": "From the Latin: ‘against the man’, that is, against the person and not against what they say. Aristotle already distinguishes between replying πρὸς τὸν λόγον (*pròs tòn lógon*), ‘to the argument’, and πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), ‘to the person’ (*Sophistical Refutations* 22), although there it is a matter of addressing the interlocutor, not of attacking him.",
+  "et": "From the Latin: ‘against the human being’, that is, against the person and not against what they say. Aristotle already distinguishes between replying πρὸς τὸν λόγον (*pròs tòn lógon*), ‘to the argument’, and πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), ‘to the person’ (*Sophistical Refutations* 22), although there it is a matter of addressing the interlocutor, not of attacking him.",
   "area": "Logic",
   "tema": "Argumentation workshop",
   "def": "Attacking the person who is arguing instead of rebutting their reasons."

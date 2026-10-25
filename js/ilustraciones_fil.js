@@ -1089,7 +1089,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/retratos/museo2/boecio.jpg",
   "t": "Boethius and the wheel of Fortune",
-  "pie": "Miniature from a French edition of The Consolation of Philosophy: Boethius converses with two female figures beside the wheel of Fortune, which raises and lowers men. The work asks how human freedom fits with fate and with a God who knows everything.",
+  "pie": "Miniature from a French edition of The Consolation of Philosophy: Boethius converses with two female figures beside the wheel of Fortune, which raises and lowers human beings. The work asks how human freedom fits with fate and with a God who knows everything.",
   "tema": "fil-metafisica",
   "license": "Public domain",
   "artist": ""

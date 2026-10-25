@@ -379,7 +379,7 @@ const RESUMENES_FIL = [
       "d": "body and mind, biology and culture, individual and society, conditioning and freedom; no answer has closed the debate"
      },
      {
-      "t": "‘Man is the measure of all things’",
+      "t": "‘The human being is the measure of all things’",
       "d": "today it is read in a humanist key, but that is a modern reading: it was about truth and is a relativist thesis",
       "a": "Protagoras"
      }

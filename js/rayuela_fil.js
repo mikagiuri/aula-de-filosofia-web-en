@@ -439,8 +439,8 @@ const RAYUELA_FIL = {
     9.6,
     11.6
    ],
-   "titulo": "Man, the measure of all things",
-   "texto": "Protagoras, the most famous sophist in Athens, held that ‘man is the measure of all things’: the same wind is cold for the person who is shivering and pleasant for the one who has just been running. Does that also hold for truth?",
+   "titulo": "The human being, the measure of all things",
+   "texto": "Protagoras, the most famous sophist in Athens, held that ‘the human being is the measure of all things’: the same wind is cold for the person who is shivering and pleasant for the one who has just been running. Does that also hold for truth?",
    "pregunta": "Are there truths that hold for everyone?",
    "opciones": [
     {
