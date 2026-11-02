@@ -93,6 +93,142 @@ const ESQUEMAS_FIL = {
     }
    ],
    "idea": "‘Sapere aude (dare to know): have the courage to use your own reason’ (Kant). To philosophise is to seek the truth with arguments, without losing one’s sense of wonder."
+  },
+  "v3": {
+   "pregunta": "What kind of knowledge is philosophy, how has it come down to us and how is it done?",
+   "raiz": "PHILOSOPHY",
+   "raiz_d": "Philía (love) + sophía (wisdom): love of wisdom. Whoever philosophises does not possess the truth: they desire it and seek it.",
+   "ramas": [
+    {
+     "rel": "is born of wonder with the move",
+     "t": "From myth to logos",
+     "k": true,
+     "a": "Thales of Miletus",
+     "d": "Greece, 6th century BC: from stories about gods to explanations with reasons.",
+     "c": [
+      {
+       "rel": "leaves behind",
+       "t": "Myth",
+       "d": "A traditional story accepted without discussion: everything depends on the will of the gods."
+      },
+      {
+       "rel": "adopts",
+       "t": "Logos",
+       "d": "Seeks the principle (arkhé) of nature with arguments that anyone can examine."
+      }
+     ]
+    },
+    {
+     "rel": "among the kinds of knowledge",
+     "t": "Knowledge of ultimate causes",
+     "k": true,
+     "d": "The three kinds of knowledge do not exclude one another: they complement each other.",
+     "c": [
+      {
+       "rel": "it is not",
+       "t": "Common knowledge",
+       "d": "Spontaneous and useful in daily life, but unreflective: it tends towards prejudice. 'Fire burns'."
+      },
+      {
+       "rel": "nor",
+       "t": "Scientific knowledge",
+       "d": "Seeks proximate causes by observing and experimenting, but within one part of reality. 'Water is H₂O'."
+      },
+      {
+       "rel": "but",
+       "t": "Philosophical knowledge",
+       "k": true,
+       "d": "Seeks first principles and a view of reality as a whole (a worldview).",
+       "c": [
+        {
+         "rel": "by its method",
+         "t": "Rational and critical",
+         "d": "It argues instead of appealing to authority and examines everything, including its own ideas."
+        },
+        {
+         "rel": "by its scope",
+         "t": "Radical and universal",
+         "d": "It goes to the root of problems and asks about the whole of reality."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "rel": "divides into branches and engages",
+     "t": "With other kinds of knowledge",
+     "d": "The branches are shown in the outline 'The branches of philosophy'.",
+     "c": [
+      {
+       "rel": "with science",
+       "t": "Describing is not prescribing",
+       "d": "Science says how things are; philosophy asks about concepts and about how things ought to be."
+      },
+      {
+       "rel": "with religion",
+       "t": "The same questions, a different method",
+       "d": "They share the great questions, but religion answers from faith and philosophy from reason."
+      }
+     ]
+    },
+    {
+     "rel": "throughout history",
+     "t": "Four great periods",
+     "k": true,
+     "d": "A new period does not erase the earlier ones.",
+     "c": [
+      {
+       "rel": "6th c. BC – 5th c. AD",
+       "t": "Ancient: nature and the human being",
+       "a": "Socrates, Plato, Aristotle"
+      },
+      {
+       "rel": "5th – 15th c.",
+       "t": "Medieval: reason and faith",
+       "a": "Augustine of Hippo, Thomas Aquinas"
+      },
+      {
+       "rel": "15th – 18th c.",
+       "t": "Modern: knowledge",
+       "a": "Descartes, Hume, Kant"
+      },
+      {
+       "rel": "19th – 21st c.",
+       "t": "Contemporary: many currents",
+       "a": "Marx, Nietzsche, Arendt, Zambrano"
+      }
+     ]
+    },
+    {
+     "rel": "is useful today and is practised",
+     "t": "Functions and method",
+     "c": [
+      {
+       "rel": "it fulfils three",
+       "t": "Functions",
+       "d": "Critical (thinking for yourself), guidance (how the world could be) and the search for meaning."
+      },
+      {
+       "rel": "it is learnt by",
+       "t": "Commenting on a text",
+       "d": "Topic, thesis, arguments and reasoned opinion."
+      },
+      {
+       "rel": "and in",
+       "t": "Argumentative dialogue",
+       "d": "The best reason wins, not whoever shouts loudest or whoever has the most power."
+      }
+     ]
+    }
+   ],
+   "cruces": [
+    {
+     "de": "Logos",
+     "rel": "is practised today in",
+     "a": "Argumentative dialogue"
+    }
+   ],
+   "idea": "Philosophy seeks ultimate causes through reasons: born of wonder in Greece, it engages with science and religion and is learnt by philosophising, commenting on texts and arguing with reasons."
   }
  },
  "FIL-T1-02": {
