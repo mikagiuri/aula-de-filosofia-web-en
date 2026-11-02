@@ -48,6 +48,29 @@ const BIOGRAFIAS = {
    "fil-presocraticos"
   ]
  },
+ "solon": {
+  "name": "Solon",
+  "dates": "c. 640 – c. 560 BC",
+  "born": -640,
+  "died": -560,
+  "place": "Athens",
+  "role": "Athenian lawgiver and poet",
+  "idea": "With his reforms he cancelled debts, banned enslavement for debt and distributed political rights according to wealth, paving the way for Athenian democracy.",
+  "bio": "<p>Solon was an Athenian politician, lawgiver and poet. He was born around 640 BC into a noble family, and the Greeks counted him among the Seven Sages. Around 594 BC he was elected archon, the city’s chief magistrate, in the midst of a social crisis: many indebted peasants had lost their land or been turned into slaves. He defended his reforms in poems, fragments of which survive.</p>\n<p>With the <strong>seisachtheia</strong> (‘shaking off of burdens’) he cancelled debts and banned enslaving anyone for debt. He distributed political rights according to wealth, not lineage, and opened the assembly and the courts to all citizens. He appears in the syllabus because his reforms, together with those of Cleisthenes, prepared the way for Athenian <strong>democracy</strong> of the 5th century BC.</p>",
+  "obras": [
+   "Elegies (fragments)"
+  ],
+  "anecdota": "<p>Herodotus relates that Solon, during his travels, visited Croesus, the king of Lydia, famous for his riches, at Sardis. After showing him his treasures, Croesus asked him who was the happiest man he had ever met, expecting to hear his own name. Solon named a simple Athenian, Tellus, who saw his children grow up and died with honour defending his city. And he added that no one can be called happy while still alive, because fortune changes. Croesus dismissed him with contempt, although later, after losing his kingdom, he would remember his words. The chronology makes it doubtful that the meeting really took place.</p>",
+  "fuente": "Herodotus, Histories I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
+  ]
+ },
  "tales": {
   "name": "Thales of Miletus",
   "dates": "c. 624 – c. 546 BC",
@@ -429,6 +452,48 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "hipias": {
+  "name": "Hippias of Elis",
+  "dates": "c. 460 – c. 400 BC",
+  "born": -460,
+  "died": -400,
+  "place": "Elis (Peloponnese)",
+  "role": "Greek sophist",
+  "idea": "The laws of each city are human conventions, variable and changeable, different from natural laws, which are universal and hold equally for everyone.",
+  "bio": "<p>Hippias was born in Elis, the region of the Peloponnese where the Olympic Games were held, and was a contemporary of Socrates. His city sent him several times as an ambassador, and he used his travels to give lessons and lectures for a fee, like the other <strong>Sophists</strong>. He was famous for his encyclopaedic learning: he taught mathematics, astronomy, music, history and poetry, and boasted of a prodigious memory. His works have been lost; we know him mainly from Plato’s dialogues <em>Hippias Major</em>, <em>Hippias Minor</em> and <em>Protagoras</em>, which portray him with some irony.</p>\n<p>His most important contribution to the syllabus is the distinction between <strong>physis</strong> and <strong>nomos</strong>. Natural laws are unchanging and universal; laws established by human beings, by contrast, are conventions that vary from one community to another. If laws are convention, they can be changed. In the <em>Protagoras</em>, Plato has him say that law is a tyrant that forces many things contrary to nature, and that human beings are kin by nature, not by law.</p>\n<p>This idea opens a central debate in political philosophy: whether norms are natural or agreed. His conventionalism links with the relativism of Protagoras, and Socrates and Plato fought it by seeking a universal justice. The idea of a natural kinship among all human beings anticipates the cosmopolitanism of the Cynics and Stoics.</p>",
+  "obras": [],
+  "anecdota": "<p>In the <em>Hippias Minor</em>, Plato has Socrates recall a famous appearance by Hippias at the Olympic Games. The Sophist boasted to everyone that everything he was wearing he had made himself: the ring and the seal he had engraved, the oil flask, the strigil for the bath, the sandals, the cloak and the tunic, and even the embroidered belt. He also brought poems, tragedies and speeches of his own composition. Plato tells it with irony, but the scene portrays well the ideal of encyclopaedic, self-sufficient learning that Hippias took pride in.</p>",
+  "fuente": "Plato, Hippias Minor",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "antistenes": {
+  "name": "Antisthenes",
+  "dates": "c. 445 – c. 365 BC",
+  "born": -445,
+  "died": -365,
+  "place": "Athens",
+  "role": "Socratic philosopher",
+  "idea": "Virtue is enough to be happy; to attain it one must lead an austere life, master the pleasures and not depend on wealth or honours.",
+  "bio": "<p>Antisthenes was born in Athens. He was first a pupil of the Sophist Gorgias, from whom he learned rhetoric, and later became one of the most faithful disciples of <strong>Socrates</strong>: according to Plato, he was present at his death. He taught in the gymnasium of Cynosarges, on the outskirts of Athens. He wrote many works, but all have been lost and only fragments and testimonies remain.</p>\n<p>He took from Socrates the idea that virtue can be taught and exaggerated it: virtue is enough for happiness, and everything else (wealth, fame, pleasure) is indifferent or harmful. For this reason he advocated an austere life and <strong>self-mastery</strong>. Tradition considers him the founder of <strong>Cynicism</strong>, which Diogenes of Sinope took to the extreme, and so he appears in the syllabus, although some historians dispute this direct link.</p>",
+  "obras": [],
+  "anecdota": "<p>Diogenes Laertius tells that Antisthenes walked each day some forty stadia, more than seven kilometres, from Piraeus to Athens to listen to Socrates. He imitated his master’s austerity to the extreme, and used to wear an old, torn cloak, with the holed side clearly on show. One day Socrates noticed and said to him: ‘Through the holes in your cloak I see your vanity’. The anecdote shows the risk of turning poverty into a spectacle, something later Cynics would take even further.</p>",
+  "fuente": "Diogenes Laertius, Lives VI",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5"
+  ]
+ },
  "aristipo": {
   "name": "Aristippus of Cyrene",
   "dates": "c. 435 – c. 356 BC",
@@ -590,6 +655,24 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "crates": {
+  "name": "Crates of Thebes",
+  "dates": "c. 365 – c. 285 BC",
+  "born": -365,
+  "died": -285,
+  "place": "Thebes (Boeotia)",
+  "role": "Cynic philosopher",
+  "idea": "Happiness lies in needing very little: whoever renounces wealth and the opinion of others is free.",
+  "bio": "<p>Crates came from a rich family in Thebes, but he distributed his fortune and became a disciple of <strong>Diogenes of Sinope</strong>. Unlike his master, famous for his provocations, Crates had a reputation for kindness: he entered houses to help and advise those who needed it, and for this reason they called him ‘the door-opener’.</p>\n<p>He married <strong>Hipparchia</strong>, a young woman of good family who, against her parents’ wishes, wanted to share his life of poverty and became one of the few women philosophers of antiquity of whom we have any record. Crates was also the teacher of Zeno of Citium: through him, the Cynic ethics of austerity and independence passed into <strong>Stoicism</strong>.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5"
+  ]
+ },
  "pirron": {
   "name": "Pyrrho of Elis",
   "dates": "c. 360 – c. 270 BC",
@@ -664,6 +747,44 @@ const BIOGRAFIAS = {
    "fil-helenismo"
   ]
  },
+ "timon": {
+  "name": "Timon of Phlius",
+  "dates": "c. 320 – c. 230 BC",
+  "born": -320,
+  "died": -230,
+  "place": "Phlius (Peloponnese)",
+  "role": "Sceptic philosopher and satirical poet",
+  "idea": "Whoever wants to be happy must ask how things are, what attitude to take towards them and what is gained from that attitude; the sceptical answer is to suspend judgement.",
+  "bio": "<p>Timon was born in Phlius, in the Peloponnese. He was a dancer in his youth and later became a disciple of <strong>Pyrrho</strong>, who wrote nothing: almost everything we know about early scepticism reaches us through Timon.</p>\n<p>He summed up his master’s teaching in three questions: how things are (we cannot know), what attitude we should take towards them (neither to affirm nor to deny anything) and what results from that attitude (<strong>ataraxia</strong>, tranquillity of the soul). He also wrote the <em>Silloi</em>, satirical poems in which he mocked the philosophers who believed they possessed the truth, from the Presocratics to Plato.</p>",
+  "obras": [
+   "Silloi"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "carneades": {
+  "name": "Carneades of Cyrene",
+  "dates": "c. 214 – c. 129 BC",
+  "born": -214,
+  "died": -129,
+  "place": "Cyrene (North Africa)",
+  "role": "Sceptic Academic philosopher",
+  "idea": "We cannot reach certain truth, but we can distinguish the more or less probable, and that is enough to decide how to act.",
+  "bio": "<p>Carneades, born in Cyrene, in North Africa, led the <strong>Academy</strong> in its sceptical phase and was the most brilliant philosopher of his time. He wrote nothing; we know his ideas through his disciple Clitomachus and through Cicero. In 155 BC he travelled to Rome as an ambassador of Athens and gave two speeches in succession there: on the first day he defended justice and on the second he refuted it with equal force. Cato the Elder, scandalised, asked that those ambassadors be sent away as quickly as possible so that they would not corrupt Roman youth.</p>\n<p>Carneades criticised the Stoics above all: no impression by itself guarantees truth. But so as not to be paralysed by doubt he proposed <strong>probabilism</strong>: although we cannot reach certainties, we can be guided by what is <strong>persuasive or probable</strong>, especially if it has been tested and nothing contradicts it. It is a scepticism designed so that one can live.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "ciceron": {
   "name": "Marcus Tullius Cicero",
   "dates": "106 – 43 BC",
@@ -715,6 +836,81 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-helenismo",
    "fil-montaigne-ensayos"
+  ]
+ },
+ "epicteto": {
+  "name": "Epictetus",
+  "dates": "c. 50 – c. 135",
+  "born": 50,
+  "died": 135,
+  "place": "Hierapolis (Phrygia, present-day Turkey)",
+  "role": "Greek Stoic philosopher",
+  "idea": "Some things depend on us, our judgements and decisions, and some do not; freedom consists in not making our happiness depend on what does not depend on us.",
+  "bio": "<p>Epictetus was born a slave; his name means ‘acquired’ in Greek. In Rome he belonged to Epaphroditus, a freedman who had been Nero’s secretary and who allowed him to study with the Stoic Musonius Rufus. After gaining his freedom he taught philosophy in Rome until, around the year 93, the emperor Domitian expelled the philosophers from Italy. He then settled in Nicopolis, in north-western Greece, where he opened a school attended by young people from all over the Empire. He lived very simply. He walked with a limp.</p>\n<p>Epictetus wrote nothing. His pupil Arrian took notes of his lessons and published them in the <em>Discourses</em> and in a summary, the <em>Handbook</em> (<em>Enchiridion</em>). Everything starts from one distinction: <strong>what depends on us</strong> (our opinions, desires and decisions) and <strong>what does not</strong> (the body, reputation, possessions, what others do). It is not things that disturb us, but the opinions we have about them. Whoever places their good in what they do not control lives like a slave; whoever places it in their own judgements is free, even in chains. His handbook influenced Marcus Aurelius and, many centuries later, the humanists of the Renaissance and some present-day psychological therapies.</p>",
+  "obras": [
+   "Discourses (recorded by Arrian)",
+   "Handbook or Enchiridion (Arrian’s summary)"
+  ],
+  "anecdota": "<p>The Christian writer Origen tells that Epictetus’s master, to test him, twisted his leg. Epictetus calmly warned him: ‘You are going to break it.’ When the leg broke, he simply said: ‘Didn’t I tell you?’ The story is often quoted as an example of Stoic serenity, but other ancient sources say that his limp was from birth or the result of rheumatism, so it may be a legend.</p>",
+  "fuente": "Origen, Against Celsus VII, 53",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-utilidad",
+   "fil-t5"
+  ]
+ },
+ "marco_aurelio": {
+  "name": "Marcus Aurelius",
+  "dates": "121 – 180",
+  "born": 121,
+  "died": 180,
+  "place": "Rome",
+  "role": "Roman emperor and Stoic philosopher",
+  "idea": "Every day we must do our duty, calmly accept what does not depend on us and remember that everything is fleeting.",
+  "bio": "<p>Marcus Aurelius was adopted as a young man by the emperor Antoninus Pius and received the best education of his time. From very early on he took to Stoic philosophy, and his teacher Junius Rusticus introduced him to the teachings of Epictetus. He was emperor of Rome from the year 161 until his death in 180. His reign was marked by wars on the Danube frontiers and by a great epidemic, the Antonine Plague; he spent many years on campaign, and died during one of them.</p>\n<p>During those campaigns he wrote, in Greek, some notes to himself, which he did not intend to publish and which we know today as the <em>Meditations</em> (their ancient title is <em>To Himself</em>). They are exercises for putting his thoughts in order: remembering that everything changes and passes, that death is natural, that other people form a rational community with us and that, when someone offends us, we should understand them rather than hate them. He is a Stoic who governs an empire and demands of himself that he live according to reason. His work also shows the tension between the philosophical ideal and power: during his reign the wars and the persecution of Christians continued.</p>",
+  "obras": [
+   "Meditations or To Himself (written around 170-180)"
+  ],
+  "anecdota": "<p>Book I of the <em>Meditations</em> is a list of thanks: Marcus Aurelius notes down what he learnt from each person in his life. Among other things, he thanks his teacher Rusticus for lending him, from his own library, the notes of Epictetus’s lessons. And at the end of that book, or at the beginning of the next depending on the edition, he records where he is writing: ‘Among the Quadi, on the banks of the Gran’, that is, in a military camp on the banks of the River Hron, in present-day Slovakia.</p>",
+  "fuente": "Marcus Aurelius, Meditations I, 7 and I, 17",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-utilidad",
+   "fil-t5",
+   "fil-helenismo"
+  ]
+ },
+ "tertuliano": {
+  "name": "Tertullian",
+  "dates": "c. 155 – c. 220",
+  "born": 155,
+  "died": 220,
+  "place": "Carthage (present-day Tunisia)",
+  "role": "Christian apologist",
+  "idea": "The Christian faith does not need the support of Greek philosophy: what is revealed must be believed even if human reason does not understand it or judges it absurd.",
+  "bio": "<p>Quintus Septimius Florens Tertullianus was born in Carthage, in Roman North Africa, around the year 155. He received a solid education in rhetoric and law and converted to Christianity in his maturity. He was the first great Christian author to write in Latin, and he helped create the theological vocabulary of the West: to him we owe, for example, the use of the term <strong>Trinity</strong>. In his last years he drew close to Montanism, a rigorist movement that the Church ended up rejecting.</p>\n<p>Tertullian was an <strong>apologist</strong>, that is, a defender of Christianity against the accusations of the pagans. On the relationship between faith and reason he adopted the most distrustful position: Greek philosophy, in his view, was a source of heresies. So he asked what Athens, the symbol of philosophy, had to do with Jerusalem, the symbol of faith. He is credited with the formula <strong>‘I believe because it is absurd’</strong>, which does not appear literally in his works, but sums up well his idea that revealed truths, such as the incarnation or the resurrection, must be accepted even if they seem impossible to reason.</p>\n<p>His position, sometimes called <strong>fideism</strong>, represents one extreme in the medieval debate. Against it, Augustine of Hippo would propose that faith guide reason, and Thomas Aquinas that the two cooperate. His influence on later Latin theology was great.</p>",
+  "obras": [
+   "Apologeticus (197)",
+   "On the Prescription of Heretics",
+   "On the Flesh of Christ"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-metafisica"
   ]
  },
  "plotino": {
@@ -896,6 +1092,33 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "abelardo": {
+  "name": "Peter Abelard",
+  "dates": "1079 – 1142",
+  "born": 1079,
+  "died": 1142,
+  "place": "Le Pallet (Brittany, France)",
+  "role": "scholastic philosopher and logician",
+  "idea": "Universals are neither real things nor mere words, but concepts of the mind that express what individuals have in common.",
+  "bio": "<p>Peter Abelard was born in Le Pallet, in Brittany, in 1079. He gave up a military career to devote himself to logic and was one of the most famous teachers in Paris. His life was marked by his relationship with Heloise, his pupil, with whom he had a son: her family took revenge by mutilating him, and both entered religious life. He told of these experiences in his <em>History of My Calamities</em>. His theological theses were condemned at the councils of Soissons (1121) and Sens (1141), the latter pushed by Bernard of Clairvaux. He died in 1142.</p>\n<p>Abelard defended the use of <strong>dialectic</strong> (logic) in theology. In <em>Sic et Non</em> he gathered contradictory opinions of the authorities on the same questions, so that reason could examine them: a decisive step towards the scholastic method of the <em>quaestio</em> and the <em>disputatio</em>. On the <strong>problem of universals</strong>, that is, the question of the status of general concepts such as ‘humanity’, he adopted an intermediate position between realism and nominalism, known as <strong>conceptualism</strong>: universals exist as concepts in the mind, which forms them from what individuals have in common.</p>\n<p>His critical spirit and his trust in reason influenced the development of the universities. His solution to universals prepares that of Thomas Aquinas and contrasts with Ockham’s nominalism.</p>",
+  "obras": [
+   "Sic et Non",
+   "History of My Calamities",
+   "Ethics or Know Thyself",
+   "Dialogue between a Philosopher, a Jew and a Christian"
+  ],
+  "anecdota": "<p>Newly arrived in Paris, the young Abelard became a pupil of William of Champeaux, the most famous teacher in the city and a defender of an extreme realism about universals. He soon began to contradict him in the middle of class, and sometimes seemed to win the argument. By his own account, he ended up forcing William to correct his thesis, and many students abandoned the master to follow the pupil. He tells it himself in the <em>History of My Calamities</em>, a valuable testimony but, understandably, not very impartial.</p>",
+  "fuente": "Peter Abelard, History of My Calamities",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t4"
+  ]
+ },
  "hildegarda": {
   "name": "Hildegard of Bingen",
   "dates": "1098 – 1179",
@@ -1052,6 +1275,49 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "llull": {
+  "name": "Ramon Llull",
+  "dates": "c. 1232 – c. 1316",
+  "born": 1232,
+  "died": 1316,
+  "place": "Palma (Majorca)",
+  "role": "philosopher, mystic and writer",
+  "idea": "By combining a few basic concepts, the truths of the faith can be demonstrated to anyone, whether Christian, Muslim or Jew, by reason alone.",
+  "bio": "<p>Ramon Llull (Raimundo Lulio in Spanish) was born in Majorca, shortly after King James I conquered it, and was a nobleman at court. Around the age of thirty, by his own account, he had several visions of Christ crucified that changed his life: he left his family and devoted himself to converting Muslims by means of reason. He learned Arabic, founded a school of languages for missionaries and travelled several times to North Africa. He wrote some 260 works in Catalan, Latin and Arabic, and is one of the creators of literary prose in Catalan.</p>\n<p>His great invention is the <strong>Art</strong>: a system that combines, with figures and rotating circles, a few basic principles (goodness, greatness, eternity…) to obtain all the possible answers to a question. Llull believed that in this way he could demonstrate the truth of Christianity to anyone without appealing to authorities. It is a forerunner of <strong>combinatorics</strong> and of the idea of mechanical reasoning, which Leibniz admired. In the <em>Book of the Gentile and the Three Wise Men</em>, a Jew, a Christian and a Muslim set out their beliefs respectfully before a pagan, who does not say which he chooses.</p>",
+  "obras": [
+   "Ars Magna",
+   "Book of the Gentile and the Three Wise Men",
+   "Blanquerna"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
+ "duns_escoto": {
+  "name": "John Duns Scotus",
+  "dates": "c. 1266 – 1308",
+  "born": 1266,
+  "died": 1308,
+  "place": "Duns (Scotland)",
+  "role": "Franciscan philosopher and theologian",
+  "idea": "Each individual has something of its own that makes it unique, its ‘thisness’; and in God and in the human being the will is above the understanding.",
+  "bio": "<p>John Duns Scotus was born in Duns, in Scotland, and was a Franciscan friar. He taught at Oxford, in Paris, from where he had to leave for a time for supporting the pope against the king of France, and in Cologne, where he died young. For the subtlety of his reasoning he was called the ‘Subtle Doctor’.</p>\n<p>Against Thomas Aquinas he held that the concept of <strong>being</strong> applies in the same sense to God and to creatures, which makes it possible to speak of God with rigour. To explain what makes each individual unique he introduced <strong>thisness</strong> (<em>haecceitas</em>, from <em>haec</em>, ‘this’): that which makes Socrates this man and not another. He also maintained the primacy of the <strong>will</strong> over the understanding: God does not will something because it is good, but it is good because God wills it, within the limits of logic. His ideas opened the way for Ockham. Curiously, in the 16th century the humanists mocked his followers by calling them <em>dunces</em>, and that is where the English word <em>dunce</em> comes from.</p>",
+  "obras": [
+   "Ordinatio",
+   "Treatise on the First Principle"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "ockham": {
   "name": "William of Ockham",
   "dates": "c. 1287 – 1347",
@@ -1117,6 +1383,48 @@ const BIOGRAFIAS = {
    "fil-t1-filosofia-mujer"
   ]
  },
+ "nicolas_cusa": {
+  "name": "Nicholas of Cusa",
+  "dates": "1401 – 1464",
+  "born": 1401,
+  "died": 1464,
+  "place": "Kues (on the Moselle, Germany)",
+  "role": "philosopher, theologian and cardinal",
+  "idea": "The highest thing we can know is that we do not know: a ‘learned ignorance’; in God, who is infinite, opposites coincide.",
+  "bio": "<p>Nicholas was born in Kues, on the banks of the river Moselle, and his Latin name, Cusanus, comes from there. He studied law and mathematics, was a cardinal and a diplomat in the service of the pope, and travelled through half of Europe and as far as Constantinople. He lived between the Middle Ages and the Renaissance, and his thought heralds the new era.</p>\n<p>In his work <em>On Learned Ignorance</em> he holds that our knowledge advances by comparison, measuring the unknown against the known; therefore the <strong>infinite</strong> cannot be known, and true wisdom is knowing that we do not know. In God, who is infinite, the <strong>coincidence of opposites</strong> occurs: the maximum and the minimum are the same. He also said that the universe has neither a fixed centre nor a limit, so that the Earth does not occupy a privileged place, an idea that Giordano Bruno would take up. After the fall of Constantinople he wrote <em>On the Peace of Faith</em>, a dialogue in which representatives of different religions look for what unites them.</p>",
+  "obras": [
+   "On Learned Ignorance",
+   "On the Peace of Faith"
+  ],
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "pico": {
+  "name": "Giovanni Pico della Mirandola",
+  "dates": "1463 – 1494",
+  "born": 1463,
+  "died": 1494,
+  "place": "Mirandola (Italy)",
+  "role": "humanist and philosopher",
+  "idea": "The human being has no fixed nature: he can choose what he wants to be, lowering himself to the beasts or raising himself to the divine.",
+  "bio": "<p>Pico was born into a noble family in northern Italy and had a prodigious memory. He studied in Bologna, Padua and Paris, learned Greek, Hebrew and Arabic, and in Florence joined the Platonic circle of Marsilio Ficino, under the protection of Lorenzo de’ Medici. In 1486 he proposed to debate publicly in Rome <strong>900 theses</strong> taken from all traditions: Plato, Aristotle, the Arabs, the Jewish Kabbalah… He wanted to show that all philosophies contain a part of the truth. The pope suspended the debate and condemned several theses, and Pico had to flee to France, where he was detained for a time. He died in Florence at only 31; recent analyses of his remains point to arsenic poisoning.</p>\n<p>The speech with which he intended to open that debate, known as the <em>Oration on the Dignity of Man</em>, is regarded as a manifesto of the Renaissance. In it, God tells the human being that He has given him neither a fixed place nor a form of his own, so that he himself may choose it: he can degenerate to the level of the beasts or be reborn to the divine. For Pico, <strong>human dignity</strong> lies in that <strong>freedom</strong>.</p>",
+  "obras": [
+   "Oration on the Dignity of Man",
+   "900 Theses"
+  ],
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
+  ]
+ },
  "erasmo": {
   "name": "Erasmus of Rotterdam",
   "dates": "c. 1466 – 1536",
@@ -1141,6 +1449,55 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-grandes-preguntas"
+  ]
+ },
+ "maquiavelo": {
+  "name": "Niccolò Machiavelli",
+  "dates": "1469 – 1527",
+  "born": 1469,
+  "died": 1527,
+  "place": "Florence (Italy)",
+  "role": "political thinker and diplomat",
+  "idea": "Politics must be studied as it is and not as it should be: it is an autonomous technique, separate from morality and religion, whose aim is to preserve the State.",
+  "bio": "<p>Niccolò Machiavelli was born in Florence in 1469, in the midst of the Renaissance. Between 1498 and 1512 he was secretary of the Florentine Republic and carried out numerous diplomatic missions to kings, the pope and figures such as Cesare Borgia, which allowed him to observe the exercise of power at close quarters. When the Medici regained the government in 1512, he was dismissed, imprisoned and tortured. Retired to an estate near the city, he wrote <em>The Prince</em>, which was not published until 1532, after his death in 1527.</p>\n<p>Machiavelli inaugurates <strong>political realism</strong>. He separates politics from morality and religion and describes power <strong>as it is</strong>, not as it should be. The ruler must secure the order and security of the State, and for this he may use force and deceit if necessary. His success depends on <strong>virtù</strong>, that is, the skill and determination to act at the right moment, in the face of <strong>fortuna</strong>, the chance of circumstances. Politics thus becomes an autonomous technique, with its own logic. The phrase ‘the end justifies the means’, frequently attributed to him, does not appear literally in his work.</p>\n<p>He is considered the founder of modern political science. His pessimistic view of the human being and his interest in the origin and preservation of power prepare the ground for the social contract theories of Hobbes, Locke and Rousseau. The adjective ‘Machiavellian’ simplifies a more complex body of thought.</p>",
+  "obras": [
+   "The Prince (1513)",
+   "Discourses on the First Ten Books of Livy",
+   "The Art of War (1521)",
+   "The Mandrake"
+  ],
+  "anecdota": "<p>Exiled on his estate at Sant’Andrea in Percussina, Machiavelli described his routine to his friend Francesco Vettori. By day he hunted thrushes, chatted with woodcutters and played cards in the tavern amid shouts and fights. At nightfall, he took off his mud-stained clothes, put on his court dress and entered his study to ‘converse’ with the ancients, who answered him generously. From those conversations, he added, a little work on principalities was emerging: <em>The Prince</em>.</p>",
+  "fuente": "Machiavelli, letter to Francesco Vettori of 10 December 1513",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "copernico": {
+  "name": "Nicolaus Copernicus",
+  "dates": "1473 – 1543",
+  "born": 1473,
+  "died": 1543,
+  "place": "Toruń (Poland)",
+  "role": "astronomer and mathematician",
+  "idea": "The Earth is not the motionless centre of the universe, but rotates on its axis and around the Sun, like the other planets.",
+  "bio": "<p>Nicolaus Copernicus was born in Toruń, in Poland, in 1473. He studied in Kraków and then at the Italian universities of Bologna and Padua, where he trained in astronomy, canon law and medicine. He was a canon of Frombork Cathedral, where he made his observations. His main work was published in 1543, the year of his death.</p>\n<p>Copernicus proposed <strong>heliocentrism</strong>: the Sun, and not the Earth, occupies the centre of the universe. This thesis opened the <strong>scientific revolution</strong>, continued by Kepler, Galileo and Newton, which overturned the cosmology of Aristotle and Ptolemy. He appears in the syllabus because of that change in the image of the world and because Freud cites it as the first great ‘humiliation’ of the human being: we are not the centre of the universe.</p>",
+  "obras": [
+   "On the Revolutions of the Heavenly Spheres (1543)"
+  ],
+  "anecdota": "<p>Copernicus delayed the publication of his great work for decades, until his young disciple Rheticus persuaded him. According to a letter from his friend Tiedemann Giese, the first printed copy reached his hands on the very day of his death. The book, moreover, held a surprise: an unsigned preface, added by the theologian Andreas Osiander, which presented heliocentrism as a mere hypothesis to simplify calculations. Decades later, Kepler revealed who had written it.</p>",
+  "fuente": "Letter from Tiedemann Giese to Rheticus (1543)",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "tomas_moro": {
@@ -1870,6 +2227,32 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "diderot": {
+  "name": "Denis Diderot",
+  "dates": "1713 – 1784",
+  "born": 1713,
+  "died": 1784,
+  "place": "Langres (France)",
+  "role": "Enlightenment philosopher and writer",
+  "idea": "Knowledge must be gathered, ordered and spread in order to free people from ignorance and prejudice, in the service of social progress.",
+  "bio": "<p>Denis Diderot was born in Langres in 1713, the son of a cutler, and settled in Paris, where he lived on translations and commissions. His <em>Letter on the Blind</em>, materialist in tone and critical of religion, cost him several months in prison in 1749. He also wrote novels, plays and art criticism. He died in Paris in 1784.</p>\n<p>His great work was the <strong><em>Encyclopédie</em></strong>, which he directed for more than twenty years, at first together with d’Alembert. It aimed to gather all the knowledge of the age, including the arts and trades, and to spread it in a critical spirit, despite censorship and bans. It appears in the syllabus as a symbol of the Enlightenment’s trust in reason and in <strong>progress</strong>: shared knowledge was meant to improve society.</p>",
+  "obras": [
+   "Letter on the Blind (1749)",
+   "Encyclopédie (1751–1772)",
+   "Rameau’s Nephew",
+   "Jacques the Fatalist"
+  ],
+  "anecdota": "<p>Around 1765, Diderot needed money to provide a dowry for his daughter and decided to sell his library, his most prized possession. Empress Catherine II of Russia, an admirer of the Enlightenment thinkers, bought it for a good sum, but on a generous condition: Diderot would keep the books in Paris for as long as he lived and would receive a salary as her librarian. When payment was delayed, the empress advanced him fifty years’ salary at once. In 1773, Diderot travelled to St Petersburg to thank her and conversed with her at length about politics and reforms.</p>",
+  "fuente": "Diderot’s correspondence; testimonies of the period (Grimm, Correspondance littéraire)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "baumgarten": {
   "name": "Alexander Baumgarten",
   "dates": "1714 – 1762",
@@ -1892,6 +2275,30 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "dalembert": {
+  "name": "Jean le Rond d’Alembert",
+  "dates": "1717 – 1783",
+  "born": 1717,
+  "died": 1783,
+  "place": "Paris",
+  "role": "Enlightenment mathematician and philosopher",
+  "idea": "Human knowledge can be ordered systematically on the basis of experience and reason, and science is the model of the knowledge that drives progress.",
+  "bio": "<p>Jean le Rond d’Alembert was born in Paris in 1717. He was abandoned at birth beside the church of Saint-Jean-le-Rond, from which he took his name, and was raised by a humble family. He stood out very early as a mathematician and physicist: his <em>Treatise on Dynamics</em> made important contributions to mechanics, and he entered the Academy of Sciences in his twenties. He died in Paris in 1783.</p>\n<p>He co-directed with Diderot the first volumes of the <strong><em>Encyclopédie</em></strong> and took charge of the scientific part. He wrote its <em>Preliminary Discourse</em>, which presents an ordered tree of human knowledge and defends the value of science against tradition and authority. For this reason he appears in the syllabus alongside Diderot, as an example of the Enlightenment drive to <strong>systematise</strong> knowledge in the service of progress.</p>",
+  "obras": [
+   "Treatise on Dynamics (1743)",
+   "Preliminary Discourse to the Encyclopédie (1751)"
+  ],
+  "anecdota": "<p>The baby abandoned on the steps of Saint-Jean-le-Rond was raised by a glazier’s wife, and d’Alembert, by then a celebrated academician, went on living in her modest home until past the age of forty. According to tradition, his biological mother, the aristocrat Madame de Tencin, tried to acknowledge him when he became famous, and he replied that his only mother was the glazier’s wife. Whether or not the phrase is accurate, d’Alembert always showed gratitude to the one who had cared for him, and his success became an Enlightenment example: merit counted for more than birth.</p>",
+  "fuente": "Condorcet, Eulogy of d’Alembert; biographical tradition",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "holbach": {
   "name": "Baron d’Holbach",
   "dates": "1723 – 1789",
@@ -1912,6 +2319,31 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-metafisica",
    "fil-grandes-preguntas"
+  ]
+ },
+ "smith": {
+  "name": "Adam Smith",
+  "dates": "1723 – 1790",
+  "born": 1723,
+  "died": 1790,
+  "place": "Kirkcaldy (Scotland)",
+  "role": "moral philosopher and economist",
+  "idea": "When each person pursues their own interest in a free market, individuals contribute unintentionally to the general welfare, as if guided by an invisible hand.",
+  "bio": "<p>Adam Smith was born in Kirkcaldy, Scotland, in 1723. He studied at Glasgow and Oxford, and was professor of moral philosophy at the University of Glasgow. He was a friend of David Hume and a central figure of the Scottish Enlightenment. He travelled through France as tutor to a young nobleman, which allowed him to meet the French economists. In his last years he worked in the customs administration in Edinburgh, where he died in 1790.</p>\n<p>In <em>The Theory of Moral Sentiments</em> he explained morality on the basis of <strong>sympathy</strong>, the capacity to put ourselves in the place of others. But his most influential work is <em>The Wealth of Nations</em>, regarded as the starting point of modern economics. In it he argues that the <strong>division of labour</strong> multiplies production and that the pursuit of self-interest leads, unintentionally, to the welfare of society: an <strong>invisible hand</strong> harmonises individual selfishness. He therefore asks that the State not hinder the market, although he reserves for it functions such as defence, justice and certain public works.</p>\n<p>Smith is the great reference point of <strong>economic liberalism</strong>. The syllabus links him with utilitarianism because both value actions and institutions by their social utility, and Bentham and John Stuart Mill knew his work well. Later, Marx would thoroughly criticise the classical political economy that Smith had founded.</p>",
+  "obras": [
+   "The Theory of Moral Sentiments (1759)",
+   "The Wealth of Nations (1776)"
+  ],
+  "anecdota": "<p>Adam Smith was famous for his absent-mindedness. His contemporaries described him talking to himself in the street and moving his lips as if arguing with someone invisible. It is said that one morning he went out into the garden in his dressing gown, lost in thought, and kept walking until he reached another town, several kilometres away, where the church bells woke him. Another story claims that, while explaining the division of labour during a visit to a tannery, he fell into one of the vats. These are exaggerated tales, but they reflect the absorbed thinker his neighbours imagined.</p>",
+  "fuente": "Dugald Stewart, Account of the Life and Writings of Adam Smith (on his absent-mindedness); anecdotes from the Scottish tradition",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5",
+   "fil-t6"
   ]
  },
  "kant": {
@@ -1946,6 +2378,58 @@ const BIOGRAFIAS = {
    "fil-t7",
    "fil-grandes-preguntas",
    "fil-montaigne-ensayos"
+  ]
+ },
+ "hamann": {
+  "name": "Johann Georg Hamann",
+  "dates": "1730 – 1788",
+  "born": 1730,
+  "died": 1788,
+  "place": "Königsberg (now Kaliningrad, Russia)",
+  "role": "religious thinker, the ‘Magus of the North’",
+  "idea": "There is no pure reason separate from language, tradition and history: we always think with inherited words.",
+  "bio": "<p>Johann Georg Hamann was born in Königsberg in 1730, the son of a barber-surgeon. He studied at his city's university without graduating and worked as a tutor in noble households in the Baltic. After a personal crisis in London he returned to Königsberg, where he spent almost all his life as a modest employee of the customs administration. He lived in financial difficulty and wrote short texts, full of quotations and allusions, so obscure that a contemporary called him the ‘Magus of the North’. He died in 1788 in Münster, during a journey to visit his friends, Jacobi among them.</p>\n<p>Hamann was Kant's friend and neighbour and, at the same time, his sharpest critic. Against the Enlightenment he defended <strong>faith</strong> and feeling, and held that <strong>reason is language</strong>: there is no pure reason that can be separated from the words and the history in which we think. That is why he wrote a <em>Metacritique</em> (1784) against the <em>Critique of Pure Reason</em>, published after his death. He was Herder's teacher and inspired the Sturm und Drang. In <em>Golgotha and Scheblimini</em> (1784) he criticised Mendelssohn's <em>Jerusalem</em>, and during the pantheism controversy he supported Jacobi with his letters.</p>",
+  "obras": [
+   "Socratic Memorabilia (1759)",
+   "Crusades of the Philologist (1762)",
+   "Golgotha and Scheblimini (1784)",
+   "Metacritique on the Purism of Reason (1784)"
+  ],
+  "anecdota": "<p>In 1757, a Riga trading house sent the young Hamann to London on a commercial mission. It was a complete failure. Alone in the city, he spent the money on clothes, entertainment and bad company, fell into debt and ended up ill and isolated in a boarding house. In March 1758, not knowing what to do, he began to read the Bible from beginning to end. He later said that this reading made him see himself in the story he was reading and that he came out of it converted. He set it down in writing in his <em>Thoughts about the Course of My Life</em>. When he returned to Königsberg he was no longer a man of the Enlightenment: he was the believer whom Kant would try, without success, to bring back to reason.</p>",
+  "fuente": "Hamann, Thoughts about the Course of My Life (1758)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "jefferson": {
+  "name": "Thomas Jefferson",
+  "dates": "1743 – 1826",
+  "born": 1743,
+  "died": 1826,
+  "place": "Shadwell, Virginia (British colonies of America)",
+  "role": "American Enlightenment politician, author of the Declaration of Independence",
+  "idea": "All human beings have natural rights, such as life, liberty and the pursuit of happiness; governments exist to protect them, derive their power from the consent of the governed and must be separate from religion.",
+  "bio": "<p>Thomas Jefferson was born in Virginia, into a family of landowners, and studied law at the College of William &amp; Mary. He was the main drafter of the United States <strong>Declaration of Independence</strong> (1776), ambassador to France on the eve of the Revolution, Secretary of State under Washington and the country’s third president (1801-1809). In his old age he founded the University of Virginia. He died at his home in Monticello on 4 July 1826, exactly fifty years after the Declaration.</p>\n<p>The Declaration takes up <strong>Locke</strong>’s theory of natural rights and the social contract: all human beings are created equal, with inalienable rights to ‘life, liberty and the pursuit of happiness’, and if a government violates them, the people may change it. Jefferson also defended <strong>religious freedom</strong> and a ‘wall of separation’ between Church and State. His great contradiction: he proclaimed equality and at the same time owned hundreds of enslaved people throughout his life.</p>",
+  "obras": [
+   "Declaration of Independence (1776)",
+   "Notes on the State of Virginia (1785)",
+   "Virginia Statute for Religious Freedom (1786)",
+   "The Life and Morals of Jesus of Nazareth (1820)"
+  ],
+  "anecdota": "<p>Jefferson prepared his own version of the Gospels: with a razor he cut out from several copies of the Bible the verses containing Jesus’s moral teachings and pasted them in order, leaving out the miracles and the supernatural. He wrote to John Adams that telling the genuine apart was as easy as distinguishing diamonds in a dunghill. The volume, known as the ‘Jefferson Bible’, is kept at the Smithsonian Institution.</p>",
+  "fuente": "Letter from Jefferson to John Adams (12-10-1813); original copy at the Smithsonian Institution (Washington)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "paley": {
@@ -2023,6 +2507,33 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "herder": {
+  "name": "Johann Gottfried Herder",
+  "dates": "1744 – 1803",
+  "born": 1744,
+  "died": 1803,
+  "place": "Mohrungen (now Morąg, Poland)",
+  "role": "philosopher of language and of history",
+  "idea": "Every people and every era has its own language, its own culture and its own worth; history is not a ladder leading up to enlightened Europe.",
+  "bio": "<p>Johann Gottfried Herder was born in 1744 in Mohrungen, in East Prussia, into a humble family. Between 1762 and 1764 he studied Theology in Königsberg, where he was a student of Kant and a friend of Hamann. He worked as a teacher and preacher in Riga, met Goethe in Strasbourg in 1770 and was court preacher in Bückeburg. In 1776, thanks to Goethe, he settled in Weimar as the highest authority of the duchy's Protestant Church. He died there in 1803.</p>\n<p>Herder argued that <strong>language</strong> arises from human nature itself and that each people thinks and feels through its language. That is why he valued folk poetry, collected songs from many countries and held that each culture has its own worth. He ended up as the opponent of the teacher of his youth: Kant criticised his <em>Ideas</em> in 1785, and Herder replied years later with a <em>Metacritique</em> against the <em>Critique of Pure Reason</em>. He also joined the pantheism controversy. In <em>God: Some Conversations</em> (1787) he defended Spinoza, whom he read as the philosopher of a God present throughout nature as a living <strong>force</strong>.</p>",
+  "obras": [
+   "Treatise on the Origin of Language (1772)",
+   "This Too a Philosophy of History (1774)",
+   "Ideas for the Philosophy of the History of Humanity (1784-1791)",
+   "God: Some Conversations (1787)"
+  ],
+  "anecdota": "<p>In 1769, aged twenty-four, Herder was fed up with Riga. He resigned as teacher and preacher and boarded a merchant ship bound for France, with no clear plan. For weeks, on the high seas, with no books and no obligations, he devoted himself to thinking and writing. In his travel journal he imagines school reforms, book projects and a history of humanity. He also reproaches himself for having lived until then among papers, far from real life. The ship reached Nantes, and from there Herder went on to Paris. His <em>Journal of My Voyage in the Year 1769</em> was not published until long after his death.</p>",
+  "fuente": "Herder, Journal of My Voyage in the Year 1769",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t6"
   ]
  },
  "bentham": {
@@ -2130,6 +2641,31 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "schleiermacher": {
+  "name": "Friedrich Schleiermacher",
+  "dates": "1768 – 1834",
+  "born": 1768,
+  "died": 1834,
+  "place": "Breslau (now Wrocław, Poland)",
+  "role": "theologian, philosopher and translator",
+  "idea": "Religion is neither a form of knowledge nor a morality, but the feeling and intuition of the infinite in the finite.",
+  "bio": "<p>Friedrich Schleiermacher was born in Breslau in 1768, the son of a Protestant army chaplain. He was educated by the Moravian Brethren, a very pious community, but his doubts led him to study at the University of Halle, where he read Kant thoroughly. He was a preacher in Berlin, where he mixed with the Romantics and in particular with Friedrich Schlegel. He helped to found the University of Berlin, where he taught Theology, and he translated most of Plato's dialogues into German. He died in Berlin in 1834.</p>\n<p>In 1799 he published, unsigned, <em>On Religion: Speeches to Its Cultured Despisers</em>. For him, religion is not a set of doctrines, as it is for metaphysics, nor a support for morality, as in Kant, but <strong>feeling and intuition of the universe</strong>: the experience of the infinite in the finite. That is why he asked his readers to honour ‘the holy and repudiated Spinoza’, whom many considered an atheist. Later he defined religion as a <strong>feeling of absolute dependence</strong>. He is also the founder of modern <strong>hermeneutics</strong>, the art of interpreting texts.</p>",
+  "obras": [
+   "On Religion: Speeches to Its Cultured Despisers (1799)",
+   "Soliloquies (1800)",
+   "The Christian Faith (1821-1822)"
+  ],
+  "anecdota": "<p>On 21 November 1797, Schleiermacher turned twenty-nine, and his Romantic friends in Berlin threw him a party. Friedrich Schlegel, who was living with him at the time, took advantage of the celebration to extract a promise from him: before he turned thirty he had to write a book of his own. Schleiermacher, who until then had published hardly anything of his own, held out for months; in a letter to his sister Charlotte in 1798 he confessed that he did not think he was capable of finishing anything long. But in the end he kept his word. The book was <em>On Religion</em>, which appeared in 1799 without his name and made him famous throughout Germany.</p>",
+  "fuente": "Letters from Schleiermacher to his sister Charlotte (1797-1798)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "hegel": {
   "name": "Georg Wilhelm Friedrich Hegel",
   "dates": "1770 – 1831",
@@ -2184,6 +2720,57 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-marxismos"
+  ]
+ },
+ "schopenhauer": {
+  "name": "Arthur Schopenhauer",
+  "dates": "1788 – 1860",
+  "born": 1788,
+  "died": 1860,
+  "place": "Danzig (now Gdańsk, Poland)",
+  "role": "German philosopher of pessimism",
+  "idea": "Behind everything that exists there is a blind will that is never satisfied; that is why life is above all suffering, and only art, compassion and renunciation free us a little.",
+  "bio": "<p>Arthur Schopenhauer was the son of a wealthy merchant and of Johanna Schopenhauer, a successful novelist with whom he had a very difficult relationship. After his father’s death he gave up commerce to study philosophy. At 30 he published his main work, <em>The World as Will and Representation</em> (1819), which hardly sold. He failed as a lecturer in Berlin, lived on his inheritance and spent his last decades in Frankfurt, lonely and embittered by the lack of recognition, which only came to him at the end, with the <em>Parerga and Paralipomena</em> (1851).</p>\n<p>Schopenhauer starts from Kant: the world we know is <strong>representation</strong>, a phenomenon ordered by our mind. But he adds that we can glimpse what lies behind it from within ourselves: we are <strong>will</strong>, desire. This will, blind, aimless and insatiable, is the ground of all reality. That is why life swings between the pain of unsatisfied desire and the boredom of satisfied desire. There are three ways out: the contemplation of <strong>art</strong>, above all music; <strong>compassion</strong>, which for him is the foundation of morality; and the renunciation of the ascetic, close to the ideas of Buddhism and the Upanishads, which he was one of the first European philosophers to study. He had a decisive influence on Nietzsche, Wagner and Freud.</p>",
+  "obras": [
+   "The World as Will and Representation (1819; expanded in 1844)",
+   "The Two Fundamental Problems of Ethics (1841)",
+   "Parerga and Paralipomena (1851)"
+  ],
+  "anecdota": "<p>In 1820 Schopenhauer managed to get a teaching post at the University of Berlin, where Hegel was the great figure. Convinced that Hegel was a charlatan, he scheduled his course at the same time as Hegel’s lectures, so that the students would have to choose. They chose Hegel: very few students came to Schopenhauer’s classes and the course was never repeated. He never forgave academic philosophy for that failure, and he went on attacking Hegel in his books for decades.</p>",
+  "fuente": "R. Safranski, Schopenhauer and the Wild Years of Philosophy (1987)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t5"
+  ]
+ },
+ "comte": {
+  "name": "Auguste Comte",
+  "dates": "1798 – 1857",
+  "born": 1798,
+  "died": 1857,
+  "place": "Montpellier (France)",
+  "role": "positivist philosopher and sociologist",
+  "idea": "The only valid knowledge is positive, based on observable facts and scientific laws; humanity progresses from the theological stage to the metaphysical and then the positive.",
+  "bio": "<p>Auguste Comte was born in Montpellier in 1798. He studied at the École Polytechnique in Paris, from which he was expelled after a student protest. He was secretary to the socialist thinker Saint-Simon, with whom he ended up breaking. He never obtained a university chair and lived on private lessons and the support of his followers. He died in Paris in 1857.</p>\n<p>Comte is the founder of <strong>positivism</strong>. He holds that the only true knowledge is that based on observation and <strong>verifiable facts</strong>, and rejects metaphysical speculation. According to his <strong>law of the three stages</strong>, humanity passes through a theological stage, in which it explains phenomena by gods; a metaphysical one, in which it resorts to abstract essences; and a positive one, in which it seeks scientific laws. He also proposed a science of society, which he called <strong>sociology</strong>, to reorganise social life in accordance with science. In his last phase he devised a religion of humanity.</p>\n<p>Positivism represents the high point of modern trust in science and progress. It influenced John Stuart Mill and the social science of the 19th century, and its spirit reappears in the neopositivism of the Vienna Circle. Later, the Frankfurt School, with Horkheimer, criticised this view for reducing reason to a mere instrument.</p>",
+  "obras": [
+   "Course of Positive Philosophy (1830–1842)",
+   "Discourse on the Positive Spirit (1844)",
+   "System of Positive Polity (1851–1854)"
+  ],
+  "anecdota": "<p>In his maturity, Comte practised what he called ‘cerebral hygiene’: he decided to stop reading newspapers, journals and books by other authors so that the ideas of others would not disturb the elaboration of his own system. He only allowed himself to reread a few classics, such as poets who served him as relaxation. The habit surprised even his admirers, because the founder of a philosophy based on facts was isolating himself from the novelties of his time. It shows Comte’s ambition: to build, alone, a complete synthesis of all the sciences.</p>",
+  "fuente": "Testimonies of Comte himself and of his disciples",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "feuerbach": {
@@ -2467,6 +3054,32 @@ const BIOGRAFIAS = {
    "fil-t4"
   ]
  },
+ "kropotkin": {
+  "name": "Peter Kropotkin",
+  "dates": "1842 – 1921",
+  "born": 1842,
+  "died": 1921,
+  "place": "Moscow",
+  "role": "geographer and anarchist thinker",
+  "idea": "Mutual aid is as important a factor in evolution as struggle: species that cooperate prosper, and morality is based on that social instinct.",
+  "bio": "<p>Peter Kropotkin was born in Moscow into a family of the Russian high nobility; he held the title of prince. As an officer and geographer he carried out scientific expeditions through Siberia. He renounced his privileges, became an anarchist and was imprisoned in Russia and in France. He lived for many years in exile in England and returned to Russia after the 1917 revolution, although he criticised Bolshevik authoritarianism.</p>\n<p>In <em>Mutual Aid</em> he takes issue with readings of Darwinism that see only competition in nature. With numerous examples from animals and human societies, he holds that <strong>cooperation</strong> is a decisive factor in evolution and that the <strong>social instinct</strong> lies at the base of morality. He appears in the syllabus as an alternative to social Darwinism and to the view of the human being as selfish and competitive by nature.</p>",
+  "obras": [
+   "The Conquest of Bread (1892)",
+   "Fields, Factories and Workshops (1899)",
+   "Mutual Aid (1902)"
+  ],
+  "anecdota": "<p>In 1876, Kropotkin was locked up in the Peter and Paul Fortress in St Petersburg and, being ill, was transferred to the prison military hospital. There his comrades prepared a meticulous escape: during the walk in the yard, a violinist played from a nearby house as a signal that the way was clear. Kropotkin took off his heavy prisoner’s gown, ran to the gate and jumped into a waiting carriage. Days later he fled Russia and began a long exile in Europe.</p>",
+  "fuente": "Peter Kropotkin, Memoirs of a Revolutionist",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t6"
+  ]
+ },
  "james": {
   "name": "William James",
   "dates": "1842 – 1910",
@@ -2574,6 +3187,85 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-t2",
    "fil-t5"
+  ]
+ },
+ "zetkin": {
+  "name": "Clara Zetkin",
+  "dates": "1857 – 1933",
+  "born": 1857,
+  "died": 1933,
+  "place": "Wiederau (Saxony, Germany)",
+  "role": "German socialist politician, journalist and theorist",
+  "idea": "She brought together the emancipation of women and the class struggle: without economic independence and without changing capitalist society, equality before the law remains only half achieved.",
+  "bio": "<p>Clara Eißner was born in 1857 in Wiederau, a village in Saxony, the daughter of a schoolteacher. She trained as a teacher in Leipzig, where she came into contact with the labour movement and met a Russian exile, Ossip Zetkin, whose surname she took, although they never married. During Bismarck’s anti-socialist laws (1878-1890) she lived in exile in Zurich and then in Paris, where her two sons were born. In 1889, at the founding congress of the Second International, she argued that women had the right to work on the same terms as men and that their emancipation depended on their <strong>economic independence</strong>.</p>\n<p>Back in Germany, she edited <em>Die Gleichheit</em> (‘Equality’), the women’s magazine of the Social Democratic Party, for twenty-five years and organised the socialist women’s movement. She refused to work with <strong>bourgeois feminism</strong>, which in her view sought only legal equality within existing society; that separation was already much debated in her own time. In 1910, at the international conference of socialist women in Copenhagen, she proposed, together with Käte Duncker and other delegates, holding an international women’s day every year, still without a fixed date; 8 March became established later. She opposed the First World War: in 1915 she brought together in Bern socialists from the warring countries against the war and was arrested for it for several months; in 1917 the Social Democratic leadership removed her as editor of <em>Die Gleichheit</em>. That year she joined the Independent Social Democratic Party, close to the Spartacus League of Rosa Luxemburg and Karl Liebknecht, and in 1919 she joined the Communist Party of Germany, for which she was a member of the Reichstag (the German parliament) from 1920 to 1933. From 1921 she was part of the leadership of the Communist International and spent her last years mainly in the Soviet Union, whose regime she defended in public, although she disagreed with some decisions of the communist leadership. Her figure is still debated: some highlight her struggle for women’s rights and against fascism; others, her support for Stalin’s Soviet Union. She died in Arkhangelskoye, near Moscow, on 20 June 1933, a few months after Hitler came to power. The website studies her in the critique of capitalism after Marx, alongside Lenin and Rosa Luxemburg, as an example of the open debate within Marxism about the relationship between women’s equality and the <strong>class struggle</strong>.</p>",
+  "obras": [
+   "The Question of Women Workers and Women at the Present Time (1889)",
+   "Die Gleichheit (‘Equality’), a magazine she edited from 1892 to 1917",
+   "Reminiscences of Lenin (written in 1924)"
+  ],
+  "anecdota": "<p>In August 1932, at the age of seventy-five, ill and almost blind, Clara Zetkin came back from Moscow to open the new Reichstag, because as its oldest member it fell to her to chair the opening session. Before a chamber in which the Nazis were already the largest group, she called for a united front of all workers against fascism, and ended by hoping she would live to open, again as its oldest member, the first congress of the councils of a Soviet Germany. At the end of the session, the Reichstag elected Hermann Göring as its president.</p>",
+  "fuente": "Verhandlungen des Reichstags, VI. Wahlperiode 1932, Stenographische Berichte, 1st sitting, 30 August 1932 (shorthand records of the Reichstag)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "husserl": {
+  "name": "Edmund Husserl",
+  "dates": "1859 – 1938",
+  "born": 1859,
+  "died": 1938,
+  "place": "Prossnitz (Moravia, now Prostějov, Czech Republic)",
+  "role": "German philosopher, founder of phenomenology",
+  "idea": "We must ‘go back to the things themselves’: describe without prejudice how things appear in consciousness, which is always consciousness of something.",
+  "bio": "<p>Edmund Husserl was born into a Jewish family in Moravia and began by studying mathematics. Influenced by Franz Brentano, he switched to philosophy and was a professor at Göttingen and Freiburg, where Edith Stein and Martin Heidegger were among his students and assistants. When the Nazis came to power, because of his Jewish origins, he was removed from the university and treated as an outcast; he died in Freiburg in 1938.</p>\n<p>Husserl founded <strong>phenomenology</strong>, which aims to be a rigorous philosophy, free of presuppositions. His motto is ‘back to the things themselves’: to describe carefully how things are given to us in experience. The key is <strong>intentionality</strong>: all consciousness is consciousness <em>of</em> something; to see is to see something, to desire is to desire something. To study that relationship we must practise the <strong>epoché</strong>, ‘putting in brackets’ our usual beliefs about the world, without denying them, so as to focus on how it appears. In his final period he speaks of the <strong>lifeworld</strong>, the everyday world that we take for granted, and accuses the sciences of having forgotten it by reducing everything to numbers. His method influenced Heidegger, Sartre, Merleau-Ponty and much of 20th-century philosophy.</p>",
+  "obras": [
+   "Logical Investigations (1900–1901)",
+   "Ideas Pertaining to a Pure Phenomenology (1913)",
+   "Cartesian Meditations (1931)",
+   "The Crisis of European Sciences and Transcendental Phenomenology (1936)"
+  ],
+  "anecdota": "<p>When he died, Husserl left some 40,000 pages of manuscripts written in shorthand, almost all unpublished. In 1938 they were a treasure in danger: the Nazis might destroy them because their author was Jewish. A young Belgian Franciscan, Herman Van Breda, managed to smuggle them out of Germany, through the Belgian embassy, and take them to Leuven. There the Husserl Archives were founded, which still study and publish them today.</p>",
+  "fuente": "H. L. Van Breda, ‘The Rescue of Husserl’s Nachlass’ (1959)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-t2",
+   "fil-t3"
+  ]
+ },
+ "dewey": {
+  "name": "John Dewey",
+  "dates": "1859 – 1952",
+  "born": 1859,
+  "died": 1952,
+  "place": "Burlington (United States)",
+  "role": "pragmatist philosopher and reformer of American education",
+  "idea": "Thinking is inquiry to solve the problems that experience throws up; that is why education does not consist in memorising but in ‘learning by doing’, and democracy is above all a shared way of life.",
+  "bio": "<p>John Dewey was born in Burlington, in the state of Vermont (United States), in 1859. He studied at the University of Vermont and took his doctorate at Johns Hopkins University. He was a professor in Michigan and, from 1894, at the University of Chicago, where he ran a famous experimental school; in 1904 he moved to Columbia University, in New York, where he taught for the rest of his life. He took a very active part in public debates on education, democracy and rights, travelled to countries such as Japan, China, Mexico and the Soviet Union, and died in New York in 1952, at the age of ninety-two.</p>\n<p>Dewey is, together with Charles S. Peirce and William James, one of the great figures of American <strong>pragmatism</strong>, a current for which the value of an idea is measured by its practical consequences. His version, <strong>instrumentalism</strong>, understands thought as an instrument for solving the problems that arise in <strong>experience</strong>: to think is, at bottom, to inquire. Hence his best-known educational proposal, ‘learning by doing’, opposed to teaching based on memory alone, and his defence of <strong>democracy</strong> not as a mere system of government but as a way of life in which people cooperate and decide together. He appears in the syllabus as a representative of pragmatism and of a way of understanding truth, knowledge and education different from the European rationalist tradition.</p>",
+  "obras": [
+   "The School and Society (1899)",
+   "How We Think (1910)",
+   "Democracy and Education (1916)",
+   "Art as Experience (1934)"
+  ],
+  "anecdota": "<p>In January 1896, while a professor at the University of Chicago, Dewey set up an experimental school, known as the ‘Laboratory School’. It began with a handful of pupils and two teachers, and worked as a laboratory in which to test whether his educational ideas really worked in the classroom: the children learned by cooking, sewing or building things, rather than merely memorising. Within a few years it grew from that initial group to more than a hundred pupils. The experience, recorded some time later by two of its teachers, became a model cited by the educational reform movements of the 20th century.</p>",
+  "fuente": "K. C. Mayhew and A. C. Edwards, The Dewey School (1936)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "whitehead": {
@@ -2756,6 +3448,32 @@ const BIOGRAFIAS = {
    "fil-marxismos"
   ]
  },
+ "moore": {
+  "name": "George Edward Moore",
+  "dates": "1873 – 1958",
+  "born": 1873,
+  "died": 1958,
+  "place": "London (England)",
+  "role": "British philosopher",
+  "idea": "Philosophy must start from common sense and clarify precisely the meaning of what we say; the good is a simple quality that cannot be defined.",
+  "bio": "<p>George Edward Moore studied at Trinity College, Cambridge, where he was a teacher for almost all his life. There he became friends with Bertrand Russell, with whom he broke with the idealism that then dominated British philosophy. He formed part of the intellectual atmosphere of Cambridge together with Russell and Wittgenstein.</p>\n<p>He appears in the syllabus as one of the initiators of <strong>analytic philosophy</strong>. His method consisted in carefully analysing the meaning of philosophical statements and in defending the beliefs of <strong>common sense</strong> (that there is an external world, that I have a body) against theories that deny them. In ethics he held in <em>Principia Ethica</em> that the good is a simple, indefinable quality, and called the <strong>naturalistic fallacy</strong> the mistake of identifying it with something natural, such as pleasure.</p>",
+  "obras": [
+   "Principia Ethica (1903)",
+   "The Refutation of Idealism (1903)",
+   "A Defence of Common Sense (1925)"
+  ],
+  "anecdota": "<p>In 1939, before the British Academy, Moore offered what he presented as a proof of the existence of the external world. He raised one hand and said, more or less: ‘Here is one hand’. Then he raised the other: ‘And here is another’. Therefore, he concluded, at least two external objects exist. Many listeners took it for a joke, but Moore was speaking seriously: he was more certain that he had hands than of any premise of a sceptical argument. The gesture sums up his defence of <strong>common sense</strong> against the philosophies that call it into doubt.</p>",
+  "fuente": "Moore, ‘Proof of an External World’ (1939)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t5"
+  ]
+ },
  "scheler": {
   "name": "Max Scheler",
   "dates": "1874 – 1928",
@@ -2824,6 +3542,27 @@ const BIOGRAFIAS = {
    "fil-t6"
   ]
  },
+ "schlick": {
+  "name": "Moritz Schlick",
+  "dates": "1882 – 1936",
+  "born": 1882,
+  "died": 1936,
+  "place": "Berlin (Germany)",
+  "role": "German philosopher and physicist",
+  "idea": "The meaning of a proposition is its method of verification: what cannot be checked empirically and is not a logical truth is meaningless.",
+  "bio": "<p>Moritz Schlick took a doctorate in physics in Berlin under Max Planck and soon became interested in Einstein’s theory of relativity. In 1922 he obtained a chair at the University of Vienna, where he gathered a group of philosophers and scientists that would come to be known as the <strong>Vienna Circle</strong>. In 1936 he was murdered at the university by a former student.</p>\n<p>He was the founder and chief organiser of <strong>logical neopositivism</strong>. Influenced by Wittgenstein’s <em>Tractatus</em>, he held that the meaning of a proposition depends on whether it can be verified: only statements that can be checked by experience, and the truths of logic, have meaning. Hence the conclusion, central in the syllabus, that <strong>metaphysics</strong> is not false, but meaningless.</p>",
+  "obras": [
+   "General Theory of Knowledge (1918)",
+   "Problems of Ethics (1930)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "ortega": {
   "name": "José Ortega y Gasset",
   "dates": "1883 – 1955",
@@ -2849,6 +3588,30 @@ const BIOGRAFIAS = {
    "fil-t2",
    "fil-t3",
    "fil-t6"
+  ]
+ },
+ "sapir": {
+  "name": "Edward Sapir",
+  "dates": "1884 – 1939",
+  "born": 1884,
+  "died": 1939,
+  "place": "Lauenburg (Pomerania, now Poland)",
+  "role": "American linguist and anthropologist",
+  "idea": "The language we speak does not merely express thought, but influences how we perceive and organise reality.",
+  "bio": "<p>Edward Sapir was born in Pomerania, into a Jewish family that emigrated to the United States when he was a child. He studied at Columbia University with the anthropologist Franz Boas and specialised in the indigenous languages of North America. He was a professor at Chicago and at Yale, where he had Benjamin Lee Whorf as a student.</p>\n<p>He appears in the syllabus because of the so-called <strong>Sapir–Whorf hypothesis</strong>, formulated above all by Whorf on the basis of his ideas: the structure of each language influences the way its speakers think and organise reality. In its strong version, language would determine thought; in the weak one, it would only condition it. This idea, related to the <strong>linguistic turn</strong>, inspired Txillardegi’s defence of the view that each language encloses a worldview.</p>",
+  "obras": [
+   "Language (1921)"
+  ],
+  "anecdota": "<p>In the summer of 1915 Sapir worked in San Francisco with Ishi, a man considered the last speaker of Yahi, an indigenous language of California. Ishi had lived hidden with his small group for decades and, after being left alone, had settled in the anthropology museum of the University of California. For weeks Sapir noted down words, stories and grammatical structures with him so that the language would not be lost. The scene sums up Sapir’s work: documenting endangered languages in the conviction that each one encloses a unique way of organising the world.</p>",
+  "fuente": "Testimonies of Alfred Kroeber and documentation of the anthropology museum of the University of California; Theodora Kroeber, Ishi in Two Worlds",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t4"
   ]
  },
  "duchamp": {
@@ -2929,6 +3692,32 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "carnap": {
+  "name": "Rudolf Carnap",
+  "dates": "1891 – 1970",
+  "born": 1891,
+  "died": 1970,
+  "place": "Ronsdorf (Germany)",
+  "role": "German philosopher and logician",
+  "idea": "Through the logical analysis of language it is shown that the statements of metaphysics are not false, but meaningless, because they cannot be verified.",
+  "bio": "<p>Rudolf Carnap studied physics, mathematics and philosophy in Jena, where he attended Frege’s classes. In 1926 he joined the University of Vienna and was one of the most prominent members of the <strong>Vienna Circle</strong>. He then taught in Prague and, with the rise of Nazism, emigrated in 1935 to the United States, where he was a professor at Chicago and at Los Angeles.</p>\n<p>He appears in the syllabus as one of the great representatives of <strong>logical neopositivism</strong>. He sought to reconstruct scientific knowledge from experience and logic. In a famous 1932 article he held that <strong>metaphysics</strong> is overcome by the logical analysis of language: its statements cannot be verified, so they say nothing, although they may express an attitude to life.</p>",
+  "obras": [
+   "The Logical Structure of the World (1928)",
+   "The Elimination of Metaphysics Through Logical Analysis of Language (1932)",
+   "The Logical Syntax of Language (1934)"
+  ],
+  "anecdota": "<p>As a teenager, Carnap taught himself <strong>Esperanto</strong>, the artificial language created to ease understanding between peoples. In 1908 he attended a world congress of Esperantists in Dresden and was impressed to see people from many countries conversing fluently in an invented language. As he told it in his intellectual autobiography, that experience convinced him that a constructed language could work like a natural one. Later he would devote a good part of his philosophy to designing precise logical languages, capable of expressing scientific knowledge without ambiguity.</p>",
+  "fuente": "Carnap, ‘Intellectual Autobiography’, in P. A. Schilpp (ed.), The Philosophy of Rudolf Carnap",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t4"
+  ]
+ },
  "gramsci": {
   "name": "Antonio Gramsci",
   "dates": "1891 – 1937",
@@ -3005,6 +3794,30 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-marxismos"
+  ]
+ },
+ "whorf": {
+  "name": "Benjamin Lee Whorf",
+  "dates": "1897 – 1941",
+  "born": 1897,
+  "died": 1941,
+  "place": "Winthrop (Massachusetts, USA)",
+  "role": "American linguist",
+  "idea": "The grammar of each language conditions the way its speakers perceive, classify and think about reality: this is the thesis of linguistic relativism.",
+  "bio": "<p>Benjamin Lee Whorf was born in Winthrop (Massachusetts) in 1897. He trained as a chemical engineer and worked all his life as a fire-prevention inspector for an insurance company. As a hobby he devoted himself to linguistics: he studied indigenous American languages, above all Hopi, and from 1931 attended at Yale University the courses of the anthropologist and linguist Edward Sapir. He died in 1941.</p>\n<p>Whorf defended <strong>linguistic relativism</strong>: the grammatical structure of each language conditions the way its speakers perceive and organise reality, for example time or causality. This thesis, known as the <strong>Sapir–Whorf hypothesis</strong>, remains a matter of debate and today is usually accepted only in a moderate version. He appears in the syllabus because he inspired Txillardegi’s idea that each language encloses its own worldview.</p>",
+  "obras": [
+   "Language, Thought, and Reality (1956)"
+  ],
+  "anecdota": "<p>His work as a fire inspector gave Whorf one of his favourite examples. In a warehouse he observed that workers were careful near full petrol drums, but smoked calmly beside those labelled ‘empty’. Yet those drums were full of flammable vapours, far more dangerous. The word ‘empty’, which suggests absence of risk, guided behaviour more than physical reality did. Whorf used cases like this to argue that language conditions how we perceive situations and how we act in them.</p>",
+  "fuente": "Whorf, ‘The Relation of Habitual Thought and Behavior to Language’ (1939)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t4"
   ]
  },
  "marcuse": {
@@ -3452,6 +4265,32 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "lyotard": {
+  "name": "Jean-François Lyotard",
+  "dates": "1924 – 1998",
+  "born": 1924,
+  "died": 1998,
+  "place": "Versailles (France)",
+  "role": "French philosopher of postmodernity",
+  "idea": "Postmodernity is incredulity towards metanarratives: we no longer believe in grand narratives that give meaning to the whole of history, but in small, plural stories.",
+  "bio": "<p>Jean-François Lyotard was born in Versailles. He taught philosophy at a secondary school in Constantine, in colonial Algeria, and for years was active in the critical Marxist group <em>Socialisme ou Barbarie</em>. Later he distanced himself from Marxism. He taught at the University of Paris VIII (Vincennes) and took part in founding the International College of Philosophy.</p>\n<p>His best-known work, <em>The Postmodern Condition</em> (1979), began as a report on knowledge in the most developed societies. In it he defines postmodernity as <strong>incredulity towards metanarratives</strong>. A metanarrative is a grand narrative that claims to explain all of reality and to give history a goal: the emancipation of human beings in the Enlightenment and Marxism, or endless progress thanks to science. After the world wars and totalitarianisms, those stories have lost their credibility. In their place remain local and diverse <strong>small narratives</strong>, with no single truth to order them. Lyotard also observes that knowledge is increasingly legitimised by its technical and economic efficiency, which he calls <strong>performativity</strong>.</p>\n<p>An heir to Nietzsche’s suspicion, Lyotard became the reference point of the debate on postmodernity. His main opponent was Habermas, who defended modernity as an unfinished project that had to be corrected, not abandoned.</p>",
+  "obras": [
+   "Discourse, Figure (1971)",
+   "Libidinal Economy (1974)",
+   "The Postmodern Condition (1979)",
+   "The Differend (1983)"
+  ],
+  "anecdota": "<p>In 1985 Lyotard did something unusual for a philosopher: he curated a major exhibition at the Centre Pompidou in Paris, entitled <em>Les Immatériaux</em> (‘The Immaterials’). Instead of paintings hung in order, the public walked through a maze of dimly lit spaces, with headphones that played different texts depending on the area, and came across screens, synthetic objects and new information technologies. There was no single route and no conclusion: the exhibition wanted visitors to live the postmodern condition in their own bodies, with no grand narrative to guide them.</p>",
+  "fuente": "Exhibition Les Immatériaux (Centre Pompidou, 1985) and its catalogue",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "danto": {
   "name": "Arthur Danto",
   "dates": "1924 – 2013",
@@ -3477,6 +4316,83 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-t7",
    "fil-grandes-preguntas"
+  ]
+ },
+ "feyerabend": {
+  "name": "Paul Feyerabend",
+  "dates": "1924 – 1994",
+  "born": 1924,
+  "died": 1994,
+  "place": "Vienna (Austria)",
+  "role": "philosopher of science",
+  "idea": "There is no single scientific method valid for all time; the great advances of science were often achieved by breaking the rules, which is why ‘anything goes’.",
+  "bio": "<p>Paul Feyerabend was born in Vienna in 1924. During the Second World War he was conscripted into the German army and was seriously wounded at the front: a bullet in the spine forced him to walk with a stick and caused him pain for the rest of his life. When the war ended he studied in Vienna and came to the philosophy of science through Karl Popper, in London. From 1958 he was a professor for decades at the University of California, Berkeley, and he also taught in Zurich. He died in Switzerland in 1994.</p>\n<p>Feyerabend is known for his <strong>methodological anarchism</strong>, defended in <em>Against Method</em> (1975): he argued that there is no rule of scientific method that has not had to be broken at some point for science to advance, and summed it up in the slogan <strong>‘anything goes’</strong>. He did not mean to reject science but to question its authority: he called for the <strong>separation of science and the state</strong>, just like that of religion and the state, so that no view of the world should be imposed on the others. In the syllabus he appears as the most radical link in the philosophy of science, in debate with Popper's falsifiability and Kuhn's paradigms.</p>",
+  "obras": [
+   "Against Method (1975)",
+   "Science in a Free Society (1978)",
+   "Farewell to Reason (1987)",
+   "Killing Time (autobiography, 1995)"
+  ],
+  "anecdota": "<p>The pain that stayed with Feyerabend all his life came from the war. As he tells it in his autobiography, in 1945, as an officer in the German army during the retreat, he was hit by several shots while directing the traffic of the troops; one of the bullets lodged in his spine. He was left with permanent after-effects and walked with a stick from then on. He himself recounted the episode with bitter humour, without heroics, as one more of the chance events that had marked his life.</p>",
+  "fuente": "Paul Feyerabend, Killing Time (autobiography, 1995); the slogan ‘anything goes’ in Against Method (1975)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "bauman": {
+  "name": "Zygmunt Bauman",
+  "dates": "1925 – 2017",
+  "born": 1925,
+  "died": 2017,
+  "place": "Poznań (Poland)",
+  "role": "Polish sociologist and philosopher",
+  "idea": "We live in a liquid modernity, where bonds, institutions and identities are no longer solid but precarious and changing, and the citizen becomes a consumer.",
+  "bio": "<p>Zygmunt Bauman was born in Poznań into a Jewish family. In 1939 he fled with them to the Soviet Union in the face of the Nazi invasion and fought in the Polish army formed there. After the war he was a professor of sociology at the University of Warsaw, but in 1968 he was expelled in an antisemitic campaign by the communist regime. After a spell in Israel, he taught from 1971 at the University of Leeds (United Kingdom). In 2010 he received the Princess of Asturias Award for Communication and Humanities.</p>\n<p>Bauman distinguishes a solid modernity, with stable institutions, jobs for life and lasting projects, from today’s <strong>liquid modernity</strong>. Like liquids, which do not keep their shape, today jobs, relationships, communities and identities are fragile and changing. Society no longer treats us mainly as producers or citizens but as <strong>consumers</strong>, and freedom is confused with choosing between products. Anyone who cannot consume or is of no use to the market ends up as <strong>human waste</strong>: surplus people, such as the long-term unemployed or refugees.</p>\n<p>Earlier, in <em>Modernity and the Holocaust</em> (1989), he had analysed how bureaucracy and technical rationality made genocide possible, in the line of Adorno and Horkheimer’s critique of instrumental reason and of Hannah Arendt’s reflections. His diagnosis of the consumer society is in dialogue with authors such as Byung-Chul Han.</p>",
+  "obras": [
+   "Modernity and the Holocaust (1989)",
+   "Liquid Modernity (2000)",
+   "Liquid Love (2003)",
+   "Wasted Lives (2004)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t6"
+  ]
+ },
+ "deleuze": {
+  "name": "Gilles Deleuze",
+  "dates": "1925 – 1995",
+  "born": 1925,
+  "died": 1995,
+  "place": "Paris (France)",
+  "role": "French philosopher of difference and desire",
+  "idea": "Philosophy does not describe eternal essences but creates concepts to think difference and change; and desire is not a lack but a force that produces bonds and worlds.",
+  "bio": "<p>Gilles Deleuze was born in Paris in 1925 and spent almost all his life there. He was a professor at the University of Paris VIII (Vincennes), where his classes, open to anyone who wanted to come in, became famous. From 1969 he wrote several books together with the psychoanalyst Félix Guattari. Ill with his lungs for years, he died in Paris in 1995.</p>\n<p>In <em>Difference and Repetition</em> (1968) he argues that philosophy has given too much importance to the identical and the general, and he reclaims <strong>difference</strong> as something primary, not as a mere comparison between things already given. With Guattari he maintains that <strong>desire</strong> is not a private lack but a force that produces relationships, images and institutions, and he proposes the image of the <strong>rhizome</strong>: a way of thinking made of multiple connections, with no centre and no fixed hierarchy, as opposed to the model of the tree. In the syllabus he appears as one of the voices of postmodernity (topic 23) and, above all, for his reading of Spinoza: for Deleuze, Spinoza is the philosopher of joy and of <strong>power</strong>, and the question ‘what can a body do?’ sums up his way of understanding ethics.</p>",
+  "obras": [
+   "Nietzsche and Philosophy (1962)",
+   "Difference and Repetition (1968)",
+   "Anti-Oedipus (1972, with Félix Guattari)",
+   "A Thousand Plateaus (1980, with Félix Guattari)"
+  ],
+  "anecdota": "<p>In 1988 and 1989, Deleuze agreed to record with the journalist Claire Parnet a long interview of some eight hours, arranged as an abecedary: one word for each letter, from A for ‘Animal’ to Z for ‘Zigzag’. He set as an initial condition that it should not be broadcast until after his death, though in the end he authorised its release: the series, known as <em>Gilles Deleuze's Abecedary</em>, was broadcast on the Arte channel between 1994 and 1995, in the last year of his life, and has become one of the most widely known ways of approaching his thought.</p>",
+  "fuente": "François Dosse, Gilles Deleuze and Félix Guattari. Intersecting Lives (2007)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-t7"
   ]
  },
  "dickie": {
@@ -3532,6 +4448,54 @@ const BIOGRAFIAS = {
    "fil-marxismos"
   ]
  },
+ "wilson": {
+  "name": "Edward O. Wilson",
+  "dates": "1929 – 2021",
+  "born": 1929,
+  "died": 2021,
+  "place": "Birmingham (Alabama, United States)",
+  "role": "biologist and naturalist",
+  "idea": "Social behaviour has biological bases, and the evolutionary success of species such as ours is explained in large part by cooperation within groups.",
+  "bio": "<p>Edward O. Wilson was born in Birmingham (Alabama) and was a professor at Harvard University throughout his career. He was the world’s foremost specialist on ants and a pioneer in the defence of <strong>biodiversity</strong>. He won two Pulitzer Prizes for his popular science books.</p>\n<p>In <em>Sociobiology</em> (1975) he proposed studying the biological bases of social behaviour, including human behaviour, which provoked fierce controversy. In <em>The Social Conquest of Earth</em> (2012) he maintained that the success of social insects and of humans is largely due to <strong>cooperation</strong> within the group, a thesis disputed by other biologists. The syllabus cites him alongside Kropotkin and Azurmendi against social Darwinism: human nature is not only competitive.</p>",
+  "obras": [
+   "Sociobiology (1975)",
+   "On Human Nature (1978)",
+   "The Ants (1990, with B. Hölldobler)",
+   "The Social Conquest of Earth (2012)"
+  ],
+  "anecdota": "<p>At the age of seven, fishing from a pier in Florida, little Edward pulled too hard on his line and the spiny fin of a fish struck his right eye, which he ended up losing almost completely. With the left, however, he could see very closely in great detail. He himself said that this was why he stopped paying attention to birds and mammals, hard to observe from a distance, and focused on the small creatures he could examine by holding them close to his face. That is how his passion for ants began.</p>",
+  "fuente": "E. O. Wilson, Naturalist (autobiography, 1994)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
+  ]
+ },
+ "txillardegi": {
+  "name": "Txillardegi",
+  "dates": "1929 – 2012",
+  "born": 1929,
+  "died": 2012,
+  "place": "San Sebastián (Gipuzkoa)",
+  "role": "Basque linguist, writer and politician",
+  "idea": "We do not think before speaking, but thanks to a language that structures our view of the world; that is why Basque is the backbone of Basque identity.",
+  "bio": "<p>Txillardegi is the pen name of José Luis Álvarez Enparantza, born in San Sebastián into a Spanish-speaking family. He studied industrial engineering and learned Basque as a young man. In the 1950s he took part in the Ekin group and in 1959 was one of the founders of ETA, which he left in 1967 over ideological differences. He spent years in exile. He was a key figure in the creation of <strong>Euskara Batua</strong>, unified Basque, and later a professor of sociolinguistics at the University of the Basque Country and a politician of the abertzale left.</p>\n<p>In his essays on language and thought he followed Humboldt and the <strong>Sapir-Whorf hypothesis</strong>, according to which language conditions the way we think. For Txillardegi, language is not an instrument we use after thinking: we think because we have language, and the structure of each language unconsciously organises how we perceive reality. Each language carries with it a <strong>worldview</strong> (<em>Weltanschauung</em>). Hence his defence of Basque as the core of Basque identity: if a language disappears, a distinct way of structuring the world is lost.</p>\n<p>He was also a writer: his novel <em>Leturiaren egunkari ezkutua</em> (1957), influenced by existentialism, is regarded as the first modern novel in Basque. His influence on the normalisation of Basque was very great. In the syllabus he complements Wittgenstein’s reflection on language with a perspective centred on the relationship between language, thought and community.</p>",
+  "obras": [
+   "Leturiaren egunkari ezkutua (1957)",
+   "Huntaz eta hartaz (1965)",
+   "Hizkuntza eta pentsakera (1983)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "baudrillard": {
   "name": "Jean Baudrillard",
   "dates": "1929 – 2007",
@@ -3558,6 +4522,32 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "derrida": {
+  "name": "Jacques Derrida",
+  "dates": "1930 – 2004",
+  "born": 1930,
+  "died": 2004,
+  "place": "El Biar (Algeria)",
+  "role": "French philosopher",
+  "idea": "Deconstruction shows that the concepts of philosophy rest on hidden hierarchical oppositions and that no meaning completely escapes the play of language.",
+  "bio": "<p>Jacques Derrida was born in 1930 in El Biar, near Algiers, into a Jewish family, when Algeria was a French colony. He studied at the École Normale Supérieure in Paris, where he later taught for years. In 1967 he published three books that brought him international fame, among them <em>Of Grammatology</em>. He was a visiting professor at universities in the United States, where his influence was enormous. He died in Paris in 2004.</p>\n<p>Derrida maintains that we have no direct access to things: everything is mediated by language and by texts. He criticises <strong>logocentrism</strong>, the Western tradition’s belief in a full, present meaning that precedes language. His method, <strong>deconstruction</strong>, analyses the pairs of concepts we think with (speech and writing, reason and emotion, masculine and feminine) and shows that one of the terms is always presented as superior to the other. Dismantling those hierarchies reveals their internal contradictions and the power relations they conceal. To name the continual deferral of meaning he coined the term <strong>différance</strong>.</p>\n<p>An heir to Nietzsche and Heidegger, Derrida is a central figure of postmodern thought alongside Foucault, Lyotard and Vattimo. Habermas criticised his position because, in his view, it gives up a reason capable of grounding social critique. His influence extends to literary theory, law, architecture and gender studies.</p>",
+  "obras": [
+   "Of Grammatology (1967)",
+   "Writing and Difference (1967)",
+   "Margins of Philosophy (1972)",
+   "Specters of Marx (1993)"
+  ],
+  "anecdota": "<p>In late 1981 Derrida travelled to Prague to give a clandestine seminar to intellectuals who were dissidents of the Czechoslovak communist regime. As he left, the police arrested him at the airport: they claimed to have found drugs in his suitcase, which in fact they had planted themselves. He spent a night in prison and was charged with drug trafficking. The protest of the French government, with President Mitterrand at its head, secured his release and expulsion from the country. The philosopher of suspicion towards texts ended up the victim of a fabricated case.</p>",
+  "fuente": "Benoît Peeters, Derrida (biography, 2010); press of the time",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "debord": {
   "name": "Guy Debord",
   "dates": "1931 – 1994",
@@ -3581,6 +4571,76 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "rorty": {
+  "name": "Richard Rorty",
+  "dates": "1931 – 2007",
+  "born": 1931,
+  "died": 2007,
+  "place": "New York (United States)",
+  "role": "American philosopher, a representative of neopragmatism",
+  "idea": "There is no truth that is an exact copy of reality and no ultimate foundation of knowledge; in a democracy it is better to replace the search for Truth with conversation, irony and solidarity.",
+  "bio": "<p>Richard Rorty was born in New York in 1931, the son of two left-wing writers opposed to Stalin. He studied at the universities of Chicago and Yale. He taught philosophy at Princeton, where he was trained within analytic philosophy, and later at the University of Virginia and at Stanford, by then as a professor of the humanities. He died in Palo Alto, in California, in 2007.</p>\n<p>Rorty took up the American pragmatist tradition of Dewey and James and broke with the idea that the mind is a <strong>mirror</strong> reflecting reality as it is: to that image he devoted <em>Philosophy and the Mirror of Nature</em> (1979). For him there is no <strong>truth</strong> understood as an exact copy of the world and no ultimate foundation of knowledge; truth is rather what a community accepts after putting it to the test. In <em>Contingency, Irony, and Solidarity</em> (1989) he argued that, in a liberal democracy, rather than seeking an absolute foundation it is better to cultivate <strong>conversation</strong>, irony (knowing that one's own vocabulary is not sacred) and <strong>solidarity</strong>. On the website he appears in the postmodernity topic of Philosophy: after the critique of suspicion, he proposes replacing the dispute over who possesses the Truth with democratic conversation, without truth or justice thereby ceasing to matter.</p>",
+  "obras": [
+   "Philosophy and the Mirror of Nature (1979)",
+   "Consequences of Pragmatism (1982)",
+   "Contingency, Irony, and Solidarity (1989)",
+   "Achieving Our Country (1998)"
+  ],
+  "anecdota": "<p>In 1992 Rorty published an autobiographical essay, ‘Trotsky and the Wild Orchids’, in which he told how as a child he tried to reconcile two things that seemed not to fit together: the commitment to social justice he had inherited from his parents and his private, almost secret, hobby of hunting for wild orchids in the hills of north-western New Jersey. For years, he said, he looked for a single truth that would unite ‘Trotsky’ and ‘the orchids’, until he came to think that it was not necessary: the public, that is, solidarity, and the private, the beauty that matters to each person, could follow separate paths. From that attempt much of his philosophy was born.</p>",
+  "fuente": "Richard Rorty, ‘Trotsky and the Wild Orchids’ (1992), collected in Filosofía y futuro (Spanish ed., Gedisa, 2002)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "vattimo": {
+  "name": "Gianni Vattimo",
+  "dates": "1936 – 2023",
+  "born": 1936,
+  "died": 2023,
+  "place": "Turin (Italy)",
+  "role": "Italian philosopher",
+  "idea": "Weak thought renounces absolute truths and ultimate foundations, and accepts the plurality of interpretations as the basis of an ethics of tolerance.",
+  "bio": "<p>Gianni Vattimo was born in Turin in 1936. He studied philosophy in his home city with Luigi Pareyson and pursued further studies in Heidelberg with Hans-Georg Gadamer, whose work he translated into Italian. He was a professor at the University of Turin for decades and also took part in politics: he was a Member of the European Parliament. He died in 2023.</p>\n<p>Vattimo is one of the main representatives of <strong>hermeneutics</strong>, the philosophy of interpretation. Following Nietzsche and Heidegger, he maintains that there are no pure facts, only interpretations. In the postmodern age the grand narratives and the ultimate foundations of truth have fallen. Instead of lamenting this, he proposes <strong>weak thought</strong>: a philosophy that renounces strong, definitive truths, which tend to justify violence and authoritarianism. Accepting the <strong>plurality of interpretations</strong> leads to an ethics of tolerance and dialogue. In <em>The Transparent Society</em> he analysed how the mass media multiply visions of the world and weaken the idea of a single reality.</p>\n<p>His proposal is part of the debate on postmodernity alongside Lyotard, Derrida and Foucault. Unlike Habermas, who wants to rebuild a universal reason, Vattimo sees in the weakening of truth an emancipatory opportunity. In his later works he reinterpreted Christianity from this same perspective.</p>",
+  "obras": [
+   "Weak Thought (1983, with Pier Aldo Rovatti)",
+   "The End of Modernity (1985)",
+   "The Transparent Society (1989)",
+   "Belief (1996)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "ingham": {
+  "name": "Geoffrey Ingham",
+  "dates": "b. 1942",
+  "born": 1942,
+  "died": null,
+  "place": "",
+  "role": "British sociologist and political economist",
+  "idea": "Money is not a mere commodity but a socially created promise of payment, above all as bank credit, and it is a pillar of capitalism.",
+  "bio": "<p>Geoffrey Ingham is a British sociologist born in 1942. He studied Sociology at the University of Leicester and took his doctorate at Cambridge, where he has been a lecturer in Sociology and Political Economy and a fellow of Christ’s College. He is professor emeritus of that university.</p>\n<p>His work centres on the nature of money and of capitalism. In <em>The Nature of Money</em> (2004) he argues that money is a <strong>social and political construction</strong>: a promise of payment, not an object with value of its own. In <em>Capitalism</em> (2008) he maintains that capitalism keeps three elements in all its phases: a monetary system that creates money as <strong>bank credit</strong>, market exchange, and private enterprise producing commodities. He appears in the syllabus to explain what remains constant in capitalism throughout its history.</p>",
+  "obras": [
+   "The Nature of Money (2004)",
+   "Capitalism (2008)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "nussbaum": {
@@ -3661,6 +4721,28 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "herrero": {
+  "name": "Yayo Herrero",
+  "dates": "b. 1965",
+  "born": 1965,
+  "died": null,
+  "place": "Madrid",
+  "role": "anthropologist and ecofeminist activist",
+  "idea": "Human beings are eco-dependent and interdependent, so the economy and politics must put life and care at the centre.",
+  "bio": "<p>Yayo Herrero was born in Madrid in 1965. She is an agricultural engineer, anthropologist and social educator, and took her doctorate in Social and Political Sciences at the University of the Basque Country. She was national coordinator of Ecologistas en Acción and has worked as a researcher and lecturer in political ecology, ecofeminism and education for sustainability. She is one of the best-known voices of environmentalism in Spain.</p>\n<p>From <strong>ecofeminism</strong>, which links the ecological crisis to the inequality of women, Herrero recalls two basic facts. We are <strong>eco-dependent</strong>, because we depend on nature to live, and <strong>interdependent</strong>, because we need the care of other people throughout our lives. Our economy forgets both: it grows as if the planet were infinite and does not value <strong>care</strong>, which is carried out mostly by women and invisibly. That is why she states that the current system is at odds with life. She proposes putting life and care at the centre of politics and the economy, and recognising human vulnerability.</p>\n<p>Her thought is linked to the ethics of care, to degrowth and to other critiques of present-day capitalism. She shares with Martha Nussbaum the idea that well-being is not measured by economic growth.</p>",
+  "obras": [
+   "Los cinco elementos (2021)",
+   "Ausencias y extravíos (2021)",
+   "Toma de tierra (2023)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "chalmers": {
   "name": "David Chalmers",
   "dates": "b. 1966",
@@ -3685,6 +4767,52 @@ const BIOGRAFIAS = {
    "fil-t2",
    "fil-metafisica",
    "fil-grandes-preguntas"
+  ]
+ },
+ "klein": {
+  "name": "Naomi Klein",
+  "dates": "b. 1970",
+  "born": 1970,
+  "died": null,
+  "place": "Montreal (Canada)",
+  "role": "Canadian journalist and essayist",
+  "idea": "Disaster capitalism exploits the shock of crises, wars and catastrophes to impose neoliberal reforms that in normal times would be rejected.",
+  "bio": "<p>Naomi Klein was born in Montreal in 1970. She is a journalist, essayist and activist. She became known with <em>No Logo</em> (2000), which became a reference book of the anti-globalisation movement of those years. She has written for numerous international media outlets and is a professor at the University of British Columbia, in Canada.</p>\n<p>In <em>No Logo</em> she analyses the power of the big <strong>brands</strong>: they no longer sell just objects but identities and lifestyles, while moving production to low-wage countries. In <em>The Shock Doctrine</em> (2007) she describes <strong>disaster capitalism</strong>. According to Klein, governments and large corporations exploit the disorientation caused by crises, such as wars, coups or natural disasters, to impose <strong>neoliberal reforms</strong>: privatisations, cuts and deregulation. The population, in a state of shock, cannot resist. In <em>This Changes Everything</em> (2014) she links the climate crisis to the economic model based on unlimited growth.</p>\n<p>Her work is part of the contemporary critique of neoliberal globalisation, alongside authors such as Noam Chomsky and Zygmunt Bauman. Her analysis of the climate crisis also brings her close to environmentalist thinkers such as Yayo Herrero.</p>",
+  "obras": [
+   "No Logo (2000)",
+   "The Shock Doctrine (2007)",
+   "This Changes Everything (2014)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-t6"
+  ]
+ },
+ "preciado": {
+  "name": "Paul B. Preciado",
+  "dates": "b. 1970",
+  "born": 1970,
+  "died": null,
+  "place": "Burgos",
+  "role": "philosopher and art curator",
+  "idea": "In the pharmacopornographic era capitalism governs bodies through drugs, hormones and images, but the body can become a space of resistance.",
+  "bio": "<p>Paul B. Preciado was born in Burgos in 1970. He studied philosophy in Madrid and at the New School for Social Research in New York, where he was a student of Jacques Derrida, and took his doctorate in Architectural Theory at Princeton University. He has been a lecturer, an art exhibition curator and a columnist, and lives in Paris. In 2015 he made his gender transition public and took the name Paul.</p>\n<p>In <em>Countersexual Manifesto</em> (2000) he criticises the presentation of sex and gender as natural. In <em>Testo Junkie</em> (2008), written while administering testosterone to himself, he describes the <strong>pharmacopornographic era</strong>. According to Preciado, since the mid-20th century capitalism no longer controls bodies only through external disciplines but from within: through <strong>drugs and hormones</strong>, such as the contraceptive pill, and through the image industry and pornography. Sexual identity is technically manufactured. That is why the body can become a space of <strong>political resistance</strong>, where identities that break the man-woman binary are experimented with.</p>\n<p>His thought continues Foucault’s analysis of biopower and Judith Butler’s theory of performativity. He is one of the most influential voices of <strong>queer theory</strong> and of trans movements. In 2023 he directed the documentary film <em>Orlando, My Political Biography</em>.</p>",
+  "obras": [
+   "Countersexual Manifesto (2000)",
+   "Testo Junkie (2008)",
+   "An Apartment on Uranus (2019)",
+   "I Am the Monster Who Is Speaking to You (2020)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "bostrom": {
