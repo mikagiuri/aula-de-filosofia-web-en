@@ -79,9 +79,9 @@ const WEEK = [
 const SUBJECTS = {
  "fil": {
   "name": "Philosophy",
-  "kick": "Year 1 of Bachillerato · Topics 1-3",
+  "kick": "Year 1 of Bachillerato",
   "color": "var(--fil)",
-  "intro": "‘What is philosophy?’: wonder, from myth to logos, its characteristics, its branches, philosophy and other kinds of knowledge, and the method (reading and arguing). Three sessions that groups C, D and G all receive in the same way.",
+  "intro": "",
   "mats": [],
   "tools": [
    [
