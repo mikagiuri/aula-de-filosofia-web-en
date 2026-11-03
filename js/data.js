@@ -129,7 +129,7 @@ const SUBJECTS = {
 };
 const DECKS = {
  "fil-que-es": {
-  "name": "Philosophy Year 1 · What is philosophy? (T1)",
+  "name": "What is philosophy? (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -185,7 +185,7 @@ const DECKS = {
   ]
  },
  "fil-ramas": {
-  "name": "Philosophy Year 1 · The branches of philosophy",
+  "name": "The branches of philosophy",
   "subject": "fil",
   "cards": [
    [
@@ -226,7 +226,7 @@ const DECKS = {
   ]
  },
  "fil-ser-humano": {
-  "name": "Philosophy Year 1 · What is a human being? (T2)",
+  "name": "What is a human being? (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -287,7 +287,7 @@ const DECKS = {
   ]
  },
  "fil-metafisica": {
-  "name": "Philosophy Year 1 · Reality: metaphysics (M)",
+  "name": "Reality: metaphysics (M)",
   "subject": "fil",
   "cards": [
    [
@@ -413,7 +413,7 @@ const DECKS = {
   ]
  },
  "fil-conocer": {
-  "name": "Philosophy Year 1 · Knowledge, truth and science (T3)",
+  "name": "Knowledge, truth and science (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -479,7 +479,7 @@ const DECKS = {
   ]
  },
  "fil-caracteristicas": {
-  "name": "Philosophy Year 1 · Characteristics of philosophical knowledge (T1)",
+  "name": "Characteristics of philosophical knowledge (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -535,7 +535,7 @@ const DECKS = {
   ]
  },
  "fil-mente": {
-  "name": "Philosophy Year 1 · Body and mind (T2)",
+  "name": "Body and mind (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -591,7 +591,7 @@ const DECKS = {
   ]
  },
  "fil-concepciones": {
-  "name": "Philosophy Year 1 · Conceptions of the human being (T2)",
+  "name": "Conceptions of the human being (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -647,7 +647,7 @@ const DECKS = {
   ]
  },
  "fil-verdad": {
-  "name": "Philosophy Year 1 · Can we reach the truth? (T3)",
+  "name": "Can we reach the truth? (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -703,7 +703,7 @@ const DECKS = {
   ]
  },
  "fil-metodo": {
-  "name": "Philosophy Year 1 · The method: reading and arguing (T1)",
+  "name": "The method: reading and arguing (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -759,7 +759,7 @@ const DECKS = {
   ]
  },
  "fil-saberes": {
-  "name": "Philosophy Year 1 · Types of knowledge (T1)",
+  "name": "Types of knowledge (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -815,7 +815,7 @@ const DECKS = {
   ]
  },
  "fil-identidad": {
-  "name": "Philosophy Year 1 · Person, identity and meaning (T2)",
+  "name": "Person, identity and meaning (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -871,7 +871,7 @@ const DECKS = {
   ]
  },
  "fil-ciencia": {
-  "name": "Philosophy Year 1 · Scientific knowledge (T3)",
+  "name": "Scientific knowledge (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -927,7 +927,7 @@ const DECKS = {
   ]
  },
  "fil-posverdad": {
-  "name": "Philosophy Year 1 · Post-truth and fake news (T3)",
+  "name": "Post-truth and fake news (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -983,7 +983,7 @@ const DECKS = {
   ]
  },
  "fil-etica": {
-  "name": "Philosophy Year 1 · The questions of ethics (T5)",
+  "name": "The questions of ethics (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1039,7 +1039,7 @@ const DECKS = {
   ]
  },
  "fil-t5-cuidado-cortina": {
-  "name": "Philosophy Year 1 · Moral judgement, the ethics of care and Cortina (T5)",
+  "name": "Moral judgement, the ethics of care and Cortina (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1100,7 +1100,7 @@ const DECKS = {
   ]
  },
  "fil-arte": {
-  "name": "Philosophy Year 1 · Beauty and art (T7)",
+  "name": "Beauty and art (T7)",
   "subject": "fil",
   "cards": [
    [
@@ -1151,7 +1151,7 @@ const DECKS = {
   ]
  },
  "fil-argumentacion": {
-  "name": "Philosophy Year 1 · Arguing and spotting fallacies (T4)",
+  "name": "Arguing and spotting fallacies (T4)",
   "subject": "fil",
   "cards": [
    [
@@ -1207,7 +1207,7 @@ const DECKS = {
   ]
  },
  "fil-etica-teorias": {
-  "name": "Philosophy Year 1 · Debates in ethics (T5)",
+  "name": "Debates in ethics (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1263,7 +1263,7 @@ const DECKS = {
   ]
  },
  "fil-poder": {
-  "name": "Philosophy Year 1 · Power, the State and citizenship (T6)",
+  "name": "Power, the State and citizenship (T6)",
   "subject": "fil",
   "cards": [
    [
@@ -1319,7 +1319,7 @@ const DECKS = {
   ]
  },
  "fil-arte-sociedad": {
-  "name": "Philosophy Year 1 · Art, beauty and society (T7)",
+  "name": "Art, beauty and society (T7)",
   "subject": "fil",
   "cards": [
    [
@@ -1375,7 +1375,7 @@ const DECKS = {
   ]
  },
  "fil-logica": {
-  "name": "Philosophy Year 1 · Logic: connectives, Boole and gates (T4)",
+  "name": "Logic: connectives, Boole and gates (T4)",
   "subject": "fil",
   "cards": [
    [
@@ -1431,7 +1431,7 @@ const DECKS = {
   ]
  },
  "fil-politica": {
-  "name": "Philosophy Year 1 · Life in society: politics (T6)",
+  "name": "Life in society: politics (T6)",
   "subject": "fil",
   "cards": [
    [
@@ -1487,7 +1487,7 @@ const DECKS = {
   ]
  },
  "fil-presocraticos": {
-  "name": "Philosophy Year 1 · The Presocratics: the search for the arkhé",
+  "name": "The Presocratics: the search for the arkhé",
   "subject": "fil",
   "cards": [
    [
@@ -1543,7 +1543,7 @@ const DECKS = {
   ]
  },
  "fil-helenismo": {
-  "name": "Philosophy Year 1 · The Hellenistic schools: paths to happiness",
+  "name": "The Hellenistic schools: paths to happiness",
   "subject": "fil",
   "cards": [
    [
@@ -1596,7 +1596,7 @@ const DECKS = {
 };
 const QUIZZES = {
  "fil-t2-ampliacion": {
-  "name": "Coexistence between cultures and emotions (Philosophy Year 1 · T2 · extension)",
+  "name": "Coexistence between cultures and emotions (T2 · extension)",
   "subject": "fil",
   "items": [
    {
@@ -1712,7 +1712,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-ampliacion": {
-  "name": "Perception, memory, post-truth and women in science (Philosophy Year 1 · T3 · extension)",
+  "name": "Perception, memory, post-truth and women in science (T3 · extension)",
   "subject": "fil",
   "items": [
    {
@@ -1872,7 +1872,7 @@ const QUIZZES = {
   ]
  },
  "fil-metafisica-ampliacion": {
-  "name": "Artificial intelligence (Philosophy Year 1 · topic M · extension)",
+  "name": "Artificial intelligence (topic M · extension)",
   "subject": "fil",
   "items": [
    {
@@ -1933,7 +1933,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-ampliacion": {
-  "name": "Cognitive biases (Philosophy Year 1 · T4 · extension)",
+  "name": "Cognitive biases (T4 · extension)",
   "subject": "fil",
   "items": [
    {
@@ -2005,7 +2005,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-ampliacion": {
-  "name": "Virtue, Stoicism, duty and applied ethics (Philosophy Year 1 · T5 · extension)",
+  "name": "Virtue, Stoicism, duty and applied ethics (T5 · extension)",
   "subject": "fil",
   "items": [
    {
@@ -2198,7 +2198,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-ampliacion": {
-  "name": "State and nation, democracy, human rights and social movements (Philosophy Year 1 · T6 · extension)",
+  "name": "State and nation, democracy, human rights and social movements (T6 · extension)",
   "subject": "fil",
   "items": [
    {
@@ -2424,7 +2424,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7": {
-  "name": "What is art? · Aesthetics (Philosophy Year 1 · T7)",
+  "name": "What is art? · Aesthetics (T7)",
   "subject": "fil",
   "items": [
    {
@@ -2595,7 +2595,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1": {
-  "name": "What is philosophy? (Philosophy Year 1 · T1)",
+  "name": "What is philosophy? (T1)",
   "subject": "fil",
   "items": [
    {
@@ -2711,7 +2711,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2": {
-  "name": "The human being (Philosophy Year 1 · T2)",
+  "name": "The human being (T2)",
   "subject": "fil",
   "items": [
    {
@@ -2816,7 +2816,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3": {
-  "name": "Knowledge and truth (Philosophy Year 1 · T3)",
+  "name": "Knowledge and truth (T3)",
   "subject": "fil",
   "items": [
    {
@@ -2921,7 +2921,7 @@ const QUIZZES = {
   ]
  },
  "fil-metodo-q": {
-  "name": "Method and types of knowledge (Philosophy Year 1 · T1)",
+  "name": "Method and types of knowledge (T1)",
   "subject": "fil",
   "items": [
    {
@@ -3037,7 +3037,7 @@ const QUIZZES = {
   ]
  },
  "fil-mente-q": {
-  "name": "Body, mind and conceptions of the human being (Philosophy Year 1 · T2)",
+  "name": "Body, mind and conceptions of the human being (T2)",
   "subject": "fil",
   "items": [
    {
@@ -3153,7 +3153,7 @@ const QUIZZES = {
   ]
  },
  "fil-ciencia-q": {
-  "name": "Science, method and post-truth (Philosophy Year 1 · T3)",
+  "name": "Science, method and post-truth (T3)",
   "subject": "fil",
   "items": [
    {
@@ -3269,7 +3269,7 @@ const QUIZZES = {
   ]
  },
  "fil-ramas-q": {
-  "name": "The branches of philosophy (Philosophy Year 1 · T1)",
+  "name": "The branches of philosophy (T1)",
   "subject": "fil",
   "items": [
    {
@@ -3407,7 +3407,7 @@ const QUIZZES = {
   ]
  },
  "fil-etica-q": {
-  "name": "Philosophy Year 1 · Ethics: theories (T5)",
+  "name": "Ethics: theories (T5)",
   "subject": "fil",
   "items": [
    {
@@ -3479,7 +3479,7 @@ const QUIZZES = {
   ]
  },
  "fil-logica-q": {
-  "name": "Philosophy Year 1 · Truth tables and logic (T4)",
+  "name": "Truth tables and logic (T4)",
   "subject": "fil",
   "items": [
    {
@@ -3650,7 +3650,7 @@ const QUIZZES = {
   ]
  },
  "fil-politica-q": {
-  "name": "Philosophy Year 1 · Life in society: politics (T6)",
+  "name": "Life in society: politics (T6)",
   "subject": "fil",
   "items": [
    {
@@ -3733,7 +3733,7 @@ const QUIZZES = {
   ]
  },
  "fil-presocraticos-q": {
-  "name": "Philosophy Year 1 · The Presocratics",
+  "name": "The Presocratics",
   "subject": "fil",
   "items": [
    {
@@ -3816,7 +3816,7 @@ const QUIZZES = {
   ]
  },
  "fil-helenismo-q": {
-  "name": "Philosophy Year 1 · The Hellenistic schools",
+  "name": "The Hellenistic schools",
   "subject": "fil",
   "items": [
    {
@@ -3888,7 +3888,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1-banco": {
-  "name": "What is philosophy? (Philosophy Year 1 · T1 · extended bank)",
+  "name": "What is philosophy?",
   "subject": "fil",
   "items": [
    {
@@ -4334,7 +4334,7 @@ const QUIZZES = {
   ]
  },
  "fil-presocraticos-banco": {
-  "name": "The origins of philosophy: the Presocratics (Philosophy Year 1 · T1 · extended bank)",
+  "name": "The origins of philosophy: the Presocratics",
   "subject": "fil",
   "items": [
    {
@@ -4725,7 +4725,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2-banco": {
-  "name": "What is the human being? (Philosophy Year 1 · T2 · extended bank)",
+  "name": "What is the human being?",
   "subject": "fil",
   "items": [
    {
@@ -5171,7 +5171,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-banco": {
-  "name": "What can we know? (Philosophy Year 1 · T3 · extended bank)",
+  "name": "What can we know?",
   "subject": "fil",
   "items": [
    {
@@ -5617,7 +5617,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-banco": {
-  "name": "Logic and argumentation (Philosophy Year 1 · T4 · extended bank)",
+  "name": "Logic and argumentation",
   "subject": "fil",
   "items": [
    {
@@ -5953,7 +5953,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-banco": {
-  "name": "The questions of ethics (Philosophy Year 1 · T5 · extended bank)",
+  "name": "The questions of ethics",
   "subject": "fil",
   "items": [
    {
@@ -6289,7 +6289,7 @@ const QUIZZES = {
   ]
  },
  "fil-helenismo-banco": {
-  "name": "The Hellenistic schools: how is happiness attained? (Philosophy Year 1 · T5 · extended bank)",
+  "name": "The Hellenistic schools: how is happiness attained?",
   "subject": "fil",
   "items": [
    {
@@ -6493,7 +6493,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-banco": {
-  "name": "Life in society (Political philosophy) (Philosophy Year 1 · T6 · extended bank)",
+  "name": "Life in society (Political philosophy)",
   "subject": "fil",
   "items": [
    {
@@ -6829,7 +6829,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7-banco": {
-  "name": "What is art? (Aesthetics) (Philosophy Year 1 · T7 · extended bank)",
+  "name": "What is art? (Aesthetics)",
   "subject": "fil",
   "items": [
    {
@@ -7286,7 +7286,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1-repaso": {
-  "name": "What is philosophy? (Philosophy Year 1 · T1 · review)",
+  "name": "What is philosophy? (T1 · review)",
   "subject": "fil",
   "items": [
    {
@@ -7468,7 +7468,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2-repaso": {
-  "name": "The human being (Philosophy Year 1 · T2 · review)",
+  "name": "The human being (T2 · review)",
   "subject": "fil",
   "items": [
    {
@@ -7683,7 +7683,7 @@ const QUIZZES = {
   ]
  },
  "fil-metafisica": {
-  "name": "Reality: what is there and what is it like? (Philosophy Year 1 · M)",
+  "name": "Reality: what is there and what is it like? (M)",
   "subject": "fil",
   "items": [
    {
@@ -7964,7 +7964,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-repaso": {
-  "name": "Knowledge and truth (Philosophy Year 1 · T3 · review)",
+  "name": "Knowledge and truth (T3 · review)",
   "subject": "fil",
   "items": [
    {
@@ -8179,7 +8179,7 @@ const QUIZZES = {
   ]
  },
  "fil-venn-q": {
-  "name": "Propositions, classes and Euler and Venn diagrams (Philosophy Year 1 · T4)",
+  "name": "Propositions, classes and Euler and Venn diagrams (T4)",
   "subject": "fil",
   "items": [
    {
@@ -8328,7 +8328,7 @@ const QUIZZES = {
   ]
  },
  "fil-validez-q": {
-  "name": "Validity and truth, deduction and induction (Philosophy Year 1 · T4 · pathway, level 1)",
+  "name": "Validity and truth, deduction and induction (T4 · pathway, level 1)",
   "subject": "fil",
   "items": [
    {
@@ -8466,7 +8466,7 @@ const QUIZZES = {
   ]
  },
  "fil-formalizar-q": {
-  "name": "Formalising in propositional logic (Philosophy Year 1 · T4 · pathway, level 3)",
+  "name": "Formalising in propositional logic (T4 · pathway, level 3)",
   "subject": "fil",
   "items": [
    {
@@ -8637,7 +8637,7 @@ const QUIZZES = {
   ]
  },
  "fil-cuantif-q": {
-  "name": "Quantifiers, the square of opposition and conversion (Philosophy Year 1 · T4 · pathway, level 6)",
+  "name": "Quantifiers, the square of opposition and conversion (T4 · pathway, level 6)",
   "subject": "fil",
   "items": [
    {
@@ -8808,7 +8808,7 @@ const QUIZZES = {
   ]
  },
  "fil-boole-q": {
-  "name": "Classes, sets and Boolean algebra: the same law in five languages (Philosophy Year 1 · T4 · pathway, level 5)",
+  "name": "Classes, sets and Boolean algebra: the same law in five languages (T4 · pathway, level 5)",
   "subject": "fil",
   "items": [
    {
@@ -8946,7 +8946,7 @@ const QUIZZES = {
   ]
  },
  "fil-relaciones-q": {
-  "name": "Properties of relations and small worlds (Philosophy Year 1 · T4 · pathway, level 8)",
+  "name": "Properties of relations and small worlds (T4 · pathway, level 8)",
   "subject": "fil",
   "items": [
    {
@@ -9084,7 +9084,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-repaso": {
-  "name": "Logic and argumentation (Philosophy Year 1 · T4 · review)",
+  "name": "Logic and argumentation (T4 · review)",
   "subject": "fil",
   "items": [
    {
@@ -9266,7 +9266,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-repaso": {
-  "name": "Ethics (Philosophy Year 1 · T5 · review)",
+  "name": "Ethics (T5 · review)",
   "subject": "fil",
   "items": [
    {
@@ -9481,7 +9481,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-cuidado-cortina": {
-  "name": "Moral judgement, the ethics of care and Cortina (Philosophy Year 1 · T5 · review)",
+  "name": "Moral judgement, the ethics of care and Cortina (T5 · review)",
   "subject": "fil",
   "items": [
    {
@@ -9597,7 +9597,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-repaso": {
-  "name": "Life in society: politics (Philosophy Year 1 · T6 · review)",
+  "name": "Life in society: politics (T6 · review)",
   "subject": "fil",
   "items": [
    {
@@ -9779,7 +9779,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7-repaso": {
-  "name": "Aesthetics: what is art? (Philosophy Year 1 · T7 · review)",
+  "name": "Aesthetics: what is art? (T7 · review)",
   "subject": "fil",
   "items": [
    {

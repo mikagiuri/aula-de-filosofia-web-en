@@ -182,6 +182,52 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "lao_zi": {
+  "name": "Lao Zi",
+  "dates": "6th–4th century BC (according to tradition)",
+  "born": -570,
+  "died": -480,
+  "place": "State of Chu (China)",
+  "role": "Chinese sage, to whom the Daodejing is attributed",
+  "idea": "The Dao, the way of nature, acts without forcing: the sage follows its example, prefers what is humble and flexible, and governs by interfering as little as possible (wu wei).",
+  "bio": "<p>Lao Zi (also written Laozi or Lao Tzu) means ‘the old master’. According to tradition, he was an archivist at the Zhou court, somewhat older than Confucius, whom he is said to have received. But historians doubt that he existed as a real individual: the book attributed to him, the <em>Daodejing</em> (<em>Tao Te Ching</em>, ‘The Book of the Way and of Virtue’), seems to be a collection of sayings that took shape around the 4th–3rd centuries BC. It is one of the founding texts of <strong>Taoism</strong> and one of the most translated books in the world.</p>\n<p>At its centre is the <strong>Dao</strong>, ‘the way’: the nameless origin of all things, which cannot be defined in words. The sage imitates the Dao by practising <strong>wu wei</strong>, ‘non-action’: not standing still, but acting without forcing, like water, which is the softest thing in the world and yet wears away stone. The flexible overcomes the rigid. Unlike Confucius, who trusts in rites and education, Lao Zi distrusts rules and too much government: the more laws and prohibitions there are, the more thieves there will be. That is why he has sometimes been read as praising nature and simplicity against civilisation.</p>",
+  "obras": [
+   "Daodejing or Tao Te Ching (attributed)"
+  ],
+  "anecdota": "<p>The historian Sima Qian tells how Lao Zi, seeing the decline of the court, decided to leave for the west. When he reached the border pass, the guard, Yin Xi, asked him not to leave without writing down his wisdom. Lao Zi then wrote a book of about five thousand characters, in two parts, on the way and on virtue, and went away; nobody knew where he ended his days. Later tradition added that he travelled riding an ox. It is a legend, but it explains the origin that the Chinese attributed to the <em>Daodejing</em> for centuries.</p>",
+  "fuente": "Sima Qian, Records of the Grand Historian, ch. 63 (1st century BC)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
+  ]
+ },
+ "confucio": {
+  "name": "Confucius",
+  "dates": "551 – 479 BC",
+  "born": -551,
+  "died": -479,
+  "place": "State of Lu (present-day Qufu, China)",
+  "role": "Chinese teacher and moral thinker",
+  "idea": "A good society grows out of well-educated people: humaneness (ren), respect for the rites (li) and the example of those who govern are worth more than punishment.",
+  "bio": "<p>Kong Qiu, whom his disciples called Kongzi or Kong Fuzi (‘Master Kong’, which is where ‘Confucius’ comes from), was born in the small state of Lu, in a China divided into rival kingdoms. He lost his father as a child and came from a family that had fallen on hard times; he worked in modest posts and became famous as a teacher: he accepted pupils from any background if they were eager to learn. For years he travelled to other states looking for a ruler who would put his ideas into practice, without success, and he returned to Lu to teach until his death.</p>\n<p>He wrote no treatise: his teachings reach us through the <em>Analects</em> (<em>Lunyu</em>), sayings and conversations gathered by his disciples. At the centre are <strong>ren</strong>, humaneness or benevolence, and <strong>li</strong>, the set of rites and forms of courtesy that give shape to life in common. The ideal is the <strong>junzi</strong>, the ‘noble person’, noble because of their character and not their birth. Asked whether there is one word that can serve as a guide for the whole of life, he answers with a golden rule in negative form: ‘Do not do to others what you would not want for yourself.’ For Confucius, those who govern must do so by example, like the wind that bends the grass, and not through fear of punishment.</p>",
+  "obras": [
+   "Analects (Lunyu), compiled by his disciples"
+  ],
+  "anecdota": "<p>In the <em>Analects</em>, Confucius sums up his own life in just a few lines: at fifteen he set his heart on learning; at thirty he stood firm; at forty he no longer had doubts; at fifty he knew the mandate of Heaven; at sixty his ear listened with docility; and at seventy he could follow the desires of his heart without overstepping what was right. It is one of the earliest descriptions of a whole life as a path of learning and self-cultivation.</p>",
+  "fuente": "Analects II, 4",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
+  ]
+ },
  "heraclito": {
   "name": "Heraclitus of Ephesus",
   "dates": "c. 540 – c. 480 BC",
@@ -397,6 +443,30 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "buda": {
+  "name": "Siddhartha Gautama, the Buddha",
+  "dates": "5th century BC (dates uncertain)",
+  "born": -480,
+  "died": -400,
+  "place": "Lumbini (present-day Nepal)",
+  "role": "Indian spiritual teacher, founder of Buddhism",
+  "idea": "Life is shot through with suffering, which arises from desire and attachment; that suffering can be extinguished by following a right and balanced way of life.",
+  "bio": "<p>Siddhartha Gautama was born in northern India, into a noble family of the Shakya clan. His dates are uncertain: tradition places him in the 6th century BC, and many historians today around the 5th. According to the traditional accounts, at the age of 29 he left palace life to seek an end to suffering; for years he tried extreme asceticism, until he almost starved to death, and he rejected it in favour of a <strong>middle way</strong> between pleasure and self-mortification. Meditating under a tree at Bodh Gaya, he reached ‘awakening’: ‘Buddha’ means ‘the awakened one’. He spent the rest of his life teaching and died at around the age of 80.</p>\n<p>His teaching is summed up in the <strong>Four Noble Truths</strong>: life is marked by suffering (<em>dukkha</em>); that suffering arises from desire and attachment; it can be extinguished (<strong>nirvana</strong>); and there is a path to achieve this, the Noble Eightfold Path (right understanding, intention, speech, action and livelihood, right effort, mindfulness and concentration). Everything is <strong>impermanent</strong>, and there is no fixed, permanent self to cling to either. The Buddha wrote nothing; his discourses were passed on by memory and written down centuries later. His thought reached Europe in the 19th century and had a strong influence on Schopenhauer.</p>",
+  "obras": [
+   "He wrote nothing: his teachings are collected in the Pali Canon (Tipitaka) and in the Dhammapada"
+  ],
+  "anecdota": "<p>According to legend, his father brought him up in luxury so that he would never know pain. But one day, on leaving the palace, Siddhartha saw an old man, then a sick man and then a corpse, and he understood that old age, sickness and death await everyone. Finally he came across a serene ascetic, and decided to follow that path. These are the ‘Four Sights’, a story from long after his lifetime which expresses the starting point of his teaching rather than a historical fact.</p>",
+  "fuente": "Ashvaghosha, Life of the Buddha (Buddhacarita, 1st–2nd century AD)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-metafisica"
+  ]
+ },
  "socrates": {
   "name": "Socrates",
   "dates": "470/469 – 399 BC",
@@ -426,6 +496,27 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas",
    "fil-comunidades-perseguidos",
    "fil-montaigne-ensayos"
+  ]
+ },
+ "aspasia": {
+  "name": "Aspasia of Miletus",
+  "dates": "c. 470 – c. 400 BC",
+  "born": -470,
+  "died": -400,
+  "place": "Miletus (Ionia, present-day Turkey)",
+  "role": "orator and teacher of rhetoric",
+  "idea": "A woman could master the word and political thought as well as men, and teach rhetoric to the most influential citizens of Athens.",
+  "bio": "<p>Aspasia was born in Miletus, a Greek city on the coast of Ionia, and moved to Athens, where she lived as a resident foreigner. She was the partner of <strong>Pericles</strong>, with whom she had a son, and her house became a meeting place for politicians, artists and philosophers. Since in classical Athens only free men were citizens, her presence in public life was exceptional and also earned her attacks and mockery from the comic playwrights.</p>\n<p>None of her writings survive: we know of her from the testimony of other authors, such as Plato, Xenophon and Plutarch, which means separating facts from legend. These sources present her as a brilliant orator and a teacher of <strong>rhetoric</strong>, the art of persuasion. In Plato’s <em>Menexenus</em>, Socrates calls her his teacher and attributes a funeral oration to her; according to tradition, she even helped Pericles prepare his speeches.</p>\n<p>Aspasia appears in the syllabus as an example of the few women who managed to find a place in ancient philosophy. Her figure shows the limits of Athenian democracy, which excluded women from <strong>isonomy</strong> and isegoria, and the difficulty of recovering a women’s thought of which barely any traces remain. She is associated with Socrates and with the circle of the Sophists.</p>",
+  "obras": [],
+  "anecdota": "<p>In a lost dialogue by the Socratic Aeschines, of which Cicero preserved a fragment, Aspasia questions Xenophon’s wife: if her neighbour had better jewels than hers, would she prefer the neighbour’s? Yes, she replies. And if she had better dresses? Also. And if she had a better husband than her own? The woman falls silent. Aspasia then does the same with Xenophon and concludes that each must strive to be the best possible spouse. Cicero cites the scene as an example of reasoning by induction: the very method attributed to Socrates.</p>",
+  "fuente": "Aeschines of Sphettus, Aspasia (fragment transmitted by Cicero, On Invention I)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
   ]
  },
  "democrito": {
@@ -655,6 +746,28 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "teofrasto": {
+  "name": "Theophrastus of Eresus",
+  "dates": "c. 371 – c. 287 BC",
+  "born": -371,
+  "died": -287,
+  "place": "Eresus (island of Lesbos)",
+  "role": "Peripatetic philosopher and naturalist",
+  "idea": "To understand nature one must observe it in detail and classify it, plant by plant and character by character.",
+  "bio": "<p>Theophrastus was born on the island of Lesbos and was for decades a collaborator of <strong>Aristotle</strong>. According to tradition, his real name was Tyrtamus and it was Aristotle who called him Theophrastus, ‘of divine speech’, for his eloquence. When Aristotle left Athens in 322 BC, Theophrastus took charge of the <strong>Lyceum</strong>, which he led for some 35 years and where he came to have hundreds of students.</p>\n<p>He followed his master’s method, based on observation, and applied it to plants: his <em>Enquiry into Plants</em> makes him the founder of <strong>botany</strong>. He also wrote the <em>Characters</em>, a series of short, amusing portraits of human types (the flatterer, the chatterbox, the miser…) that inspired many later writers. He also compiled the opinions of earlier philosophers, and thanks to that work we know a good part of what the Presocratics thought.</p>",
+  "obras": [
+   "Enquiry into Plants",
+   "Causes of Plants",
+   "Characters"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-helenismo"
+  ]
+ },
  "crates": {
   "name": "Crates of Thebes",
   "dates": "c. 365 – c. 285 BC",
@@ -747,6 +860,26 @@ const BIOGRAFIAS = {
    "fil-helenismo"
   ]
  },
+ "cleantes": {
+  "name": "Cleanthes of Assos",
+  "dates": "c. 331 – c. 232 BC",
+  "born": -331,
+  "died": -232,
+  "place": "Assos (Asia Minor)",
+  "role": "Stoic philosopher",
+  "idea": "A single logos, divine reason, governs the universe; to live well is to live in accordance with it and to accept fate.",
+  "bio": "<p>Cleanthes had been a boxer and arrived in Athens almost penniless. To pay for his lessons with <strong>Zeno of Citium</strong> he drew water from wells in the gardens at night, and for this they nicknamed him ‘the water-carrier’. He was a slow but steady student, and on Zeno’s death, in 262 BC, he became the second head of the <strong>Stoa</strong>.</p>\n<p>His best-known work is the <em>Hymn to Zeus</em>, one of the few ancient Stoic texts that survive complete. In it, Zeus is the <strong>logos</strong>, the reason that orders the whole universe, and the human being is happy only by accepting that order and living <strong>in accordance with nature</strong>. Centuries later, Seneca translated some of his verses on fate into Latin and summed them up in a famous phrase: ‘fate guides the one who accepts it and drags the one who resists’.</p>",
+  "obras": [
+   "Hymn to Zeus"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-helenismo"
+  ]
+ },
  "timon": {
   "name": "Timon of Phlius",
   "dates": "c. 320 – c. 230 BC",
@@ -765,6 +898,26 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t3"
+  ]
+ },
+ "crisipo": {
+  "name": "Chrysippus of Soli",
+  "dates": "c. 279 – c. 206 BC",
+  "born": -279,
+  "died": -206,
+  "place": "Soli (Cilicia, Asia Minor)",
+  "role": "Stoic philosopher",
+  "idea": "Everything happens according to fate, but what we do also depends on us, like a cylinder that rolls according to its shape when someone pushes it.",
+  "bio": "<p>Chrysippus was born in Soli, in present-day Turkey, and succeeded Cleanthes as the third head of the <strong>Stoa</strong>. It was he who turned Stoicism into a complete and well-argued system, to the point that in antiquity people said: ‘if Chrysippus had not existed, the Stoa would not have existed’. He wrote more than seven hundred works, all lost.</p>\n<p>Chrysippus developed his own <strong>logic</strong>, based on the relations between propositions (‘if it is day, there is light’), which complemented that of Aristotle. He also tried to reconcile <strong>fate</strong> with human responsibility through the image of the cylinder: someone pushes it, but that it rolls is due to its own shape. In the same way, circumstances push us, but how we respond depends on our character.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t5",
+   "fil-helenismo"
   ]
  },
  "carneades": {
@@ -1549,6 +1702,31 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "sepulveda": {
+  "name": "Juan Ginés de Sepúlveda",
+  "dates": "c. 1490 – 1573",
+  "born": 1490,
+  "died": 1573,
+  "place": "Pozoblanco (Córdoba)",
+  "role": "humanist, royal chronicler and translator of Aristotle",
+  "idea": "Drawing on Aristotle, he argued that some peoples are by nature better suited to command and others to obey, and that for this reason war against the indigenous peoples could be just.",
+  "bio": "<p>Juan Ginés de Sepúlveda was born near Córdoba around 1490 and trained in Italy, where he became a great expert in Greek and an admired translator of <strong>Aristotle</strong> into Latin. He was official chronicler to the emperor Charles V and one of the most respected Spanish humanists of his day. Today he is remembered above all for having been Bartolomé de las Casas's great rival in the debate on the conquest of America, which sometimes makes his worth as a philologist and translator easy to forget.</p>\n<p>In his work <em>Democrates secundus</em> he argued that war against the indigenous peoples could be <strong>just</strong>. For this he used the Aristotelian idea that there are persons and peoples who are ‘slaves by nature’, better suited to obey than to govern themselves, and he added that subduing them served to put an end to human sacrifice and to bring them Christianity. His arguments are hard to accept today, but at the time they rested on highly valued authorities, such as Aristotle and the law of war. Understanding why a learned person could defend such a thing, and what was said in reply, helps us see that unjust ideas do not always come from ignorant people: that is why we must examine the reasons, not just the intentions.</p>",
+  "obras": [
+   "Democrates secundus, or On the Just Causes of the War against the Indians (Democrates alter, c. 1544)",
+   "Latin translations of Aristotle (the Politics, among others)",
+   "Chronicles of Charles V"
+  ],
+  "anecdota": "<p>The book in which Sepúlveda defended war against the indigenous peoples, <em>Democrates secundus</em>, was never published in the author's lifetime. When he applied for the official licence to print it, the matter was sent to the universities of Salamanca and Alcalá, and the theologians advised <strong>against authorising it</strong>. It is a telling detail: although we associate that age with intolerance today, Sepúlveda's ideas did not convince all the learned men of his own country either, and met with opposition within Spain. The complete text was only published many years after his death.</p>",
+  "fuente": "History of the censorship of the Democrates secundus: the opinions of Salamanca and Alcalá (around 1548) advised against printing it, recorded in the modern editions of the work",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
+  ]
+ },
  "calvino": {
   "name": "John Calvin",
   "dates": "1509 – 1564",
@@ -1691,6 +1869,30 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-t3",
    "fil-comunidades-perseguidos"
+  ]
+ },
+ "campanella": {
+  "name": "Tommaso Campanella",
+  "dates": "1568 – 1639",
+  "born": 1568,
+  "died": 1639,
+  "place": "Stilo (Calabria, Italy)",
+  "role": "Dominican friar, philosopher and utopian writer",
+  "idea": "In a just society there would be no private property: goods would be held in common and everyone would work a few hours a day.",
+  "bio": "<p>Tommaso Campanella was born in Stilo, in Calabria, in 1568. He joined the Dominican order very young and soon clashed with the Church over his philosophical ideas, which were opposed to Aristotle. In 1599 he was arrested for taking part in a conspiracy against Spanish rule in Calabria, and he spent some 27 years in the prisons of Naples. It was there that he wrote much of his work. Released in 1626, he eventually took refuge in France, and he died in Paris in 1639.</p>\n<p>His best-known work is <em>The City of the Sun</em>, written in prison in 1602 and published in Latin in 1623. It describes an ideal city without <strong>private property</strong>, where everything is held in common, no one is rich or poor and everyone works about four hours a day, so that they have time left to learn. It follows the tradition of Plato’s <em>Republic</em> and Thomas More’s <em>Utopia</em>. That is why he is counted among the classics of <strong>utopian communism</strong>: nineteenth-century socialists such as Marx read him as a forerunner who had already imagined a society without private property.</p>",
+  "obras": [
+   "The City of the Sun (1602; published in 1623)",
+   "Defence of Galileo (1622)"
+  ],
+  "anecdota": "<p>In 1600, Campanella was accused of conspiracy and heresy, and he might have ended up at the stake. Since the law did not allow a madman to be executed, he began to pretend he had lost his mind: he talked nonsense and even set fire to his mattress. The judges wanted to check whether he was faking, and in 1601 they subjected him to a torture called ‘the vigil’, in which he spent some 36 hours hanging and without sleep. He held out without dropping his act. Thanks to this he saved his life, although he was sentenced to life imprisonment.</p>",
+  "fuente": "Records of the Naples trial (1601); biographies of Campanella based on them",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "kepler": {
@@ -2380,6 +2582,32 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "lessing": {
+  "name": "Gotthold Ephraim Lessing",
+  "dates": "1729 – 1781",
+  "born": 1729,
+  "died": 1781,
+  "place": "Kamenz (Germany)",
+  "role": "playwright, critic and Enlightenment philosopher",
+  "idea": "No religion can prove that it possesses the whole truth; its worth is seen in the conduct of those who practise it, above all in tolerance.",
+  "bio": "<p>Gotthold Ephraim Lessing was born in 1729 in Kamenz, in Saxony, the son of a Protestant pastor. He studied Theology and Medicine in Leipzig, but devoted himself to writing: he was one of the first Germans who tried to live by the pen. He renewed German theatre with comedies and dramas such as <em>Minna von Barnhelm</em> and, as a critic, defended Shakespeare against the rules of French theatre. From 1770 he was librarian to the Duke of Brunswick in Wolfenbüttel. He died in Brunswick in 1781.</p>\n<p>Lessing thought that truth is something we seek rather than possess. He published fragments of an anonymous manuscript, the work of Hermann Samuel Reimarus, which criticised the Bible, and this set him against Pastor Goeze. In <em>Nathan the Wise</em> he defends <strong>religious tolerance</strong> with the parable of the three rings, and in <em>The Education of the Human Race</em> he presents religions as stages in humanity's learning. For the character of Nathan he drew on his friend Moses Mendelssohn. After his death, Jacobi recounted that in 1780 Lessing had confessed to him that he was a follower of Spinoza with the Greek formula ‘Hen kai pan’, ‘one and all’. When this was published in 1785, the <strong>pantheism controversy</strong> broke out.</p>",
+  "obras": [
+   "Laocoön (1766)",
+   "Minna von Barnhelm (1767)",
+   "Nathan the Wise (1779)",
+   "The Education of the Human Race (1780)"
+  ],
+  "anecdota": "<p>In the controversy with Pastor Goeze, Lessing wrote so quickly and with so much irony that his opponents turned to the authorities. In the summer of 1778, the Duke of Brunswick withdrew his permission to publish without censorship and forbade him to write any more about religion. Lessing did not give up. In a letter of September 1778 to Elise Reimarus, daughter of the author of the fragments, he explained that he was going to see whether they would at least let him preach in peace from his old pulpit: the theatre. The following year he published <em>Nathan the Wise</em>, a drama in verse about a Jew, a Muslim sultan and a Christian knight. Censorship had closed the door of theology to him, so he came in through the door of the stage.</p>",
+  "fuente": "Letter from Lessing to Elise Reimarus (6 September 1778)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t7"
+  ]
+ },
  "hamann": {
   "name": "Johann Georg Hamann",
   "dates": "1730 – 1788",
@@ -2641,6 +2869,58 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "saint-simon": {
+  "name": "Henri de Saint-Simon",
+  "dates": "1760 – 1825",
+  "born": 1760,
+  "died": 1825,
+  "place": "Paris",
+  "role": "social thinker and reformer",
+  "idea": "Modern society must be run by those who produce—scientists, industrialists and workers—and organised to improve the life of the poorest class.",
+  "bio": "<p>Claude-Henri de Rouvroy, Count of Saint-Simon, was born in Paris in 1760 into a noble family. At seventeen he enlisted to fight in the American War of Independence. During the French Revolution he grew rich buying up nationalised property, spent some time in prison as a suspect and ended up losing his fortune. He devoted the rest of his life to writing, nearly always short of money. He died in Paris in 1825.</p>\n<p>Saint-Simon saw that the Revolution had opened up a new era: that of <strong>industrial society</strong>. In it, those who should be in charge are the producers, that is, scientists, industrialists, craftsmen and workers, and not the nobles, soldiers and courtiers, whom he regarded as idle. Politics was to become the administration of production. In his last book, <em>New Christianity</em>, he called for the whole of society to be organised to improve the lot of the poorest class. His disciples founded <strong>Saint-Simonianism</strong>, a very influential movement. <em>The Communist Manifesto</em> (1848) includes him, together with Fourier and Owen, in <strong>critical-utopian socialism</strong>: they criticised the society of their time accurately, but put their trust in ideal plans rather than in the struggle of the working class.</p>",
+  "obras": [
+   "Letters from an Inhabitant of Geneva to His Contemporaries (1803)",
+   "L’Organisateur (1819-1820)",
+   "Catechism of the Industrialists (1823-1824)",
+   "New Christianity (1825)"
+  ],
+  "anecdota": "<p>In 1819, Saint-Simon published a ‘parable’ in his journal <em>L’Organisateur</em>. He asked readers to imagine France suddenly losing its three thousand best scientists, artists and craftsmen: the country would be ruined for a generation. Then he imagined it losing the members of the royal family, among them the Duke of Berry, together with ministers, bishops and great landowners: people would be sorry out of humanity, but the country would carry on working just the same. In February 1820 the Duke of Berry was assassinated, and Saint-Simon was put on trial as if his text had encouraged the crime. The court acquitted him.</p>",
+  "fuente": "Saint-Simon, L’Organisateur (1819); trial before the criminal court (1820)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "fichte": {
+  "name": "Johann Gottlieb Fichte",
+  "dates": "1762 – 1814",
+  "born": 1762,
+  "died": 1814,
+  "place": "Rammenau (Germany)",
+  "role": "idealist philosopher",
+  "idea": "Everything starts from the activity of the I, which posits itself and posits the world over against itself as the obstacle on which it exercises its freedom.",
+  "bio": "<p>Johann Gottlieb Fichte was born in 1762 in Rammenau, a village in Saxony, into a family of poor weavers. A local nobleman paid for his education, and afterwards he worked for years as a tutor. Around 1790 he read Kant, and that reading changed his life. His first book, <em>Attempt at a Critique of All Revelation</em> (1792), appeared without his name and many took it for a work by Kant. In 1794 he obtained a chair in Jena, which he lost in 1799 when he was accused of atheism. He settled in Berlin and died there in 1814.</p>\n<p>Fichte presented himself as Kant's successor, but he took a step Kant did not want to take: doing away with the thing in itself. For him everything starts from the <strong>I</strong>, understood not as a thing but as a free activity that posits itself and posits the world, the not-I, over against itself as the obstacle on which it exercises its freedom. Thus <strong>German idealism</strong> was born. Kant publicly rejected this philosophy in 1799. During the French occupation, Fichte delivered the <em>Addresses to the German Nation</em> (1807-1808) in Berlin, which made him a figure of German nationalism.</p>",
+  "obras": [
+   "Attempt at a Critique of All Revelation (1792)",
+   "Foundations of the Entire Science of Knowledge (1794-1795)",
+   "The Vocation of Man (1800)",
+   "Addresses to the German Nation (1808)"
+  ],
+  "anecdota": "<p>In 1791, Fichte travelled to Königsberg to meet Kant, and the visit disappointed him: the old professor received him coldly. To catch his attention, he wrote in a few weeks an essay on revelation applying the critical philosophy, and sent it to him. Shortly afterwards, with no money to get home, he dared to ask him for a loan. Kant did not give it to him, but he helped him publish the manuscript with his own publisher. The book came out in 1792 without the author's name or his preface, and a Jena journal took it for granted that it was by Kant. When Kant made it clear publicly that the author was a certain Fichte, that unknown tutor became famous overnight.</p>",
+  "fuente": "Correspondence between Fichte and Kant (1791); Kant's statement in the Allgemeine Literatur-Zeitung of Jena (1792)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "schleiermacher": {
   "name": "Friedrich Schleiermacher",
   "dates": "1768 – 1834",
@@ -2697,6 +2977,58 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "owen": {
+  "name": "Robert Owen",
+  "dates": "1771 – 1858",
+  "born": 1771,
+  "died": 1858,
+  "place": "Newtown (Wales)",
+  "role": "industrialist and socialist reformer",
+  "idea": "People’s character is formed by the circumstances in which they live; if those circumstances are improved, with education and decent work, people improve.",
+  "bio": "<p>Robert Owen was born in Newtown, in Wales, in 1771, the son of a craftsman. At the age of ten he started work as a draper’s apprentice, and when he was little more than twenty he was already managing a spinning mill in Manchester. In 1800 he took over the management of the cotton mills at New Lanark, in Scotland, which he turned into a model famous throughout Europe. He died in his home town in 1858.</p>\n<p>At New Lanark, Owen reduced the working day, stopped employing young children, improved the housing and opened schools, including one of the first for very young children. He started from one idea: <strong>character</strong> does not depend on each individual, but on the <strong>circumstances</strong> in which they are brought up. In 1825 he founded the community of New Harmony in the United States, which failed within two years. Afterwards he promoted <strong>cooperatives</strong> and the British trade unions. <em>The Communist Manifesto</em> (1848) includes him, with Saint-Simon and Fourier, in <strong>critical-utopian socialism</strong>, and Engels admired him as the reformer who did most for the working class in England.</p>",
+  "obras": [
+   "A New View of Society (1813)",
+   "Report to the County of Lanark (1821)",
+   "The Book of the New Moral World (1836-1844)",
+   "The Life of Robert Owen (1857)"
+  ],
+  "anecdota": "<p>In 1806, the United States stopped sending cotton to Britain and many mills had to stop. Those at New Lanark were left almost without work for four months. The normal thing would have been to dismiss the workers or stop paying them, but Owen persuaded his partners to keep paying full wages for the whole of that time, just to keep the machines clean and in order. That gesture won him the trust of the workers, who until then had been suspicious of him, and allowed him to carry out his reforms.</p>",
+  "fuente": "Robert Owen, The Life of Robert Owen, Written by Himself (1857)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "fourier": {
+  "name": "Charles Fourier",
+  "dates": "1772 – 1837",
+  "born": 1772,
+  "died": 1837,
+  "place": "Besançon (France)",
+  "role": "utopian socialist thinker",
+  "idea": "Work can be pleasant if society is organised in accordance with human passions, in free communities called phalansteries.",
+  "bio": "<p>Charles Fourier was born in Besançon in 1772, the son of a cloth merchant. He lost much of his inheritance in the siege of Lyon in 1793, during the Revolution, and earned his living almost always as a clerk and travelling salesman, a trade he loathed. He lived alone and with few resources, writing books that were little read in his time. He died in Paris in 1837.</p>\n<p>Fourier denounced the society of his age, which he called ‘civilisation’, for the disorder and deceit of trade and for the poverty it produced alongside wealth. He proposed replacing it with communities of about 1,600 people, the <strong>phalansteries</strong>, in which everyone would change tasks several times a day according to their tastes. In this way work would stop being a punishment and would become <strong>attractive work</strong>. He also defended the freedom of women and held that the degree of women’s emancipation measures the progress of a society. <em>The Communist Manifesto</em> (1848) places him, with Saint-Simon and Owen, in <strong>critical-utopian socialism</strong>; his followers, led by Victor Considerant, spread his ideas through Europe and America.</p>",
+  "obras": [
+   "The Theory of the Four Movements (1808)",
+   "Treatise on Domestic and Agricultural Association (1822)",
+   "The New Industrial and Societary World (1829)",
+   "False Industry (1835)"
+  ],
+  "anecdota": "<p>Fourier said that his great discovery began with an apple. Newly arrived in Paris from Rouen, he saw in a restaurant that a single apple cost much more than a whole heap of them did in the countryside. This seemed to him proof that trade was an absurd system, which enriched middlemen at everyone else’s expense. From then on he spoke of the four famous apples of history: Adam and Eve’s, that of Paris, which caused the Trojan War, Newton’s… and his own, which had revealed to him the disorder of society.</p>",
+  "fuente": "Fourier’s manuscripts, published by his school after his death",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "thompson": {
   "name": "William Thompson",
   "dates": "1775 – 1833",
@@ -2720,6 +3052,31 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-marxismos"
+  ]
+ },
+ "schelling": {
+  "name": "Friedrich Wilhelm Joseph Schelling",
+  "dates": "1775 – 1854",
+  "born": 1775,
+  "died": 1854,
+  "place": "Leonberg (Germany)",
+  "role": "idealist philosopher",
+  "idea": "Nature and spirit are two sides of one and the same absolute reality: nature is spirit that does not yet know itself.",
+  "bio": "<p>Friedrich Wilhelm Joseph Schelling was born in Leonberg, in Württemberg, in 1775. He was a precocious student: at fifteen he entered the Tübingen seminary, where he shared a room with Hegel and Hölderlin. In 1795 he wrote to Hegel: ‘I have become a Spinozist’, and explained the difference to him: for Spinoza the world was everything; for him, the I. At only twenty-three he was appointed professor in Jena. He later taught in Würzburg, Munich and Berlin, and died in 1854 at the Swiss spa town of Bad Ragaz.</p>\n<p>Schelling started from Fichte, but soon objected that Fichte reduced nature to a mere obstacle for the I. For Schelling, nature is alive and has its own history: it is <strong>slumbering spirit</strong>, which awakens in human beings and comes to know itself. That is why he defended a <strong>philosophy of nature</strong> and the underlying <strong>identity</strong> of nature and spirit. He also saw in art the highest way of reaching the absolute, an idea that delighted the Romantics. In his maturity he dealt with human freedom, evil and religion.</p>",
+  "obras": [
+   "Ideas for a Philosophy of Nature (1797)",
+   "System of Transcendental Idealism (1800)",
+   "Philosophical Investigations into the Essence of Human Freedom (1809)"
+  ],
+  "anecdota": "<p>In 1841, after Hegel's death, the King of Prussia called Schelling to Berlin to counter the influence of the Hegelians. His first lectures were an event: Kierkegaard, Engels, Bakunin and the historian Jacob Burckhardt came together in the lecture hall. Kierkegaard had travelled from Copenhagen just to hear him. At first he wrote enthusiastically that, when Schelling uttered the word ‘reality’, he had trembled with joy. A few months later, in letters to a friend, he was complaining that Schelling talked unbearable nonsense, and he went back to Denmark before the course ended. Engels, for his part, wrote pamphlets against him.</p>",
+  "fuente": "Letters and journals of Søren Kierkegaard (1841-1842)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "schopenhauer": {
@@ -3590,6 +3947,33 @@ const BIOGRAFIAS = {
    "fil-t6"
   ]
  },
+ "jaspers": {
+  "name": "Karl Jaspers",
+  "dates": "1883 – 1969",
+  "born": 1883,
+  "died": 1969,
+  "place": "Oldenburg (Germany)",
+  "role": "German psychiatrist and existentialist philosopher",
+  "idea": "In boundary situations (death, suffering, struggle, guilt) a person discovers their own existence and freedom, and learns to communicate genuinely with others.",
+  "bio": "<p>Karl Jaspers studied medicine and worked as a psychiatrist in Heidelberg; his <em>General Psychopathology</em> (1913) was a standard work in psychiatry. He then devoted himself to philosophy. Married to Gertrud Mayer, who came from a Jewish family, he was dismissed from his professorship by the Nazis in 1937 and banned from publishing. After the war he returned to the university, wrote <em>The Question of German Guilt</em> (1946) on the responsibility of the Germans, and in 1948 moved to Basel, in Switzerland, where he lived until his death. He was Hannah Arendt’s teacher and friend.</p>\n<p>Jaspers is one of the founders of the philosophy of existence. Science explains the world, but it cannot tell us who we are or how to live. We discover that in <strong>boundary situations</strong>, those we cannot escape: death, suffering, struggle, guilt. Faced with them, a person becomes aware of their existence and their freedom. For Jaspers, truth is reached through <strong>communication</strong> with others, not alone. He also coined the idea of an <strong>Axial Age</strong>: between 800 and 200 BC, in China, India, Persia, Israel and Greece, Confucius and Lao Zi, the Buddha, the prophets and the Greek philosophers appeared almost at the same time, and with them the great questions about human beings.</p>",
+  "obras": [
+   "General Psychopathology (1913)",
+   "Philosophy (1932)",
+   "The Question of German Guilt (1946)",
+   "The Origin and Goal of History (1949)"
+  ],
+  "anecdota": "<p>During the last years of the war, Jaspers and his wife Gertrud lived in Heidelberg in constant fear that she would be deported to an extermination camp. They had decided that, if they came for her, they would take their own lives together, and they kept poison at home for that moment. They learnt that her deportation was planned for mid-April 1945. On 30 March, American troops entered Heidelberg and it never happened.</p>",
+  "fuente": "K. Jaspers, Philosophical Autobiography (1957); letters with Hannah Arendt",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-t2"
+  ]
+ },
  "sapir": {
   "name": "Edward Sapir",
   "dates": "1884 – 1939",
@@ -4058,6 +4442,31 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "copleston": {
+  "name": "Frederick Copleston",
+  "dates": "1907 – 1994",
+  "born": 1907,
+  "died": 1994,
+  "place": "Trull, near Taunton (England)",
+  "role": "Jesuit priest and historian of philosophy",
+  "idea": "If everything in the world might not exist, the world does not explain itself: there must be a being that exists in itself and is the reason why there is anything at all.",
+  "bio": "<p>Frederick Charles Copleston was born in 1907 near Taunton, into an Anglican family. At eighteen he became a Catholic and, after studying at Oxford, entered the Society of Jesus in 1930. He taught philosophy at Heythrop College, in England, and at the Gregorian University in Rome.</p>\n<p>His great work is a <em>History of Philosophy</em> in nine volumes (1946-1975), clear and balanced, from which generations of students all over the world have learnt, and which was translated into Spanish. In 1948 he debated the existence of God with Bertrand Russell on BBC radio. Copleston defended the argument from contingency, heir to Thomas’s third way, and Russell replied that the question about the cause of the universe as a whole has no meaning. The following year he debated logical positivism with A. J. Ayer on the same radio.</p>",
+  "obras": [
+   "A History of Philosophy (9 volumes, 1946-1975)",
+   "Aquinas (1955)",
+   "Debate with Bertrand Russell on the existence of God (BBC, 1948)"
+  ],
+  "anecdota": "<p>In the 1948 debate, when Russell maintained that it made no sense to ask about the cause of the universe as a whole (for him, ‘the universe is just there, and that’s all’), Copleston answered him with an image from chess: if one refuses even to sit down at the chessboard and make a move, one cannot, of course, be checkmated. He meant that Russell was not refuting the argument: he was refusing to ask the question. Russell, for his part, thought that the question only seemed to make sense.</p>",
+  "fuente": "Transcript of the Russell-Copleston debate (BBC, 28 January 1948), published in B. Russell, Why I Am Not a Christian (1957)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "beauvoir": {
   "name": "Simone de Beauvoir",
   "dates": "1908 – 1986",
@@ -4086,6 +4495,32 @@ const BIOGRAFIAS = {
    "fil-t6",
    "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
+  ]
+ },
+ "weil": {
+  "name": "Simone Weil",
+  "dates": "1909 – 1943",
+  "born": 1909,
+  "died": 1943,
+  "place": "Paris (France)",
+  "role": "French philosopher",
+  "idea": "Before rights come obligations towards others; paying true attention to those who suffer is the highest form of justice and of respect for their dignity.",
+  "bio": "<p>Simone Weil was born in Paris in 1909, into a cultured and well-off Jewish family; her brother, André Weil, was a famous mathematician. A brilliant student, she gained the agrégation in philosophy in 1931 and taught at several secondary schools. Concerned about the condition of workers, in 1934 she took leave to work as a labourer in factories in Paris. In 1936 she spent a few months in the Spanish Civil War, in an anarchist column. During the Second World War she went into exile with her family and ended up in London, working with Free France. She died in Ashford (England) in 1943, at the age of 34, ill with tuberculosis and weakened because she ate scarcely more than what, according to her, the French received under the occupation.</p>\n<p>Weil is a thinker hard to classify, between philosophy, political commitment and mysticism. She held that, before rights, come <strong>obligations</strong> towards others, and that every person deserves respect for the mere fact of being one. She gave a central place to <strong>attention</strong>: knowing how to truly look at the other, above all at the one who endures <strong>affliction</strong> (what she called <em>malheur</em>), a misfortune that humiliates and isolates. She also reflected on work, oppression and freedom, and in her last period on the sacred and the need to <strong>put down roots</strong> in a community. She features in the section as one of the most original voices of 20th-century thought, joining ethical and political reflection with experience lived at first hand.</p>",
+  "obras": [
+   "Reflections on the Causes of Liberty and Social Oppression (written in 1934; published in 1955)",
+   "Gravity and Grace (1947)",
+   "The Need for Roots (1949)",
+   "Waiting for God (1950)"
+  ],
+  "anecdota": "<p>In 1934, Simone Weil, who was a brilliant philosophy teacher, took leave to work as an unskilled labourer in factories in Paris, among them one belonging to Renault. She wanted to know from the inside, and not only from books, what fatigue, the assembly line and submission to the bosses meant. For almost a year she endured exhausting work and noted down each day what she experienced in a notebook, her ‘factory journal’. That experience marked for ever her way of thinking about oppression and the dignity of work.</p>",
+  "fuente": "Simone Pétrement, Simone Weil: A Life (1973); Simone Weil, The Worker's Condition (factory diary, 1934-1935)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "turing": {
@@ -4395,6 +4830,34 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "foucault": {
+  "name": "Michel Foucault",
+  "dates": "1926 – 1984",
+  "born": 1926,
+  "died": 1984,
+  "place": "Poitiers (France)",
+  "role": "French philosopher and historian",
+  "idea": "The subject is not something natural but a construction of discourses and power relations; all knowledge produces power, and power produces forms of knowledge.",
+  "bio": "<p>Michel Foucault was born in Poitiers, the son of a surgeon. He studied at the École Normale Supérieure in Paris and soon became interested in psychology and psychiatry. He worked in Sweden, Poland, Germany and Tunisia before obtaining, in 1970, a chair at the Collège de France, which he entitled History of Systems of Thought. He took part in movements in support of prisoners. He died in Paris in 1984 of AIDS.</p>\n<p>Foucault studied the history of institutions such as the asylum, the hospital and the prison to show that concepts we think of as natural, such as madness, illness or delinquency, are historically constructed. Inspired by Nietzsche, he practised a <strong>genealogy</strong> that links <strong>knowledge and power</strong>: medicine, psychiatry and law do not merely describe people, they classify, watch over and normalise them. In <em>Discipline and Punish</em> (1975) he describes the <strong>disciplinary society</strong>, symbolised by the panopticon, a prison in which the prisoner knows he is always being watched. At the end of <em>The Order of Things</em> (1966) he announces the death of man, which the syllabus presents as the <strong>death of the subject</strong>: the self is a product of discourses and networks of power.</p>\n<p>He is one of the thinkers of rupture who oppose Habermas, since he distrusts any reason that presents itself as universal. His influence is enormous: on Judith Butler, on Paul B. Preciado, and on Byung-Chul Han’s idea that we have moved from the disciplinary society to the achievement society.</p>",
+  "obras": [
+   "Madness and Civilization (1961)",
+   "The Order of Things (1966)",
+   "Discipline and Punish (1975)",
+   "The History of Sexuality (1976-1984)"
+  ],
+  "anecdota": "<p>In November 1971 Dutch television sat Foucault face to face with Noam Chomsky to debate human nature. Chomsky argued that a human nature exists, with innate capacities such as language, and that an idea of justice can rest on it. Foucault was wary: for him, concepts such as human nature or justice were formed within our society and also serve to exercise power. The two treated each other courteously, but they hardly agreed on anything. The debate became a classic.</p>",
+  "fuente": "Televised Chomsky-Foucault debate (Eindhoven, 1971), published as Human Nature: Justice versus Power",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-metafisica",
+   "fil-t6"
+  ]
+ },
  "dickie": {
   "name": "George Dickie",
   "dates": "1926 – 2020",
@@ -4620,6 +5083,29 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t3"
+  ]
+ },
+ "azurmendi": {
+  "name": "Joxe Azurmendi",
+  "dates": "1941 – 2025",
+  "born": 1941,
+  "died": 2025,
+  "place": "Zegama (Gipuzkoa)",
+  "role": "Basque philosopher and essayist",
+  "idea": "Values depend on the historical and cultural context, but that does not make them arbitrary: his relative relativism rejects absolutes without falling into nihilism.",
+  "bio": "<p>Joxe Azurmendi was born in Zegama in 1941. He was educated at the Franciscan school of Arantzazu, entered the order and studied Philosophy in Germany and Theology in Rome. From the 1960s he was one of the driving forces of the cultural movement around the journal <em>Jakin</em>. In the 1980s he left the order and became a lecturer at the Faculty of Philosophy of the University of the Basque Country in San Sebastián. He wrote almost all his work in Basque. He died in San Sebastián in 2025.</p>\n<p>Azurmendi rejects the absolute foundations of modern ethics: neither God nor reason can ground a universal morality. However, this does not mean that anything goes. Values are relative to their context, but within each community they acquire an almost absolute validity. This is his <strong>relative relativism</strong>, which demands that we judge case by case, combining, like Max Weber, the <strong>ethic of conviction</strong> and the <strong>ethic of responsibility</strong>. He also criticises <strong>social Darwinism</strong> and, drawing on Kropotkin and the biologist Edward O. Wilson, stresses that morality is born of the sense of community and of <strong>cooperation</strong>.</p>\n<p>His work is in dialogue with Kant, Nietzsche, Humboldt and German thought on language and the nation. He is one of the reference points of contemporary Basque thought.</p>",
+  "obras": [
+   "Gizona abere hutsa da (1975)",
+   "Espainolak eta euskaldunak (1992)",
+   "Humboldt: hizkuntza eta pentsamendua (2007)",
+   "Historia, arraza, nazioa (2014)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-discriminacion"
   ]
  },
  "ingham": {
